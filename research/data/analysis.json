@@ -1,0 +1,2583 @@
+{
+ "collected_videos": 1572,
+ "made_for_kids": 1025,
+ "mfk_spanish": 769,
+ "mfk_lang_breakdown": {
+  "es": 331,
+  "es-419": 263,
+  "(none)": 160,
+  "en": 104,
+  "en-US": 45,
+  "es-ES": 33,
+  "es-MX": 29,
+  "pt-BR": 12,
+  "en-GB": 8,
+  "fr": 7
+ },
+ "top100": [
+  {
+   "title": "Hagamos Fila #shorts #yesneo",
+   "channel": "Yes! Neo - Canciones y Caricaturas para Niños",
+   "views": 1090403237,
+   "duration_s": 31,
+   "published": "2025-06-07",
+   "views_per_day": 2193970.295774648
+  },
+  {
+   "title": "Siete zombies en la cama - Canciones Infantiles #shorts #cancionesinfantiles",
+   "channel": "A Bebés Contentos - Canciones Infantiles",
+   "views": 791345711,
+   "duration_s": 48,
+   "published": "2024-10-18",
+   "views_per_day": 1085522.2373113856
+  },
+  {
+   "title": "¡Ay, Mi Rueda!🛞 #pinkfongespañol",
+   "channel": "Pinkfong en español - Canciones Infantiles",
+   "views": 681942284,
+   "duration_s": 24,
+   "published": "2025-02-23",
+   "views_per_day": 1134679.3410981698
+  },
+  {
+   "title": "Oficial de Policía - Canciones Infantiles - Canciones Para Bebés #shorts",
+   "channel": "WOA song Spanish",
+   "views": 668007889,
+   "duration_s": 38,
+   "published": "2025-10-31",
+   "views_per_day": 1903156.3789173788
+  },
+  {
+   "title": "¡Encuentra al topo! 🐀 | Leo, El Explorador | #shorts #animales #diversión",
+   "channel": "Leo, El Explorador - Canal Oficial",
+   "views": 662735892,
+   "duration_s": 28,
+   "published": "2025-01-03",
+   "views_per_day": 1016466.0920245398
+  },
+  {
+   "title": "¡Lava Tus Manos antes de Comer!🍽️ #hogiespañol",
+   "channel": "Hogi & Pinkfong en español - Juega y Aprende",
+   "views": 588801607,
+   "duration_s": 20,
+   "published": "2025-05-01",
+   "views_per_day": 1102624.7322097379
+  },
+  {
+   "title": "Hagamos Pizza 🍕 #cocinandoconmatthew",
+   "channel": "Cocinando con Matthew",
+   "views": 548087278,
+   "duration_s": 62,
+   "published": "2025-08-12",
+   "views_per_day": 1271664.2180974479
+  },
+  {
+   "title": "Plaza Sésamo: Comegalletas dice ¡Hola! | Short",
+   "channel": "Plaza Sésamo",
+   "views": 526887383,
+   "duration_s": 16,
+   "published": "2025-07-12",
+   "views_per_day": 1140448.880952381
+  },
+  {
+   "title": "¡Cucú! | Peek a Boo 👻 | Jugamos al Escondite | Canciones Infantiles | #shrots | №1",
+   "channel": "Hokie Pokie Español",
+   "views": 502749897,
+   "duration_s": 35,
+   "published": "2025-08-02",
+   "views_per_day": 1140022.4421768708
+  },
+  {
+   "title": "Bailando mi #trend favorito con una querida fan de Venezuela🇻🇪 Nos vemos hoy en el show amigos🤩",
+   "channel": "Saritah Bebé",
+   "views": 376575502,
+   "duration_s": 13,
+   "published": "2025-07-20",
+   "views_per_day": 829461.4581497797
+  },
+  {
+   "title": "Los Pollitos Dicen Pío Pío | Canción de la Granja | LiaChaCha en Español - Canciones Infantiles",
+   "channel": "LiaChaCha en Español - Canciones Infantiles",
+   "views": 368629668,
+   "duration_s": 1170,
+   "published": "2025-01-20",
+   "views_per_day": 580519.1622047244
+  },
+  {
+   "title": "¡Aquí tiene! | Buenas Maneras | Canciones Infantiles | LoLo & Leo en Español",
+   "channel": "LoLo & Leo en Español",
+   "views": 366760105,
+   "duration_s": 317,
+   "published": "2024-12-23",
+   "views_per_day": 553182.6621417798
+  },
+  {
+   "title": "El Cangrejo No Es Un Pez 🦀 Canciones Infantiles | Plim Plim",
+   "channel": "El Payaso Plim Plim",
+   "views": 361388616,
+   "duration_s": 133,
+   "published": "2025-05-09",
+   "views_per_day": 687050.6007604563
+  },
+  {
+   "title": "Peppa Pig en la Vida Real - Dibujos Animados Infantiles - Juegos para Niños #peppapig #aprendizaje",
+   "channel": "Mundo Fer 360",
+   "views": 346225882,
+   "duration_s": 37,
+   "published": "2025-06-21",
+   "views_per_day": 716823.7722567287
+  },
+  {
+   "title": "Aprende los Colores con Globos de Agua | Cepíllate los Dientes | Canciones Infantiles #shorts",
+   "channel": "Doctora Sophia Español",
+   "views": 319700478,
+   "duration_s": 27,
+   "published": "2026-08-25",
+   "views_per_day": 6032084.490566038
+  },
+  {
+   "title": "Canción Familia Dedo Monstruos | Canciones Infantiles | Baby Blue Español",
+   "channel": "Monster Police en Español - Canciones Infantiles",
+   "views": 305769208,
+   "duration_s": 38,
+   "published": "2024-12-13",
+   "views_per_day": 454337.60475482914
+  },
+  {
+   "title": "Fotosíntesis 🌞 ¡Hola Plantita! 🍃 Canciones Infantiles | Plim Plim",
+   "channel": "El Payaso Plim Plim",
+   "views": 287516838,
+   "duration_s": 122,
+   "published": "2024-11-22",
+   "views_per_day": 414289.3919308357
+  },
+  {
+   "title": "La Canción de Bu Bu (The Boo Boo Song) | Hokie Pokie Canciones Infantiles | #shorts | №2",
+   "channel": "Hokie Pokie Español",
+   "views": 274710918,
+   "duration_s": 33,
+   "published": "2025-01-25",
+   "views_per_day": 436049.0761904762
+  },
+  {
+   "title": "TOPA - CON LOS ANIMALES (Video Oficial)",
+   "channel": "TOPA",
+   "views": 239402542,
+   "duration_s": 191,
+   "published": "2025-04-11",
+   "views_per_day": 432134.5523465704
+  },
+  {
+   "title": "¡El bebé tiene una barriga burbujeante! #shorts #robot  #dibujosanimadosparaniños",
+   "channel": "El Súper Robot ARPO",
+   "views": 238098705,
+   "duration_s": 39,
+   "published": "2025-08-04",
+   "views_per_day": 542366.0706150342
+  },
+  {
+   "title": "¿Por qué tenemos ombligos? #videosparaniños #dibujosanimados2024 #niños",
+   "channel": "CocoBerry - Español - Canciones infantiles",
+   "views": 235442012,
+   "duration_s": 58,
+   "published": "2024-12-19",
+   "views_per_day": 352986.5247376312
+  },
+  {
+   "title": "La Puerta Misteriosa de Colores | Comida Saludable para Niños | Canciones Infantiles #shorts",
+   "channel": "Doctora Sophia Español",
+   "views": 223397438,
+   "duration_s": 39,
+   "published": "2026-09-08",
+   "views_per_day": 5728139.435897436
+  },
+  {
+   "title": "🌈Aprende los COLORES en INGLÉS [Arcoíris Montessori ✅ Waldorf]",
+   "channel": "Las Canciones de Bea - ESTIMULACIÓN MUSICAL",
+   "views": 219925941,
+   "duration_s": 28,
+   "published": "2025-01-05",
+   "views_per_day": 338347.6015384615
+  },
+  {
+   "title": "Pelea Divertida De Niños | Canciones Infantiles | Happy Tots Español",
+   "channel": "Happy Tots Español - Canciones Infantiles",
+   "views": 218885859,
+   "duration_s": 27,
+   "published": "2025-09-06",
+   "views_per_day": 539127.7315270936
+  },
+  {
+   "title": "Superhéroes VS Zombis | Familia de superhéroes | Hokie Pokie Canciones Infantiles | #shrots | №1",
+   "channel": "Hokie Pokie Español",
+   "views": 218666152,
+   "duration_s": 51,
+   "published": "2025-11-11",
+   "views_per_day": 643135.7411764705
+  },
+  {
+   "title": "Luli Pampín -🐍 SASA LA SERPIENTE 🐍 (Official Video)",
+   "channel": "Luli Pampín",
+   "views": 214854093,
+   "duration_s": 165,
+   "published": "2025-06-27",
+   "views_per_day": 450427.8679245283
+  },
+  {
+   "title": "¿CÓMO HACEN LOS ANIMALES? 🐥🐽🐮🫏🦉Adivinanzas con Luli Pampin y el Pampin Team #shortvideo",
+   "channel": "Luli Pampín",
+   "views": 213428801,
+   "duration_s": 34,
+   "published": "2025-08-25",
+   "views_per_day": 510595.2177033493
+  },
+  {
+   "title": "Mezcla de Colores | Aprende los Colores para Niños | Canciones Infantiles #shorts",
+   "channel": "Doctora Sophia Español",
+   "views": 213012153,
+   "duration_s": 35,
+   "published": "2026-08-08",
+   "views_per_day": 3043030.757142857
+  },
+  {
+   "title": "¿Puedes compartir helado? Compartiendo Helado 🍨🍧🍦 | Canciones Infantiles | Bebé Leo",
+   "channel": "Leo Español - Canciones Para Niños",
+   "views": 200454749,
+   "duration_s": 395,
+   "published": "2025-05-28",
+   "views_per_day": 395374.258382643
+  },
+  {
+   "title": "La Abejita Se Equivoca 🐝🫣 Canciones Infantiles | Plim Plim",
+   "channel": "El Payaso Plim Plim",
+   "views": 196621242,
+   "duration_s": 136,
+   "published": "2025-09-19",
+   "views_per_day": 500308.5038167939
+  },
+  {
+   "title": "Compartir es cuidar❤️❤️  #shorts #sherifflabrador",
+   "channel": "Sheriff Labrador en Español - Dibujos Animados",
+   "views": 195963903,
+   "duration_s": 43,
+   "published": "2024-10-28",
+   "views_per_day": 272550.6300417246
+  },
+  {
+   "title": "¡Cuquín se pone el flotador! 🏄 #Cuquin #cleoycuquin",
+   "channel": "Cleo y Cuquin - Canciones infantiles",
+   "views": 192303226,
+   "duration_s": 20,
+   "published": "2025-02-05",
+   "views_per_day": 310667.5702746365
+  },
+  {
+   "title": "Baila con nosotros 🙌🏻 #contenidoparaniños #musicainfantil #niños",
+   "channel": "Cócoro y su Pandilla",
+   "views": 191320756,
+   "duration_s": 14,
+   "published": "2025-07-10",
+   "views_per_day": 412329.2155172414
+  },
+  {
+   "title": "HICE A STITCH EN PIÑATA 🪅 PARA MIS SOBRINOS, COMENTEN SI HACEMOS A LILO TAMBIÉN.",
+   "channel": "Caín Guzmán",
+   "views": 190291458,
+   "duration_s": 38,
+   "published": "2025-05-23",
+   "views_per_day": 371663.00390625
+  },
+  {
+   "title": "¡Qué curiosidad! ¿Qué vamos a comer? #cancionesinfantiles #comida #cancionesdivertidas",
+   "channel": "Hurra Canciones Infantiles",
+   "views": 188103437,
+   "duration_s": 27,
+   "published": "2024-12-03",
+   "views_per_day": 275407.6676427526
+  },
+  {
+   "title": "¡Canción de los Dinosaurios! 🦖 Dinosaurios para Niños | LoLo en Español - Canciones Infantiles",
+   "channel": "LoLo en Español - Canciones Infantiles",
+   "views": 186765000,
+   "duration_s": 308,
+   "published": "2025-05-15",
+   "views_per_day": 359163.46153846156
+  },
+  {
+   "title": "¡CAPIBARAS estarán DE FIESTA TODA LA NOCHE!🎉 #simbochka #simba #gatos #animación",
+   "channel": "Teeny Tiny Simba (Español)",
+   "views": 175540519,
+   "duration_s": 45,
+   "published": "2025-06-25",
+   "views_per_day": 366472.8997912317
+  },
+  {
+   "title": "Compartir es cuidar #shorts #yesneo",
+   "channel": "Yes! Neo - Canciones y Caricaturas para Niños",
+   "views": 174574643,
+   "duration_s": 34,
+   "published": "2025-07-31",
+   "views_per_day": 394073.6862302483
+  },
+  {
+   "title": "La Hormiguita🐜 | EP 138 | Canciones Infantiles | Bebefinn en español",
+   "channel": "Bebefinn en español - Canciones Infantiles",
+   "views": 172325186,
+   "duration_s": 217,
+   "published": "2025-05-23",
+   "views_per_day": 336572.62890625
+  },
+  {
+   "title": "La Familia Dedo Dinosaurio 2 | LiaChaCha en Español - Canciones Infantiles",
+   "channel": "LiaChaCha en Español - Canciones Infantiles",
+   "views": 170715177,
+   "duration_s": 244,
+   "published": "2025-03-09",
+   "views_per_day": 290826.53662691655
+  },
+  {
+   "title": "¡Boo tiene miedo! ¿Qué le pasó? #bebefinn #shorts",
+   "channel": "Bebefinn en español - Canciones Infantiles",
+   "views": 170635737,
+   "duration_s": 17,
+   "published": "2025-11-26",
+   "views_per_day": 525033.036923077
+  },
+  {
+   "title": "Y tú, ¿HAS DIBUJADO ya con TORNILLOS?🎨⚙️ #simbochka #simba #gatos #animación",
+   "channel": "Teeny Tiny Simba (Español)",
+   "views": 165771304,
+   "duration_s": 38,
+   "published": "2025-04-18",
+   "views_per_day": 303055.4003656307
+  },
+  {
+   "title": "Huevos Sorpresa Monstruos | D Billions Canciones Infantiles",
+   "channel": "D Billions Español",
+   "views": 165668493,
+   "duration_s": 188,
+   "published": "2026-01-07",
+   "views_per_day": 585401.0353356891
+  },
+  {
+   "title": "¿Policía o doctor? Aprendemos 5 profesiones juntos 👮🏼‍♂️👩🏼‍🍳🧑🏼‍🚒👩🏼‍⚕️👷🏼  #shorts",
+   "channel": "Maya y Mary - Canciones Infantiles",
+   "views": 165265519,
+   "duration_s": 17,
+   "published": "2026-02-25",
+   "views_per_day": 706262.9017094017
+  },
+  {
+   "title": "IDEA RÁPIDA Y FÁCIL PARA EL DIS DEL PADRE ✨💖 #dad #tutorial #momsofinstagram #ideas #minivlog",
+   "channel": "Fernanda Niño",
+   "views": 164861949,
+   "duration_s": 46,
+   "published": "2025-06-14",
+   "views_per_day": 336452.95714285714
+  },
+  {
+   "title": "La risa de las vocales #educacióninfantil #cancióninfantil #aprenderjugando #aprendercantando",
+   "channel": "Tía Tully",
+   "views": 163798768,
+   "duration_s": 26,
+   "published": "2025-10-20",
+   "views_per_day": 452482.78453038674
+  },
+  {
+   "title": "¡Que ritmo tienen los niños! 🕺🪩💃",
+   "channel": "Fuentes Kids",
+   "views": 163473381,
+   "duration_s": 19,
+   "published": "2025-09-26",
+   "views_per_day": 423506.1683937824
+  },
+  {
+   "title": "¿Quién es ese Monstruo de Barro? | Baby Alive Español Dibujos animados #shorts #babyalive #español",
+   "channel": "Baby Alive Español Latino - Canal Oficial",
+   "views": 162987798,
+   "duration_s": 42,
+   "published": "2025-06-27",
+   "views_per_day": 341693.4968553459
+  },
+  {
+   "title": "🎈Johny Johny Sí Papa + Las Ruedas del Autobús + A Ram Sam Sam - Colores - Canciones Infantiles",
+   "channel": "Canciones Infantiles - LooLoo",
+   "views": 161891591,
+   "duration_s": 448,
+   "published": "2025-10-14",
+   "views_per_day": 439922.80163043475
+  },
+  {
+   "title": "Braguitas y calzoncillos #cuentosinfantiles #cuentacuentos #librosen60seg #makingof",
+   "channel": "Lola Patatin - Cuentos Infantiles",
+   "views": 160952316,
+   "duration_s": 42,
+   "published": "2025-09-05",
+   "views_per_day": 395460.23587223585
+  },
+  {
+   "title": "3 Mejores Canciones de Tiburón Bebé y Bebefinn | Canciones Infantiles | Bebefinn en español",
+   "channel": "Bebefinn en español - Canciones Infantiles",
+   "views": 156991968,
+   "duration_s": 554,
+   "published": "2025-03-15",
+   "views_per_day": 270209.9277108434
+  },
+  {
+   "title": "Tarjeta roja por no colaborar en casa - Bely y Beto",
+   "channel": "Bely y Beto Oficial",
+   "views": 156672467,
+   "duration_s": 27,
+   "published": "2026-06-17",
+   "views_per_day": 1284200.549180328
+  },
+  {
+   "title": "¿Cómo podemos ayudar a Huhu para que duerma? 😴🛌 #Momonsters #clan #tve",
+   "channel": "Clan",
+   "views": 155652248,
+   "duration_s": 59,
+   "published": "2024-11-12",
+   "views_per_day": 221096.94318181818
+  },
+  {
+   "title": "Grande y pequeño | Aprende sobre los opuestos | Bebé Leo - Canciones Para Niños",
+   "channel": "Bebé Leo - Canciones Para Niños ",
+   "views": 149973229,
+   "duration_s": 423,
+   "published": "2025-09-25",
+   "views_per_day": 387527.7235142119
+  },
+  {
+   "title": "Bebefinn aprende a usar una pistola de agua🔫💦 #bebefinn #shorts",
+   "channel": "Bebefinn en español - Canciones Infantiles",
+   "views": 149710022,
+   "duration_s": 19,
+   "published": "2026-04-21",
+   "views_per_day": 836368.8379888268
+  },
+  {
+   "title": "Rock Adiós Bebé - Canción Infantil para Dormir y Relajar #shorts #reels #funny #music #rock #poems",
+   "channel": "Kids TV Español Latino - Canciones Infantiles",
+   "views": 147372281,
+   "duration_s": 38,
+   "published": "2025-01-03",
+   "views_per_day": 226031.10582822087
+  },
+  {
+   "title": "Bebé Superhéroe - Canción De Superhéroe - Canciones Infantiles - Canciones Para Bebés #shorts",
+   "channel": "WOA song Spanish",
+   "views": 143198378,
+   "duration_s": 51,
+   "published": "2025-12-17",
+   "views_per_day": 471047.2960526316
+  },
+  {
+   "title": "¿QUÉ LE PASA AL CERDITO ENOJÓN? 🎵 @miasalomebaby3953 ❤️#CancionesInfantiles #CerditoEnojon #PlimPlim",
+   "channel": "El Payaso Plim Plim",
+   "views": 140252277,
+   "duration_s": 45,
+   "published": "2025-09-15",
+   "views_per_day": 353280.29471032746
+  },
+  {
+   "title": "TODO TIENE TAMBOR 🥁💓🎶",
+   "channel": "LARA CAMPOS",
+   "views": 139558428,
+   "duration_s": 282,
+   "published": "2025-02-02",
+   "views_per_day": 224370.46302250805
+  },
+  {
+   "title": "¡A Simba SE LE PROHIBIÓ tener un CAPIBARA! ❤️ #simbochka #simba #gatos #animación",
+   "channel": "Teeny Tiny Simba (Español)",
+   "views": 136988466,
+   "duration_s": 44,
+   "published": "2025-04-14",
+   "views_per_day": 248617.9056261343
+  },
+  {
+   "title": "Superhéroes VS Arañas y Zombis | Hokie Pokie Canciones Infantiles | #shorts  | №1",
+   "channel": "Hokie Pokie Español",
+   "views": 134458645,
+   "duration_s": 46,
+   "published": "2024-10-26",
+   "views_per_day": 186489.10540915394
+  },
+  {
+   "title": "Diez en la Cama (Versión Tormenta Tenebrosa) | Lalafun Canciones Infantiles y Música para Chicos",
+   "channel": "Lalafun - Rimas Infantiles en Español",
+   "views": 134358731,
+   "duration_s": 178,
+   "published": "2024-12-01",
+   "views_per_day": 196144.13284671534
+  },
+  {
+   "title": "¡Cuquín ya conduce el Bebé bus! 🚌👶 #cuquin #cleoycuquin",
+   "channel": "Cleo y Cuquin - Canciones infantiles",
+   "views": 134108567,
+   "duration_s": 17,
+   "published": "2024-11-26",
+   "views_per_day": 194360.24202898552
+  },
+  {
+   "title": "¿Dónde Están Las Zanahorias? #short #LaGranjadeZenón",
+   "channel": "La Granja de Zenón",
+   "views": 132739259,
+   "duration_s": 22,
+   "published": "2025-06-15",
+   "views_per_day": 271450.427402863
+  },
+  {
+   "title": "¡Mi familia es mi equipo! 1 🤗 Familia Miliki 😊 #CancionesInfantiles #YouTubeKids",
+   "channel": "Miliki Family Español - Canciones infantiles",
+   "views": 132566233,
+   "duration_s": 30,
+   "published": "2025-06-01",
+   "views_per_day": 263551.15904572565
+  },
+  {
+   "title": "Aprende a Contar del 1 al 10 - #musicainfantil #videosinfantiles #musicaparaniños",
+   "channel": "Mundo Fer 360",
+   "views": 131440041,
+   "duration_s": 14,
+   "published": "2025-07-17",
+   "views_per_day": 287614.9693654267
+  },
+  {
+   "title": "TOPA - GANAS DE APLAUDIR (Official Video) 👏",
+   "channel": "TOPA",
+   "views": 128059559,
+   "duration_s": 185,
+   "published": "2025-01-24",
+   "views_per_day": 202947.0031695721
+  },
+  {
+   "title": "Compartir es cuidar | Los niños aprenden a compartir | Leo en Español - Canciones Infantiles",
+   "channel": "Leo en Español - Canciones Infantiles",
+   "views": 127973646,
+   "duration_s": 278,
+   "published": "2025-07-13",
+   "views_per_day": 277600.0997830803
+  },
+  {
+   "title": "EL PLAN INFALIBLE: ABEJITA CHIQUITITA 🐝 #PlimPlim #AbejitaChiquitita #Shorts",
+   "channel": "El Payaso Plim Plim",
+   "views": 123061022,
+   "duration_s": 45,
+   "published": "2025-04-21",
+   "views_per_day": 226215.11397058822
+  },
+  {
+   "title": "🎃 ¡Divertida Canción de Monstruos de Halloween! 👻 Canciones y Rimas para Niños",
+   "channel": "Niños Chaka | Canciones infantiles",
+   "views": 122418542,
+   "duration_s": 32,
+   "published": "2025-10-28",
+   "views_per_day": 345815.0903954802
+  },
+  {
+   "title": "No, No, No quiero compartir | Aprendiendo Buenos Modales | Bebé Leo - Canciones Infantiles",
+   "channel": "Bebé Leo - Canciones Infantiles",
+   "views": 122017724,
+   "duration_s": 287,
+   "published": "2025-06-05",
+   "views_per_day": 244524.49699398797
+  },
+  {
+   "title": "¡Toc, toc, toc! ¿Quién es (Especial de Halloween) + Más D Billions Canciones Infantiles",
+   "channel": "D Billions Español",
+   "views": 122005172,
+   "duration_s": 511,
+   "published": "2025-11-22",
+   "views_per_day": 370836.38905775076
+  },
+  {
+   "title": "¿Qué le Pasa a la Piña? - Frutas Bailando Cumbia🍍🍍🍍",
+   "channel": "Frutas Bailando Oficial",
+   "views": 120734987,
+   "duration_s": 124,
+   "published": "2025-05-05",
+   "views_per_day": 227801.86226415096
+  },
+  {
+   "title": "🍬Dulces vs Comida sana🥒 #pinkfongespañol",
+   "channel": "Pinkfong en español - Canciones Infantiles",
+   "views": 120024505,
+   "duration_s": 22,
+   "published": "2025-04-01",
+   "views_per_day": 212809.4060283688
+  },
+  {
+   "title": "Cuando los niños quieren jugar🦔  #Shorts #mashabear #mashaoso #shortsfeed #niños",
+   "channel": "Masha y el Oso",
+   "views": 118567984,
+   "duration_s": 11,
+   "published": "2025-06-02",
+   "views_per_day": 236191.203187251
+  },
+  {
+   "title": "Cada niño aprende a su manera 💡 En clase no hay barreras, solo caminos distintos 🚀💕",
+   "channel": "Tía Tully",
+   "views": 118504179,
+   "duration_s": 19,
+   "published": "2025-09-20",
+   "views_per_day": 302306.57908163266
+  },
+  {
+   "title": "Tiquiti Tiqui Tic Toc 🕑🐭 Canciones Infantiles | Plim Plim",
+   "channel": "El Payaso Plim Plim",
+   "views": 117451975,
+   "duration_s": 172,
+   "published": "2025-06-20",
+   "views_per_day": 242669.36983471076
+  },
+  {
+   "title": "Rescate gatuno 🐱 | MARVEL SPIDEY Y SU SUPEREQUIPO | @DisneyJuniorES",
+   "channel": "Disney Junior España",
+   "views": 117153925,
+   "duration_s": 78,
+   "published": "2025-01-31",
+   "views_per_day": 187746.6746794872
+  },
+  {
+   "title": "Canción ¿Dónde está mi color? | Hokie Pokie Canciones Infantiles | #shrots | №2",
+   "channel": "Hokie Pokie Español",
+   "views": 116700822,
+   "duration_s": 36,
+   "published": "2025-02-06",
+   "views_per_day": 188836.28155339806
+  },
+  {
+   "title": "Palabras Antónimas en Español | Aprender las palabras para niños 👦 #videoeducativo #opuestos",
+   "channel": "Danny Toys tv",
+   "views": 116174427,
+   "duration_s": 14,
+   "published": "2025-07-18",
+   "views_per_day": 254768.4802631579
+  },
+  {
+   "title": "El baile de Pepo (Nueva versión) - Bely y Beto",
+   "channel": "Bely y Beto Oficial",
+   "views": 113740531,
+   "duration_s": 130,
+   "published": "2025-04-17",
+   "views_per_day": 207555.71350364963
+  },
+  {
+   "title": "Aventura en el Cubo de Globos para niños",
+   "channel": "Vlad and Niki ESP",
+   "views": 113664570,
+   "duration_s": 971,
+   "published": "2025-05-10",
+   "views_per_day": 216503.94285714286
+  },
+  {
+   "title": "Peeez pez... 🎶🩵",
+   "channel": "LARA CAMPOS",
+   "views": 113482760,
+   "duration_s": 20,
+   "published": "2026-01-16",
+   "views_per_day": 414170.65693430655
+  },
+  {
+   "title": "¿Feliz o Triste? 😊😢 Quiz de Emociones para Niños | Aprende Español #Shorts",
+   "channel": "Español con Ingli",
+   "views": 112013313,
+   "duration_s": 37,
+   "published": "2026-03-05",
+   "views_per_day": 495634.12831858406
+  },
+  {
+   "title": "Paw Patrol - Aprendiendo las Letras con Patrulla de Cachorros - Videos para Niños #pawpatrol",
+   "channel": "Mundo Fer 360",
+   "views": 111909861,
+   "duration_s": 32,
+   "published": "2025-05-12",
+   "views_per_day": 213976.7896749522
+  },
+  {
+   "title": "Canción para aprender a decir la letra Rr #educacióninfantil #niños #tíatully #aprenderjugando",
+   "channel": "Tía Tully",
+   "views": 111514853,
+   "duration_s": 14,
+   "published": "2025-04-03",
+   "views_per_day": 198425.00533807828
+  },
+  {
+   "title": "Pequeño Leon | El conocimiento es lo más importante en la escuela | Dibujos animados",
+   "channel": "Pequeño Leon",
+   "views": 109444678,
+   "duration_s": 55,
+   "published": "2025-02-02",
+   "views_per_day": 175956.07395498393
+  },
+  {
+   "title": "¡Canción de los Dinosaurios! 🦖 Dinosaurios para Niños | GoBooBoo en Espanõl",
+   "channel": "GoBooBoo - Canciones Infantiles",
+   "views": 109402370,
+   "duration_s": 300,
+   "published": "2025-03-29",
+   "views_per_day": 192949.5061728395
+  },
+  {
+   "title": "Números del 1 al 10 #número #musicainfantil #videosinfantiles #matemática #matemáticas #shortsvideo",
+   "channel": "Mila Mola",
+   "views": 109080253,
+   "duration_s": 24,
+   "published": "2024-12-23",
+   "views_per_day": 164525.26847662142
+  },
+  {
+   "title": "Un Cocodrilo Y Un Orangután 🦧🐊 Canciones Infantiles | Plim Plim",
+   "channel": "El Payaso Plim Plim",
+   "views": 108590281,
+   "duration_s": 216,
+   "published": "2024-12-27",
+   "views_per_day": 164780.39605462822
+  },
+  {
+   "title": "¿Puedes Hacer Esto? 🤸 Aprende Verbos de Acción para Niños | Español Divertido",
+   "channel": "Español con Ingli",
+   "views": 107411660,
+   "duration_s": 37,
+   "published": "2025-12-04",
+   "views_per_day": 338838.04416403786
+  },
+  {
+   "title": "Truco o trato, feliz halloween🍬🎃  #sherifflabrador #shorts",
+   "channel": "Sheriff Labrador en Español - Dibujos Animados",
+   "views": 107410818,
+   "duration_s": 36,
+   "published": "2025-10-31",
+   "views_per_day": 306013.7264957265
+  },
+  {
+   "title": "En La Granja De Mi Tío 🐷🐥 Canciones Infantiles | Plim Plim",
+   "channel": "El Payaso Plim Plim",
+   "views": 107044808,
+   "duration_s": 167,
+   "published": "2025-05-23",
+   "views_per_day": 209071.890625
+  },
+  {
+   "title": "¡Ay no! ¡Los colores están desapareciendo!😖🖍️ #shorts #Cocobi",
+   "channel": "Cocobi Juguetes - Juega y Aprende",
+   "views": 106384347,
+   "duration_s": 34,
+   "published": "2025-10-30",
+   "views_per_day": 302228.2585227273
+  },
+  {
+   "title": "Canción del Bebé Enfermo | Lalafun Canciones Infantiles #infantil #enfermo #llorar  #shorts",
+   "channel": "Lalafun - Rimas Infantiles en Español",
+   "views": 103205267,
+   "duration_s": 26,
+   "published": "2025-01-17",
+   "views_per_day": 161763.74137931035
+  },
+  {
+   "title": "¡Aprendamos las partes del dinosaurio! #kids #learn",
+   "channel": "Maya y Mary - Canciones Infantiles",
+   "views": 103011311,
+   "duration_s": 21,
+   "published": "2026-03-09",
+   "views_per_day": 464014.91441441444
+  },
+  {
+   "title": "Bob Esponja | ¡SpongeBob y amigos se vuelven salvajes con cupcakes! 🧁 #Shorts",
+   "channel": "Bob Esponja en Español",
+   "views": 102138442,
+   "duration_s": 72,
+   "published": "2025-07-17",
+   "views_per_day": 223497.68490153173
+  },
+  {
+   "title": "🐶🎵🚨 BIENVENIDOS A LA PATRULLA CANINA MÚSICA. #PAWCONTROL #patrullacanina",
+   "channel": "LA PATRULLA CANINA MÚSICA",
+   "views": 102081766,
+   "duration_s": 50,
+   "published": "2025-10-07",
+   "views_per_day": 272218.0426666667
+  },
+  {
+   "title": "¡Mami, hay un monstruo en mi cuarto! 👻 #1 | Familia Miliki 😊 #CancionesInfantiles #Cortos",
+   "channel": "Miliki Family Español - Canciones infantiles",
+   "views": 102054305,
+   "duration_s": 51,
+   "published": "2025-06-29",
+   "views_per_day": 214851.16842105263
+  },
+  {
+   "title": "Chris se queda solo en casa - Cuento para niños",
+   "channel": "Vlad and Niki ESP",
+   "views": 100980940,
+   "duration_s": 791,
+   "published": "2025-06-26",
+   "views_per_day": 211257.19665271966
+  }
+ ],
+ "top100_summary": {
+  "median_views": 158972142.0,
+  "min_views": 100980940,
+  "max_views": 1090403237,
+  "median_duration_min": 0.65,
+  "distinct_channels": 62,
+  "top5_channels_share_of_views": 0.261316103356941,
+  "top_channels": [
+   {
+    "channel": "El Payaso Plim Plim",
+    "count": 8,
+    "sum": 1441927059
+   },
+   {
+    "channel": "Yes! Neo - Canciones y Caricaturas para Niños",
+    "count": 2,
+    "sum": 1264977880
+   },
+   {
+    "channel": "Hokie Pokie Español",
+    "count": 5,
+    "sum": 1247286434
+   },
+   {
+    "channel": "WOA song Spanish",
+    "count": 2,
+    "sum": 811206267
+   },
+   {
+    "channel": "Pinkfong en español - Canciones Infantiles",
+    "count": 2,
+    "sum": 801966789
+   },
+   {
+    "channel": "A Bebés Contentos - Canciones Infantiles",
+    "count": 1,
+    "sum": 791345711
+   },
+   {
+    "channel": "Doctora Sophia Español",
+    "count": 3,
+    "sum": 756110069
+   },
+   {
+    "channel": "Leo, El Explorador - Canal Oficial",
+    "count": 1,
+    "sum": 662735892
+   },
+   {
+    "channel": "Bebefinn en español - Canciones Infantiles",
+    "count": 4,
+    "sum": 649662913
+   },
+   {
+    "channel": "Mundo Fer 360",
+    "count": 3,
+    "sum": 589575784
+   },
+   {
+    "channel": "Hogi & Pinkfong en español - Juega y Aprende",
+    "count": 1,
+    "sum": 588801607
+   },
+   {
+    "channel": "Cocinando con Matthew",
+    "count": 1,
+    "sum": 548087278
+   },
+   {
+    "channel": "LiaChaCha en Español - Canciones Infantiles",
+    "count": 2,
+    "sum": 539344845
+   },
+   {
+    "channel": "Plaza Sésamo",
+    "count": 1,
+    "sum": 526887383
+   },
+   {
+    "channel": "Teeny Tiny Simba (Español)",
+    "count": 3,
+    "sum": 478300289
+   }
+  ]
+ },
+ "duration": [
+  {
+   "bucket": "≤1 דק' (Shorts)",
+   "videos": 228,
+   "share_videos": 0.2964889466840052,
+   "share_views": 0.5599028584563258,
+   "median_views": 45232574.0,
+   "median_vpd": 140850.63953189575,
+   "median_like_rate": 0.007303513184116225
+  },
+  {
+   "bucket": "1–2 דק'",
+   "videos": 51,
+   "share_videos": 0.06631989596879063,
+   "share_views": 0.04961962336746692,
+   "median_views": 16655354.0,
+   "median_vpd": 80092.2,
+   "median_like_rate": 0.01059245942588395
+  },
+  {
+   "bucket": "2–4 דק'",
+   "videos": 113,
+   "share_videos": 0.1469440832249675,
+   "share_views": 0.15027452439799852,
+   "median_views": 34359915.0,
+   "median_vpd": 84985.88436830835,
+   "median_like_rate": 0.000721214117868967
+  },
+  {
+   "bucket": "4–6 דק'",
+   "videos": 31,
+   "share_videos": 0.04031209362808843,
+   "share_views": 0.05037314581360639,
+   "median_views": 32731186.0,
+   "median_vpd": 66770.16293929712,
+   "median_like_rate": 0.0007636807084214824
+  },
+  {
+   "bucket": "6–15 דק'",
+   "videos": 85,
+   "share_videos": 0.11053315994798439,
+   "share_views": 0.07625528497590196,
+   "median_views": 24631777.0,
+   "median_vpd": 61652.902654867255,
+   "median_like_rate": 0.0011278370894704526
+  },
+  {
+   "bucket": "15–30 דק'",
+   "videos": 114,
+   "share_videos": 0.1482444733420026,
+   "share_views": 0.07487025524828494,
+   "median_views": 15757508.5,
+   "median_vpd": 46878.107568978376,
+   "median_like_rate": 0.001514213896706693
+  },
+  {
+   "bucket": "30–60 דק'",
+   "videos": 103,
+   "share_videos": 0.13394018205461639,
+   "share_views": 0.023262852995527803,
+   "median_views": 5243652.0,
+   "median_vpd": 14436.622601279318,
+   "median_like_rate": 0.0014337335887278561
+  },
+  {
+   "bucket": "60+ דק'",
+   "videos": 44,
+   "share_videos": 0.05721716514954486,
+   "share_views": 0.015441454744887608,
+   "median_views": 12624479.5,
+   "median_vpd": 22977.712711194115,
+   "median_like_rate": 0.0014905733494435225
+  }
+ ],
+ "duration_top100": {
+  "≤1 דק' (Shorts)": 68,
+  "1–2 דק'": 3,
+  "2–4 דק'": 14,
+  "4–6 דק'": 7,
+  "6–15 דק'": 6,
+  "15–30 דק'": 2
+ },
+ "themes_all": [
+  {
+   "theme": "חיות",
+   "videos": 308,
+   "share_videos": 0.40052015604681407,
+   "share_views": 0.39861688967837544,
+   "median_views": 25004863.5,
+   "median_vpd": 63430.76821840863
+  },
+  {
+   "theme": "משפחה",
+   "videos": 136,
+   "share_videos": 0.17685305591677503,
+   "share_views": 0.2035879290953936,
+   "median_views": 30191927.0,
+   "median_vpd": 79104.17440487549
+  },
+  {
+   "theme": "שגרות והרגלים",
+   "videos": 163,
+   "share_videos": 0.21196358907672302,
+   "share_views": 0.1822179914077703,
+   "median_views": 22004722.0,
+   "median_vpd": 56059.94906621392
+  },
+  {
+   "theme": "ריקוד/תנועה",
+   "videos": 125,
+   "share_videos": 0.1625487646293888,
+   "share_views": 0.17652120874179414,
+   "median_views": 30887160.0,
+   "median_vpd": 64772.99827586207
+  },
+  {
+   "theme": "צבעים",
+   "videos": 97,
+   "share_videos": 0.12613784135240572,
+   "share_views": 0.13859675668013385,
+   "median_views": 33436648.0,
+   "median_vpd": 95637.65206812652
+  },
+  {
+   "theme": "רגשות/התנהגות",
+   "videos": 76,
+   "share_videos": 0.0988296488946684,
+   "share_views": 0.10790433917931677,
+   "median_views": 21762817.0,
+   "median_vpd": 68242.37806283493
+  },
+  {
+   "theme": "כלי רכב",
+   "videos": 75,
+   "share_videos": 0.09752925877763328,
+   "share_views": 0.10226583846474487,
+   "median_views": 25585394.0,
+   "median_vpd": 54888.617647058825
+  },
+  {
+   "theme": "מפלצות/הפחדה עדינה",
+   "videos": 38,
+   "share_videos": 0.0494148244473342,
+   "share_views": 0.0967025469810185,
+   "median_views": 38138171.5,
+   "median_vpd": 92316.11466538082
+  },
+  {
+   "theme": "צעצועים/משחק",
+   "videos": 93,
+   "share_videos": 0.12093628088426528,
+   "share_views": 0.08249346808019707,
+   "median_views": 20861384.0,
+   "median_vpd": 68410.28838174274
+  },
+  {
+   "theme": "שיר ערש/רגוע",
+   "videos": 55,
+   "share_videos": 0.07152145643693109,
+   "share_views": 0.08203049777225985,
+   "median_views": 39149783.0,
+   "median_vpd": 80555.10905349794
+  },
+  {
+   "theme": "אותיות/ABC",
+   "videos": 25,
+   "share_videos": 0.032509752925877766,
+   "share_views": 0.04177371487429521,
+   "median_views": 14328387.0,
+   "median_vpd": 78560.23670212766
+  },
+  {
+   "theme": "חגים ועונות",
+   "videos": 48,
+   "share_videos": 0.06241872561768531,
+   "share_views": 0.03400694782521806,
+   "median_views": 14431505.0,
+   "median_vpd": 32712.62380146644
+  },
+  {
+   "theme": "גוף ובריאות",
+   "videos": 17,
+   "share_videos": 0.022106631989596878,
+   "share_views": 0.030783171095817068,
+   "median_views": 26903489.0,
+   "median_vpd": 53784.604838709674
+  },
+  {
+   "theme": "נסיכות/פנטזיה",
+   "videos": 56,
+   "share_videos": 0.07282184655396619,
+   "share_views": 0.030777803843451943,
+   "median_views": 9548440.0,
+   "median_vpd": 27353.393856252536
+  },
+  {
+   "theme": "מספרים/ספירה",
+   "videos": 29,
+   "share_videos": 0.0377113133940182,
+   "share_views": 0.021598587508187304,
+   "median_views": 24920567.0,
+   "median_vpd": 69095.34337349398
+  }
+ ],
+ "themes_broad_only": [
+  {
+   "theme": "חיות",
+   "videos": 164,
+   "share_videos": 0.41309823677581864,
+   "share_views": 0.41015342769626295,
+   "median_views": 43416389.5,
+   "median_vpd": 113495.4248569258
+  },
+  {
+   "theme": "משפחה",
+   "videos": 78,
+   "share_videos": 0.1964735516372796,
+   "share_views": 0.1938720713693949,
+   "median_views": 42462388.0,
+   "median_vpd": 112662.68309522516
+  },
+  {
+   "theme": "ריקוד/תנועה",
+   "videos": 71,
+   "share_videos": 0.17884130982367757,
+   "share_views": 0.19008732474162796,
+   "median_views": 43322679.0,
+   "median_vpd": 96915.82330827067
+  },
+  {
+   "theme": "שגרות והרגלים",
+   "videos": 85,
+   "share_videos": 0.2141057934508816,
+   "share_views": 0.18058380119451153,
+   "median_views": 38666010.0,
+   "median_vpd": 80830.38372093023
+  },
+  {
+   "theme": "צבעים",
+   "videos": 50,
+   "share_videos": 0.12594458438287154,
+   "share_views": 0.13805722926805244,
+   "median_views": 48852313.5,
+   "median_vpd": 201137.74182559983
+  },
+  {
+   "theme": "רגשות/התנהגות",
+   "videos": 44,
+   "share_videos": 0.11083123425692695,
+   "share_views": 0.1195696356463709,
+   "median_views": 56923091.5,
+   "median_vpd": 127217.29106576633
+  },
+  {
+   "theme": "כלי רכב",
+   "videos": 47,
+   "share_videos": 0.11838790931989925,
+   "share_views": 0.11049336837623401,
+   "median_views": 38666010.0,
+   "median_vpd": 89754.98566878981
+  },
+  {
+   "theme": "מפלצות/הפחדה עדינה",
+   "videos": 27,
+   "share_videos": 0.06801007556675064,
+   "share_views": 0.10434174737374959,
+   "median_views": 56366131.0,
+   "median_vpd": 126547.61818181818
+  },
+  {
+   "theme": "שיר ערש/רגוע",
+   "videos": 38,
+   "share_videos": 0.09571788413098237,
+   "share_views": 0.09028336771796928,
+   "median_views": 44931010.5,
+   "median_vpd": 107510.30076941717
+  },
+  {
+   "theme": "צעצועים/משחק",
+   "videos": 45,
+   "share_videos": 0.11335012594458438,
+   "share_views": 0.07597541484294097,
+   "median_views": 39334877.0,
+   "median_vpd": 88925.58237547893
+  },
+  {
+   "theme": "אותיות/ABC",
+   "videos": 11,
+   "share_videos": 0.027707808564231738,
+   "share_views": 0.04661846083434382,
+   "median_views": 62852915.0,
+   "median_vpd": 117126.58645276292
+  },
+  {
+   "theme": "חגים ועונות",
+   "videos": 18,
+   "share_videos": 0.04534005037783375,
+   "share_views": 0.029366543154245524,
+   "median_views": 36549725.5,
+   "median_vpd": 64504.43870168879
+  },
+  {
+   "theme": "מספרים/ספירה",
+   "videos": 15,
+   "share_videos": 0.037783375314861464,
+   "share_views": 0.022092734420581146,
+   "median_views": 34731720.0,
+   "median_vpd": 106213.21100917431
+  },
+  {
+   "theme": "גוף ובריאות",
+   "videos": 7,
+   "share_videos": 0.017632241813602016,
+   "share_views": 0.021166694564116535,
+   "median_views": 40920958.0,
+   "median_vpd": 83512.15918367347
+  },
+  {
+   "theme": "נסיכות/פנטזיה",
+   "videos": 14,
+   "share_videos": 0.03526448362720403,
+   "share_views": 0.02059613613659207,
+   "median_views": 30732090.5,
+   "median_vpd": 127419.24760374833
+  }
+ ],
+ "broad_only_n": 397,
+ "themes_top100": [
+  {
+   "theme": "חיות",
+   "videos": 40,
+   "share_videos": 0.4,
+   "share_views": 0.38853098450691714,
+   "median_views": 146454200.0,
+   "median_vpd": 353133.4097239793
+  },
+  {
+   "theme": "משפחה",
+   "videos": 19,
+   "share_videos": 0.19,
+   "share_views": 0.19323438063844878,
+   "median_views": 161891591.0,
+   "median_vpd": 352986.5247376312
+  },
+  {
+   "theme": "ריקוד/תנועה",
+   "videos": 19,
+   "share_videos": 0.19,
+   "share_views": 0.1822801694471893,
+   "median_views": 170635737.0,
+   "median_vpd": 336572.62890625
+  },
+  {
+   "theme": "שגרות והרגלים",
+   "videos": 14,
+   "share_videos": 0.14,
+   "share_views": 0.14098212639547025,
+   "median_views": 167990348.0,
+   "median_vpd": 349547.69255290384
+  },
+  {
+   "theme": "מפלצות/הפחדה עדינה",
+   "videos": 11,
+   "share_videos": 0.11,
+   "share_views": 0.13194558428003117,
+   "median_views": 165668493.0,
+   "median_vpd": 454337.60475482914
+  },
+  {
+   "theme": "צבעים",
+   "videos": 11,
+   "share_videos": 0.11,
+   "share_views": 0.11901541321466556,
+   "median_views": 213012153.0,
+   "median_vpd": 439922.80163043475
+  },
+  {
+   "theme": "רגשות/התנהגות",
+   "videos": 13,
+   "share_videos": 0.13,
+   "share_views": 0.1162216027779921,
+   "median_views": 170635737.0,
+   "median_vpd": 394073.6862302483
+  },
+  {
+   "theme": "כלי רכב",
+   "videos": 9,
+   "share_videos": 0.09,
+   "share_views": 0.09791793680220122,
+   "median_views": 156991968.0,
+   "median_vpd": 439922.80163043475
+  },
+  {
+   "theme": "שיר ערש/רגוע",
+   "videos": 9,
+   "share_videos": 0.09,
+   "share_views": 0.07722178176222028,
+   "median_views": 147372281.0,
+   "median_vpd": 290826.53662691655
+  },
+  {
+   "theme": "אותיות/ABC",
+   "videos": 3,
+   "share_videos": 0.03,
+   "share_views": 0.05008446739115243,
+   "median_views": 163798768.0,
+   "median_vpd": 452482.78453038674
+  },
+  {
+   "theme": "צעצועים/משחק",
+   "videos": 6,
+   "share_videos": 0.06,
+   "share_views": 0.04168703211594641,
+   "median_views": 138326184.0,
+   "median_vpd": 279098.7198562444
+  },
+  {
+   "theme": "גוף ובריאות",
+   "videos": 4,
+   "share_videos": 0.04,
+   "share_views": 0.038864803500540904,
+   "median_views": 225148052.5,
+   "median_vpd": 443238.47205750225
+  },
+  {
+   "theme": "חגים ועונות",
+   "videos": 4,
+   "share_videos": 0.04,
+   "share_views": 0.023541061517094893,
+   "median_views": 122211857.0,
+   "median_vpd": 358325.7397266155
+  },
+  {
+   "theme": "מספרים/ספירה",
+   "videos": 2,
+   "share_videos": 0.02,
+   "share_views": 0.01128933210819741,
+   "median_views": 120260147.0,
+   "median_vpd": 226070.11892102406
+  },
+  {
+   "theme": "נסיכות/פנטזיה",
+   "videos": 1,
+   "share_videos": 0.01,
+   "share_views": 0.007650179328343053,
+   "median_views": 162987798.0,
+   "median_vpd": 341693.4968553459
+  }
+ ],
+ "title_words_top": [
+  {
+   "word": "shorts",
+   "n": 82,
+   "top_rate": 0.20725388601036268,
+   "bottom_rate": 0.07253886010362694,
+   "lift": 2.632140615191463
+  },
+  {
+   "word": "plim",
+   "n": 68,
+   "top_rate": 0.08290155440414508,
+   "bottom_rate": 0.02072538860103627,
+   "lift": 3.0236087689713322
+  },
+  {
+   "word": "isa",
+   "n": 50,
+   "top_rate": 0.0,
+   "bottom_rate": 0.20725388601036268,
+   "lift": 0.04602909611256857
+  },
+  {
+   "word": "cuentos",
+   "n": 47,
+   "top_rate": 0.0051813471502590676,
+   "bottom_rate": 0.15025906735751296,
+   "lift": 0.09473003556417717
+  },
+  {
+   "word": "peque",
+   "n": 46,
+   "top_rate": 0.0,
+   "bottom_rate": 0.20207253886010362,
+   "lift": 0.047153677009528466
+  },
+  {
+   "word": "learning",
+   "n": 36,
+   "top_rate": 0.0,
+   "bottom_rate": 0.15025906735751296,
+   "lift": 0.06239896540575492
+  },
+  {
+   "word": "peques",
+   "n": 36,
+   "top_rate": 0.0,
+   "bottom_rate": 0.16062176165803108,
+   "lift": 0.058609170968721536
+  },
+  {
+   "word": "colores",
+   "n": 34,
+   "top_rate": 0.08290155440414508,
+   "bottom_rate": 0.02072538860103627,
+   "lift": 3.0236087689713322
+  },
+  {
+   "word": "historias",
+   "n": 29,
+   "top_rate": 0.010362694300518135,
+   "bottom_rate": 0.05181347150259067,
+   "lift": 0.3294216261525566
+  },
+  {
+   "word": "toddler",
+   "n": 28,
+   "top_rate": 0.0,
+   "bottom_rate": 0.10880829015544041,
+   "lift": 0.08416921064108156
+  },
+  {
+   "word": "granja",
+   "n": 27,
+   "top_rate": 0.031088082901554404,
+   "bottom_rate": 0.02072538860103627,
+   "lift": 1.3372681281618888
+  },
+  {
+   "word": "baby",
+   "n": 25,
+   "top_rate": 0.010362694300518135,
+   "bottom_rate": 0.09844559585492228,
+   "lift": 0.1877687529861443
+  },
+  {
+   "word": "palabras",
+   "n": 24,
+   "top_rate": 0.010362694300518135,
+   "bottom_rate": 0.08808290155440414,
+   "lift": 0.20760697305863712
+  },
+  {
+   "word": "divertidas",
+   "n": 23,
+   "top_rate": 0.02072538860103627,
+   "bottom_rate": 0.025906735751295335,
+   "lift": 0.8556998556998557
+  },
+  {
+   "word": "animales",
+   "n": 23,
+   "top_rate": 0.02072538860103627,
+   "bottom_rate": 0.05699481865284974,
+   "lift": 0.45862335653518943
+  },
+  {
+   "word": "familia",
+   "n": 21,
+   "top_rate": 0.046632124352331605,
+   "bottom_rate": 0.010362694300518135,
+   "lift": 2.78117048346056
+  },
+  {
+   "word": "juegos",
+   "n": 19,
+   "top_rate": 0.015544041450777202,
+   "bottom_rate": 0.05699481865284974,
+   "lift": 0.38128383604021654
+  },
+  {
+   "word": "vaca",
+   "n": 19,
+   "top_rate": 0.010362694300518135,
+   "bottom_rate": 0.031088082901554404,
+   "lift": 0.49558638083228246
+  },
+  {
+   "word": "oficial",
+   "n": 18,
+   "top_rate": 0.02072538860103627,
+   "bottom_rate": 0.0,
+   "lift": 3.0725388601036268
+  },
+  {
+   "word": "dormir",
+   "n": 17,
+   "top_rate": 0.015544041450777202,
+   "bottom_rate": 0.03626943005181347,
+   "lift": 0.5520716685330348
+  },
+  {
+   "word": "babybus",
+   "n": 17,
+   "top_rate": 0.0,
+   "bottom_rate": 0.0051813471502590676,
+   "lift": 0.658703071672355
+  },
+  {
+   "word": "qué",
+   "n": 17,
+   "top_rate": 0.031088082901554404,
+   "bottom_rate": 0.031088082901554404,
+   "lift": 1.0
+  },
+  {
+   "word": "cuentosinfantiles",
+   "n": 17,
+   "top_rate": 0.010362694300518135,
+   "bottom_rate": 0.015544041450777202,
+   "lift": 0.7971602434077079
+  },
+  {
+   "word": "lola",
+   "n": 17,
+   "top_rate": 0.0051813471502590676,
+   "bottom_rate": 0.031088082901554404,
+   "lift": 0.3694829760403531
+  },
+  {
+   "word": "leo",
+   "n": 16,
+   "top_rate": 0.031088082901554404,
+   "bottom_rate": 0.0,
+   "lift": 4.108808290155441
+  },
+  {
+   "word": "día",
+   "n": 16,
+   "top_rate": 0.010362694300518135,
+   "bottom_rate": 0.03626943005181347,
+   "lift": 0.4400895856662934
+  },
+  {
+   "word": "aprender",
+   "n": 16,
+   "top_rate": 0.015544041450777202,
+   "bottom_rate": 0.025906735751295335,
+   "lift": 0.7113997113997115
+  },
+  {
+   "word": "bluey",
+   "n": 15,
+   "top_rate": 0.0051813471502590676,
+   "bottom_rate": 0.0051813471502590676,
+   "lift": 1.0
+  },
+  {
+   "word": "completo",
+   "n": 14,
+   "top_rate": 0.0051813471502590676,
+   "bottom_rate": 0.025906735751295335,
+   "lift": 0.42279942279942284
+  },
+  {
+   "word": "compartir",
+   "n": 14,
+   "top_rate": 0.046632124352331605,
+   "bottom_rate": 0.0051813471502590676,
+   "lift": 3.7303754266211606
+  },
+  {
+   "word": "liachacha",
+   "n": 14,
+   "top_rate": 0.02072538860103627,
+   "bottom_rate": 0.0051813471502590676,
+   "lift": 2.0238907849829353
+  },
+  {
+   "word": "divertida",
+   "n": 13,
+   "top_rate": 0.025906735751295335,
+   "bottom_rate": 0.02072538860103627,
+   "lift": 1.1686340640809443
+  },
+  {
+   "word": "casa",
+   "n": 13,
+   "top_rate": 0.015544041450777202,
+   "bottom_rate": 0.02072538860103627,
+   "lift": 0.8313659359190557
+  },
+  {
+   "word": "educativo",
+   "n": 13,
+   "top_rate": 0.010362694300518135,
+   "bottom_rate": 0.031088082901554404,
+   "lift": 0.49558638083228246
+  },
+  {
+   "word": "canal",
+   "n": 13,
+   "top_rate": 0.0051813471502590676,
+   "bottom_rate": 0.0051813471502590676,
+   "lift": 1.0
+  },
+  {
+   "word": "educativos",
+   "n": 13,
+   "top_rate": 0.010362694300518135,
+   "bottom_rate": 0.03626943005181347,
+   "lift": 0.4400895856662934
+  },
+  {
+   "word": "neo",
+   "n": 13,
+   "top_rate": 0.0,
+   "bottom_rate": 0.0051813471502590676,
+   "lift": 0.658703071672355
+  },
+  {
+   "word": "yes",
+   "n": 13,
+   "top_rate": 0.0,
+   "bottom_rate": 0.0051813471502590676,
+   "lift": 0.658703071672355
+  },
+  {
+   "word": "librosen60seg",
+   "n": 12,
+   "top_rate": 0.015544041450777202,
+   "bottom_rate": 0.010362694300518135,
+   "lift": 1.2544529262086515
+  },
+  {
+   "word": "labrador",
+   "n": 12,
+   "top_rate": 0.0,
+   "bottom_rate": 0.0051813471502590676,
+   "lift": 0.658703071672355
+  }
+ ],
+ "title_words_high_lift": [
+  {
+   "word": "leo",
+   "n": 16,
+   "top_rate": 0.031088082901554404,
+   "bottom_rate": 0.0,
+   "lift": 4.108808290155441
+  },
+  {
+   "word": "oficial",
+   "n": 18,
+   "top_rate": 0.02072538860103627,
+   "bottom_rate": 0.0,
+   "lift": 3.0725388601036268
+  },
+  {
+   "word": "plim",
+   "n": 68,
+   "top_rate": 0.08290155440414508,
+   "bottom_rate": 0.02072538860103627,
+   "lift": 3.0236087689713322
+  },
+  {
+   "word": "colores",
+   "n": 34,
+   "top_rate": 0.08290155440414508,
+   "bottom_rate": 0.02072538860103627,
+   "lift": 3.0236087689713322
+  },
+  {
+   "word": "familia",
+   "n": 21,
+   "top_rate": 0.046632124352331605,
+   "bottom_rate": 0.010362694300518135,
+   "lift": 2.78117048346056
+  },
+  {
+   "word": "shorts",
+   "n": 82,
+   "top_rate": 0.20725388601036268,
+   "bottom_rate": 0.07253886010362694,
+   "lift": 2.632140615191463
+  },
+  {
+   "word": "granja",
+   "n": 27,
+   "top_rate": 0.031088082901554404,
+   "bottom_rate": 0.02072538860103627,
+   "lift": 1.3372681281618888
+  },
+  {
+   "word": "qué",
+   "n": 17,
+   "top_rate": 0.031088082901554404,
+   "bottom_rate": 0.031088082901554404,
+   "lift": 1.0
+  },
+  {
+   "word": "bluey",
+   "n": 15,
+   "top_rate": 0.0051813471502590676,
+   "bottom_rate": 0.0051813471502590676,
+   "lift": 1.0
+  },
+  {
+   "word": "divertidas",
+   "n": 23,
+   "top_rate": 0.02072538860103627,
+   "bottom_rate": 0.025906735751295335,
+   "lift": 0.8556998556998557
+  },
+  {
+   "word": "cuentosinfantiles",
+   "n": 17,
+   "top_rate": 0.010362694300518135,
+   "bottom_rate": 0.015544041450777202,
+   "lift": 0.7971602434077079
+  },
+  {
+   "word": "aprender",
+   "n": 16,
+   "top_rate": 0.015544041450777202,
+   "bottom_rate": 0.025906735751295335,
+   "lift": 0.7113997113997115
+  },
+  {
+   "word": "babybus",
+   "n": 17,
+   "top_rate": 0.0,
+   "bottom_rate": 0.0051813471502590676,
+   "lift": 0.658703071672355
+  },
+  {
+   "word": "dormir",
+   "n": 17,
+   "top_rate": 0.015544041450777202,
+   "bottom_rate": 0.03626943005181347,
+   "lift": 0.5520716685330348
+  },
+  {
+   "word": "vaca",
+   "n": 19,
+   "top_rate": 0.010362694300518135,
+   "bottom_rate": 0.031088082901554404,
+   "lift": 0.49558638083228246
+  },
+  {
+   "word": "animales",
+   "n": 23,
+   "top_rate": 0.02072538860103627,
+   "bottom_rate": 0.05699481865284974,
+   "lift": 0.45862335653518943
+  },
+  {
+   "word": "día",
+   "n": 16,
+   "top_rate": 0.010362694300518135,
+   "bottom_rate": 0.03626943005181347,
+   "lift": 0.4400895856662934
+  },
+  {
+   "word": "juegos",
+   "n": 19,
+   "top_rate": 0.015544041450777202,
+   "bottom_rate": 0.05699481865284974,
+   "lift": 0.38128383604021654
+  },
+  {
+   "word": "lola",
+   "n": 17,
+   "top_rate": 0.0051813471502590676,
+   "bottom_rate": 0.031088082901554404,
+   "lift": 0.3694829760403531
+  },
+  {
+   "word": "historias",
+   "n": 29,
+   "top_rate": 0.010362694300518135,
+   "bottom_rate": 0.05181347150259067,
+   "lift": 0.3294216261525566
+  }
+ ],
+ "tag_words_top": [
+  {
+   "word": "aprender",
+   "n": 107,
+   "top_rate": 0.16580310880829016,
+   "bottom_rate": 0.14507772020725387,
+   "lift": 1.133645172068159
+  },
+  {
+   "word": "educativos",
+   "n": 103,
+   "top_rate": 0.11398963730569948,
+   "bottom_rate": 0.13989637305699482,
+   "lift": 0.8271690286899411
+  },
+  {
+   "word": "familia",
+   "n": 89,
+   "top_rate": 0.16580310880829016,
+   "bottom_rate": 0.02072538860103627,
+   "lift": 5.7217537942664425
+  },
+  {
+   "word": "baby",
+   "n": 88,
+   "top_rate": 0.10880829015544041,
+   "bottom_rate": 0.08290155440414508,
+   "lift": 1.278862242052426
+  },
+  {
+   "word": "animales",
+   "n": 82,
+   "top_rate": 0.11917098445595854,
+   "bottom_rate": 0.10880829015544041,
+   "lift": 1.0872219799389446
+  },
+  {
+   "word": "colores",
+   "n": 76,
+   "top_rate": 0.15544041450777202,
+   "bottom_rate": 0.07253886010362694,
+   "lift": 2.004394224733208
+  },
+  {
+   "word": "cuentos",
+   "n": 76,
+   "top_rate": 0.025906735751295335,
+   "bottom_rate": 0.15544041450777202,
+   "lift": 0.21703726902599432
+  },
+  {
+   "word": "canta",
+   "n": 76,
+   "top_rate": 0.04145077720207254,
+   "bottom_rate": 0.22279792746113988,
+   "lift": 0.22101046071667038
+  },
+  {
+   "word": "preescolar",
+   "n": 76,
+   "top_rate": 0.08290155440414508,
+   "bottom_rate": 0.12435233160621761,
+   "lift": 0.6914770536058619
+  },
+  {
+   "word": "dormir",
+   "n": 75,
+   "top_rate": 0.03626943005181347,
+   "bottom_rate": 0.15544041450777202,
+   "lift": 0.2796742875039148
+  },
+  {
+   "word": "plim",
+   "n": 74,
+   "top_rate": 0.09326424870466321,
+   "bottom_rate": 0.025906735751295335,
+   "lift": 2.875901875901876
+  },
+  {
+   "word": "juegos",
+   "n": 73,
+   "top_rate": 0.10880829015544041,
+   "bottom_rate": 0.14507772020725387,
+   "lift": 0.7661209488807217
+  },
+  {
+   "word": "serie",
+   "n": 72,
+   "top_rate": 0.10362694300518134,
+   "bottom_rate": 0.02072538860103627,
+   "lift": 3.6981450252951094
+  },
+  {
+   "word": "plin",
+   "n": 69,
+   "top_rate": 0.09326424870466321,
+   "bottom_rate": 0.010362694300518135,
+   "lift": 5.0712468193384215
+  },
+  {
+   "word": "educativo",
+   "n": 69,
+   "top_rate": 0.10880829015544041,
+   "bottom_rate": 0.10880829015544041,
+   "lift": 1.0
+  },
+  {
+   "word": "payaso",
+   "n": 68,
+   "top_rate": 0.09326424870466321,
+   "bottom_rate": 0.010362694300518135,
+   "lift": 5.0712468193384215
+  },
+  {
+   "word": "educación",
+   "n": 66,
+   "top_rate": 0.10362694300518134,
+   "bottom_rate": 0.06217616580310881,
+   "lift": 1.5743000717875089
+  },
+  {
+   "word": "family",
+   "n": 66,
+   "top_rate": 0.13989637305699482,
+   "bottom_rate": 0.025906735751295335,
+   "lift": 4.174603174603175
+  },
+  {
+   "word": "educativas",
+   "n": 66,
+   "top_rate": 0.07772020725388601,
+   "bottom_rate": 0.09844559585492228,
+   "lift": 0.8088867654085045
+  },
+  {
+   "word": "animada",
+   "n": 66,
+   "top_rate": 0.10362694300518134,
+   "bottom_rate": 0.015544041450777202,
+   "lift": 4.448275862068964
+  },
+  {
+   "word": "historias",
+   "n": 62,
+   "top_rate": 0.12953367875647667,
+   "bottom_rate": 0.05181347150259067,
+   "lift": 2.2573344509639566
+  },
+  {
+   "word": "jugar",
+   "n": 57,
+   "top_rate": 0.05699481865284974,
+   "bottom_rate": 0.09844559585492228,
+   "lift": 0.6177735308170091
+  },
+  {
+   "word": "palabras",
+   "n": 56,
+   "top_rate": 0.0,
+   "bottom_rate": 0.22797927461139897,
+   "lift": 0.042020465926409754
+  },
+  {
+   "word": "desarrollo",
+   "n": 56,
+   "top_rate": 0.0,
+   "bottom_rate": 0.23316062176165803,
+   "lift": 0.04112507990624334
+  },
+  {
+   "word": "lenguaje",
+   "n": 55,
+   "top_rate": 0.0,
+   "bottom_rate": 0.22797927461139897,
+   "lift": 0.042020465926409754
+  },
+  {
+   "word": "aprendiendo",
+   "n": 55,
+   "top_rate": 0.03626943005181347,
+   "bottom_rate": 0.19170984455958548,
+   "lift": 0.22938607757513485
+  },
+  {
+   "word": "learning",
+   "n": 54,
+   "top_rate": 0.0,
+   "bottom_rate": 0.19170984455958548,
+   "lift": 0.049576162342666326
+  },
+  {
+   "word": "juguetes",
+   "n": 54,
+   "top_rate": 0.12435233160621761,
+   "bottom_rate": 0.031088082901554404,
+   "lift": 3.269861286254729
+  },
+  {
+   "word": "primeras",
+   "n": 53,
+   "top_rate": 0.0,
+   "bottom_rate": 0.22279792746113988,
+   "lift": 0.04295570888048075
+  },
+  {
+   "word": "jugando",
+   "n": 52,
+   "top_rate": 0.05699481865284974,
+   "bottom_rate": 0.07772020725388601,
+   "lift": 0.7637330183106912
+  }
+ ],
+ "videos_with_tags_share": 0.8725617685305592,
+ "channels_n": 226,
+ "channel_country": {
+  "MX": 77,
+  "ES": 45,
+  "US": 40,
+  "(none)": 17,
+  "AR": 12,
+  "CO": 10,
+  "PE": 5,
+  "EC": 4,
+  "CA": 3,
+  "PR": 3,
+  "IT": 2,
+  "VE": 1
+ },
+ "channel_created_year": {
+  "2006": 1,
+  "2007": 2,
+  "2009": 3,
+  "2011": 4,
+  "2012": 2,
+  "2013": 6,
+  "2014": 11,
+  "2015": 11,
+  "2016": 16,
+  "2017": 17,
+  "2018": 6,
+  "2019": 9,
+  "2020": 15,
+  "2021": 7,
+  "2022": 25,
+  "2023": 25,
+  "2024": 35,
+  "2025": 24,
+  "2026": 7
+ },
+ "views_share_by_channel_age": {
+  "created ≤2018": 0.3813393687514214,
+  "2019–2022": 0.22086403313961095,
+  "2023+": 0.39779659810896767
+ },
+ "channels_top_by_sample_views": [
+  {
+   "title": "El Payaso Plim Plim",
+   "created": "2013-10-18",
+   "country": "AR",
+   "subs": 35400000,
+   "total_views": 60846197428,
+   "video_count": 2296
+  },
+  {
+   "title": "Hokie Pokie Español",
+   "created": "2024-03-21",
+   "country": "US",
+   "subs": 3950000,
+   "total_views": 6231182156,
+   "video_count": 1288
+  },
+  {
+   "title": "Yes! Neo - Canciones y Caricaturas para Niños",
+   "created": "2024-09-11",
+   "country": "MX",
+   "subs": 2910000,
+   "total_views": 3234571496,
+   "video_count": 516
+  },
+  {
+   "title": "LiaChaCha en Español - Canciones Infantiles",
+   "created": "2023-12-25",
+   "country": "MX",
+   "subs": 6540000,
+   "total_views": 5919879350,
+   "video_count": 717
+  },
+  {
+   "title": "WOA song Spanish",
+   "created": "2024-01-17",
+   "country": "US",
+   "subs": 4070000,
+   "total_views": 4174941978,
+   "video_count": 105
+  },
+  {
+   "title": "Mundo Fer 360",
+   "created": "2015-03-28",
+   "country": "MX",
+   "subs": 1040000,
+   "total_views": 1526805197,
+   "video_count": 1236
+  },
+  {
+   "title": "Doctora Sophia Español",
+   "created": "2025-12-26",
+   "country": "MX",
+   "subs": 1910000,
+   "total_views": 3327403262,
+   "video_count": 274
+  },
+  {
+   "title": "Bebefinn en español - Canciones Infantiles",
+   "created": "2022-10-20",
+   "country": "MX",
+   "subs": 18000000,
+   "total_views": 16611835832,
+   "video_count": 940
+  },
+  {
+   "title": "Pinkfong en español - Canciones Infantiles",
+   "created": "2016-03-16",
+   "country": "MX",
+   "subs": 20000000,
+   "total_views": 13097033698,
+   "video_count": 2879
+  },
+  {
+   "title": "A Bebés Contentos - Canciones Infantiles",
+   "created": "2016-06-28",
+   "country": "MX",
+   "subs": 3010000,
+   "total_views": 1767855476,
+   "video_count": 1636
+  },
+  {
+   "title": "Tía Tully",
+   "created": "2020-04-12",
+   "country": "EC",
+   "subs": 2870000,
+   "total_views": 3097207346,
+   "video_count": 994
+  },
+  {
+   "title": "Hogi & Pinkfong en español - Juega y Aprende",
+   "created": "2021-05-27",
+   "country": "MX",
+   "subs": 7620000,
+   "total_views": 5963414531,
+   "video_count": 1406
+  },
+  {
+   "title": "Leo, El Explorador - Canal Oficial",
+   "created": "2020-02-04",
+   "country": "SG",
+   "subs": 2860000,
+   "total_views": 3371898873,
+   "video_count": 1015
+  },
+  {
+   "title": "D Billions Español",
+   "created": "2020-09-06",
+   "country": "US",
+   "subs": 15100000,
+   "total_views": 15584022744,
+   "video_count": 1883
+  },
+  {
+   "title": "Teeny Tiny Simba (Español)",
+   "created": "2024-05-18",
+   "country": "US",
+   "subs": 5660000,
+   "total_views": 3806154079,
+   "video_count": 437
+  },
+  {
+   "title": "Lola Patatin - Cuentos Infantiles",
+   "created": "2015-10-09",
+   "country": "ES",
+   "subs": 3290000,
+   "total_views": 2564320787,
+   "video_count": 1057
+  },
+  {
+   "title": "Canciones Infantiles - LooLoo",
+   "created": "2017-05-17",
+   "country": "MX",
+   "subs": 15000000,
+   "total_views": 11693283812,
+   "video_count": 809
+  },
+  {
+   "title": "Juguetes y Colores",
+   "created": "2019-02-21",
+   "country": "US",
+   "subs": 17500000,
+   "total_views": 10174327843,
+   "video_count": 1435
+  },
+  {
+   "title": "Cocinando con Matthew",
+   "created": "2023-02-06",
+   "country": "US",
+   "subs": 3900000,
+   "total_views": 2203958608,
+   "video_count": 633
+  },
+  {
+   "title": "Saritah Bebé",
+   "created": "2022-12-16",
+   "country": "MX",
+   "subs": 5230000,
+   "total_views": 4976263734,
+   "video_count": 2075
+  }
+ ],
+ "breakout_channels": [
+  {
+   "title": "Hokie Pokie Español",
+   "created": "2024-03-21",
+   "country": "US",
+   "subs": 3950000,
+   "total_views": 6231182156,
+   "video_count": 1288,
+   "views_per_day_lifetime": 6628917.187234042,
+   "recent_uploads": 50,
+   "uploads_per_week": 10.606060606060606,
+   "median_duration_min": 1.8916666666666666,
+   "share_shorts": 0.36,
+   "median_views_recent": 104084.0,
+   "best_titles": [
+    "La Canción del Doctor 🩺🐵 Animal Boo Boo Song | Canciones Infantiles para Niños | #shorts | №1",
+    "Canción de Opuestos | Pequeño y Grande | Bueno contra Malo | #shorts  | №1",
+    "Canción de Opuestos | Pequeño y Grande | Bueno contra Malo | #shorts  | №2"
+   ]
+  },
+  {
+   "title": "LiaChaCha en Español - Canciones Infantiles",
+   "created": "2023-12-25",
+   "country": "MX",
+   "subs": 6540000,
+   "total_views": 5919879350,
+   "video_count": 717,
+   "views_per_day_lifetime": 5764244.741966894,
+   "recent_uploads": 50,
+   "uploads_per_week": 5.072463768115942,
+   "median_duration_min": 25.816666666666666,
+   "share_shorts": 0.12,
+   "median_views_recent": 463465.0,
+   "best_titles": [
+    "Quién se Llevó el Helado | LiaChaCha en Español - Canciones Infantiles",
+    "Quién se Llevó el Helado | LiaChaCha en Español - Canciones Infantiles",
+    "Desafío en la Sala de Escape Colorida | LiaChaCha en Español - Canciones Infantiles"
+   ]
+  },
+  {
+   "title": "WOA song Spanish",
+   "created": "2024-01-17",
+   "country": "US",
+   "subs": 4070000,
+   "total_views": 4174941978,
+   "video_count": 105,
+   "views_per_day_lifetime": 4158308.7430278882,
+   "recent_uploads": 50,
+   "uploads_per_week": 1.4893617021276595,
+   "median_duration_min": 0.9166666666666666,
+   "share_shorts": 0.86,
+   "median_views_recent": 2193178.0,
+   "best_titles": [
+    "Ángel Vs Mamá Demonio - Canciones Infantiles - Canciones Para Bebés #shorts",
+    "Compartir es demostrar interés - Canciones Infantiles - Canciones Para Bebés #shorts",
+    "Cuida al Bebé - Canciones Infantiles - Canciones Para Bebés #shorts"
+   ]
+  },
+  {
+   "title": "Teeny Tiny Simba (Español)",
+   "created": "2024-05-18",
+   "country": "US",
+   "subs": 5660000,
+   "total_views": 3806154079,
+   "video_count": 437,
+   "views_per_day_lifetime": 4315367.436507937,
+   "recent_uploads": 50,
+   "uploads_per_week": 2.2435897435897436,
+   "median_duration_min": 0.75,
+   "share_shorts": 0.86,
+   "median_views_recent": 944133.0,
+   "best_titles": [
+    "Benji esta tomando un baño 🛁🧼 #simba #animación #gatos",
+    "¡Encuentra a los gatitos escondidos! 🙈🥇 #animación #simba #gatos #humor",
+    "Un agujero misterioso apareció de la nada! 😱 #simba #animación #humor #gatos"
+   ]
+  },
+  {
+   "title": "Doctora Sophia Español",
+   "created": "2025-12-26",
+   "country": "MX",
+   "subs": 1910000,
+   "total_views": 3327403262,
+   "video_count": 274,
+   "views_per_day_lifetime": 11279333.091525424,
+   "recent_uploads": 50,
+   "uploads_per_week": 6.25,
+   "median_duration_min": 0.5666666666666667,
+   "share_shorts": 0.78,
+   "median_views_recent": 1501867.5,
+   "best_titles": [
+    "Aprende los Colores con Globos de Agua | Cepíllate los Dientes | Canciones Infantiles #shorts",
+    "Aprende los Colores Cepillándote los Dientes | Compartir es Cuidar | Canciones Infantiles #shorts",
+    "La Puerta Misteriosa de Colores | Comida Saludable para Niños | Canciones Infantiles #shorts"
+   ]
+  },
+  {
+   "title": "Yes! Neo - Canciones y Caricaturas para Niños",
+   "created": "2024-09-11",
+   "country": "MX",
+   "subs": 2910000,
+   "total_views": 3234571496,
+   "video_count": 516,
+   "views_per_day_lifetime": 4222678.193211488,
+   "recent_uploads": 50,
+   "uploads_per_week": 4.72972972972973,
+   "median_duration_min": 29.283333333333335,
+   "share_shorts": 0.12,
+   "median_views_recent": 465765.5,
+   "best_titles": [
+    "No tires un chicle al suelo #shorts #yesneo",
+    "Solo un Ratito Más  #shorts #yesneo",
+    "Frío vs. Caliente #shorts #yesneo"
+   ]
+  },
+  {
+   "title": "Juan De Dios Pantoja 2",
+   "created": "2024-05-23",
+   "country": NaN,
+   "subs": 11400000,
+   "total_views": 1791084280,
+   "video_count": 93,
+   "views_per_day_lifetime": 2042285.3819840364,
+   "recent_uploads": 50,
+   "uploads_per_week": 0.43316831683168316,
+   "median_duration_min": 18.675,
+   "share_shorts": 0.3,
+   "median_views_recent": 7138873.0,
+   "best_titles": [
+    "Llegó a las nubes",
+    "Carreras de carros",
+    "Nos Tiramos Del Tobogán Más Grande Del Mundo"
+   ]
+  },
+  {
+   "title": "Lalafun - Rimas Infantiles en Español",
+   "created": "2024-04-29",
+   "country": "ES",
+   "subs": 1380000,
+   "total_views": 1704790394,
+   "video_count": 1041,
+   "views_per_day_lifetime": 1892109.205327414,
+   "recent_uploads": 50,
+   "uploads_per_week": 4.929577464788732,
+   "median_duration_min": 12.816666666666666,
+   "share_shorts": 0.0,
+   "median_views_recent": 8144.5,
+   "best_titles": [
+    "5 Patitos Arcoiris + Más Lalafun Canciones Infantiles y Música para Chicos",
+    "El Auto del Bebé Familia Dedo + Más Lalafun Canciones Infantiles y Música para Chicos",
+    "La Canción del Tren Chu Chu+ Más Lalafun Canciones Infantiles y Música para Chicos"
+   ]
+  },
+  {
+   "title": "Sierra y Rhia Español",
+   "created": "2024-10-01",
+   "country": "MX",
+   "subs": 830000,
+   "total_views": 1687526648,
+   "video_count": 1151,
+   "views_per_day_lifetime": 2262100.0643431637,
+   "recent_uploads": 50,
+   "uploads_per_week": 14.583333333333334,
+   "median_duration_min": 0.2833333333333333,
+   "share_shorts": 0.98,
+   "median_views_recent": 137287.0,
+   "best_titles": [
+    "Sierra Enseña a Rhia la Importancia de Comer Frutas Saludables - Juego de Roles",
+    "Sierra Enseña a Rhia la Importancia de Ahorrar Agua - Juego de Roles",
+    "Sierra Enseña a Rhia Seguridad al Cruzar la Calle - Juego de Roles"
+   ]
+  },
+  {
+   "title": "El Tren Ñam-Ñam",
+   "created": "2024-12-01",
+   "country": "MX",
+   "subs": 1580000,
+   "total_views": 1366998262,
+   "video_count": 105,
+   "views_per_day_lifetime": 1995617.900729927,
+   "recent_uploads": 50,
+   "uploads_per_week": 10.0,
+   "median_duration_min": 0.6166666666666667,
+   "share_shorts": 0.98,
+   "median_views_recent": 2955783.0,
+   "best_titles": [
+    "¡No Tires Basura en Casa! 🗑️ | ¡Monstruo de Basura, Vete!",
+    "Casa de Cartón vs. Casa de Dulces 🍭🏠 | ¿Cuál es Mejor?",
+    "¿Qué Podemos Meter en el Microondas? 🤔 | Diversión con Toothy | Shorts para Niños"
+   ]
+  },
+  {
+   "title": "Español con Ingli",
+   "created": "2024-07-21",
+   "country": "US",
+   "subs": 658000,
+   "total_views": 1325219701,
+   "video_count": 79,
+   "views_per_day_lifetime": 1620072.9841075796,
+   "recent_uploads": 50,
+   "uploads_per_week": 1.1363636363636362,
+   "median_duration_min": 0.5166666666666667,
+   "share_shorts": 1.0,
+   "median_views_recent": 1101673.0,
+   "best_titles": [
+    "¿Estás enfermo? 🤒 Aprende español para niños | Shorts",
+    "¿Feliz o Triste? 😊😢 Quiz de Emociones para Niños | Aprende Español #Shorts",
+    "Aprende sobre los trabajos | Shorts divertidos y educativos para niños"
+   ]
+  },
+  {
+   "title": "Hurra Canciones Infantiles",
+   "created": "2024-09-09",
+   "country": NaN,
+   "subs": 1240000,
+   "total_views": 1208421214,
+   "video_count": 109,
+   "views_per_day_lifetime": 1573465.1223958333,
+   "recent_uploads": 50,
+   "uploads_per_week": 0.9138381201044388,
+   "median_duration_min": 0.45,
+   "share_shorts": 0.8,
+   "median_views_recent": 361596.5,
+   "best_titles": [
+    "¿Te gusta comer chiles picantes? #comida #picante #cancionesinfantiles",
+    "Cortarse pelo no duele. 😅💇💇‍♀️💇‍♂️ #barbero #cortarcabelo #nuevopeinado",
+    "¿Te gustaría un helado? #musicaparaniños #helado #divertido"
+   ]
+  },
+  {
+   "title": "Kids Funny Songs Español",
+   "created": "2025-04-04",
+   "country": "US",
+   "subs": 673000,
+   "total_views": 852559431,
+   "video_count": 674,
+   "views_per_day_lifetime": 1519713.780748663,
+   "recent_uploads": 50,
+   "uploads_per_week": 5.0,
+   "median_duration_min": 1.2333333333333334,
+   "share_shorts": 0.5,
+   "median_views_recent": 151759.5,
+   "best_titles": [
+    "Canción de la Aspiradora 🧹🎶 #3 #shorts | Canciones divertidas para niños",
+    "Seguridad de el elevador cancion | Canciones divertidas para niño",
+    "Izquierda y Derecha ⬅️➡️ #2 #shorts | Canciones divertidas para niños"
+   ]
+  },
+  {
+   "title": "ZuZoo en Español",
+   "created": "2025-06-20",
+   "country": "ES",
+   "subs": 644000,
+   "total_views": 728903675,
+   "video_count": 377,
+   "views_per_day_lifetime": 1505999.3285123967,
+   "recent_uploads": 50,
+   "uploads_per_week": 2.536231884057971,
+   "median_duration_min": 2.2916666666666665,
+   "share_shorts": 0.08,
+   "median_views_recent": 143670.0,
+   "best_titles": [
+    "Cinco Patitos (Canción para Aprender los Colores) | Canciones Infantiles | ZuZoo en Español",
+    "Canción de los Huevos Sorpresa | Canción de Colores | ZuZoo en Español – Canciones Infantiles",
+    "Aprender Colores y Números con Huevos Sorpresa de Colores 🥚| ZuZoo en Español | Canciones Infantiles"
+   ]
+  },
+  {
+   "title": "Doctora Bondadosa",
+   "created": "2025-02-17",
+   "country": "CR",
+   "subs": 407000,
+   "total_views": 681992412,
+   "video_count": 21,
+   "views_per_day_lifetime": 1123545.9835255353,
+   "recent_uploads": 21,
+   "uploads_per_week": 0.7424242424242424,
+   "median_duration_min": 0.5666666666666667,
+   "share_shorts": 0.6666666666666666,
+   "median_views_recent": 9768386.0,
+   "best_titles": [
+    "LÁVATE LAS MANOS 2  #cancionesinfantiles #canciónparaniños #cartoon #infantil #animation #funny",
+    "Canción del Ayayay 1  #cancionesinfantiles #dientes #canciónparaniños #animation #videoparaniños",
+    "LÁVATE LAS MANOS Shorts 3 - Hábitos saludables - Lavado de manos -   #cancionesinfantiles #animation"
+   ]
+  }
+ ],
+ "breakout_count": 70,
+ "breakout_over_100M_views": 40,
+ "extras": {
+  "shorts_share_videos": 0.31469440832249673,
+  "shorts_share_views": 0.5662116232863894,
+  "comments_disabled_share": 0.10923276983094929,
+  "median_like_rate": 0.0020632576766834356,
+  "title_emoji_share_top100": 0.53,
+  "title_emoji_share_all": 0.5084525357607282,
+  "median_title_len_top100": 76.0,
+  "median_title_len_all": 78.0,
+  "hd_share": 0.9973992197659298,
+  "weekday_top100": {
+   "Fri": 25,
+   "Thu": 16,
+   "Sat": 14,
+   "Mon": 14,
+   "Tue": 12,
+   "Sun": 11,
+   "Wed": 8
+  },
+  "publish_hour_utc_top100": {
+   "0": 2,
+   "1": 1,
+   "2": 2,
+   "3": 1,
+   "4": 1,
+   "6": 5,
+   "7": 2,
+   "8": 2,
+   "9": 2,
+   "10": 6,
+   "11": 4,
+   "12": 8,
+   "13": 12,
+   "14": 5,
+   "15": 10,
+   "16": 14,
+   "17": 2,
+   "18": 4,
+   "19": 3,
+   "20": 9,
+   "21": 1,
+   "22": 1,
+   "23": 3
+  },
+  "category": {
+   "10": 220,
+   "24": 186,
+   "27": 178,
+   "1": 117,
+   "22": 59,
+   "20": 8,
+   "26": 1
+  },
+  "views_by_publish_quarter": [
+   {
+    "published": "2024Q4",
+    "count": 98,
+    "median": 18974113.0
+   },
+   {
+    "published": "2025Q1",
+    "count": 122,
+    "median": 28468727.5
+   },
+   {
+    "published": "2025Q2",
+    "count": 133,
+    "median": 34609598.0
+   },
+   {
+    "published": "2025Q3",
+    "count": 143,
+    "median": 29273483.0
+   },
+   {
+    "published": "2025Q4",
+    "count": 83,
+    "median": 20405091.0
+   },
+   {
+    "published": "2026Q1",
+    "count": 71,
+    "median": 16717622.0
+   },
+   {
+    "published": "2026Q2",
+    "count": 55,
+    "median": 9544513.0
+   },
+   {
+    "published": "2026Q3",
+    "count": 54,
+    "median": 10572279.0
+   },
+   {
+    "published": "2026Q4",
+    "count": 10,
+    "median": 12699589.5
+   }
+  ]
+ }
+}
