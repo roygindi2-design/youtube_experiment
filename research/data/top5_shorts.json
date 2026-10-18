@@ -1,0 +1,219 @@
+{
+  "generated": "2026-10-18",
+  "source": "kids_es_videos.csv / videos_raw.json (YouTube Data API)",
+  "selection_rule": "duration_s<=60, topic animals and/or one daily habit, ranked by views, songs preferred (YouTube category 10=Music or song tags)",
+  "videos": [
+    {
+      "id": "ROTH4qOWN1I",
+      "url": "https://www.youtube.com/shorts/ROTH4qOWN1I",
+      "title": "Hagamos Fila #shorts #yesneo",
+      "channel": "Yes! Neo - Canciones y Caricaturas para Niños",
+      "topic": "habit: lining up (hacer fila)",
+      "why_chosen": "#1 Short by views in dataset; clear single-habit title; tag \"canciones infantiles\"; song-focused channel",
+      "measured_from_api": {
+        "duration_s": 31,
+        "iso_duration": "PT31S",
+        "views": 1090403237,
+        "views_per_day": 2193970,
+        "likes": 5521864,
+        "like_rate": 0.0051,
+        "published": "2025-06-07 15:00:44+00:00",
+        "age_days": 497,
+        "category_id": 27,
+        "has_captions": false,
+        "audio_lang": "es",
+        "title_len": 28,
+        "title_has_emoji": false,
+        "n_tags": 10
+      },
+      "media_measurements": {
+        "hook_second": null,
+        "bpm": null,
+        "word_count": null,
+        "distinct_words": null,
+        "chorus_repeats": null,
+        "words_per_sec": null,
+        "timeline": null,
+        "lyrics_excerpt": null,
+        "status": "UNAVAILABLE: media download blocked by session egress proxy (www.youtube.com, googlevideo.com, huggingface.co all 403). Nothing estimated."
+      }
+    },
+    {
+      "id": "GNqC6YF-cHo",
+      "url": "https://www.youtube.com/shorts/GNqC6YF-cHo",
+      "title": "¡Lava Tus Manos antes de Comer!🍽️ #hogiespañol",
+      "channel": "Hogi & Pinkfong en español - Juega y Aprende",
+      "topic": "habit: hand washing before eating",
+      "why_chosen": "#3 qualifying by views; single-habit title; Pinkfong/Hogi song brand (song status not verified - no media)",
+      "measured_from_api": {
+        "duration_s": 20,
+        "iso_duration": "PT20S",
+        "views": 588801607,
+        "views_per_day": 1102625,
+        "likes": 2874215,
+        "like_rate": 0.0049,
+        "published": "2025-05-01 15:00:32+00:00",
+        "age_days": 534,
+        "category_id": 27,
+        "has_captions": false,
+        "audio_lang": null,
+        "title_len": 46,
+        "title_has_emoji": true,
+        "n_tags": 0
+      },
+      "media_measurements": {
+        "hook_second": null,
+        "bpm": null,
+        "word_count": null,
+        "distinct_words": null,
+        "chorus_repeats": null,
+        "words_per_sec": null,
+        "timeline": null,
+        "lyrics_excerpt": null,
+        "status": "UNAVAILABLE: media download blocked by session egress proxy (www.youtube.com, googlevideo.com, huggingface.co all 403). Nothing estimated."
+      }
+    },
+    {
+      "id": "yS7mH_WcTh0",
+      "url": "https://www.youtube.com/shorts/yS7mH_WcTh0",
+      "title": "Aprende los Colores con Globos de Agua | Cepíllate los Dientes | Canciones Infantiles #shorts",
+      "channel": "Doctora Sophia Español",
+      "topic": "habit: tooth brushing (+colors)",
+      "why_chosen": "YouTube category 10 = Music; \"Canciones Infantiles\" + \"Cepíllate los Dientes\" in title",
+      "measured_from_api": {
+        "duration_s": 27,
+        "iso_duration": "PT27S",
+        "views": 319700478,
+        "views_per_day": 6032084,
+        "likes": 1757034,
+        "like_rate": 0.0055,
+        "published": "2026-08-25 10:45:17+00:00",
+        "age_days": 53,
+        "category_id": 10,
+        "has_captions": false,
+        "audio_lang": "es-MX",
+        "title_len": 93,
+        "title_has_emoji": false,
+        "n_tags": 20
+      },
+      "media_measurements": {
+        "hook_second": null,
+        "bpm": null,
+        "word_count": null,
+        "distinct_words": null,
+        "chorus_repeats": null,
+        "words_per_sec": null,
+        "timeline": null,
+        "lyrics_excerpt": null,
+        "status": "UNAVAILABLE: media download blocked by session egress proxy (www.youtube.com, googlevideo.com, huggingface.co all 403). Nothing estimated."
+      }
+    },
+    {
+      "id": "Y7FUmKDKQz0",
+      "url": "https://www.youtube.com/shorts/Y7FUmKDKQz0",
+      "title": "¿CÓMO HACEN LOS ANIMALES? 🐥🐽🐮🫏🦉Adivinanzas con Luli Pampin y el Pampin Team #shortvideo",
+      "channel": "Luli Pampín",
+      "topic": "animals: animal sounds riddles",
+      "why_chosen": "YouTube category 10 = Music; animals topic; song artist channel",
+      "measured_from_api": {
+        "duration_s": 34,
+        "iso_duration": "PT34S",
+        "views": 213428801,
+        "views_per_day": 510595,
+        "likes": 1489127,
+        "like_rate": 0.007,
+        "published": "2025-08-25 15:00:52+00:00",
+        "age_days": 418,
+        "category_id": 10,
+        "has_captions": false,
+        "audio_lang": "es",
+        "title_len": 87,
+        "title_has_emoji": true,
+        "n_tags": 9
+      },
+      "media_measurements": {
+        "hook_second": null,
+        "bpm": null,
+        "word_count": null,
+        "distinct_words": null,
+        "chorus_repeats": null,
+        "words_per_sec": null,
+        "timeline": null,
+        "lyrics_excerpt": null,
+        "status": "UNAVAILABLE: media download blocked by session egress proxy (www.youtube.com, googlevideo.com, huggingface.co all 403). Nothing estimated."
+      }
+    },
+    {
+      "id": "ZnOXLkvaR0Q",
+      "url": "https://www.youtube.com/shorts/ZnOXLkvaR0Q",
+      "title": "¡Qué curiosidad! ¿Qué vamos a comer? #cancionesinfantiles #comida #cancionesdivertidas",
+      "channel": "Hurra Canciones Infantiles",
+      "topic": "habit: eating / food",
+      "why_chosen": "YouTube category 10 = Music; channel is a kids-songs channel; #comida",
+      "measured_from_api": {
+        "duration_s": 27,
+        "iso_duration": "PT27S",
+        "views": 188103437,
+        "views_per_day": 275408,
+        "likes": 2110120,
+        "like_rate": 0.0112,
+        "published": "2024-12-03 20:00:27+00:00",
+        "age_days": 683,
+        "category_id": 10,
+        "has_captions": false,
+        "audio_lang": null,
+        "title_len": 86,
+        "title_has_emoji": false,
+        "n_tags": 0
+      },
+      "media_measurements": {
+        "hook_second": null,
+        "bpm": null,
+        "word_count": null,
+        "distinct_words": null,
+        "chorus_repeats": null,
+        "words_per_sec": null,
+        "timeline": null,
+        "lyrics_excerpt": null,
+        "status": "UNAVAILABLE: media download blocked by session egress proxy (www.youtube.com, googlevideo.com, huggingface.co all 403). Nothing estimated."
+      }
+    }
+  ],
+  "summary": {
+    "duration_s": {
+      "min": 20,
+      "max": 34,
+      "mean": 27.8,
+      "median": 27
+    },
+    "views": {
+      "min": 188103437,
+      "max": 1090403237
+    },
+    "like_rate": {
+      "min": 0.0049,
+      "max": 0.0112,
+      "mean": 0.0067
+    },
+    "excluded": [
+      {
+        "id": "E363Z9ymWfk",
+        "title": "¡Encuentra al topo! (Leo, El Explorador)",
+        "views": 662735892,
+        "reason": "animals, but category 1 (Film) + tags \"episodio/serie\" -> likely not a song"
+      },
+      {
+        "id": "Kpwd2Ck9M8U",
+        "title": "Compartir es cuidar (Sheriff Labrador)",
+        "views": 195963903,
+        "reason": "animal characters + sharing, but a safety cartoon series (category 27); preferred Music-category ZnOXLkvaR0Q (188M)"
+      },
+      {
+        "id": "r4WXK4DxIfg",
+        "title": "Plaza Sésamo: Comegalletas dice ¡Hola!",
+        "views": 526887383,
+        "reason": "character, but no habit/animal topic"
+      }
+    ]
+  }
+}
