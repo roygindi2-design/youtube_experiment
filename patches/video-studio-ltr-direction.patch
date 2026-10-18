@@ -1,0 +1,358 @@
+diff -ru kit_orig/Captions.tsx videostudio/remotion/src/kit/Captions.tsx
+--- kit_orig/Captions.tsx	2026-10-18 23:52:05.413853649 +0000
++++ videostudio/remotion/src/kit/Captions.tsx	2026-10-18 23:52:05.449771289 +0000
+@@ -9,7 +9,7 @@
+ import React from 'react';
+ import {AbsoluteFill, Sequence, useCurrentFrame, useVideoConfig} from 'remotion';
+ import {popIn} from './anim';
+-import {splitTrailingPunct, toRuns} from './bidi';
++import {splitTrailingPunct, toRuns, textDir} from './bidi';
+ import {fontFamily, OUTLINE, resolveTheme} from './theme';
+ import type {CaptionPage, Captions as CaptionsData, Theme} from './types';
+ 
+@@ -124,7 +124,7 @@
+ 		return (
+ 			// rtl wrapper: [English run][punctuation] — the punctuation ends up on the run's left,
+ 			// which is its END in Hebrew reading order.
+-			<span key={`run-${r}`} dir="rtl" style={{display: 'inline-flex', alignItems: 'baseline', unicodeBidi: 'isolate'}}>
++			<span key={`run-${r}`} dir={textDir()} style={{display: 'inline-flex', alignItems: 'baseline', unicodeBidi: 'isolate'}}>
+ 				<span dir="ltr" style={{display: 'inline-flex', alignItems: 'baseline', columnGap: gap, unicodeBidi: 'isolate'}}>
+ 					{run.items.map(({t, i}) => renderToken(t, i, i === last.i ? lastText : undefined))}
+ 				</span>
+@@ -138,7 +138,7 @@
+ 	return (
+ 		<AbsoluteFill style={{pointerEvents: 'none'}}>
+ 			<div
+-				dir="rtl"
++				dir={textDir()}
+ 				style={{
+ 					position: 'absolute',
+ 					// x 11–89% clears the Reels/TikTok UI. y: build_edit.py places captions just under the
+@@ -166,7 +166,7 @@
+ 			>
+ 				{style === 'chips' ? (
+ 					<div
+-						dir="rtl"
++						dir={textDir()}
+ 						style={{
+ 							background: 'rgba(12,12,12,0.92)',
+ 							borderRadius: 18 * k,
+diff -ru kit_orig/Edit.tsx videostudio/remotion/src/kit/Edit.tsx
+--- kit_orig/Edit.tsx	2026-10-18 23:52:05.413955118 +0000
++++ videostudio/remotion/src/kit/Edit.tsx	2026-10-18 23:52:05.453529216 +0000
+@@ -7,6 +7,7 @@
+ import {Captions} from './Captions';
+ import {DEFAULT_Z, OverlayView} from './overlays';
+ import {resolveTheme} from './theme';
++import {setTextDir} from './bidi';
+ import type {EditData, Music} from './types';
+ import {VoiceContext} from './voice';
+ 
+@@ -27,6 +28,7 @@
+ 
+ export const Edit: React.FC<{data: EditData}> = ({data}) => {
+ 	const theme = resolveTheme(data.theme);
++	setTextDir(theme.direction);
+ 	const layered = data.overlays.map((ov) => ({ov, z: typeof ov.z === 'number' ? ov.z : DEFAULT_Z[ov.type] ?? 20}));
+ 	const below = layered.filter((l) => l.z < CAPTIONS_Z).sort((a, b) => a.z - b.z);
+ 	const above = layered.filter((l) => l.z >= CAPTIONS_Z).sort((a, b) => a.z - b.z);
+diff -ru kit_orig/bidi.ts videostudio/remotion/src/kit/bidi.ts
+--- kit_orig/bidi.ts	2026-10-18 23:52:05.413800162 +0000
++++ videostudio/remotion/src/kit/bidi.ts	2026-10-18 23:52:05.447609928 +0000
+@@ -5,11 +5,20 @@
+ // A token is "LTR" when it has Latin letters/digits and no Hebrew ("Claude", "2026", "MD.").
+ const HEBREW = /[\u0590-\u05FF]/;
+ const LATIN = /[A-Za-z0-9]/;
++// Text direction for the whole edit: 'rtl' (Hebrew, default) or 'ltr' (Spanish, English...).
++// Set once per render from theme.direction in Edit.tsx.
++let TEXT_DIR: 'rtl' | 'ltr' = 'rtl';
++export const setTextDir = (d: string | undefined) => { TEXT_DIR = d === 'ltr' ? 'ltr' : 'rtl'; };
++export const textDir = (): 'rtl' | 'ltr' => TEXT_DIR;
+ export const isLtr = (text: string) => LATIN.test(text) && !HEBREW.test(text);
+ 
+ /** Split tokens into runs; consecutive LTR tokens form one run that is laid out left-to-right. */
+ export const toRuns = <T extends {text: string}>(tokens: T[]): Array<{ltr: boolean; items: Array<{t: T; i: number}>}> => {
+ 	const runs: Array<{ltr: boolean; items: Array<{t: T; i: number}>}> = [];
++	if (TEXT_DIR === 'ltr') {
++		// LTR language: the container is already left-to-right; every word is its own wrap-able item
++		return tokens.map((t, i) => ({ltr: false, items: [{t, i}]}));
++	}
+ 	tokens.forEach((t, i) => {
+ 		const ltr = isLtr(t.text);
+ 		const last = runs[runs.length - 1];
+diff -ru kit_orig/overlays/graphics.tsx videostudio/remotion/src/kit/overlays/graphics.tsx
+--- kit_orig/overlays/graphics.tsx	2026-10-18 23:52:05.414235586 +0000
++++ videostudio/remotion/src/kit/overlays/graphics.tsx	2026-10-18 23:52:05.451210534 +0000
+@@ -1,5 +1,6 @@
+ // Drawn graphics: counters, hand-drawn arrows and circles, progress bar.
+ import {evolvePath} from '@remotion/paths';
++import {textDir} from '../bidi';
+ import React from 'react';
+ import {AbsoluteFill, Easing, interpolate, useCurrentFrame, useVideoConfig} from 'remotion';
+ import {envelope, num, popIn, progress, str} from '../anim';
+@@ -47,7 +48,7 @@
+ 			</div>
+ 			{ov.label ? (
+ 				<div
+-					dir="rtl"
++					dir={textDir()}
+ 					style={{
+ 						position: 'absolute',
+ 						left: 0,
+diff -ru kit_orig/overlays/text.tsx videostudio/remotion/src/kit/overlays/text.tsx
+--- kit_orig/overlays/text.tsx	2026-10-18 23:52:05.414148379 +0000
++++ videostudio/remotion/src/kit/overlays/text.tsx	2026-10-18 23:52:05.450674163 +0000
+@@ -3,7 +3,7 @@
+ import React from 'react';
+ import {AbsoluteFill, interpolate, useCurrentFrame, useVideoConfig} from 'remotion';
+ import {bob, envelope, num, popIn, progress, str} from '../anim';
+-import {toRuns} from '../bidi';
++import {toRuns, textDir} from '../bidi';
+ import {fontFamily, OUTLINE} from '../theme';
+ import type {OverlayProps} from './types';
+ 
+@@ -17,7 +17,7 @@
+ 	return (
+ 		<AbsoluteFill style={{opacity: out}}>
+ 			<div
+-				dir="rtl"
++				dir={textDir()}
+ 				style={{
+ 					position: 'absolute',
+ 					top: height * num(ov.y, 0.16),
+@@ -67,7 +67,7 @@
+ 	return (
+ 		<AbsoluteFill style={{opacity: out, justifyContent: 'center'}}>
+ 			<div
+-				dir="rtl"
++				dir={textDir()}
+ 				style={{
+ 					position: 'absolute',
+ 					top: height * num(ov.y, 0.4),
+@@ -127,7 +127,7 @@
+ 	return (
+ 		<AbsoluteFill style={{opacity: out}}>
+ 			<div
+-				dir="rtl"
++				dir={textDir()}
+ 				style={{
+ 					position: 'absolute',
+ 					left: width * num(ov.x, 0.5),
+@@ -163,7 +163,7 @@
+ 	return (
+ 		<AbsoluteFill style={{opacity: out}}>
+ 			<div
+-				dir="rtl"
++				dir={textDir()}
+ 				style={{
+ 					position: 'absolute',
+ 					right: width * 0.06,
+@@ -214,7 +214,7 @@
+ 				}}
+ 			>
+ 				<div
+-					dir="rtl"
++					dir={textDir()}
+ 					style={{
+ 						background: str(ov.bg, theme.accent),
+ 						color: str(ov.color, '#FFFFFF'),
+@@ -257,7 +257,7 @@
+ 	return (
+ 		<AbsoluteFill style={{opacity: out}}>
+ 			<div
+-				dir="rtl"
++				dir={textDir()}
+ 				style={{
+ 					position: 'absolute',
+ 					top: height * num(ov.y, 0.17),
+diff -ru kit_orig/scenes/info.tsx videostudio/remotion/src/kit/scenes/info.tsx
+--- kit_orig/scenes/info.tsx	2026-10-18 23:52:05.414562222 +0000
++++ videostudio/remotion/src/kit/scenes/info.tsx	2026-10-18 23:52:05.452164840 +0000
+@@ -3,6 +3,7 @@
+ // `startFrame` relative to the scene.
+ import {evolvePath} from '@remotion/paths';
+ import {Video} from '@remotion/media';
++import {textDir} from '../bidi';
+ import React from 'react';
+ import {AbsoluteFill, Easing, Img, interpolate, staticFile, useCurrentFrame, useVideoConfig} from 'remotion';
+ import {bob, num, popIn, progress, str, stageWidth} from '../anim';
+@@ -26,7 +27,7 @@
+ }) =>
+ 	t ? (
+ 		<div
+-			dir="rtl"
++			dir={textDir()}
+ 			style={{
+ 				fontFamily: family,
+ 				fontSize: 84 * k,
+@@ -68,7 +69,7 @@
+ 	const strike = progress(frame, 2, 12);
+ 	return (
+ 		<AbsoluteFill style={{justifyContent: 'center', alignItems: 'center'}}>
+-			<div dir="rtl" style={{display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 14 * k, marginTop: -120 * k}}>
++			<div dir={textDir()} style={{display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 14 * k, marginTop: -120 * k}}>
+ 				<Title t={ov.title} ink={ink} accent={theme.accent} family={fontFamily(theme.font)} k={k * 0.8} frame={frame} fps={fps} />
+ 				{ov.oldValue !== undefined ? (
+ 					<div style={{position: 'relative', fontFamily: fontFamily(theme.font), fontWeight: 800, fontSize: 90 * k, color: `${ink}88`}}>
+@@ -141,7 +142,7 @@
+ 	const card = ink === '#FFFFFF' ? 'rgba(255,255,255,0.08)' : 'rgba(0,0,0,0.06)';
+ 	return (
+ 		<AbsoluteFill style={{justifyContent: 'center', alignItems: 'center'}}>
+-			<div dir="rtl" style={{display: 'flex', flexDirection: 'column', gap: 22 * k, width: stage * 0.84, marginTop: -110 * k}}>
++			<div dir={textDir()} style={{display: 'flex', flexDirection: 'column', gap: 22 * k, width: stage * 0.84, marginTop: -110 * k}}>
+ 				<Title t={ov.title} ink={ink} accent={theme.accent} family={fontFamily(theme.displayFont)} k={k} frame={frame} fps={fps} />
+ 				{items.map((it, i) => {
+ 					const f0 = at(it, i, stagger);
+@@ -273,7 +274,7 @@
+ 	};
+ 	return (
+ 		<AbsoluteFill style={{justifyContent: 'center', alignItems: 'center'}}>
+-			<div dir="rtl" style={{width: stage * 0.9, marginTop: -100 * k}}>
++			<div dir={textDir()} style={{width: stage * 0.9, marginTop: -100 * k}}>
+ 				<Title t={ov.title} ink={ink} accent={theme.accent} family={fontFamily(theme.displayFont)} k={k} frame={frame} fps={fps} />
+ 				<div style={{display: 'flex', gap: 24 * k, marginTop: 30 * k, alignItems: 'stretch'}}>
+ 					{col(before, false, 4)}
+@@ -294,7 +295,7 @@
+ 	const stagger = Math.round(num(ov.stagger, 0.7) * fps);
+ 	return (
+ 		<AbsoluteFill style={{justifyContent: 'center', alignItems: 'center'}}>
+-			<div dir="rtl" style={{width: stage * 0.8, marginTop: -100 * k}}>
++			<div dir={textDir()} style={{width: stage * 0.8, marginTop: -100 * k}}>
+ 				<Title t={ov.title} ink={ink} accent={theme.accent} family={fontFamily(theme.displayFont)} k={k} frame={frame} fps={fps} />
+ 				<div style={{display: 'flex', flexDirection: 'column', gap: 0, marginTop: 30 * k}}>
+ 					{steps.map((st, i) => {
+@@ -361,7 +362,7 @@
+ 	const cell = Math.min((stage * 0.84) / cols, ((height * 0.7 - 110 * k) / rows - 85 * k) / 0.72);
+ 	return (
+ 		<AbsoluteFill style={{justifyContent: 'center', alignItems: 'center'}}>
+-			<div dir="rtl" style={{width: stage * 0.84, marginTop: -100 * k}}>
++			<div dir={textDir()} style={{width: stage * 0.84, marginTop: -100 * k}}>
+ 				<Title t={ov.title} ink={ink} accent={theme.accent} family={fontFamily(theme.displayFont)} k={k} frame={frame} fps={fps} />
+ 				<div style={{display: 'flex', flexWrap: 'wrap', justifyContent: 'center', marginTop: 24 * k, width: cell * cols, marginInline: 'auto'}}>
+ 					{items.map((it, i) => {
+@@ -436,7 +437,7 @@
+ 			<AbsoluteFill style={{background: `linear-gradient(to top, ${theme.bg}EE 0%, transparent 45%)`}} />
+ 			{ov.title ? (
+ 				<div
+-					dir="rtl"
++					dir={textDir()}
+ 					style={{
+ 						position: 'absolute',
+ 						left: width * 0.08,
+@@ -478,7 +479,7 @@
+ 	const stagger = Math.round(num(ov.stagger, 0.35) * fps);
+ 	return (
+ 		<AbsoluteFill style={{justifyContent: 'center', alignItems: 'center'}}>
+-			<div dir="rtl" style={{width: stage * 0.86, marginTop: -100 * k}}>
++			<div dir={textDir()} style={{width: stage * 0.86, marginTop: -100 * k}}>
+ 				<Title t={ov.title} ink={ink} accent={theme.accent} family={fontFamily(theme.displayFont)} k={k} frame={frame} fps={fps} />
+ 				<div style={{display: 'flex', alignItems: 'flex-end', gap: 26 * k, height: chartH, marginTop: 40 * k, borderBottom: `${3 * k}px solid ${ink}44`}}>
+ 					{bars.map((b, i) => {
+diff -ru kit_orig/scenes/kinetic.tsx videostudio/remotion/src/kit/scenes/kinetic.tsx
+--- kit_orig/scenes/kinetic.tsx	2026-10-18 23:52:05.414507815 +0000
++++ videostudio/remotion/src/kit/scenes/kinetic.tsx	2026-10-18 23:52:05.451639179 +0000
+@@ -3,7 +3,7 @@
+ import React from 'react';
+ import {AbsoluteFill, interpolate, spring, useCurrentFrame, useVideoConfig} from 'remotion';
+ import {num, popIn, str, stageWidth} from '../anim';
+-import {isLtr, splitTrailingPunct, toRuns} from '../bidi';
++import {isLtr, splitTrailingPunct, toRuns, textDir} from '../bidi';
+ import {fontFamily, OUTLINE} from '../theme';
+ import type {SceneProps} from './types';
+ 
+@@ -43,7 +43,7 @@
+ 		const visible = shown.slice(-4);
+ 		return (
+ 			<AbsoluteFill style={{justifyContent: 'center', alignItems: 'center'}}>
+-				<div dir="rtl" style={{display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 18 * k, width: stage * 0.84}}>
++				<div dir={textDir()} style={{display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 18 * k, width: stage * 0.84}}>
+ 					{visible.map((g, i) => {
+ 						const latest = i === visible.length - 1;
+ 						const p = popIn(frame - g[0].startFrame, fps, 0, 12);
+@@ -85,7 +85,7 @@
+ 	return (
+ 		<AbsoluteFill style={{justifyContent: 'center', alignItems: 'center'}}>
+ 			<div
+-				dir="rtl"
++				dir={textDir()}
+ 				style={{
+ 					display: 'flex',
+ 					flexWrap: 'wrap',
+@@ -146,7 +146,7 @@
+ 	const size = num(ov.size, 120) * k;
+ 	return (
+ 		<AbsoluteFill style={{justifyContent: 'center', alignItems: 'center'}}>
+-			<div dir="rtl" style={{display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 10 * k, width: stage * 0.86}}>
++			<div dir={textDir()} style={{display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 10 * k, width: stage * 0.86}}>
+ 				{ov.kicker ? (
+ 					<div
+ 						style={{
+diff -ru kit_orig/scenes/ui.tsx videostudio/remotion/src/kit/scenes/ui.tsx
+--- kit_orig/scenes/ui.tsx	2026-10-18 23:52:05.414669877 +0000
++++ videostudio/remotion/src/kit/scenes/ui.tsx	2026-10-18 23:52:05.452758653 +0000
+@@ -2,6 +2,7 @@
+ // browser) showing a screenshot/screen recording — or a landing page that "builds itself".
+ import {loadFont as loadMono} from '@remotion/google-fonts/JetBrainsMono';
+ import {Video} from '@remotion/media';
++import {textDir} from '../bidi';
+ import React from 'react';
+ import {AbsoluteFill, Img, interpolate, staticFile, useCurrentFrame, useVideoConfig} from 'remotion';
+ import {num, popIn, progress, str, stageWidth} from '../anim';
+@@ -38,7 +39,7 @@
+ 					transform: `scale(${0.9 + 0.1 * popIn(frame, fps)})`,
+ 				}}
+ 			>
+-				<div dir="rtl" style={{display: 'flex', alignItems: 'center', gap: 20 * k, padding: `${24 * k}px ${30 * k}px`, background: '#1F2C34'}}>
++				<div dir={textDir()} style={{display: 'flex', alignItems: 'center', gap: 20 * k, padding: `${24 * k}px ${30 * k}px`, background: '#1F2C34'}}>
+ 					<div style={{width: 70 * k, height: 70 * k, borderRadius: 999, background: theme.accent, display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 40 * k}}>
+ 						{str(ov.avatar, '🤖')}
+ 					</div>
+@@ -55,7 +56,7 @@
+ 						return (
+ 							<div key={`${m.f0}-${i}`} style={{display: 'flex', justifyContent: me ? 'flex-start' : 'flex-end'}}>
+ 								<div
+-									dir="rtl"
++									dir={textDir()}
+ 									style={{
+ 										maxWidth: '78%',
+ 										background: me ? '#005C4B' : '#202C33',
+@@ -159,7 +160,7 @@
+ 		? Math.floor(interpolate(frame, [6 + step, 6 + step * 3], [0, (mock.title ?? '').length], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'}))
+ 		: (mock.title ?? '').length;
+ 	return (
+-		<div dir="rtl" style={{width: '100%', height: '100%', background: '#FBFAF7', fontFamily: font, overflow: 'hidden'}}>
++		<div dir={textDir()} style={{width: '100%', height: '100%', background: '#FBFAF7', fontFamily: font, overflow: 'hidden'}}>
+ 			<div style={{display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: `${22 * k}px ${30 * k}px`, opacity: show(0), borderBottom: '1px solid #eee'}}>
+ 				<div style={{fontWeight: 900, fontSize: 30 * k, color: '#111'}}>{mock.brand ?? 'המותג'}</div>
+ 				<div style={{background: accent, color: '#fff', borderRadius: 99, padding: `${8 * k}px ${22 * k}px`, fontWeight: 800, fontSize: 22 * k}}>{mock.cta ?? 'להצטרפות'}</div>
+@@ -262,7 +263,7 @@
+ 			</div>
+ 			{ov.caption ? (
+ 				<div
+-					dir="rtl"
++					dir={textDir()}
+ 					style={{
+ 						position: 'absolute',
+ 						top: height * (landscape ? 0.05 : 0.07),
+diff -ru kit_orig/theme.ts videostudio/remotion/src/kit/theme.ts
+--- kit_orig/theme.ts	2026-10-18 23:52:05.413724147 +0000
++++ videostudio/remotion/src/kit/theme.ts	2026-10-18 23:52:05.453882148 +0000
+@@ -48,6 +48,7 @@
+ 	bg: '#000000',
+ 	font: 'Heebo',
+ 	displayFont: 'Secular One',
++	direction: 'rtl',
+ };
+ 
+ export const resolveTheme = (t: Theme | undefined): Required<Theme> => ({...DEFAULT_THEME, ...(t ?? {})});
+diff -ru kit_orig/types.ts videostudio/remotion/src/kit/types.ts
+--- kit_orig/types.ts	2026-10-18 23:52:05.414021342 +0000
++++ videostudio/remotion/src/kit/types.ts	2026-10-18 23:52:14.338395228 +0000
+@@ -7,6 +7,7 @@
+ 	bg?: string; // canvas background (visible behind 'contain'/'blur' footage)
+ 	font?: string; // caption + UI font (a key of FONT_LOADERS in theme.ts)
+ 	displayFont?: string; // titles / hook font
++	direction?: 'rtl' | 'ltr'; // text direction: rtl = Hebrew (default), ltr = Spanish/English
+ };
+ 
+ export type TransitionSpec = {
