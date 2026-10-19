@@ -161,15 +161,15 @@ const DATA = {
     { n: "Qwen3-TTS", s: "ok", st: "פעיל", d: "VoiceDesign, language=spanish: ‏0 θ, תמלול מושלם" },
     { n: "Video Studio", s: "warn", st: "תוקן בענן בלבד", d: "Patch לספרדית (LTR) קיים בריפו. עוד לא הוחל במחשב שלך" },
     { n: "Hugging Face", s: "warn", st: "קריאה בלבד", d: "הרצת Spaces כבויה בהגדרות המחבר (gradio=none)" },
-    { n: "Flux2 Klein 9B", s: "bad", st: "רישיון לא מסחרי", d: "שימש בפיילוטים. לגרסת פרסום: Klein 4B / Z-Image" },
+    { n: "Flux2 Klein 9B", s: "bad", st: "אסור לשימוש", d: "רישיון לא מסחרי. הוחלף ב-Klein 4B / Z-Image בכל התוכן" },
   ],
   projects: [
     {
-      name: "טיטו הפיל", tag: "C · צבעים וסידור", s: "ok", st: "Public · Made for Kids",
+      name: "טיטו הפיל", tag: "C · צבעים וסידור", s: "ok", st: "גרסה מסחרית בהפקה",
       title: "¡A ordenar los colores con Tito! 🐘",
       video: { id: "gPKBDFi0nss", url: "https://youtube.com/shorts/gPKBDFi0nss" },
-      meta: [["אורך", "32.2 שניות"], ["קובץ", "pilot_tito_v3_clean.mp4 + .es.srt"], ["פרטיות", "Public · Made for Kids"], ["כתוביות", "CC נפרד, לא צרוב"]],
-      next: ["פרק מלא 1: Cada juguete a su casita (2:20, Klein 4B) — בהפקה", "להחליף את הפיילוט (Klein 9B) לפני מונטיזציה", "Shorts המשך: גרביים, מגדל קוביות"],
+      meta: [["אורך", "32.2 שניות"], ["קובץ", "pilot_tito_v3_clean.mp4 + .es.srt"], ["פיילוט ישן", "Unlisted (Klein 9B) · לא יפורסם"], ["כתוביות", "CC נפרד, לא צרוב"]],
+      next: ["Short מסחרי (Klein 4B) → העלאה כ-Public + CC", "פרק מלא 1: Cada juguete a su casita (2:20, Klein 4B)", "Shorts המשך: גרביים, מגדל קוביות"],
     },
     {
       name: "נילו ההיפופוטם", tag: "B · שגרות (לשעבר Popo)", s: "idle", st: "פיילוט מוכן · לא הועלה",
@@ -185,6 +185,7 @@ const ANALYTICS = /*ANALYTICS*/{"taken": "2026-10-19 11:57 UTC", "channel": {"ti
 const GPU = {
   total: 30, used_before: 5.13, reserve_pct: 20,
   plan: [
+    { step: "S1: Short טיטו מסחרי — חדר + 18 פריימים (Klein 4B) + 9 קליפים", est: 0.9, state: "active" },
     { step: "L1: חדר + 48 פריימי מפתח (Klein 4B) + 5 שירים + קריינות", est: 1.0, state: "active" },
     { step: "L2: 24 קליפים (Wan 2.2 5B, 960x544), שתי הרצות במקביל", est: 2.6, state: "idle" },
     { step: "תיקונים: קליפים חוזרים לשוטים פגומים (עד 6)", est: 0.6, state: "idle" },
@@ -196,7 +197,7 @@ const LESSONS = [
   { src: "משוב אנושי", what: "כתוביות צרובות חוסמות את המסך לפעוטות", effect: "מסך נקי + קובץ CC נפרד בכל סרטון", state: "ok" },
   { src: "QC קליפים", what: "פה זז בלי סנכרון כשהזמרת שרה", effect: "מסגור על פעולה ועיניים, חיתוך קליפים אחרי פתיחת פה", state: "ok" },
   { src: "API שירים", what: "ACE-Step מדלג על שורות", effect: "5–6 גרסאות ובחירה לפי התאמת תמלול", state: "ok" },
-  { src: "רישיונות", what: "Klein 9B לא מסחרי", effect: "רק Klein 4B / Z-Image. להחליף את פיילוט טיטו לפני מונטיזציה", state: "warn" },
+  { src: "מדיניות (Roy)", what: "אין תוכן זמני; מחיקה פוגעת באלגוריתם", effect: "100% מודלים מסחריים מהפריים הראשון. Klein 9B אסור. הפיילוט הישן נשאר Unlisted", state: "ok" },
   { src: "Analytics", what: "ממתין לנתונים (24–48 שעות עיכוב)", effect: "יתעדכן אוטומטית", state: "idle" },
 ];
 

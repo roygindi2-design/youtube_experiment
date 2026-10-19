@@ -1,0 +1,442 @@
+[
+ {
+  "id": "s_room_k4",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Interior of a bright cozy playroom, vertical 9:16 composition, camera at child eye level. Light wooden floor, round pastel-pink rug, three EMPTY open toy boxes standing in a row on the floor, colored red, blue and yellow, nothing inside them. A red ball, a blue toy car, a yellow rubber duck and green blocks lie on the rug. Big window with soft daylight. The room is empty: no characters, no animals, no faces, no people."
+ },
+ {
+  "id": "s_T1_kf_s101",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the playroom from the first reference image. Medium-wide shot: the baby elephant sits on the rug while colorful toys tumble down around him, a red ball, a blue toy car, a yellow rubber duck and green blocks in mid-air, his big ears raised in surprise. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "s_room_k4"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "s_T1_kf_s202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the playroom from the first reference image. Medium-wide shot: the baby elephant sits on the rug while colorful toys tumble down around him, a red ball, a blue toy car, a yellow rubber duck and green blocks in mid-air, his big ears raised in surprise. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "s_room_k4"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "s_T2_kf_s101",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the playroom from the first reference image. Wide shot: the baby elephant stands proudly in front of three open toy boxes colored red, blue and yellow, trunk raised and pointing forward, determined smile. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "s_room_k4"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "s_T2_kf_s202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the playroom from the first reference image. Wide shot: the baby elephant stands proudly in front of three open toy boxes colored red, blue and yellow, trunk raised and pointing forward, determined smile. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "s_room_k4"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "s_T3_kf_s101",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the playroom from the first reference image. Medium shot: the baby elephant holds a shiny red ball curled in his trunk above the open red toy box. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "s_room_k4"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "s_T3_kf_s202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the playroom from the first reference image. Medium shot: the baby elephant holds a shiny red ball curled in his trunk above the open red toy box. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "s_room_k4"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "s_T4_kf_s101",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the playroom from the first reference image. Medium shot: the baby elephant pushes a small blue toy car with his trunk toward the open blue toy box. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "s_room_k4"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "s_T4_kf_s202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the playroom from the first reference image. Medium shot: the baby elephant pushes a small blue toy car with his trunk toward the open blue toy box. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "s_room_k4"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "s_T5_kf_s101",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the playroom from the first reference image. Wide shot: the baby elephant dances happily in the middle of the playroom, ears flapping, one foot raised, toys hopping toward their colored boxes. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "s_room_k4"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "s_T5_kf_s202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the playroom from the first reference image. Wide shot: the baby elephant dances happily in the middle of the playroom, ears flapping, one foot raised, toys hopping toward their colored boxes. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "s_room_k4"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "s_T5b_kf_s101",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the playroom from the first reference image. Wide shot: the baby elephant dances in a little circle in the middle of the playroom, ears flapping, toys hopping toward their colored boxes. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "s_room_k4"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "s_T5b_kf_s202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the playroom from the first reference image. Wide shot: the baby elephant dances in a little circle in the middle of the playroom, ears flapping, toys hopping toward their colored boxes. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "s_room_k4"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "s_T6_kf_s101",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the playroom from the first reference image. Close-up: the baby elephant holds a yellow rubber duck with his trunk above the BLUE toy box, head tilted, puzzled face. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "s_room_k4"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "s_T6_kf_s202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the playroom from the first reference image. Close-up: the baby elephant holds a yellow rubber duck with his trunk above the BLUE toy box, head tilted, puzzled face. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "s_room_k4"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "s_T7_kf_s101",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the playroom from the first reference image. Medium shot: the baby elephant happily places the yellow rubber duck into the YELLOW toy box, trunk raised in joy. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "s_room_k4"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "s_T7_kf_s202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the playroom from the first reference image. Medium shot: the baby elephant happily places the yellow rubber duck into the YELLOW toy box, trunk raised in joy. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "s_room_k4"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "s_T8_kf_s101",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the playroom from the first reference image. Wide shot: the tidy playroom, the baby elephant sits proudly next to the three full toy boxes, a red ball balanced on top of the red box. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "s_room_k4"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "s_T8_kf_s202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the playroom from the first reference image. Wide shot: the tidy playroom, the baby elephant sits proudly next to the three full toy boxes, a red ball balanced on top of the red box. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "s_room_k4"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "clip_T1",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Toys tumble down and bounce on the floor around the baby elephant, he flaps his big ears in surprise and covers his eyes with his trunk. Static camera.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "s_T1_kf_s101"
+  }
+ },
+ {
+  "id": "clip_T2",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant raises his trunk like a little trumpet and marches in place, determined and happy. Static camera.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "s_T2_kf_s101"
+  }
+ },
+ {
+  "id": "clip_T3",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant lifts the red ball with his trunk and drops it into the red box, it bounces inside, he smiles. Static camera.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "s_T3_kf_s101"
+  }
+ },
+ {
+  "id": "clip_T4",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant pushes the blue toy car with his trunk, it rolls and drops into the blue box. Gentle camera follow.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "s_T4_kf_s101"
+  }
+ },
+ {
+  "id": "clip_T5",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant dances and spins, ears flapping on the beat, toys hop by themselves into the matching colored boxes. Slight camera sway.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "s_T5_kf_s101"
+  }
+ },
+ {
+  "id": "clip_T5b",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant dances in a little circle, ears flapping, trunk swinging on the beat, toys hopping into their boxes. Slight camera sway.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "s_T5b_kf_s101"
+  }
+ },
+ {
+  "id": "clip_T6",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant hesitates holding the yellow duck over the blue box, tilts his head and blinks, puzzled. Slow push-in.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "s_T6_kf_s101"
+  }
+ },
+ {
+  "id": "clip_T7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant shakes his head no, moves the duck to the yellow box and drops it in, then raises his trunk and trumpets with joy. Static camera.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "s_T7_kf_s101"
+  }
+ },
+ {
+  "id": "clip_T8",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant sits proudly and smiles, then the red ball rolls off the box toward the camera and he gasps. Static camera.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "s_T8_kf_s101"
+  }
+ }
+]
