@@ -63,9 +63,45 @@ def auth_finish(redirect_url):
     print("token saved")
 
 
+def env_find(pattern):
+    """First environment variable whose NAME matches pattern (case-insensitive). Values are never printed."""
+    import re
+    for k, v in os.environ.items():
+        if re.search(pattern, k, re.I) and v.strip():
+            return k, v.strip()
+    return None, None
+
+
+def creds_from_env():
+    """Persistent secrets survive container resets. Priority:
+    1) a full token JSON (env name containing TOKEN_JSON / YT_TOKEN), 2) a refresh token (name containing REFRESH),
+    3) a pending consent redirect URL (value contains 'localhost:8765' and 'code=') -> completes auth-finish once."""
+    cfg = client_config()["installed"]
+    k, v = env_find(r"token_json|yt_token|youtube_token")
+    if v and v.startswith("{"):
+        return Credentials.from_authorized_user_info(json.loads(v))
+    k, v = env_find(r"refresh")
+    if v:
+        c = Credentials(None, refresh_token=v, client_id=cfg["client_id"], client_secret=cfg["client_secret"],
+                        token_uri=cfg["token_uri"])
+        c.refresh(Request())
+        return c
+    for name, val in os.environ.items():
+        if "localhost:8765" in val and "code=" in val and PENDING.exists():
+            try:
+                auth_finish(val)
+            except Exception as e:  # code expired or flow mismatch: re-consent needed
+                print(f"env redirect URL in {name} could not be used: {type(e).__name__}", file=sys.stderr)
+            break
+    return None
+
+
 def creds():
+    c = creds_from_env()
+    if c:
+        return c
     if not TOKEN.exists():
-        sys.exit("Not authorized yet: run auth-url / auth-finish")
+        sys.exit("Not authorized: set a refresh token secret in the environment, or run auth-url / auth-finish")
     c = Credentials.from_authorized_user_file(str(TOKEN))  # use whatever scopes were granted
     if not c.valid and c.refresh_token:
         c.refresh(Request())
