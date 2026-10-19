@@ -1,0 +1,31 @@
+1
+00:00:00,000 --> 00:00:02,520
+¡Uy! ¡Se cae!
+
+2
+00:00:04,220 --> 00:00:06,680
+¡Vamos a construir!
+
+3
+00:00:10,820 --> 00:00:14,910
+Un bloque verde, ¡abajo va!
+
+4
+00:00:14,960 --> 00:00:18,750
+Un bloque naranja, ¡arriba está!
+
+5
+00:00:18,800 --> 00:00:22,710
+Arriba, arriba, ¡más y más!
+
+6
+00:00:22,760 --> 00:00:26,800
+Mi torre de colores, ¡qué alta está!
+
+7
+00:00:26,980 --> 00:00:31,720
+El bloque morado… ¿al revés? ¡No, no!
+
+8
+00:00:32,600 --> 00:00:34,540
+¡Ya está la torre! ¡Tu-tuuu!

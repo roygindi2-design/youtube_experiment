@@ -1,21 +1,31 @@
 {
- "taken": "2026-10-19 18:58 UTC",
+ "taken": "2026-10-19 22:40 UTC",
  "channel": {
   "title": "Cantilandia",
   "id": "UCDwph5nbCbbl97Pu4gTyZUA",
   "subscribers": 0,
   "views": 0,
-  "videos": 2
+  "videos": 3
  },
  "videos": [
+  {
+   "id": "-cqaCh6sL5U",
+   "title": "Cada juguete a su casita 🐘 | Canción para ordenar los juguetes | Canciones Infantiles con Tito",
+   "published": "2026-10-19",
+   "privacy": "public",
+   "duration_s": 128,
+   "views": 0,
+   "likes": 1,
+   "comments": 0
+  },
   {
    "id": "6eCNeq7Z0W8",
    "title": "¡Calcetines de colores con Tito! 🐘🧦 | Canciones Infantiles #Shorts",
    "published": "2026-10-19",
    "privacy": "public",
    "duration_s": 38,
-   "views": 1,
-   "likes": 0,
+   "views": 2,
+   "likes": 1,
    "comments": 0
   },
   {
@@ -24,7 +34,7 @@
    "published": "2026-10-19",
    "privacy": "public",
    "duration_s": 33,
-   "views": 0,
+   "views": 2,
    "likes": 0,
    "comments": 0
   },

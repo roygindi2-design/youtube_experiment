@@ -1,0 +1,359 @@
+{
+ "out": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/s3build/tito_s3.mp4",
+ "fps": 30,
+ "size": [
+  1080,
+  1920
+ ],
+ "burn_captions": false,
+ "song": {
+  "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS2/out/tito_s3_torre_song_s3.wav",
+  "start": 0.0,
+  "gain_db": 0
+ },
+ "shots": [
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS2/out/tito_s3_torre_clip_B1_s7.mp4",
+   "in": 0.06,
+   "dur": 4.2,
+   "speed": 0.948,
+   "src_len": 3.982,
+   "shot": "B1@7",
+   "punch": {
+    "to": 1.25,
+    "dur": 0.45,
+    "cx": 0.5,
+    "cy": 0.32,
+    "settle": 1.15,
+    "shake": 10
+   },
+   "reverse": true
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS2/out/tito_s3_torre_clip_B2_s7.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "B2@7"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS2/out/tito_s3_torre_clip_B5_s19.mp4",
+   "in": 0.06,
+   "dur": 2.6,
+   "speed": 1.0,
+   "src_len": 2.6,
+   "shot": "B5@19"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS2/out/tito_s3_torre_clip_B3_s7.mp4",
+   "in": 0.06,
+   "dur": 4.14,
+   "speed": 0.962,
+   "src_len": 3.982,
+   "shot": "B3@7",
+   "hold": 0.101
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS2/out/tito_s3_torre_clip_B4_s7.mp4",
+   "in": 0.06,
+   "dur": 3.84,
+   "speed": 1.0,
+   "src_len": 3.84,
+   "shot": "B4@7"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS2/out/tito_s3_torre_clip_B5_s7.mp4",
+   "in": 0.06,
+   "dur": 3.96,
+   "speed": 1.0,
+   "src_len": 3.96,
+   "shot": "B5@7"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS2/out/tito_s3_torre_clip_B4_s19.mp4",
+   "in": 0.06,
+   "dur": 4.22,
+   "speed": 0.944,
+   "src_len": 3.982,
+   "shot": "B4@19",
+   "hold": 0.102
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS2/out/tito_s3_torre_clip_B6_s7.mp4",
+   "in": 0.06,
+   "dur": 5.62,
+   "speed": 0.8,
+   "src_len": 3.982,
+   "shot": "B6@7",
+   "hold": 0.743
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS2/out/tito_s3_torre_clip_B7_s7.mp4",
+   "in": 0.06,
+   "dur": 2.96,
+   "speed": 1.0,
+   "src_len": 2.96,
+   "shot": "B7@7"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS2/out/tito_s3_torre_clip_B8_s7.mp4",
+   "in": 0.06,
+   "dur": 2.5,
+   "speed": 1.0,
+   "src_len": 2.5,
+   "shot": "B8@7"
+  }
+ ],
+ "sfx": [],
+ "lines": [
+  {
+   "start": 0,
+   "end": 2.52,
+   "words": [
+    [
+     "¡Uy!",
+     0.0,
+     2.52
+    ],
+    [
+     "¡Se",
+     0.0,
+     2.52
+    ],
+    [
+     "cae!",
+     0.0,
+     2.52
+    ]
+   ]
+  },
+  {
+   "start": 4.22,
+   "end": 6.68,
+   "words": [
+    [
+     "¡Vamos",
+     4.32,
+     6.68
+    ],
+    [
+     "a",
+     4.32,
+     6.68
+    ],
+    [
+     "construir!",
+     4.32,
+     6.68
+    ]
+   ]
+  },
+  {
+   "start": 10.82,
+   "end": 14.94,
+   "words": [
+    [
+     "Un",
+     10.92,
+     14.94
+    ],
+    [
+     "bloque",
+     10.92,
+     14.94
+    ],
+    [
+     "verde,",
+     10.92,
+     14.94
+    ],
+    [
+     "¡abajo",
+     10.92,
+     14.94
+    ],
+    [
+     "va!",
+     10.92,
+     14.94
+    ]
+   ]
+  },
+  {
+   "start": 14.96,
+   "end": 18.82,
+   "words": [
+    [
+     "Un",
+     15.06,
+     18.82
+    ],
+    [
+     "bloque",
+     15.06,
+     18.82
+    ],
+    [
+     "naranja,",
+     15.06,
+     18.82
+    ],
+    [
+     "¡arriba",
+     15.06,
+     18.82
+    ],
+    [
+     "está!",
+     15.06,
+     18.82
+    ]
+   ]
+  },
+  {
+   "start": 18.8,
+   "end": 22.81,
+   "words": [
+    [
+     "Arriba,",
+     18.9,
+     22.81
+    ],
+    [
+     "arriba,",
+     18.9,
+     22.81
+    ],
+    [
+     "¡más",
+     18.9,
+     22.81
+    ],
+    [
+     "y",
+     18.9,
+     22.81
+    ],
+    [
+     "más!",
+     18.9,
+     22.81
+    ]
+   ]
+  },
+  {
+   "start": 22.76,
+   "end": 26.8,
+   "words": [
+    [
+     "Mi",
+     22.86,
+     26.8
+    ],
+    [
+     "torre",
+     22.86,
+     26.8
+    ],
+    [
+     "de",
+     22.86,
+     26.8
+    ],
+    [
+     "colores,",
+     22.86,
+     26.8
+    ],
+    [
+     "¡qué",
+     22.86,
+     26.8
+    ],
+    [
+     "alta",
+     22.86,
+     26.8
+    ],
+    [
+     "está!",
+     22.86,
+     26.8
+    ]
+   ]
+  },
+  {
+   "start": 26.98,
+   "end": 31.72,
+   "words": [
+    [
+     "El",
+     27.08,
+     31.720000000000002
+    ],
+    [
+     "bloque",
+     27.08,
+     31.720000000000002
+    ],
+    [
+     "morado…",
+     27.08,
+     31.720000000000002
+    ],
+    [
+     "¿al",
+     27.08,
+     31.720000000000002
+    ],
+    [
+     "revés?",
+     27.08,
+     31.720000000000002
+    ],
+    [
+     "¡No,",
+     27.08,
+     31.720000000000002
+    ],
+    [
+     "no!",
+     27.08,
+     31.720000000000002
+    ]
+   ]
+  },
+  {
+   "start": 32.6,
+   "end": 34.54,
+   "words": [
+    [
+     "¡Ya",
+     32.7,
+     34.54
+    ],
+    [
+     "está",
+     32.7,
+     34.54
+    ],
+    [
+     "la",
+     32.7,
+     34.54
+    ],
+    [
+     "torre!",
+     32.7,
+     34.54
+    ],
+    [
+     "¡Tu-tuuu!",
+     32.7,
+     34.54
+    ]
+   ]
+  }
+ ]
+}

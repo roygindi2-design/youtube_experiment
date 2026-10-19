@@ -132,6 +132,8 @@ def main():
             vf += (f",scale={int(W * zf) // 2 * 2}:{int(H * zf) // 2 * 2}:flags=lanczos,"
                    f"crop={W}:{H}:x='(iw-{W})*{frame.get('cx', 0.5)}':y='(ih-{H})*{frame.get('cy', 0.5)}'")
         vf += ",format=yuv420p"
+        if s.get("reverse"):  # play the clip backwards (still one clip's own motion, never a blend)
+            vf = "reverse," + vf
         src_len = s.get("src_len", s["dur"] * speed)  # how much of the source to read (stops before a QC glitch)
         if s.get("hold"):  # freeze the last clean frame for the rest of the shot (tpad clone)
             vf = vf.replace(f"setpts=PTS/{speed},", f"setpts=PTS/{speed},tpad=stop_mode=clone:stop_duration={s['hold']},", 1)

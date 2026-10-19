@@ -1,7 +1,7 @@
 """Edit for a Tito Short (one shot per lyric line), 1080x1920, hard cuts only, clean picture + .es.srt.
 
     python production/pilots/make_short_edit.py <spec.json> <clips_dir> <song_scores.json> <out.mp4>
-        [--plan "1:A1 2:A2 5a:A5 5b:A3@19 ... tail:A8@7:2.5"] [--seed A1=19 ...] [--extra A3='{"until":2.1}']
+        [--plan "1:A1 2:A2 5a:A5 5b:A3@19 ... tail:A8@7:2.5"] [--seed A1=19 ...] [--extra A3='{"until":2.1}'] [--split 2=4.0]
 
 --plan maps lyric lines to shots (default: line i -> shot i). "5a"/"5b" split line 5 at its middle sung word,
 so a long chorus line gets two short shots instead of a long freeze. "@19" picks the seed. "tail:SHOT@seed:dur"
@@ -45,6 +45,7 @@ def main():
     take = json.loads(Path(scores_f).read_text())[0]
     lyric_lines = [l for l in spec["lyrics"].splitlines() if l.strip() and not l.startswith("[")]
     shots_ids = [s[0] if isinstance(s, list) else s["id"] for s in spec["shots"]]
+    splits = {k: float(v) for k, v in (t.split("=") for i, t in enumerate(args) if i and args[i - 1] == "--split")}
     plan = args[args.index("--plan") + 1].split() if "--plan" in args else [f"{i + 1}:{sid}" for i, sid in enumerate(shots_ids)]
 
     # align lyric words to the sung (Whisper) words
@@ -83,6 +84,8 @@ def main():
         if key[-1] in "ab":
             mid = (starts[li] + ends[li]) / 2
             split = min(words_t[li], key=lambda t: abs(t - mid)) - 0.12
+            if f"{li + 1}" in splits:  # --split 2=4.0: the "a" part lasts 4.0 s (e.g. line + long instrumental)
+                split = a + splits[f"{li + 1}"]
             a, b = (a, split) if key[-1] == "a" else (split, b)
         segs.append([max(0.0, a), b, shot])
     segs.sort(key=lambda x: x[0])
@@ -108,7 +111,7 @@ def main():
             s["hold"] = round(dur - usable / speed + 0.1, 3)
         if i == 0:
             s["punch"] = {"to": 1.25, "dur": 0.45, "cx": 0.5, "cy": 0.32, "settle": 1.15, "shake": 10}
-        s.update({k: v for k, v in x.items() if k in ("punch", "frame")})
+        s.update({k: v for k, v in x.items() if k in ("punch", "frame", "reverse")})
         shots.append(s)
     lines = []
     for li, l in enumerate(lyric_lines):
