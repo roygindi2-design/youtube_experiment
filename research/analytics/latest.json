@@ -1,13 +1,24 @@
 {
- "taken": "2026-10-19 22:40 UTC",
+ "taken": "2026-10-19 22:57 UTC",
  "channel": {
   "title": "Cantilandia",
   "id": "UCDwph5nbCbbl97Pu4gTyZUA",
   "subscribers": 0,
   "views": 0,
-  "videos": 3
+  "videos": 4
  },
  "videos": [
+  {
+   "id": "gxH1p0Sp59g",
+   "title": "¡La torre de colores de Tito! 🐘🧱 | Canciones Infantiles #Shorts",
+   "published": "2026-10-19",
+   "privacy": "public",
+   "duration_s": 39,
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "retention_curve": []
+  },
   {
    "id": "-cqaCh6sL5U",
    "title": "Cada juguete a su casita 🐘 | Canción para ordenar los juguetes | Canciones Infantiles con Tito",
@@ -15,8 +26,9 @@
    "privacy": "public",
    "duration_s": 128,
    "views": 0,
-   "likes": 1,
-   "comments": 0
+   "likes": 0,
+   "comments": 0,
+   "retention_curve": []
   },
   {
    "id": "6eCNeq7Z0W8",
@@ -26,7 +38,8 @@
    "duration_s": 38,
    "views": 2,
    "likes": 1,
-   "comments": 0
+   "comments": 0,
+   "retention_curve": []
   },
   {
    "id": "owjvOANiAy4",
@@ -36,7 +49,8 @@
    "duration_s": 33,
    "views": 2,
    "likes": 0,
-   "comments": 0
+   "comments": 0,
+   "retention_curve": []
   },
   {
    "id": "oNcoDrj0HL8",
@@ -46,7 +60,8 @@
    "duration_s": 33,
    "views": 7,
    "likes": 1,
-   "comments": 0
+   "comments": 0,
+   "retention_curve": []
   },
   {
    "id": "gPKBDFi0nss",
@@ -56,8 +71,9 @@
    "duration_s": 33,
    "views": 4,
    "likes": 1,
-   "comments": 0
+   "comments": 0,
+   "retention_curve": []
   }
  ],
- "analytics_api": "missing scope yt-analytics.readonly (re-consent needed)"
+ "analytics_api": "ok"
 }
