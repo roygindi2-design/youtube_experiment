@@ -1,0 +1,128 @@
+[
+ {
+  "id": "clip_T1",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Toys tumble down and bounce on the floor around the baby elephant, he flaps his big ears in surprise and covers his eyes with his trunk. Static camera.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "inputs": {
+   "image_start": "kf_T1.jpg"
+  }
+ },
+ {
+  "id": "clip_T2",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant raises his trunk like a little trumpet and marches in place, determined and happy. Static camera.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "inputs": {
+   "image_start": "kf_T2.jpg"
+  }
+ },
+ {
+  "id": "clip_T3",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant lifts the red ball with his trunk and drops it into the red box, it bounces inside, he smiles. Static camera.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "inputs": {
+   "image_start": "kf_T3.jpg"
+  }
+ },
+ {
+  "id": "clip_T4",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant pushes the blue toy car with his trunk, it rolls and drops into the blue box. Gentle camera follow.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "inputs": {
+   "image_start": "kf_T4.jpg"
+  }
+ },
+ {
+  "id": "clip_T5",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant dances and spins, ears flapping on the beat, toys hop by themselves into the matching colored boxes. Slight camera sway.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "inputs": {
+   "image_start": "kf_T5.jpg"
+  }
+ },
+ {
+  "id": "clip_T6",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant hesitates holding the yellow duck over the blue box, tilts his head and blinks, puzzled. Slow push-in.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "inputs": {
+   "image_start": "kf_T6.jpg"
+  }
+ },
+ {
+  "id": "clip_T7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant shakes his head no, moves the duck to the yellow box and drops it in, then raises his trunk and trumpets with joy. Static camera.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "inputs": {
+   "image_start": "kf_T7.jpg"
+  }
+ },
+ {
+  "id": "clip_T8",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant sits proudly and smiles, then the red ball rolls off the box toward the camera and he gasps. Static camera.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "inputs": {
+   "image_start": "kf_T8.jpg"
+  }
+ },
+ {
+  "id": "clip_T5b",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant dances in a little circle, ears flapping, trunk swinging on the beat, toys hopping into their boxes. Slight camera sway.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "inputs": {
+   "image_start": "kf_T5b.jpg"
+  }
+ }
+]

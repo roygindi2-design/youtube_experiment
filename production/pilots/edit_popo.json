@@ -1,0 +1,336 @@
+{
+ "out": "/home/user/youtube_experiment/production/pilots/build/animatic_popo.mp4",
+ "fps": 30,
+ "song": {
+  "file": "/home/user/youtube_experiment/production/pilots/build/song_popo.wav",
+  "start": 0.0,
+  "gain_db": 0
+ },
+ "shots": [
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_P1.mp4",
+   "in": 0.0,
+   "dur": 2.736,
+   "speed": 1.0,
+   "shot": "P1"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_P2.mp4",
+   "in": 0.0,
+   "dur": 2.83,
+   "speed": 1.0,
+   "shot": "P2"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_P2b.mp4",
+   "in": 0.0,
+   "dur": 2.83,
+   "speed": 1.0,
+   "shot": "P2b"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_P3.mp4",
+   "in": 0.0,
+   "dur": 4.151,
+   "speed": 0.974,
+   "shot": "P3"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_P4.mp4",
+   "in": 0.0,
+   "dur": 3.396,
+   "speed": 1.0,
+   "shot": "P4"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_P5.mp4",
+   "in": 0.0,
+   "dur": 3.868,
+   "speed": 1.0,
+   "shot": "P5"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_P6.mp4",
+   "in": 0.0,
+   "dur": 4.529,
+   "speed": 0.892,
+   "shot": "P6"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_P7.mp4",
+   "in": 0.0,
+   "dur": 3.49,
+   "speed": 1.0,
+   "shot": "P7"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_P8.mp4",
+   "in": 0.0,
+   "dur": 4.812,
+   "speed": 0.84,
+   "shot": "P8"
+  }
+ ],
+ "sfx": [
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/videostudio/tools/studio/assets/sfx/bubble.wav",
+   "at": 0.0,
+   "gain_db": -9
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/videostudio/tools/studio/assets/sfx/pop.wav",
+   "at": 3.396,
+   "gain_db": -10
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/videostudio/tools/studio/assets/sfx/pluck.wav",
+   "at": 9.057,
+   "gain_db": -12
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/videostudio/tools/studio/assets/sfx/sparkle.wav",
+   "at": 23.113,
+   "gain_db": -10
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/videostudio/tools/studio/assets/sfx/sparkle.wav",
+   "at": 28.491,
+   "gain_db": -9
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/videostudio/tools/studio/assets/sfx/pop.wav",
+   "at": 31.132,
+   "gain_db": -8
+  }
+ ],
+ "lines": [
+  {
+   "start": -0.103,
+   "end": 2.075,
+   "words": [
+    [
+     "¡Aaah!",
+     0.047,
+     0.947
+    ]
+   ]
+  },
+  {
+   "start": 2.642,
+   "end": 6.038,
+   "words": [
+    [
+     "¿Listos?",
+     2.792,
+     3.692
+    ],
+    [
+     "¡A",
+     3.925,
+     4.736
+    ],
+    [
+     "cepillar!",
+     4.736,
+     5.636
+    ]
+   ]
+  },
+  {
+   "start": 8.284,
+   "end": 12.358,
+   "words": [
+    [
+     "Un",
+     8.434,
+     8.868
+    ],
+    [
+     "poquito",
+     8.868,
+     9.226
+    ],
+    [
+     "de",
+     9.226,
+     9.887
+    ],
+    [
+     "pasta,",
+     9.887,
+     10.787
+    ],
+    [
+     "¡mira",
+     10.849,
+     11.208
+    ],
+    [
+     "qué",
+     11.208,
+     11.491
+    ],
+    [
+     "color!",
+     11.491,
+     12.358
+    ]
+   ]
+  },
+  {
+   "start": 12.416,
+   "end": 15.943,
+   "words": [
+    [
+     "Muevo",
+     12.566,
+     13.132
+    ],
+    [
+     "el",
+     13.132,
+     13.491
+    ],
+    [
+     "cepillo",
+     13.491,
+     14.264
+    ],
+    [
+     "con",
+     14.264,
+     14.868
+    ],
+    [
+     "mucho",
+     14.868,
+     15.453
+    ],
+    [
+     "amor.",
+     15.453,
+     15.943
+    ]
+   ]
+  },
+  {
+   "start": 15.85,
+   "end": 19.858,
+   "words": [
+    [
+     "Arriba",
+     16.0,
+     16.849
+    ],
+    [
+     "y",
+     16.849,
+     17.34
+    ],
+    [
+     "abajo,",
+     17.34,
+     18.0
+    ],
+    [
+     "¡cepi,",
+     18.0,
+     18.9
+    ],
+    [
+     "cepi,",
+     18.981,
+     19.396
+    ],
+    [
+     "cepi!",
+     19.396,
+     19.858
+    ]
+   ]
+  },
+  {
+   "start": 19.737,
+   "end": 24.151,
+   "words": [
+    [
+     "Adelante",
+     19.887,
+     20.377
+    ],
+    [
+     "y",
+     20.377,
+     21.132
+    ],
+    [
+     "atrás,",
+     21.132,
+     21.887
+    ],
+    [
+     "¡dientes",
+     21.887,
+     22.642
+    ],
+    [
+     "con",
+     22.642,
+     23.151
+    ],
+    [
+     "brillo!",
+     23.151,
+     24.051
+    ]
+   ]
+  },
+  {
+   "start": 24.227,
+   "end": 27.736,
+   "words": [
+    [
+     "Enjuago,",
+     24.377,
+     25.277
+    ],
+    [
+     "¡ya",
+     25.849,
+     26.749
+    ],
+    [
+     "terminé!",
+     26.849,
+     27.736
+    ]
+   ]
+  },
+  {
+   "start": 27.756,
+   "end": 32.264,
+   "words": [
+    [
+     "¡Sonrisa",
+     27.906,
+     28.806
+    ],
+    [
+     "brillante!",
+     30.283,
+     31.183
+    ]
+   ]
+  }
+ ],
+ "font": "Fredoka",
+ "font_file": "/home/user/youtube_experiment/production/fonts/Fredoka.ttf",
+ "font_size": 92,
+ "outline": 9,
+ "colors": {
+  "text": "#FFFFFF",
+  "active": "#FFD23F",
+  "outline": "#5B3B9C"
+ },
+ "caption_y": 0.8
+}

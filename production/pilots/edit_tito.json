@@ -1,0 +1,406 @@
+{
+ "out": "/home/user/youtube_experiment/production/pilots/build/pilot_tito.mp4",
+ "fps": 30,
+ "song": {
+  "file": "/home/user/youtube_experiment/production/pilots/build/song_tito.wav",
+  "start": 0.0,
+  "gain_db": 0
+ },
+ "shots": [
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_T1.mp4",
+   "in": 0.0,
+   "dur": 3.396,
+   "speed": 1.0,
+   "shot": "T1"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_T2.mp4",
+   "in": 0.0,
+   "dur": 4.434,
+   "speed": 0.912,
+   "shot": "T2"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_T3.mp4",
+   "in": 0.0,
+   "dur": 4.151,
+   "speed": 0.974,
+   "shot": "T3"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_T4.mp4",
+   "in": 0.0,
+   "dur": 3.208,
+   "speed": 1.0,
+   "shot": "T4"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_T5.mp4",
+   "in": 0.0,
+   "dur": 4.056,
+   "speed": 0.996,
+   "shot": "T5"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_T5b.mp4",
+   "in": 0.0,
+   "dur": 3.491,
+   "speed": 1.0,
+   "shot": "T5b"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_T6.mp4",
+   "in": 0.0,
+   "dur": 3.962,
+   "speed": 1.0,
+   "shot": "T6"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_T7.mp4",
+   "in": 0.0,
+   "dur": 2.83,
+   "speed": 1.0,
+   "shot": "T7"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_T8.mp4",
+   "in": 0.0,
+   "dur": 2.642,
+   "speed": 1.0,
+   "shot": "T8"
+  }
+ ],
+ "sfx": [
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/videostudio/tools/studio/assets/sfx/thud.wav",
+   "at": 0.142,
+   "gain_db": -10
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/videostudio/tools/studio/assets/sfx/thud.wav",
+   "at": 0.519,
+   "gain_db": -12
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/videostudio/tools/studio/assets/sfx/thud.wav",
+   "at": 0.849,
+   "gain_db": -13
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/videostudio/tools/studio/assets/sfx/ding.wav",
+   "at": 11.038,
+   "gain_db": -12
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/videostudio/tools/studio/assets/sfx/ding.wav",
+   "at": 14.811,
+   "gain_db": -12
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/videostudio/tools/studio/assets/sfx/ding.wav",
+   "at": 17.83,
+   "gain_db": -14
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/videostudio/tools/studio/assets/sfx/ding.wav",
+   "at": 18.302,
+   "gain_db": -14
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/videostudio/tools/studio/assets/sfx/ding.wav",
+   "at": 18.585,
+   "gain_db": -14
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/videostudio/tools/studio/assets/sfx/question.wav",
+   "at": 24.811,
+   "gain_db": -10
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/videostudio/tools/studio/assets/sfx/success-soft.wav",
+   "at": 29.717,
+   "gain_db": -10
+  }
+ ],
+ "lines": [
+  {
+   "start": -0.103,
+   "end": 1.698,
+   "words": [
+    [
+     "¡Uy!",
+     0.047,
+     0.947
+    ]
+   ]
+  },
+  {
+   "start": 2.284,
+   "end": 6.226,
+   "words": [
+    [
+     "¡Qué",
+     2.434,
+     3.283
+    ],
+    [
+     "desorden!",
+     3.283,
+     3.925
+    ],
+    [
+     "¡A",
+     3.925,
+     4.825
+    ],
+    [
+     "ordenar!",
+     4.962,
+     5.862
+    ]
+   ]
+  },
+  {
+   "start": 7.756,
+   "end": 11.887,
+   "words": [
+    [
+     "La",
+     7.906,
+     8.453
+    ],
+    [
+     "pelota",
+     8.453,
+     9.038
+    ],
+    [
+     "roja,",
+     9.038,
+     9.906
+    ],
+    [
+     "a",
+     9.906,
+     10.415
+    ],
+    [
+     "la",
+     10.415,
+     10.585
+    ],
+    [
+     "caja",
+     10.585,
+     10.981
+    ],
+    [
+     "roja.",
+     10.981,
+     11.881
+    ]
+   ]
+  },
+  {
+   "start": 11.869,
+   "end": 15.189,
+   "words": [
+    [
+     "El",
+     12.019,
+     12.321
+    ],
+    [
+     "carrito",
+     12.321,
+     12.792
+    ],
+    [
+     "azul,",
+     12.792,
+     13.302
+    ],
+    [
+     "a",
+     13.302,
+     13.717
+    ],
+    [
+     "la",
+     13.717,
+     13.83
+    ],
+    [
+     "caja",
+     13.83,
+     14.73
+    ],
+    [
+     "azul.",
+     14.755,
+     15.189
+    ]
+   ]
+  },
+  {
+   "start": 15.133,
+   "end": 19.245,
+   "words": [
+    [
+     "Cada",
+     15.283,
+     16.038
+    ],
+    [
+     "juguete",
+     16.038,
+     16.604
+    ],
+    [
+     "a",
+     16.604,
+     16.792
+    ],
+    [
+     "su",
+     16.792,
+     16.943
+    ],
+    [
+     "casita,",
+     16.943,
+     17.792
+    ],
+    [
+     "¡uno,",
+     17.792,
+     18.264
+    ],
+    [
+     "dos,",
+     18.264,
+     18.566
+    ],
+    [
+     "tres!",
+     18.566,
+     19.245
+    ]
+   ]
+  },
+  {
+   "start": 19.152,
+   "end": 22.736,
+   "words": [
+    [
+     "Cada",
+     19.302,
+     19.811
+    ],
+    [
+     "juguete",
+     19.811,
+     20.358
+    ],
+    [
+     "a",
+     20.358,
+     20.566
+    ],
+    [
+     "su",
+     20.566,
+     20.755
+    ],
+    [
+     "casita,",
+     20.755,
+     21.509
+    ],
+    [
+     "¡qué",
+     21.509,
+     21.679
+    ],
+    [
+     "bonito",
+     21.679,
+     22.094
+    ],
+    [
+     "es!",
+     22.094,
+     22.736
+    ]
+   ]
+  },
+  {
+   "start": 22.699,
+   "end": 26.981,
+   "words": [
+    [
+     "El",
+     22.849,
+     23.226
+    ],
+    [
+     "patito",
+     23.226,
+     23.981
+    ],
+    [
+     "amarillo…",
+     23.981,
+     24.881
+    ],
+    [
+     "¿aquí?",
+     24.925,
+     25.566
+    ],
+    [
+     "¡No!",
+     25.566,
+     26.466
+    ]
+   ]
+  },
+  {
+   "start": 27.624,
+   "end": 31.698,
+   "words": [
+    [
+     "¡A",
+     27.774,
+     28.434
+    ],
+    [
+     "la",
+     28.434,
+     28.83
+    ],
+    [
+     "caja",
+     28.83,
+     29.566
+    ],
+    [
+     "amarilla!",
+     29.566,
+     30.466
+    ]
+   ]
+  }
+ ],
+ "font": "Fredoka",
+ "font_file": "/home/user/youtube_experiment/production/fonts/Fredoka.ttf",
+ "font_size": 92,
+ "outline": 9,
+ "colors": {
+  "text": "#FFFFFF",
+  "active": "#FF6B6B",
+  "outline": "#1F4E8C"
+ },
+ "caption_y": 0.8
+}
