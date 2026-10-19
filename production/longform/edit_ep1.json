@@ -1,0 +1,1119 @@
+{
+ "out": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/ep1build/tito_ep1.mp4",
+ "fps": 30,
+ "size": [
+  1920,
+  1080
+ ],
+ "burn_captions": false,
+ "song": {
+  "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL1/out/lf_song_s3.wav",
+  "start": 0.0,
+  "gain_db": -1
+ },
+ "shots": [
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L01_s7.mp4",
+   "in": 0.06,
+   "dur": 4.4,
+   "speed": 0.905,
+   "src_len": 3.982,
+   "shot": "L01@7",
+   "hold": 0.1
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L03_s7.mp4",
+   "in": 0.06,
+   "dur": 4.3,
+   "speed": 0.926,
+   "src_len": 3.982,
+   "shot": "L03@7",
+   "hold": 0.1
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L05_s19.mp4",
+   "in": 0.06,
+   "dur": 3.8,
+   "speed": 1.0,
+   "src_len": 3.8,
+   "shot": "L05@19"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L06_s19.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "L06@19"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L07_s7.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "L07@7"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L09_s7.mp4",
+   "in": 0.06,
+   "dur": 3.6,
+   "speed": 1.0,
+   "src_len": 3.6,
+   "shot": "L09@7"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L08_s7.mp4",
+   "in": 0.06,
+   "dur": 4.4,
+   "speed": 0.905,
+   "src_len": 3.982,
+   "shot": "L08@7",
+   "hold": 0.1
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L12_s7.mp4",
+   "in": 0.06,
+   "dur": 3.9,
+   "speed": 1.0,
+   "src_len": 3.9,
+   "shot": "L12@7"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L10_s7.mp4",
+   "in": 0.06,
+   "dur": 4.1,
+   "speed": 0.971,
+   "src_len": 3.981,
+   "shot": "L10@7"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L11_s7.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "L11@7"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L20_s7.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "L20@7"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L02_s19.mp4",
+   "in": 0.06,
+   "dur": 3.5,
+   "speed": 1.0,
+   "src_len": 3.5,
+   "shot": "L02@19"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L07_s19.mp4",
+   "in": 0.06,
+   "dur": 4.4,
+   "speed": 0.905,
+   "src_len": 3.982,
+   "shot": "L07@19",
+   "hold": 0.1
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L12_s19.mp4",
+   "in": 0.06,
+   "dur": 4.2,
+   "speed": 0.948,
+   "src_len": 3.982,
+   "shot": "L12@19"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L13_s7.mp4",
+   "in": 0.06,
+   "dur": 3.0,
+   "speed": 1.0,
+   "src_len": 3.0,
+   "shot": "L13@7"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L14_s19.mp4",
+   "in": 0.06,
+   "dur": 2.0,
+   "speed": 1.0,
+   "src_len": 2.0,
+   "shot": "L14@19"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L15_s19.mp4",
+   "in": 1.2,
+   "dur": 2.9,
+   "speed": 0.98,
+   "src_len": 2.842,
+   "shot": "L15@19",
+   "hold": 0.1
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L16_s7.mp4",
+   "in": 0.06,
+   "dur": 1.9,
+   "speed": 0.8,
+   "src_len": 1.34,
+   "shot": "L16@7",
+   "hold": 0.325
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L17_s7.mp4",
+   "in": 0.06,
+   "dur": 6.1,
+   "speed": 0.8,
+   "src_len": 3.982,
+   "shot": "L17@7",
+   "hold": 1.223
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L18_s7.mp4",
+   "in": 0.06,
+   "dur": 1.9,
+   "speed": 0.968,
+   "src_len": 1.839,
+   "shot": "L18@7"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L18_s19.mp4",
+   "in": 2.0,
+   "dur": 2.2,
+   "speed": 0.928,
+   "src_len": 2.042,
+   "shot": "L18@19"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L19_s7.mp4",
+   "in": 0.06,
+   "dur": 3.8,
+   "speed": 1.0,
+   "src_len": 3.8,
+   "shot": "L19@7"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L21_s7.mp4",
+   "in": 0.06,
+   "dur": 4.1,
+   "speed": 0.971,
+   "src_len": 3.981,
+   "shot": "L21@7"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L08_s19.mp4",
+   "in": 0.06,
+   "dur": 3.9,
+   "speed": 1.0,
+   "src_len": 3.9,
+   "shot": "L08@19"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L04_s7.mp4",
+   "in": 0.06,
+   "dur": 4.2,
+   "speed": 0.948,
+   "src_len": 3.982,
+   "shot": "L04@7"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L22_s7.mp4",
+   "in": 0.06,
+   "dur": 4.2,
+   "speed": 0.948,
+   "src_len": 3.982,
+   "shot": "L22@7"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L03_s19.mp4",
+   "in": 0.06,
+   "dur": 3.7,
+   "speed": 1.0,
+   "src_len": 3.7,
+   "shot": "L03@19"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L22_s19.mp4",
+   "in": 0.06,
+   "dur": 3.6,
+   "speed": 1.0,
+   "src_len": 3.6,
+   "shot": "L22@19"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L20_s19.mp4",
+   "in": 0.06,
+   "dur": 4.3,
+   "speed": 0.926,
+   "src_len": 3.982,
+   "shot": "L20@19",
+   "hold": 0.1
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L21_s19.mp4",
+   "in": 0.06,
+   "dur": 3.7,
+   "speed": 1.0,
+   "src_len": 3.7,
+   "shot": "L21@19"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L17_s19.mp4",
+   "in": 0.06,
+   "dur": 4.3,
+   "speed": 0.926,
+   "src_len": 3.982,
+   "shot": "L17@19",
+   "hold": 0.1
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L23_s7.mp4",
+   "in": 0.06,
+   "dur": 5.1,
+   "speed": 0.8,
+   "src_len": 3.982,
+   "shot": "L23@7",
+   "hold": 0.223
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL2/clips/lf_clip_L23_s19.mp4",
+   "in": 0.06,
+   "dur": 5.7,
+   "speed": 0.8,
+   "src_len": 3.982,
+   "shot": "L23@19",
+   "hold": 0.823
+  }
+ ],
+ "sfx": [
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobL1/out/lf_narr_outro_s1.wav",
+   "at": 121.8,
+   "gain_db": 2
+  }
+ ],
+ "lines": [
+  {
+   "start": 0.0,
+   "end": 1.6,
+   "words": [
+    [
+     "¡Uy!",
+     0.0,
+     1.6
+    ]
+   ]
+  },
+  {
+   "start": 1.8,
+   "end": 4.3,
+   "words": [
+    [
+     "¡Qué",
+     1.8,
+     4.3
+    ],
+    [
+     "desorden!",
+     1.8,
+     4.3
+    ]
+   ]
+  },
+  {
+   "start": 5.4,
+   "end": 7.6,
+   "words": [
+    [
+     "¡Vamos",
+     5.4,
+     7.6
+    ],
+    [
+     "a",
+     5.4,
+     7.6
+    ],
+    [
+     "ordenar!",
+     5.4,
+     7.6
+    ]
+   ]
+  },
+  {
+   "start": 8.8,
+   "end": 12.0,
+   "words": [
+    [
+     "La",
+     8.8,
+     12.0
+    ],
+    [
+     "pelota",
+     8.8,
+     12.0
+    ],
+    [
+     "roja,",
+     8.8,
+     12.0
+    ],
+    [
+     "¿dónde",
+     8.8,
+     12.0
+    ],
+    [
+     "va?",
+     8.8,
+     12.0
+    ]
+   ]
+  },
+  {
+   "start": 12.6,
+   "end": 15.4,
+   "words": [
+    [
+     "¡A",
+     12.6,
+     15.4
+    ],
+    [
+     "la",
+     12.6,
+     15.4
+    ],
+    [
+     "caja",
+     12.6,
+     15.4
+    ],
+    [
+     "roja,",
+     12.6,
+     15.4
+    ],
+    [
+     "ya",
+     12.6,
+     15.4
+    ],
+    [
+     "está!",
+     12.6,
+     15.4
+    ]
+   ]
+  },
+  {
+   "start": 16.6,
+   "end": 24.0,
+   "words": [
+    [
+     "Cada",
+     16.6,
+     24.0
+    ],
+    [
+     "juguete",
+     16.6,
+     24.0
+    ],
+    [
+     "a",
+     16.6,
+     24.0
+    ],
+    [
+     "su",
+     16.6,
+     24.0
+    ],
+    [
+     "casita,",
+     16.6,
+     24.0
+    ],
+    [
+     "¡uno,",
+     16.6,
+     24.0
+    ],
+    [
+     "dos,",
+     16.6,
+     24.0
+    ],
+    [
+     "tres!",
+     16.6,
+     24.0
+    ]
+   ]
+  },
+  {
+   "start": 24.2,
+   "end": 30.6,
+   "words": [
+    [
+     "Cada",
+     24.2,
+     30.6
+    ],
+    [
+     "juguete",
+     24.2,
+     30.6
+    ],
+    [
+     "a",
+     24.2,
+     30.6
+    ],
+    [
+     "su",
+     24.2,
+     30.6
+    ],
+    [
+     "casita,",
+     24.2,
+     30.6
+    ],
+    [
+     "¡qué",
+     24.2,
+     30.6
+    ],
+    [
+     "bonito",
+     24.2,
+     30.6
+    ],
+    [
+     "es!",
+     24.2,
+     30.6
+    ]
+   ]
+  },
+  {
+   "start": 32.4,
+   "end": 36.0,
+   "words": [
+    [
+     "El",
+     32.4,
+     36.0
+    ],
+    [
+     "carrito",
+     32.4,
+     36.0
+    ],
+    [
+     "azul,",
+     32.4,
+     36.0
+    ],
+    [
+     "¿dónde",
+     32.4,
+     36.0
+    ],
+    [
+     "va?",
+     32.4,
+     36.0
+    ]
+   ]
+  },
+  {
+   "start": 36.6,
+   "end": 39.4,
+   "words": [
+    [
+     "¡A",
+     36.6,
+     39.4
+    ],
+    [
+     "la",
+     36.6,
+     39.4
+    ],
+    [
+     "caja",
+     36.6,
+     39.4
+    ],
+    [
+     "azul,",
+     36.6,
+     39.4
+    ],
+    [
+     "ya",
+     36.6,
+     39.4
+    ],
+    [
+     "está!",
+     36.6,
+     39.4
+    ]
+   ]
+  },
+  {
+   "start": 40.5,
+   "end": 47.6,
+   "words": [
+    [
+     "Cada",
+     40.5,
+     47.6
+    ],
+    [
+     "juguete",
+     40.5,
+     47.6
+    ],
+    [
+     "a",
+     40.5,
+     47.6
+    ],
+    [
+     "su",
+     40.5,
+     47.6
+    ],
+    [
+     "casita,",
+     40.5,
+     47.6
+    ],
+    [
+     "¡uno,",
+     40.5,
+     47.6
+    ],
+    [
+     "dos,",
+     40.5,
+     47.6
+    ],
+    [
+     "tres!",
+     40.5,
+     47.6
+    ]
+   ]
+  },
+  {
+   "start": 47.9,
+   "end": 54.6,
+   "words": [
+    [
+     "Cada",
+     47.9,
+     54.6
+    ],
+    [
+     "juguete",
+     47.9,
+     54.6
+    ],
+    [
+     "a",
+     47.9,
+     54.6
+    ],
+    [
+     "su",
+     47.9,
+     54.6
+    ],
+    [
+     "casita,",
+     47.9,
+     54.6
+    ],
+    [
+     "¡qué",
+     47.9,
+     54.6
+    ],
+    [
+     "bonito",
+     47.9,
+     54.6
+    ],
+    [
+     "es!",
+     47.9,
+     54.6
+    ]
+   ]
+  },
+  {
+   "start": 56.6,
+   "end": 61.2,
+   "words": [
+    [
+     "El",
+     56.6,
+     61.2
+    ],
+    [
+     "patito",
+     56.6,
+     61.2
+    ],
+    [
+     "amarillo…",
+     56.6,
+     61.2
+    ],
+    [
+     "¿aquí?",
+     56.6,
+     61.2
+    ]
+   ]
+  },
+  {
+   "start": 61.6,
+   "end": 63.6,
+   "words": [
+    [
+     "¡No,",
+     61.6,
+     63.6
+    ],
+    [
+     "no,",
+     61.6,
+     63.6
+    ],
+    [
+     "no!",
+     61.6,
+     63.6
+    ]
+   ]
+  },
+  {
+   "start": 64.5,
+   "end": 70.4,
+   "words": [
+    [
+     "¡A",
+     64.5,
+     70.4
+    ],
+    [
+     "la",
+     64.5,
+     70.4
+    ],
+    [
+     "caja",
+     64.5,
+     70.4
+    ],
+    [
+     "amarilla,",
+     64.5,
+     70.4
+    ],
+    [
+     "sí",
+     64.5,
+     70.4
+    ],
+    [
+     "señor!",
+     64.5,
+     70.4
+    ]
+   ]
+  },
+  {
+   "start": 72.5,
+   "end": 76.2,
+   "words": [
+    [
+     "Los",
+     72.5,
+     76.2
+    ],
+    [
+     "bloques",
+     72.5,
+     76.2
+    ],
+    [
+     "verdes,",
+     72.5,
+     76.2
+    ],
+    [
+     "¿dónde",
+     72.5,
+     76.2
+    ],
+    [
+     "van?",
+     72.5,
+     76.2
+    ]
+   ]
+  },
+  {
+   "start": 76.6,
+   "end": 79.4,
+   "words": [
+    [
+     "¡A",
+     76.6,
+     79.4
+    ],
+    [
+     "la",
+     76.6,
+     79.4
+    ],
+    [
+     "caja",
+     76.6,
+     79.4
+    ],
+    [
+     "verde,",
+     76.6,
+     79.4
+    ],
+    [
+     "ya",
+     76.6,
+     79.4
+    ],
+    [
+     "están!",
+     76.6,
+     79.4
+    ]
+   ]
+  },
+  {
+   "start": 80.4,
+   "end": 88.0,
+   "words": [
+    [
+     "Cada",
+     80.4,
+     88.0
+    ],
+    [
+     "juguete",
+     80.4,
+     88.0
+    ],
+    [
+     "a",
+     80.4,
+     88.0
+    ],
+    [
+     "su",
+     80.4,
+     88.0
+    ],
+    [
+     "casita,",
+     80.4,
+     88.0
+    ],
+    [
+     "¡uno,",
+     80.4,
+     88.0
+    ],
+    [
+     "dos,",
+     80.4,
+     88.0
+    ],
+    [
+     "tres!",
+     80.4,
+     88.0
+    ]
+   ]
+  },
+  {
+   "start": 88.4,
+   "end": 94.6,
+   "words": [
+    [
+     "Cada",
+     88.4,
+     94.6
+    ],
+    [
+     "juguete",
+     88.4,
+     94.6
+    ],
+    [
+     "a",
+     88.4,
+     94.6
+    ],
+    [
+     "su",
+     88.4,
+     94.6
+    ],
+    [
+     "casita,",
+     88.4,
+     94.6
+    ],
+    [
+     "¡qué",
+     88.4,
+     94.6
+    ],
+    [
+     "bonito",
+     88.4,
+     94.6
+    ],
+    [
+     "es!",
+     88.4,
+     94.6
+    ]
+   ]
+  },
+  {
+   "start": 96.8,
+   "end": 99.4,
+   "words": [
+    [
+     "Rojo,",
+     96.8,
+     99.4
+    ],
+    [
+     "azul,",
+     96.8,
+     99.4
+    ],
+    [
+     "amarillo",
+     96.8,
+     99.4
+    ],
+    [
+     "y",
+     96.8,
+     99.4
+    ],
+    [
+     "verde,",
+     96.8,
+     99.4
+    ]
+   ]
+  },
+  {
+   "start": 99.6,
+   "end": 103.4,
+   "words": [
+    [
+     "¡todo",
+     99.6,
+     103.4
+    ],
+    [
+     "en",
+     99.6,
+     103.4
+    ],
+    [
+     "su",
+     99.6,
+     103.4
+    ],
+    [
+     "lugar!",
+     99.6,
+     103.4
+    ]
+   ]
+  },
+  {
+   "start": 104.1,
+   "end": 111.8,
+   "words": [
+    [
+     "Cada",
+     104.1,
+     111.8
+    ],
+    [
+     "juguete",
+     104.1,
+     111.8
+    ],
+    [
+     "a",
+     104.1,
+     111.8
+    ],
+    [
+     "su",
+     104.1,
+     111.8
+    ],
+    [
+     "casita,",
+     104.1,
+     111.8
+    ],
+    [
+     "¡uno,",
+     104.1,
+     111.8
+    ],
+    [
+     "dos,",
+     104.1,
+     111.8
+    ],
+    [
+     "tres!",
+     104.1,
+     111.8
+    ]
+   ]
+  },
+  {
+   "start": 112.1,
+   "end": 118.6,
+   "words": [
+    [
+     "Cada",
+     112.1,
+     118.6
+    ],
+    [
+     "juguete",
+     112.1,
+     118.6
+    ],
+    [
+     "a",
+     112.1,
+     118.6
+    ],
+    [
+     "su",
+     112.1,
+     118.6
+    ],
+    [
+     "casita,",
+     112.1,
+     118.6
+    ],
+    [
+     "¡qué",
+     112.1,
+     118.6
+    ],
+    [
+     "bonito",
+     112.1,
+     118.6
+    ],
+    [
+     "es!",
+     112.1,
+     118.6
+    ]
+   ]
+  },
+  {
+   "start": 121.8,
+   "end": 123.8,
+   "words": [
+    [
+     "¡Muy",
+     121.8,
+     123.8
+    ],
+    [
+     "bien!",
+     121.8,
+     123.8
+    ],
+    [
+     "Todo",
+     121.8,
+     123.8
+    ],
+    [
+     "en",
+     121.8,
+     123.8
+    ],
+    [
+     "su",
+     121.8,
+     123.8
+    ],
+    [
+     "lugar.",
+     121.8,
+     123.8
+    ]
+   ]
+  },
+  {
+   "start": 124.0,
+   "end": 126.8,
+   "words": [
+    [
+     "¡Hasta",
+     124.0,
+     126.8
+    ],
+    [
+     "la",
+     124.0,
+     126.8
+    ],
+    [
+     "próxima,",
+     124.0,
+     126.8
+    ],
+    [
+     "amiguitos!",
+     124.0,
+     126.8
+    ]
+   ]
+  }
+ ]
+}

@@ -169,7 +169,7 @@ const DATA = {
       title: "¡A ordenar los colores con Tito! 🐘",
       video: { id: "owjvOANiAy4", url: "https://youtube.com/shorts/owjvOANiAy4" },
       meta: [["אורך", "32.2 שניות"], ["קובץ", "tito_short_official_v2.mp4 + .es.srt (Klein 4B, אחרי QC)"], ["פיילוט ישן", "Unlisted (Klein 9B) · לא יפורסם"], ["גרסה עם גליץ'", "oNcoDrj0HL8 · Unlisted"], ["כתוביות", "CC נפרד, לא צרוב"]],
-      next: ["Short 2 \"Calcetines de colores\" → Public ✓ youtube.com/shorts/6eCNeq7Z0W8 (20:38)", "+5 שעות: בדיקת נתונים והפקת לקחים → Short 3 \"La torre de bloques\"", "פרק מלא 1 (2:20) → Public כשמוכן", "Shorts המשך: גרביים, מגדל קוביות"],
+      next: ["Short 2 \"Calcetines de colores\" → Public ✓ youtube.com/shorts/6eCNeq7Z0W8 (20:38)", "+5 שעות: בדיקת נתונים והפקת לקחים → Short 3 \"La torre de bloques\"", "פרק מלא 1 (2:07) → Public ✓ youtube.com/watch?v=-cqaCh6sL5U", "Shorts המשך: גרביים, מגדל קוביות"],
     },
     {
       name: "נילו ההיפופוטם", tag: "B · שגרות (לשעבר Popo)", s: "idle", st: "פיילוט מוכן · לא הועלה",
@@ -187,7 +187,7 @@ const GPU = {
   plan: [
     { step: "S1: Short טיטו מסחרי — חדר + 18 פריימים (Klein 4B) + 9 קליפים (בפועל 0.8)", est: 0.8, state: "ok" },
     { step: "L1: חדר + 48 פריימי מפתח (Klein 4B) + 5 שירים + קריינות (בפועל 1.2)", est: 1.2, state: "ok" },
-    { step: "L2: 48 קליפים (24 שוטים × 2 seeds, Wan 2.2 5B, 960x544), שתי הרצות", est: 3.0, state: "active" },
+    { step: "L2: 48 קליפים (24 שוטים × 2 seeds, Wan 2.2 5B, 960x544), שתי הרצות (בפועל ~2.6)", est: 2.6, state: "ok" },
     { step: "S2: שני Shorts (גרביים, מגדל) — 2 seeds לכל שוט + תנועה רגועה (בפועל 2.2)", est: 2.2, state: "ok" },
     { step: "תיקונים: קליפים חוזרים לשוטים פגומים (עד 6)", est: 0.6, state: "idle" },
     { step: "גרסה מסחרית של פיילוט נילו (Klein 4B)", est: 1.5, state: "idle" },
@@ -202,6 +202,7 @@ const LESSONS = [
   { src: "משוב Roy (גליץ')", what: "Ghosting בקליפ T4: עין שלישית ואוזן כפולה (מהפריים 36)", effect: "רק Hard Cuts, תנועה רגועה, 2 seeds לשוט, QC אוטומטי + בדיקה ויזואלית של כל פריים לפני העלאה (QC_RULES.md)", state: "ok" },
   { src: "QC Short 2", what: "A7 בשני ה-seeds: האוברול נעלם והחדק הופך לקרן; A4: הגרביים נעלמים מהידיים; A3s7: זום חזק", effect: "2 seeds הצילו את רוב השוטים. שוט שנכשל בשניהם → מחליפים במבנה (שוט אחר שמתאים לשורה). שוט ארוך מ-4 שניות → מפצלים לשני שוטים במקום הקפאה", state: "ok" },
   { src: "QC Short 2", what: "הבזק של פריים אחד בכל חיתוך: פריים 0 של הקליפ הוא פריים המפתח הגולמי (בהיר יותר)", effect: "מדלגים תמיד על הפריים הראשון של כל קליפ (מובנה בכלי ההרכבה)", state: "ok" },
+  { src: "QC פרק 1", what: "48 קליפים: 6 עם חפצים שנעלמים (כדור, ברווז, קוביות), 1 שבו הגוף משתנה (L16), 1 עם עיוות פנים (L06s7)", effect: "חפצים שנעלמים = הבעיה הנפוצה ביותר. בפרומפט הבא: 'the object stays in his hands'. גאג הכדור בסוף (L24) הוחלף בנפנוף פרידה", state: "ok" },
   { src: "Analytics", what: "ממתין לנתונים (24–48 שעות עיכוב)", effect: "יתעדכן אוטומטית", state: "idle" },
   { src: "מדיניות העלאה (Roy)", what: "מעלים כדי ללמוד", effect: "Short אחד, בדיקת נתונים אחרי 5 שעות, ואז ה-Short הבא עם התיקונים", state: "ok" },
 ];

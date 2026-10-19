@@ -1,0 +1,95 @@
+1
+00:00:00,000 --> 00:00:01,600
+¡Uy!
+
+2
+00:00:01,800 --> 00:00:04,300
+¡Qué desorden!
+
+3
+00:00:05,400 --> 00:00:07,600
+¡Vamos a ordenar!
+
+4
+00:00:08,800 --> 00:00:12,000
+La pelota roja, ¿dónde va?
+
+5
+00:00:12,600 --> 00:00:15,400
+¡A la caja roja, ya está!
+
+6
+00:00:16,600 --> 00:00:24,000
+Cada juguete a su casita, ¡uno, dos, tres!
+
+7
+00:00:24,200 --> 00:00:30,600
+Cada juguete a su casita, ¡qué bonito es!
+
+8
+00:00:32,400 --> 00:00:36,000
+El carrito azul, ¿dónde va?
+
+9
+00:00:36,600 --> 00:00:39,400
+¡A la caja azul, ya está!
+
+10
+00:00:40,500 --> 00:00:47,600
+Cada juguete a su casita, ¡uno, dos, tres!
+
+11
+00:00:47,900 --> 00:00:54,600
+Cada juguete a su casita, ¡qué bonito es!
+
+12
+00:00:56,600 --> 00:01:01,200
+El patito amarillo… ¿aquí?
+
+13
+00:01:01,600 --> 00:01:03,600
+¡No, no, no!
+
+14
+00:01:04,500 --> 00:01:10,400
+¡A la caja amarilla, sí señor!
+
+15
+00:01:12,500 --> 00:01:16,200
+Los bloques verdes, ¿dónde van?
+
+16
+00:01:16,600 --> 00:01:19,400
+¡A la caja verde, ya están!
+
+17
+00:01:20,400 --> 00:01:28,000
+Cada juguete a su casita, ¡uno, dos, tres!
+
+18
+00:01:28,400 --> 00:01:34,600
+Cada juguete a su casita, ¡qué bonito es!
+
+19
+00:01:36,800 --> 00:01:39,400
+Rojo, azul, amarillo y verde,
+
+20
+00:01:39,600 --> 00:01:43,400
+¡todo en su lugar!
+
+21
+00:01:44,100 --> 00:01:51,800
+Cada juguete a su casita, ¡uno, dos, tres!
+
+22
+00:01:52,100 --> 00:01:58,600
+Cada juguete a su casita, ¡qué bonito es!
+
+23
+00:02:01,800 --> 00:02:03,800
+¡Muy bien! Todo en su lugar.
+
+24
+00:02:04,000 --> 00:02:06,800
+¡Hasta la próxima, amiguitos!
