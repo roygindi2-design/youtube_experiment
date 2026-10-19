@@ -1,0 +1,270 @@
+[
+ {
+  "id": "popo_master_z_s11",
+  "model_type": "z_image",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Character design of POPO, a baby hippo toddler. Lavender-purple body, soft pink belly patch and rosy pink cheeks, big round head about half of the body height, wide friendly smile showing two big square white front teeth, small round ears with pink insides, two tiny nostrils on top of the round snout, big glossy dark-brown eyes with white sparkle highlights, one small curl of darker purple hair on top of the head, short chubby arms and legs, small round tail. Standing upright, full body, front view, happy expression. Plain light grey background, centered, character fills 70% of the frame.",
+  "resolution": "1024x1024",
+  "seed": 11,
+  "num_inference_steps": 8,
+  "guidance_scale": 0
+ },
+ {
+  "id": "popo_master_z_s22",
+  "model_type": "z_image",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Character design of POPO, a baby hippo toddler. Lavender-purple body, soft pink belly patch and rosy pink cheeks, big round head about half of the body height, wide friendly smile showing two big square white front teeth, small round ears with pink insides, two tiny nostrils on top of the round snout, big glossy dark-brown eyes with white sparkle highlights, one small curl of darker purple hair on top of the head, short chubby arms and legs, small round tail. Standing upright, full body, front view, happy expression. Plain light grey background, centered, character fills 70% of the frame.",
+  "resolution": "1024x1024",
+  "seed": 22,
+  "num_inference_steps": 8,
+  "guidance_scale": 0
+ },
+ {
+  "id": "popo_master_z_s33",
+  "model_type": "z_image",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Character design of POPO, a baby hippo toddler. Lavender-purple body, soft pink belly patch and rosy pink cheeks, big round head about half of the body height, wide friendly smile showing two big square white front teeth, small round ears with pink insides, two tiny nostrils on top of the round snout, big glossy dark-brown eyes with white sparkle highlights, one small curl of darker purple hair on top of the head, short chubby arms and legs, small round tail. Standing upright, full body, front view, happy expression. Plain light grey background, centered, character fills 70% of the frame.",
+  "resolution": "1024x1024",
+  "seed": 33,
+  "num_inference_steps": 8,
+  "guidance_scale": 0
+ },
+ {
+  "id": "popo_master_z_s44",
+  "model_type": "z_image",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Character design of POPO, a baby hippo toddler. Lavender-purple body, soft pink belly patch and rosy pink cheeks, big round head about half of the body height, wide friendly smile showing two big square white front teeth, small round ears with pink insides, two tiny nostrils on top of the round snout, big glossy dark-brown eyes with white sparkle highlights, one small curl of darker purple hair on top of the head, short chubby arms and legs, small round tail. Standing upright, full body, front view, happy expression. Plain light grey background, centered, character fills 70% of the frame.",
+  "resolution": "1024x1024",
+  "seed": 44,
+  "num_inference_steps": 8,
+  "guidance_scale": 0
+ },
+ {
+  "id": "popo_master_klein_s11",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Character design of POPO, a baby hippo toddler. Lavender-purple body, soft pink belly patch and rosy pink cheeks, big round head about half of the body height, wide friendly smile showing two big square white front teeth, small round ears with pink insides, two tiny nostrils on top of the round snout, big glossy dark-brown eyes with white sparkle highlights, one small curl of darker purple hair on top of the head, short chubby arms and legs, small round tail. Standing upright, full body, front view, happy expression. Plain light grey background, centered, character fills 70% of the frame.",
+  "resolution": "1024x1024",
+  "seed": 11,
+  "num_inference_steps": 4
+ },
+ {
+  "id": "popo_master_klein_s22",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Character design of POPO, a baby hippo toddler. Lavender-purple body, soft pink belly patch and rosy pink cheeks, big round head about half of the body height, wide friendly smile showing two big square white front teeth, small round ears with pink insides, two tiny nostrils on top of the round snout, big glossy dark-brown eyes with white sparkle highlights, one small curl of darker purple hair on top of the head, short chubby arms and legs, small round tail. Standing upright, full body, front view, happy expression. Plain light grey background, centered, character fills 70% of the frame.",
+  "resolution": "1024x1024",
+  "seed": 22,
+  "num_inference_steps": 4
+ },
+ {
+  "id": "tito_master_z_s11",
+  "model_type": "z_image",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Character design of TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Standing upright, full body, front view, happy expression. Plain light grey background, centered, character fills 70% of the frame.",
+  "resolution": "1024x1024",
+  "seed": 11,
+  "num_inference_steps": 8,
+  "guidance_scale": 0
+ },
+ {
+  "id": "tito_master_z_s22",
+  "model_type": "z_image",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Character design of TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Standing upright, full body, front view, happy expression. Plain light grey background, centered, character fills 70% of the frame.",
+  "resolution": "1024x1024",
+  "seed": 22,
+  "num_inference_steps": 8,
+  "guidance_scale": 0
+ },
+ {
+  "id": "tito_master_z_s33",
+  "model_type": "z_image",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Character design of TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Standing upright, full body, front view, happy expression. Plain light grey background, centered, character fills 70% of the frame.",
+  "resolution": "1024x1024",
+  "seed": 33,
+  "num_inference_steps": 8,
+  "guidance_scale": 0
+ },
+ {
+  "id": "tito_master_z_s44",
+  "model_type": "z_image",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Character design of TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Standing upright, full body, front view, happy expression. Plain light grey background, centered, character fills 70% of the frame.",
+  "resolution": "1024x1024",
+  "seed": 44,
+  "num_inference_steps": 8,
+  "guidance_scale": 0
+ },
+ {
+  "id": "tito_master_klein_s11",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Character design of TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Standing upright, full body, front view, happy expression. Plain light grey background, centered, character fills 70% of the frame.",
+  "resolution": "1024x1024",
+  "seed": 11,
+  "num_inference_steps": 4
+ },
+ {
+  "id": "tito_master_klein_s22",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Character design of TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Standing upright, full body, front view, happy expression. Plain light grey background, centered, character fills 70% of the frame.",
+  "resolution": "1024x1024",
+  "seed": 22,
+  "num_inference_steps": 4
+ },
+ {
+  "id": "popo_bathroom_z_s11",
+  "model_type": "z_image",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Cozy toddler bathroom interior, sky-blue round tiles, small white sink with a round mirror, wooden step stool in front of the sink, yellow rubber duck, fluffy mint-green towel, a cup with a sky-blue toothbrush, soft morning sunlight from a round window, no characters, vertical composition, camera at child eye level.",
+  "resolution": "768x1344",
+  "seed": 11,
+  "num_inference_steps": 8,
+  "guidance_scale": 0
+ },
+ {
+  "id": "popo_bathroom_z_s22",
+  "model_type": "z_image",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Cozy toddler bathroom interior, sky-blue round tiles, small white sink with a round mirror, wooden step stool in front of the sink, yellow rubber duck, fluffy mint-green towel, a cup with a sky-blue toothbrush, soft morning sunlight from a round window, no characters, vertical composition, camera at child eye level.",
+  "resolution": "768x1344",
+  "seed": 22,
+  "num_inference_steps": 8,
+  "guidance_scale": 0
+ },
+ {
+  "id": "tito_playroom_z_s11",
+  "model_type": "z_image",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Bright cozy playroom interior, light wooden floor, round pastel rug, three open toy boxes in a row colored red, blue and yellow, scattered toys on the floor: a red ball, a blue toy car, a yellow rubber duck, green building blocks, big window with soft daylight, no characters, vertical composition, camera at child eye level.",
+  "resolution": "768x1344",
+  "seed": 11,
+  "num_inference_steps": 8,
+  "guidance_scale": 0
+ },
+ {
+  "id": "tito_playroom_z_s22",
+  "model_type": "z_image",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Bright cozy playroom interior, light wooden floor, round pastel rug, three open toy boxes in a row colored red, blue and yellow, scattered toys on the floor: a red ball, a blue toy car, a yellow rubber duck, green building blocks, big window with soft daylight, no characters, vertical composition, camera at child eye level.",
+  "resolution": "768x1344",
+  "seed": 22,
+  "num_inference_steps": 8,
+  "guidance_scale": 0
+ },
+ {
+  "id": "qwen3_narradora_popo",
+  "model_type": "qwen3_tts_voicedesign",
+  "prompt": "¡Hola! Soy Popo. ¿Listos? ¡A cepillar! Arriba y abajo, cepi, cepi, cepillo. Cinco cerezas y zapatos azules.",
+  "alt_prompt": "A warm, cheerful young woman from Mexico City speaking neutral Latin American Spanish with a soft Mexican accent, using seseo (no Spain lisp). Smiling tone, slow and very clear for toddlers.",
+  "model_mode": "spanish",
+  "duration_seconds": 20
+ },
+ {
+  "id": "qwen3_narradora_tito",
+  "model_type": "qwen3_tts_voicedesign",
+  "prompt": "¡Hola! Soy Tito. ¡Uy, qué desorden! Cada juguete a su casita. La pelota roja va a la caja roja.",
+  "alt_prompt": "A warm, cheerful young woman from Mexico City speaking neutral Latin American Spanish with a soft Mexican accent, using seseo (no Spain lisp). Smiling tone, slow and very clear for toddlers.",
+  "model_mode": "spanish",
+  "duration_seconds": 20
+ },
+ {
+  "id": "qwen3_popo_popo",
+  "model_type": "qwen3_tts_voicedesign",
+  "prompt": "¡Hola! Soy Popo. ¿Listos? ¡A cepillar! Arriba y abajo, cepi, cepi, cepillo. Cinco cerezas y zapatos azules.",
+  "alt_prompt": "A cute cartoon baby hippo: a small, round, cuddly child-like voice, slightly low and soft, Latin American Spanish with a Mexican accent and seseo. Playful, giggly, slow and clear.",
+  "model_mode": "spanish",
+  "duration_seconds": 20
+ },
+ {
+  "id": "qwen3_tito_tito",
+  "model_type": "qwen3_tts_voicedesign",
+  "prompt": "¡Hola! Soy Tito. ¡Uy, qué desorden! Cada juguete a su casita. La pelota roja va a la caja roja.",
+  "alt_prompt": "A tiny cartoon baby elephant: a bright, high-pitched, curious little boy voice, Latin American Spanish with a Mexican accent and seseo. Excited but gentle, very clear pronunciation.",
+  "model_mode": "spanish",
+  "duration_seconds": 20
+ },
+ {
+  "id": "qwen3_narradora_popo_auto",
+  "model_type": "qwen3_tts_voicedesign",
+  "prompt": "¡Hola! Soy Popo. ¿Listos? ¡A cepillar! Arriba y abajo, cepi, cepi, cepillo. Cinco cerezas y zapatos azules.",
+  "alt_prompt": "A warm, cheerful young woman from Mexico City speaking neutral Latin American Spanish with a soft Mexican accent, using seseo (no Spain lisp). Smiling tone, slow and very clear for toddlers.",
+  "model_mode": "auto",
+  "duration_seconds": 20
+ },
+ {
+  "id": "kokoro_ef_dora_es",
+  "kind": "kokoro",
+  "text": "¡Hola! Soy Popo. ¿Listos? ¡A cepillar! Arriba y abajo, cepi, cepi, cepillo. Cinco cerezas y zapatos azules.",
+  "voice": "ef_dora",
+  "espeak": "es"
+ },
+ {
+  "id": "kokoro_em_alex_es",
+  "kind": "kokoro",
+  "text": "¡Hola! Soy Popo. ¿Listos? ¡A cepillar! Arriba y abajo, cepi, cepi, cepillo. Cinco cerezas y zapatos azules.",
+  "voice": "em_alex",
+  "espeak": "es"
+ },
+ {
+  "id": "kokoro_ef_dora_es419",
+  "kind": "kokoro",
+  "text": "¡Hola! Soy Popo. ¿Listos? ¡A cepillar! Arriba y abajo, cepi, cepi, cepillo. Cinco cerezas y zapatos azules.",
+  "voice": "ef_dora",
+  "espeak": "es-419"
+ },
+ {
+  "id": "kokoro_em_alex_es419",
+  "kind": "kokoro",
+  "text": "¡Hola! Soy Popo. ¿Listos? ¡A cepillar! Arriba y abajo, cepi, cepi, cepillo. Cinco cerezas y zapatos azules.",
+  "voice": "em_alex",
+  "espeak": "es-419"
+ },
+ {
+  "id": "ace_popo_s11",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Verse]\nUn poquito de pasta, ¡mira qué color!\nMuevo el cepillo con mucho amor.\n[Chorus]\nArriba y abajo, ¡cepi, cepi, cepi!\nAdelante y atrás, ¡dientes con brillo!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics",
+  "duration_seconds": 30,
+  "seed": 11,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "ace_popo_s22",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Verse]\nUn poquito de pasta, ¡mira qué color!\nMuevo el cepillo con mucho amor.\n[Chorus]\nArriba y abajo, ¡cepi, cepi, cepi!\nAdelante y atrás, ¡dientes con brillo!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics",
+  "duration_seconds": 30,
+  "seed": 22,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "ace_tito_s11",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Verse]\nLa pelota roja va a la caja roja.\nEl carrito azul va a la caja azul.\n[Chorus]\nCada juguete a su casita, ¡uno, dos, tres!\nCada juguete a su casita, ¡qué bonito es!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics",
+  "duration_seconds": 30,
+  "seed": 11,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "ace_tito_s22",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Verse]\nLa pelota roja va a la caja roja.\nEl carrito azul va a la caja azul.\n[Chorus]\nCada juguete a su casita, ¡uno, dos, tres!\nCada juguete a su casita, ¡qué bonito es!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics",
+  "duration_seconds": 30,
+  "seed": 22,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ }
+]
