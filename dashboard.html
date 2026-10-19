@@ -101,9 +101,9 @@
 <script>
 // ---- DATA: the single source for this page. Update here. ----
 const DATA = {
-  updated: "2026-10-19 11:00 UTC",
+  updated: "2026-10-19 11:30 UTC",
   kpis: [
-    { v: "2", l: "פיילוטים מוכנים (Short)" },
+    { v: "1", l: "סרטונים בערוץ Cantilandia (Unlisted)" },
     { v: "18/18", l: "קליפים שנוצרו בהצלחה" },
     { v: "5.1 / 30", l: "שעות GPU השבוע (Kaggle)", bar: 5.1 / 30 },
     { v: "0 θ", l: "צליל th של ספרד בקולות שנבחרו" },
@@ -131,11 +131,11 @@ const DATA = {
     { n: "סאונד", r: "שירים, קול, אפקטים", s: "idle", note: "6 גרסאות לכל שיר" },
     { n: "עריכה", r: "הרכבת ה-Short", s: "idle", note: "טיטו v3: מסך נקי, כתוביות כ-CC" },
     { n: "בקרת איכות", r: "שפה, מבטא, רישיונות", s: "idle", note: "בוצעה לשני הפיילוטים" },
-    { n: "פרסום", r: "העלאה ליוטיוב", s: "warn", note: "ממתין לאישור OAuth שלך" },
+    { n: "פרסום", r: "העלאה ליוטיוב", s: "idle", note: "טיטו הועלה: Unlisted, Made for Kids, CC בספרדית" },
     { n: "נתונים ודוחות", r: "Analytics", s: "idle", note: "יתחיל אחרי העלאה ראשונה" },
   ],
   integrations: [
-    { n: "YouTube OAuth (העלאה + CC)", s: "warn", st: "ממתין לאישור", d: "קישור חדש עם הרשאת כתוביות (force-ssl). אחרי האישור: בדיקת ערוץ, העלאה, כתוביות" },
+    { n: "YouTube OAuth (העלאה + CC)", s: "ok", st: "מחובר", d: "ערוץ Cantilandia (@cantilandia-m1s). הרשאות: upload, readonly, force-ssl. הטוקן נשמר רק בסביבה הזמנית" },
     { n: "YouTube Data API (מפתח)", s: "ok", st: "פעיל", d: "קריאת נתונים ציבוריים, כ-6,150 יחידות נוצלו במחקר" },
     { n: "Kaggle (GPU)", s: "ok", st: "פעיל", d: "2× T4, ‏24.9 שעות פנויות השבוע. שימוש מסחרי: תנאים עוד לא אומתו" },
     { n: "WanGP", s: "ok", st: "פעיל", d: "Z-Image, Klein, Wan 2.2 5B, ACE-Step, Qwen3-TTS" },
@@ -147,11 +147,11 @@ const DATA = {
   ],
   projects: [
     {
-      name: "טיטו הפיל", tag: "C · צבעים וסידור", s: "warn", st: "מלוטש · ממתין להעלאה",
+      name: "טיטו הפיל", tag: "C · צבעים וסידור", s: "ok", st: "הועלה · Unlisted",
       title: "¡A ordenar los colores con Tito! 🐘",
-      video: null, // filled after upload: { id, url }
+      video: { id: "gPKBDFi0nss", url: "https://youtube.com/shorts/gPKBDFi0nss" },
       meta: [["אורך", "32.2 שניות"], ["קובץ", "pilot_tito_v3_clean.mp4 + .es.srt"], ["פרטיות", "Unlisted · Made for Kids"], ["כתוביות", "CC נפרד, לא צרוב"]],
-      next: ["אישור OAuth → בדיקת ערוץ → העלאה", "גרסה מסחרית בפריימים מ-Klein 4B", "Shorts המשך: גרביים, מגדל קוביות"],
+      next: ["צפייה ואישור שלך ב-YouTube Studio", "גרסה מסחרית בפריימים מ-Klein 4B (לפני Public)", "Shorts המשך: גרביים, מגדל קוביות"],
     },
     {
       name: "נילו ההיפופוטם", tag: "B · שגרות (לשעבר Popo)", s: "idle", st: "פיילוט מוכן · לא הועלה",
