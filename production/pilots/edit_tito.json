@@ -8,63 +8,63 @@
  },
  "shots": [
   {
-   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_T1.mp4",
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/clips/clip_T1.mp4",
    "in": 0.0,
    "dur": 3.396,
    "speed": 1.0,
    "shot": "T1"
   },
   {
-   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_T2.mp4",
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/clips/clip_T2.mp4",
    "in": 0.0,
    "dur": 4.434,
    "speed": 0.912,
    "shot": "T2"
   },
   {
-   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_T3.mp4",
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/clips/clip_T3.mp4",
    "in": 0.0,
    "dur": 4.151,
    "speed": 0.974,
    "shot": "T3"
   },
   {
-   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_T4.mp4",
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/clips/clip_T4.mp4",
    "in": 0.0,
    "dur": 3.208,
    "speed": 1.0,
    "shot": "T4"
   },
   {
-   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_T5.mp4",
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/clips/clip_T5.mp4",
    "in": 0.0,
    "dur": 4.056,
    "speed": 0.996,
    "shot": "T5"
   },
   {
-   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_T5b.mp4",
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/clips/clip_T5b.mp4",
    "in": 0.0,
    "dur": 3.491,
    "speed": 1.0,
    "shot": "T5b"
   },
   {
-   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_T6.mp4",
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/clips/clip_T6.mp4",
    "in": 0.0,
    "dur": 3.962,
    "speed": 1.0,
    "shot": "T6"
   },
   {
-   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_T7.mp4",
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/clips/clip_T7.mp4",
    "in": 0.0,
    "dur": 2.83,
    "speed": 1.0,
    "shot": "T7"
   },
   {
-   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_T8.mp4",
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/clips/clip_T8.mp4",
    "in": 0.0,
    "dur": 2.642,
    "speed": 1.0,
@@ -395,12 +395,12 @@
  ],
  "font": "Fredoka",
  "font_file": "/home/user/youtube_experiment/production/fonts/Fredoka.ttf",
- "font_size": 92,
- "outline": 9,
+ "font_size": 84,
+ "outline": 8,
  "colors": {
   "text": "#FFFFFF",
   "active": "#FF6B6B",
   "outline": "#1F4E8C"
  },
- "caption_y": 0.8
+ "caption_y": 0.7
 }

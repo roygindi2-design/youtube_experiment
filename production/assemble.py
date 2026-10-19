@@ -83,7 +83,7 @@ def main():
         p = tmp / f"s{i:02d}.mp4"
         speed = s.get("speed", 1.0)
         vf = (f"setpts=PTS/{speed},scale=1080:1920:force_original_aspect_ratio=increase:flags=lanczos,"
-              f"crop=1080:1920,fps={fps},unsharp=5:5:0.6,format=yuv420p")
+              f"crop=1080:1920,fps={fps},eq=saturation=1.12:contrast=1.04,unsharp=5:5:0.6,format=yuv420p")
         run(["ffmpeg", "-y", "-v", "error", "-ss", str(s.get("in", 0)), "-i", s["file"], "-t", str(s["dur"] * speed),
              "-an", "-vf", vf, "-t", str(s["dur"]), "-c:v", "libx264", "-preset", "medium", "-crf", "16", str(p)])
         parts.append(p)

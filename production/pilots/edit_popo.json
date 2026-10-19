@@ -1,5 +1,5 @@
 {
- "out": "/home/user/youtube_experiment/production/pilots/build/animatic_popo.mp4",
+ "out": "/home/user/youtube_experiment/production/pilots/build/pilot_popo.mp4",
  "fps": 30,
  "song": {
   "file": "/home/user/youtube_experiment/production/pilots/build/song_popo.wav",
@@ -8,63 +8,63 @@
  },
  "shots": [
   {
-   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_P1.mp4",
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/clips/clip_P1.mp4",
    "in": 0.0,
    "dur": 2.736,
    "speed": 1.0,
    "shot": "P1"
   },
   {
-   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_P2.mp4",
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/clips/clip_P2.mp4",
    "in": 0.0,
    "dur": 2.83,
    "speed": 1.0,
    "shot": "P2"
   },
   {
-   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_P2b.mp4",
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/clips/clip_P2b.mp4",
    "in": 0.0,
    "dur": 2.83,
    "speed": 1.0,
    "shot": "P2b"
   },
   {
-   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_P3.mp4",
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/clips/clip_P3.mp4",
    "in": 0.0,
    "dur": 4.151,
    "speed": 0.974,
    "shot": "P3"
   },
   {
-   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_P4.mp4",
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/clips/clip_P4.mp4",
    "in": 0.0,
    "dur": 3.396,
    "speed": 1.0,
    "shot": "P4"
   },
   {
-   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_P5.mp4",
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/clips/clip_P5.mp4",
    "in": 0.0,
    "dur": 3.868,
    "speed": 1.0,
    "shot": "P5"
   },
   {
-   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_P6.mp4",
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/clips/clip_P6.mp4",
    "in": 0.0,
    "dur": 4.529,
    "speed": 0.892,
    "shot": "P6"
   },
   {
-   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_P7.mp4",
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/clips/clip_P7.mp4",
    "in": 0.0,
    "dur": 3.49,
    "speed": 1.0,
    "shot": "P7"
   },
   {
-   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/dummyclips/clip_P8.mp4",
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/clips/clip_P8.mp4",
    "in": 0.0,
    "dur": 4.812,
    "speed": 0.84,
@@ -325,12 +325,12 @@
  ],
  "font": "Fredoka",
  "font_file": "/home/user/youtube_experiment/production/fonts/Fredoka.ttf",
- "font_size": 92,
- "outline": 9,
+ "font_size": 84,
+ "outline": 8,
  "colors": {
   "text": "#FFFFFF",
   "active": "#FFD23F",
   "outline": "#5B3B9C"
  },
- "caption_y": 0.8
+ "caption_y": 0.7
 }
