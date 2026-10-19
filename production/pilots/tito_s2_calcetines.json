@@ -1,0 +1,92 @@
+{
+ "id": "tito_s2_calcetines",
+ "style": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. ",
+ "lock": "TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail.",
+ "title": "Calcetines de colores",
+ "room": "Interior of a bright cozy kids bedroom next to the playroom, vertical 9:16 composition, camera at child eye level. Light wooden floor, round pastel-pink rug, a small open wooden drawer on the floor, pairs of socks lying on the rug: two red socks, two blue socks, two yellow socks. Big window with soft daylight. The room is empty: no characters, no animals, no faces, no people.",
+ "lyrics": "[Intro]\n¡Uy! ¡Calcetines!\n¿Dónde está su par?\n[Verse]\nRojo con rojo, ¡aquí está!\nAzul con azul, ¡qué bien se ve!\n[Chorus]\nCalcetines de colores, ¡uno y dos!\nCada uno con su par, ¡qué bonito son!\n[Bridge]\nAzul con amarillo… ¿así? ¡No, no!\n[Outro]\n¡Amarillo con amarillo! ¡Tu-tuuu!",
+ "shots": [
+  [
+   "A1",
+   "Medium shot: a pile of colorful socks falls on the baby elephant's head, a red sock hangs from his trunk, surprised face.",
+   "Socks tumble onto the baby elephant's head, he blinks and shakes his ears, a red sock dangling from his trunk. Static camera."
+  ],
+  [
+   "A2",
+   "Medium shot: the baby elephant sits on the rug looking at pairs of colorful socks, curious face, trunk pointing at them.",
+   "The baby elephant looks around at the socks and tilts his head curiously. Static camera."
+  ],
+  [
+   "A3",
+   "Medium close-up: the baby elephant holds two red socks together with his trunk and hand, happy smile.",
+   "The elephant joins the two red socks and holds them up proudly. Static camera."
+  ],
+  [
+   "A4",
+   "Medium close-up: the baby elephant holds two blue socks together, happy smile.",
+   "The elephant joins the two blue socks and waves them happily. Static camera."
+  ],
+  [
+   "A5",
+   "Wide shot: the baby elephant dances on the rug waving pairs of socks, ears flapping.",
+   "The elephant dances side to side waving the sock pairs, ears flapping on the beat. Slight camera sway."
+  ],
+  [
+   "A6",
+   "Medium shot: the baby elephant holds one blue sock and one yellow sock together, puzzled face, head tilted.",
+   "The elephant looks at the blue and yellow socks, tilts his head and blinks, puzzled. Slow push-in."
+  ],
+  [
+   "A7",
+   "Medium shot: the baby elephant holds two yellow socks together and raises his trunk happily.",
+   "The elephant swaps to two yellow socks, nods and raises his trunk with joy. Static camera."
+  ],
+  [
+   "A8",
+   "Wide shot: three sock pairs lined up neatly on the rug, red, blue and yellow, the baby elephant sits proudly next to them.",
+   "The elephant sits proudly by the neat sock pairs, then one sock slides off and he gasps. Static camera."
+  ]
+ ],
+ "shots_obj": [
+  {
+   "id": "A1",
+   "frame": "Medium shot: a pile of colorful socks falls on the baby elephant's head, a red sock hangs from his trunk, surprised face.",
+   "motion": "Socks tumble onto the baby elephant's head, he blinks and shakes his ears, a red sock dangling from his trunk. Static camera."
+  },
+  {
+   "id": "A2",
+   "frame": "Medium shot: the baby elephant sits on the rug looking at pairs of colorful socks, curious face, trunk pointing at them.",
+   "motion": "The baby elephant looks around at the socks and tilts his head curiously. Static camera."
+  },
+  {
+   "id": "A3",
+   "frame": "Medium close-up: the baby elephant holds two red socks together with his trunk and hand, happy smile.",
+   "motion": "The elephant joins the two red socks and holds them up proudly. Static camera."
+  },
+  {
+   "id": "A4",
+   "frame": "Medium close-up: the baby elephant holds two blue socks together, happy smile.",
+   "motion": "The elephant joins the two blue socks and waves them happily. Static camera."
+  },
+  {
+   "id": "A5",
+   "frame": "Wide shot: the baby elephant dances on the rug waving pairs of socks, ears flapping.",
+   "motion": "The elephant dances side to side waving the sock pairs, ears flapping on the beat. Slight camera sway."
+  },
+  {
+   "id": "A6",
+   "frame": "Medium shot: the baby elephant holds one blue sock and one yellow sock together, puzzled face, head tilted.",
+   "motion": "The elephant looks at the blue and yellow socks, tilts his head and blinks, puzzled. Slow push-in."
+  },
+  {
+   "id": "A7",
+   "frame": "Medium shot: the baby elephant holds two yellow socks together and raises his trunk happily.",
+   "motion": "The elephant swaps to two yellow socks, nods and raises his trunk with joy. Static camera."
+  },
+  {
+   "id": "A8",
+   "frame": "Wide shot: three sock pairs lined up neatly on the rug, red, blue and yellow, the baby elephant sits proudly next to them.",
+   "motion": "The elephant sits proudly by the neat sock pairs, then one sock slides off and he gasps. Static camera."
+  }
+ ]
+}

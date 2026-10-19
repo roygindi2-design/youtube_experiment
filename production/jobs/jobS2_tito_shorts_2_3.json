@@ -1,0 +1,664 @@
+[
+ {
+  "id": "tito_s2_calcetines_room",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Interior of a bright cozy kids bedroom next to the playroom, vertical 9:16 composition, camera at child eye level. Light wooden floor, round pastel-pink rug, a small open wooden drawer on the floor, pairs of socks lying on the rug: two red socks, two blue socks, two yellow socks. Big window with soft daylight. The room is empty: no characters, no animals, no faces, no people."
+ },
+ {
+  "id": "tito_s2_calcetines_song_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Calcetines!\n¿Dónde está su par?\n[Verse]\nRojo con rojo, ¡aquí está!\nAzul con azul, ¡qué bien se ve!\n[Chorus]\nCalcetines de colores, ¡uno y dos!\nCada uno con su par, ¡qué bonito son!\n[Bridge]\nAzul con amarillo… ¿así? ¡No, no!\n[Outro]\n¡Amarillo con amarillo! ¡Tu-tuuu!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 40,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_s2_calcetines_song_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Calcetines!\n¿Dónde está su par?\n[Verse]\nRojo con rojo, ¡aquí está!\nAzul con azul, ¡qué bien se ve!\n[Chorus]\nCalcetines de colores, ¡uno y dos!\nCada uno con su par, ¡qué bonito son!\n[Bridge]\nAzul con amarillo… ¿así? ¡No, no!\n[Outro]\n¡Amarillo con amarillo! ¡Tu-tuuu!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 40,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_s2_calcetines_song_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Calcetines!\n¿Dónde está su par?\n[Verse]\nRojo con rojo, ¡aquí está!\nAzul con azul, ¡qué bien se ve!\n[Chorus]\nCalcetines de colores, ¡uno y dos!\nCada uno con su par, ¡qué bonito son!\n[Bridge]\nAzul con amarillo… ¿así? ¡No, no!\n[Outro]\n¡Amarillo con amarillo! ¡Tu-tuuu!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 40,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_s2_calcetines_song_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Calcetines!\n¿Dónde está su par?\n[Verse]\nRojo con rojo, ¡aquí está!\nAzul con azul, ¡qué bien se ve!\n[Chorus]\nCalcetines de colores, ¡uno y dos!\nCada uno con su par, ¡qué bonito son!\n[Bridge]\nAzul con amarillo… ¿así? ¡No, no!\n[Outro]\n¡Amarillo con amarillo! ¡Tu-tuuu!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 40,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_s2_calcetines_song_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Calcetines!\n¿Dónde está su par?\n[Verse]\nRojo con rojo, ¡aquí está!\nAzul con azul, ¡qué bien se ve!\n[Chorus]\nCalcetines de colores, ¡uno y dos!\nCada uno con su par, ¡qué bonito son!\n[Bridge]\nAzul con amarillo… ¿así? ¡No, no!\n[Outro]\n¡Amarillo con amarillo! ¡Tu-tuuu!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 40,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_s2_calcetines_A1_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium shot: a pile of colorful socks falls on the baby elephant's head, a red sock hangs from his trunk, surprised face. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s2_calcetines_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s2_calcetines_A2_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium shot: the baby elephant sits on the rug looking at pairs of colorful socks, curious face, trunk pointing at them. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s2_calcetines_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s2_calcetines_A3_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium close-up: the baby elephant holds two red socks together with his trunk and hand, happy smile. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s2_calcetines_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s2_calcetines_A4_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium close-up: the baby elephant holds two blue socks together, happy smile. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s2_calcetines_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s2_calcetines_A5_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Wide shot: the baby elephant dances on the rug waving pairs of socks, ears flapping. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s2_calcetines_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s2_calcetines_A6_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium shot: the baby elephant holds one blue sock and one yellow sock together, puzzled face, head tilted. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s2_calcetines_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s2_calcetines_A7_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium shot: the baby elephant holds two yellow socks together and raises his trunk happily. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s2_calcetines_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s2_calcetines_A8_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Wide shot: three sock pairs lined up neatly on the rug, red, blue and yellow, the baby elephant sits proudly next to them. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s2_calcetines_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s2_calcetines_clip_A1",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Socks tumble onto the baby elephant's head, he blinks and shakes his ears, a red sock dangling from his trunk. Static camera.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s2_calcetines_A1_kf"
+  }
+ },
+ {
+  "id": "tito_s2_calcetines_clip_A2",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant looks around at the socks and tilts his head curiously. Static camera.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s2_calcetines_A2_kf"
+  }
+ },
+ {
+  "id": "tito_s2_calcetines_clip_A3",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant joins the two red socks and holds them up proudly. Static camera.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s2_calcetines_A3_kf"
+  }
+ },
+ {
+  "id": "tito_s2_calcetines_clip_A4",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant joins the two blue socks and waves them happily. Static camera.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s2_calcetines_A4_kf"
+  }
+ },
+ {
+  "id": "tito_s2_calcetines_clip_A5",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant dances side to side waving the sock pairs, ears flapping on the beat. Slight camera sway.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s2_calcetines_A5_kf"
+  }
+ },
+ {
+  "id": "tito_s2_calcetines_clip_A6",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant looks at the blue and yellow socks, tilts his head and blinks, puzzled. Slow push-in.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s2_calcetines_A6_kf"
+  }
+ },
+ {
+  "id": "tito_s2_calcetines_clip_A7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant swaps to two yellow socks, nods and raises his trunk with joy. Static camera.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s2_calcetines_A7_kf"
+  }
+ },
+ {
+  "id": "tito_s2_calcetines_clip_A8",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant sits proudly by the neat sock pairs, then one sock slides off and he gasps. Static camera.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s2_calcetines_A8_kf"
+  }
+ },
+ {
+  "id": "tito_s3_torre_room",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Interior of the same bright cozy playroom, vertical 9:16 composition, camera at child eye level. Light wooden floor, round pastel-pink rug, big soft building blocks scattered on the rug: green, orange and purple. Big window with soft daylight. The room is empty: no characters, no animals, no faces, no people."
+ },
+ {
+  "id": "tito_s3_torre_song_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Se cae!\n¡Vamos a construir!\n[Verse]\nUn bloque verde, ¡abajo va!\nUn bloque naranja, ¡arriba está!\n[Chorus]\nArriba, arriba, ¡más y más!\nMi torre de colores, ¡qué alta está!\n[Bridge]\nEl bloque morado… ¿al revés? ¡No, no!\n[Outro]\n¡Ya está la torre! ¡Tu-tuuu!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 40,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_s3_torre_song_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Se cae!\n¡Vamos a construir!\n[Verse]\nUn bloque verde, ¡abajo va!\nUn bloque naranja, ¡arriba está!\n[Chorus]\nArriba, arriba, ¡más y más!\nMi torre de colores, ¡qué alta está!\n[Bridge]\nEl bloque morado… ¿al revés? ¡No, no!\n[Outro]\n¡Ya está la torre! ¡Tu-tuuu!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 40,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_s3_torre_song_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Se cae!\n¡Vamos a construir!\n[Verse]\nUn bloque verde, ¡abajo va!\nUn bloque naranja, ¡arriba está!\n[Chorus]\nArriba, arriba, ¡más y más!\nMi torre de colores, ¡qué alta está!\n[Bridge]\nEl bloque morado… ¿al revés? ¡No, no!\n[Outro]\n¡Ya está la torre! ¡Tu-tuuu!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 40,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_s3_torre_song_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Se cae!\n¡Vamos a construir!\n[Verse]\nUn bloque verde, ¡abajo va!\nUn bloque naranja, ¡arriba está!\n[Chorus]\nArriba, arriba, ¡más y más!\nMi torre de colores, ¡qué alta está!\n[Bridge]\nEl bloque morado… ¿al revés? ¡No, no!\n[Outro]\n¡Ya está la torre! ¡Tu-tuuu!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 40,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_s3_torre_song_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Se cae!\n¡Vamos a construir!\n[Verse]\nUn bloque verde, ¡abajo va!\nUn bloque naranja, ¡arriba está!\n[Chorus]\nArriba, arriba, ¡más y más!\nMi torre de colores, ¡qué alta está!\n[Bridge]\nEl bloque morado… ¿al revés? ¡No, no!\n[Outro]\n¡Ya está la torre! ¡Tu-tuuu!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 40,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_s3_torre_B1_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium shot: a wobbly tower of big soft blocks tips over in front of the baby elephant, blocks in mid-air, he holds his breath with big eyes. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s3_torre_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s3_torre_B2_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium shot: the baby elephant stands among scattered green, orange and purple blocks, determined smile, trunk raised. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s3_torre_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s3_torre_B3_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium close-up: the baby elephant places a big green block on the rug with his trunk. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s3_torre_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s3_torre_B4_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium shot: the baby elephant puts a big orange block on top of the green block. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s3_torre_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s3_torre_B5_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Wide shot: the baby elephant dances next to a two-block tower, ears flapping, happy. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s3_torre_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s3_torre_B6_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium shot: the baby elephant holds a purple block upside down above the tower, puzzled face. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s3_torre_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s3_torre_B7_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium shot: the baby elephant places the purple block correctly on top of the tower, trunk raised in joy. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s3_torre_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s3_torre_B8_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Wide shot: the baby elephant proudly next to a tall three-color tower of green, orange and purple blocks. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s3_torre_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s3_torre_clip_B1",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The block tower wobbles and tumbles, the baby elephant covers his eyes with his ears. Static camera.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s3_torre_B1_kf"
+  }
+ },
+ {
+  "id": "tito_s3_torre_clip_B2",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant raises his trunk and nods, determined to build. Static camera.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s3_torre_B2_kf"
+  }
+ },
+ {
+  "id": "tito_s3_torre_clip_B3",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant sets the green block down carefully with his trunk. Static camera.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s3_torre_B3_kf"
+  }
+ },
+ {
+  "id": "tito_s3_torre_clip_B4",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant stacks the orange block on top of the green one, it wobbles a little. Static camera.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s3_torre_B4_kf"
+  }
+ },
+ {
+  "id": "tito_s3_torre_clip_B5",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant dances next to the tower, ears flapping on the beat. Slight camera sway.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s3_torre_B5_kf"
+  }
+ },
+ {
+  "id": "tito_s3_torre_clip_B6",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant looks at the upside-down purple block and tilts his head, puzzled. Slow push-in.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s3_torre_B6_kf"
+  }
+ },
+ {
+  "id": "tito_s3_torre_clip_B7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant turns the purple block the right way, puts it on top and trumpets happily. Static camera.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s3_torre_B7_kf"
+  }
+ },
+ {
+  "id": "tito_s3_torre_clip_B8",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant smiles proudly, then sneezes with his trunk and the tower wobbles. Static camera.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s3_torre_B8_kf"
+  }
+ }
+]
