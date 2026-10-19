@@ -3,3 +3,8 @@ research/data/cache/
 __pycache__/
 production/kaggle/build/
 production/pilots/build/animatic_*.mp4
+
+# OAuth tokens / secrets must never be committed
+*token*.json
+client_secret*.json
+.config/

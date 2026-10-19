@@ -31,12 +31,16 @@ def lines(spec):
     return out
 
 
-def shots(bounds):
+def shots(bounds, extras=None):
+    extras = extras or {}
     out = []
     for sid, a, b in bounds:
         dur = round(s(b) - s(a), 3)
-        speed = round(min(1.0, CLIP_LEN / dur), 3)
-        out.append({"file": str(CLIPS / f"clip_{sid}.mp4"), "in": 0.0, "dur": dur, "speed": speed, "shot": sid})
+        x = extras.get(sid, {})
+        start = x.get("in", 0.0)
+        speed = round(min(1.0, (CLIP_LEN - start) / dur), 3)
+        out.append({"file": str(CLIPS / f"clip_{sid}.mp4"), "in": start, "dur": dur, "speed": speed, "shot": sid,
+                    **{k: v for k, v in x.items() if k != "in"}})
     return out
 
 
@@ -60,7 +64,12 @@ POPO = {
 
 TITO = {
     "shots": shots([("T1", 0, 3.6), ("T2", 3.6, 8.3), ("T3", 8.3, 12.7), ("T4", 12.7, 16.1), ("T5", 16.1, 20.4),
-                    ("T5b", 20.4, 24.1), ("T6", 24.1, 28.3), ("T7", 28.3, 31.3), ("T8", 31.3, 34.1)]),
+                    ("T5b", 20.4, 24.1), ("T6", 24.1, 28.3), ("T7", 28.3, 31.3), ("T8", 31.3, 34.1)],
+                   {  # polish v2: thumb-stop hook + keep moving mouths out of focus while the song sings
+                       "T1": {"punch": {"to": 1.32, "dur": 0.45, "cx": 0.5, "cy": 0.30, "settle": 1.20, "shake": 12}},
+                       "T6": {"frame": {"zoom": 1.10, "cx": 0.5, "cy": 0.62}},   # favour the duck + eyes, trunk covers mouth
+                       "T7": {"in": 1.4, "frame": {"zoom": 1.10, "cx": 0.72, "cy": 0.55}},  # skip the open-mouth start, favour the box
+                   }),
     "lines": lines([
         ([("¡Uy!", 0.05)], 1.8),
         ([("¡Qué", 2.58), ("desorden!", 3.48), ("¡A", 4.16), ("ordenar!", 5.26)], 6.6),
@@ -71,9 +80,10 @@ TITO = {
         ([("El", 24.22), ("patito", 24.62), ("amarillo…", 25.42), ("¿aquí?", 26.42), ("¡No!", 27.1)], 28.6),
         ([("¡A", 29.44), ("la", 30.14), ("caja", 30.56), ("amarilla!", 31.34)], 33.6),
     ]),
-    "sfx": [("thud", 0.15, -10), ("thud", 0.55, -12), ("thud", 0.9, -13), ("ding", 11.7, -12), ("ding", 15.7, -12),
+    "sfx": [("whoosh-quick", 0.0, -8), ("thud", 0.15, -10), ("thud", 0.55, -12), ("thud", 0.9, -13), ("ding", 11.7, -12), ("ding", 15.7, -12),
             ("ding", 18.9, -14), ("ding", 19.4, -14), ("ding", 19.7, -14), ("question", 26.3, -10), ("success-soft", 31.5, -10)],
-    "colors": {"text": "#FFFFFF", "active": "#FF6B6B", "outline": "#1F4E8C"},
+    "colors": {"text": "#FFFFFF", "active": "#FFD23F", "outline": "#1F4E8C"},
+    "pill": {"color": "#0E1F3D", "opacity": 0.72, "pad": 18},
 }
 
 for name, e in (("popo", POPO), ("tito", TITO)):
@@ -85,6 +95,7 @@ for name, e in (("popo", POPO), ("tito", TITO)):
         "sfx": [{"file": str(SFX / f"{n}.wav"), "at": s(t), "gain_db": g} for n, t, g in e["sfx"] if s(t) < total],
         "lines": e["lines"], "font": "Fredoka", "font_file": str(ROOT.parent / "fonts" / "Fredoka.ttf"),
         "font_size": 84, "outline": 8, "colors": e["colors"], "caption_y": 0.70,
+        **({"pill": e["pill"]} if e.get("pill") else {}),
     }
     (ROOT / f"edit_{name}.json").write_text(json.dumps(edit, ensure_ascii=False, indent=1))
     print(name, "total", round(total, 2), "s; speeds", [x["speed"] for x in e["shots"]])

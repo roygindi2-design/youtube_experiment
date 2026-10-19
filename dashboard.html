@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kids Studio Status</title>
+<style>
+  :root {
+    --bg: #0b0f17; --panel: #121826; --panel-2: #182033; --line: #243049;
+    --text: #e7ecf5; --muted: #8f9bb3; --accent: #ffd23f; --blue: #5aa9ff;
+    --ok: #3ddc97; --warn: #ffb547; --bad: #ff6b6b; --idle: #7d8aa5;
+    --radius: 14px; --gap: 16px;
+    font-family: "Segoe UI", system-ui, -apple-system, "Heebo", Arial, sans-serif;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text); line-height: 1.5; }
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 24px 16px 48px; }
+  header { display: flex; flex-wrap: wrap; gap: 12px; align-items: baseline; justify-content: space-between; margin-bottom: 20px; }
+  h1 { font-size: 26px; margin: 0; letter-spacing: .2px; }
+  h1 span { color: var(--accent); }
+  .stamp { color: var(--muted); font-size: 13px; }
+  h2 { font-size: 17px; margin: 0 0 12px; color: var(--text); display: flex; align-items: center; gap: 8px; }
+  h2 .n { font-size: 12px; color: var(--muted); font-weight: 500; }
+  section { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px; margin-bottom: var(--gap); }
+  .kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 12px; margin-bottom: var(--gap); }
+  .kpi { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 14px 16px; }
+  .kpi .v { font-size: 26px; font-weight: 700; }
+  .kpi .l { color: var(--muted); font-size: 13px; }
+  .bar { height: 6px; background: var(--line); border-radius: 99px; margin-top: 8px; overflow: hidden; }
+  .bar i { display: block; height: 100%; background: var(--blue); border-radius: 99px; }
+  /* pipeline */
+  .pipe { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; counter-reset: s; }
+  .step { position: relative; background: var(--panel-2); border: 1px solid var(--line); border-radius: 12px; padding: 12px; }
+  .step::before { counter-increment: s; content: counter(s); position: absolute; top: 10px; left: 10px; width: 22px; height: 22px;
+    border-radius: 50%; background: var(--line); color: var(--muted); font-size: 12px; display: grid; place-items: center; }
+  .step b { display: block; margin-bottom: 4px; padding-left: 26px; }
+  .step small { color: var(--muted); display: block; }
+  .step .where { margin-top: 8px; font-size: 12px; color: var(--blue); }
+  .lanes { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; color: var(--muted); font-size: 13px; }
+  .lane { border: 1px dashed var(--line); border-radius: 99px; padding: 4px 10px; }
+  /* tables */
+  .tbl { width: 100%; border-collapse: collapse; font-size: 14px; }
+  .tbl th { text-align: right; color: var(--muted); font-weight: 600; font-size: 12px; padding: 8px; border-bottom: 1px solid var(--line); }
+  .tbl td { padding: 10px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  .tbl tr:last-child td { border-bottom: 0; }
+  .scroll { overflow-x: auto; }
+  .pill { display: inline-flex; align-items: center; gap: 6px; font-size: 12px; font-weight: 600; padding: 3px 10px; border-radius: 99px; white-space: nowrap; }
+  .pill::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: currentColor; }
+  .ok { color: var(--ok); background: color-mix(in srgb, var(--ok) 14%, transparent); }
+  .warn { color: var(--warn); background: color-mix(in srgb, var(--warn) 14%, transparent); }
+  .bad { color: var(--bad); background: color-mix(in srgb, var(--bad) 14%, transparent); }
+  .idle { color: var(--idle); background: color-mix(in srgb, var(--idle) 16%, transparent); }
+  .active { color: var(--blue); background: color-mix(in srgb, var(--blue) 16%, transparent); }
+  .grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: var(--gap); }
+  .proj { background: var(--panel-2); border: 1px solid var(--line); border-radius: 12px; padding: 16px; }
+  .proj h3 { margin: 0 0 4px; font-size: 18px; display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+  .proj .sub { color: var(--muted); font-size: 13px; margin-bottom: 12px; }
+  .proj ul { margin: 6px 0 0; padding-inline-start: 18px; }
+  .proj li { margin: 4px 0; }
+  .meta { display: grid; grid-template-columns: auto 1fr; gap: 4px 12px; font-size: 13px; margin: 10px 0; }
+  .meta span:nth-child(odd) { color: var(--muted); }
+  a { color: var(--blue); }
+  .ltr { direction: ltr; unicode-bidi: isolate; }
+  .note { color: var(--muted); font-size: 13px; margin-top: 10px; }
+  footer { color: var(--muted); font-size: 12px; text-align: center; margin-top: 24px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>סטודיו ילדים · <span>לוח סטטוס</span></h1>
+    <div class="stamp" id="stamp"></div>
+  </header>
+
+  <div class="kpis" id="kpis"></div>
+
+  <section>
+    <h2>ארכיטקטורה: הפייפליין מקצה לקצה <span class="n">מנהל (סוכן בענן) · מנוע (Kaggle GPU) · הרכבה · פרסום</span></h2>
+    <div class="pipe" id="pipe"></div>
+    <div class="lanes" id="lanes"></div>
+  </section>
+
+  <section>
+    <h2>סוכנים ומודולים <span class="n" id="agentsCount"></span></h2>
+    <div class="scroll"><table class="tbl" id="agents"></table></div>
+  </section>
+
+  <section>
+    <h2>חיבורים ואינטגרציות</h2>
+    <div class="scroll"><table class="tbl" id="integrations"></table></div>
+  </section>
+
+  <section>
+    <h2>פרויקטים</h2>
+    <div class="grid2" id="projects"></div>
+  </section>
+
+  <footer>קובץ יחיד, בלי תלות חיצונית. לעדכון הנתונים: לערוך את האובייקט DATA בראש הסקריפט.</footer>
+</div>
+
+<script>
+// ---- DATA: the single source for this page. Update here. ----
+const DATA = {
+  updated: "2026-10-19 11:00 UTC",
+  kpis: [
+    { v: "2", l: "פיילוטים מוכנים (Short)" },
+    { v: "18/18", l: "קליפים שנוצרו בהצלחה" },
+    { v: "5.1 / 30", l: "שעות GPU השבוע (Kaggle)", bar: 5.1 / 30 },
+    { v: "0 θ", l: "צליל th של ספרד בקולות שנבחרו" },
+  ],
+  pipeline: [
+    { t: "מחקר שוק", d: "YouTube Data API: 769 סרטוני ילדים בספרדית", w: "research/yt_latam_kids.py" },
+    { t: "תכנון ותסריט", d: "תנ\"ך סדרה, שוטים, מילים, פרומפטים", w: "production/series_bible.md" },
+    { t: "דמות מאסטר", d: "Z-Image / Flux2 Klein, בחירה ידנית", w: "Kaggle T4" },
+    { t: "פריימי מפתח", d: "Klein + ייחוס לחדר ולמאסטר (עקביות)", w: "Kaggle T4" },
+    { t: "וידאו", d: "Wan 2.2 FastWan 5B, ‏4 שנ' לקליפ", w: "Kaggle T4" },
+    { t: "שיר וקול", d: "ACE-Step 1.5 · Qwen3-TTS · Kokoro es-419", w: "Kaggle T4 / CPU" },
+    { t: "בדיקת מבטא", d: "Whisper + wav2vec2: ספירת θ", w: "production/accent_check.py" },
+    { t: "הרכבה", d: "סנכרון לשיר, כתוביות קריוקי, ‎-14 LUFS", w: "production/assemble.py" },
+    { t: "בקרת איכות", d: "פריימים, שפה, רישיונות", w: "ידני + סוכן" },
+    { t: "פרסום", d: "YouTube Data API: העלאה כ-Unlisted, Made for Kids", w: "production/youtube/yt.py" },
+  ],
+  lanes: ["אישור אנושי לפני כל פרסום", "סודות רק במשתני סביבה", "כל שלב ניתן להרצה חוזרת"],
+  agents: [
+    { n: "מתאם", r: "מפעיל שלבים, עוקב אחרי מצב", s: "active", note: "ידני. תזמונים עוד לא הוגדרו" },
+    { n: "מחקר שוק", r: "ניתוח נתוני API", s: "idle", note: "ריצה אחרונה 18.10" },
+    { n: "ניתוח סרטונים", r: "hook, ‏BPM, חזרות", s: "bad", note: "חסום: יוטיוב מסרב להורדה מהשרת" },
+    { n: "תכנון סדרות", r: "תנ\"ך, פרקים", s: "idle", note: "2 סדרות, 10 פרקים לכל אחת" },
+    { n: "תסריט וסטוריבורד", r: "שוטים ופרומפטים", s: "idle", note: "פיילוטים כתובים" },
+    { n: "הפקת אנימציה", r: "Kaggle: תמונות ווידאו", s: "idle", note: "3 הרצות הושלמו" },
+    { n: "סאונד", r: "שירים, קול, אפקטים", s: "idle", note: "6 גרסאות לכל שיר" },
+    { n: "עריכה", r: "הרכבת ה-Short", s: "idle", note: "טיטו v2 מלוטש" },
+    { n: "בקרת איכות", r: "שפה, מבטא, רישיונות", s: "idle", note: "בוצעה לשני הפיילוטים" },
+    { n: "פרסום", r: "העלאה ליוטיוב", s: "warn", note: "ממתין לאישור OAuth שלך" },
+    { n: "נתונים ודוחות", r: "Analytics", s: "idle", note: "יתחיל אחרי העלאה ראשונה" },
+  ],
+  integrations: [
+    { n: "YouTube OAuth (העלאה)", s: "warn", st: "ממתין לאישור", d: "קישור ההתחברות נוצר. אחרי האישור: בדיקת ערוץ והעלאה" },
+    { n: "YouTube Data API (מפתח)", s: "ok", st: "פעיל", d: "קריאת נתונים ציבוריים, כ-6,150 יחידות נוצלו במחקר" },
+    { n: "Kaggle (GPU)", s: "ok", st: "פעיל", d: "2× T4, ‏24.9 שעות פנויות השבוע. שימוש מסחרי: תנאים עוד לא אומתו" },
+    { n: "WanGP", s: "ok", st: "פעיל", d: "Z-Image, Klein, Wan 2.2 5B, ACE-Step, Qwen3-TTS" },
+    { n: "Kokoro TTS", s: "ok", st: "פעיל (CPU)", d: "רק עם es-419. ברירת המחדל = מבטא ספרד" },
+    { n: "Qwen3-TTS", s: "ok", st: "פעיל", d: "VoiceDesign, language=spanish: ‏0 θ, תמלול מושלם" },
+    { n: "Video Studio", s: "warn", st: "תוקן בענן בלבד", d: "Patch לספרדית (LTR) קיים בריפו. עוד לא הוחל במחשב שלך" },
+    { n: "Hugging Face", s: "warn", st: "קריאה בלבד", d: "הרצת Spaces כבויה בהגדרות המחבר (gradio=none)" },
+    { n: "Flux2 Klein 9B", s: "bad", st: "רישיון לא מסחרי", d: "שימש בפיילוטים. לגרסת פרסום: Klein 4B / Z-Image" },
+  ],
+  projects: [
+    {
+      name: "טיטו הפיל", tag: "C · צבעים וסידור", s: "warn", st: "מלוטש · ממתין להעלאה",
+      title: "¡A ordenar los colores con Tito! 🐘",
+      video: null, // filled after upload: { id, url }
+      meta: [["אורך", "32.2 שניות"], ["קובץ", "pilot_tito_v2.mp4"], ["פרטיות", "Unlisted · Made for Kids"]],
+      next: ["אישור OAuth → בדיקת ערוץ → העלאה", "גרסה מסחרית בפריימים מ-Klein 4B", "Shorts המשך: גרביים, מגדל קוביות"],
+    },
+    {
+      name: "נילו ההיפופוטם", tag: "B · שגרות (לשעבר Popo)", s: "idle", st: "פיילוט מוכן · לא הועלה",
+      title: "Arriba y abajo (צחצוח)",
+      video: null,
+      meta: [["אורך", "32.6 שניות"], ["קובץ", "pilot_popo.mp4"], ["שם", "הוחלף ל-Nilo (popó = קקי)"]],
+      next: ["אותם 3 ליטושים כמו טיטו (Hook, כתוביות, פה)", "פזמון כפול בשיר", "Shorts המשך: ידיים, שינה (ניסוי רגוע)"],
+    },
+  ],
+};
+
+// ---- render ----
+const $ = (id) => document.getElementById(id);
+const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const label = { active: "Active", idle: "Idle", ok: "תקין", warn: "ממתין", bad: "חסום" };
+const pill = (cls, text) => `<span class="pill ${cls}">${esc(text ?? label[cls])}</span>`;
+
+$("stamp").textContent = "עודכן: " + DATA.updated;
+$("kpis").innerHTML = DATA.kpis.map((k) => `<div class="kpi"><div class="v ltr">${esc(k.v)}</div><div class="l">${esc(k.l)}</div>${
+  k.bar != null ? `<div class="bar"><i style="width:${Math.round(k.bar * 100)}%"></i></div>` : ""}</div>`).join("");
+$("pipe").innerHTML = DATA.pipeline.map((p) => `<div class="step"><b>${esc(p.t)}</b><small>${esc(p.d)}</small><div class="where ltr">${esc(p.w)}</div></div>`).join("");
+$("lanes").innerHTML = DATA.lanes.map((l) => `<span class="lane">${esc(l)}</span>`).join("");
+$("agentsCount").textContent = `${DATA.agents.length} מחלקות · ${DATA.agents.filter((a) => a.s === "active").length} פעילות כרגע`;
+$("agents").innerHTML = `<tr><th>מחלקה</th><th>תפקיד</th><th>מצב</th><th>הערה</th></tr>` +
+  DATA.agents.map((a) => `<tr><td><b>${esc(a.n)}</b></td><td>${esc(a.r)}</td><td>${pill(a.s, a.s === "bad" ? "חסום" : a.s === "warn" ? "ממתין" : label[a.s])}</td><td>${esc(a.note)}</td></tr>`).join("");
+$("integrations").innerHTML = `<tr><th>חיבור</th><th>סטטוס</th><th>פרטים</th></tr>` +
+  DATA.integrations.map((i) => `<tr><td><b>${esc(i.n)}</b></td><td>${pill(i.s, i.st)}</td><td>${esc(i.d)}</td></tr>`).join("");
+$("projects").innerHTML = DATA.projects.map((p) => `<div class="proj">
+  <h3>${esc(p.name)} ${pill(p.s, p.st)}</h3>
+  <div class="sub">${esc(p.tag)} · <span class="ltr">${esc(p.title)}</span></div>
+  <div class="meta">${p.meta.map(([k, v]) => `<span>${esc(k)}</span><span>${esc(v)}</span>`).join("")}
+    <span>סרטון</span><span>${p.video ? `<a class="ltr" href="${esc(p.video.url)}" target="_blank" rel="noopener">${esc(p.video.url)}</a> · <span class="ltr">ID ${esc(p.video.id)}</span>` : "עוד לא הועלה"}</span></div>
+  <b>הבא בתור:</b><ul>${p.next.map((n) => `<li>${esc(n)}</li>`).join("")}</ul></div>`).join("");
+</script>
+</body>
+</html>
