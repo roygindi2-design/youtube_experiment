@@ -81,6 +81,26 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
     Path(path).write_text(head + "\n".join(rows) + "\n", encoding="utf-8")
 
 
+def srt_time(t):
+    t = max(0.0, t)
+    ms = int(round(t * 1000))
+    return f"{ms // 3600000:02d}:{ms % 3600000 // 60000:02d}:{ms % 60000 // 1000:02d},{ms % 1000:03d}"
+
+
+def write_srt(e, path):
+    """One cue per lyric line (YouTube CC). Times clamped so cues never overlap."""
+    lines = e.get("lines", [])
+    rows = []
+    for i, line in enumerate(lines, start=1):
+        start = max(0.0, line["start"])
+        end = line["end"]
+        if i < len(lines):
+            end = min(end, max(start + 0.3, lines[i]["start"] - 0.05))
+        text = " ".join(w[0] for w in line["words"])
+        rows.append(f"{i}\n{srt_time(start)} --> {srt_time(end)}\n{text}\n")
+    Path(path).write_text("\n".join(rows), encoding="utf-8")
+
+
 def main():
     e = json.loads(Path(sys.argv[1]).read_text())
     fps = e.get("fps", 30)
@@ -138,10 +158,14 @@ def main():
          "-ar", "48000", str(audio)])
 
     ass = tmp / "captions.ass"
-    build_ass(e, ass)
-    fontsdir = str(Path(e.get("font_file", "production/fonts/x")).resolve().parent)
+    write_srt(e, out.with_suffix(".es.srt"))  # always: separate closed-caption file for YouTube (CC)
+    vf = ["-vf", "null"]
+    if e.get("burn_captions", True):  # toddler Shorts: burn_captions=false keeps the picture clean
+        build_ass(e, ass)
+        fontsdir = str(Path(e.get("font_file", "production/fonts/x")).resolve().parent)
+        vf = ["-vf", f"subtitles={ass}:fontsdir={fontsdir}"]
     run(["ffmpeg", "-y", "-v", "error", "-i", str(video), "-i", str(audio),
-         "-vf", f"subtitles={ass}:fontsdir={fontsdir}", "-map", "0:v", "-map", "1:a",
+         *vf, "-map", "0:v", "-map", "1:a",
          "-c:v", "libx264", "-preset", "slow", "-crf", "17", "-pix_fmt", "yuv420p", "-r", str(fps),
          "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart", "-t", str(total), str(out)])
     print("done", out, round(total, 2), "s")

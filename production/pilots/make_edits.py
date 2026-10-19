@@ -94,6 +94,7 @@ for name, e in (("popo", POPO), ("tito", TITO)):
         "shots": e["shots"],
         "sfx": [{"file": str(SFX / f"{n}.wav"), "at": s(t), "gain_db": g} for n, t, g in e["sfx"] if s(t) < total],
         "lines": e["lines"], "font": "Fredoka", "font_file": str(ROOT.parent / "fonts" / "Fredoka.ttf"),
+        "burn_captions": False,  # toddlers: clean picture; captions ship as a separate .srt (YouTube CC)
         "font_size": 84, "outline": 8, "colors": e["colors"], "caption_y": 0.70,
         **({"pill": e["pill"]} if e.get("pill") else {}),
     }

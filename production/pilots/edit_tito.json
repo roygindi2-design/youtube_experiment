@@ -1,5 +1,5 @@
 {
- "out": "/home/user/youtube_experiment/production/pilots/build/pilot_tito_v2.mp4",
+ "out": "/home/user/youtube_experiment/production/pilots/build/pilot_tito_v3_clean.mp4",
  "fps": 30,
  "song": {
   "file": "/home/user/youtube_experiment/production/pilots/build/song_tito.wav",
@@ -430,5 +430,6 @@
   "color": "#0E1F3D",
   "opacity": 0.72,
   "pad": 18
- }
+ },
+ "burn_captions": false
 }

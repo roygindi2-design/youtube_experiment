@@ -116,9 +116,9 @@ const DATA = {
     { t: "וידאו", d: "Wan 2.2 FastWan 5B, ‏4 שנ' לקליפ", w: "Kaggle T4" },
     { t: "שיר וקול", d: "ACE-Step 1.5 · Qwen3-TTS · Kokoro es-419", w: "Kaggle T4 / CPU" },
     { t: "בדיקת מבטא", d: "Whisper + wav2vec2: ספירת θ", w: "production/accent_check.py" },
-    { t: "הרכבה", d: "סנכרון לשיר, כתוביות קריוקי, ‎-14 LUFS", w: "production/assemble.py" },
+    { t: "הרכבה", d: "סנכרון לשיר, מסך נקי + קובץ CC (.srt), ‎-14 LUFS", w: "production/assemble.py" },
     { t: "בקרת איכות", d: "פריימים, שפה, רישיונות", w: "ידני + סוכן" },
-    { t: "פרסום", d: "YouTube Data API: העלאה כ-Unlisted, Made for Kids", w: "production/youtube/yt.py" },
+    { t: "פרסום", d: "YouTube API: העלאה Unlisted, Made for Kids + כתוביות CC", w: "production/youtube/yt.py" },
   ],
   lanes: ["אישור אנושי לפני כל פרסום", "סודות רק במשתני סביבה", "כל שלב ניתן להרצה חוזרת"],
   agents: [
@@ -129,13 +129,13 @@ const DATA = {
     { n: "תסריט וסטוריבורד", r: "שוטים ופרומפטים", s: "idle", note: "פיילוטים כתובים" },
     { n: "הפקת אנימציה", r: "Kaggle: תמונות ווידאו", s: "idle", note: "3 הרצות הושלמו" },
     { n: "סאונד", r: "שירים, קול, אפקטים", s: "idle", note: "6 גרסאות לכל שיר" },
-    { n: "עריכה", r: "הרכבת ה-Short", s: "idle", note: "טיטו v2 מלוטש" },
+    { n: "עריכה", r: "הרכבת ה-Short", s: "idle", note: "טיטו v3: מסך נקי, כתוביות כ-CC" },
     { n: "בקרת איכות", r: "שפה, מבטא, רישיונות", s: "idle", note: "בוצעה לשני הפיילוטים" },
     { n: "פרסום", r: "העלאה ליוטיוב", s: "warn", note: "ממתין לאישור OAuth שלך" },
     { n: "נתונים ודוחות", r: "Analytics", s: "idle", note: "יתחיל אחרי העלאה ראשונה" },
   ],
   integrations: [
-    { n: "YouTube OAuth (העלאה)", s: "warn", st: "ממתין לאישור", d: "קישור ההתחברות נוצר. אחרי האישור: בדיקת ערוץ והעלאה" },
+    { n: "YouTube OAuth (העלאה + CC)", s: "warn", st: "ממתין לאישור", d: "קישור חדש עם הרשאת כתוביות (force-ssl). אחרי האישור: בדיקת ערוץ, העלאה, כתוביות" },
     { n: "YouTube Data API (מפתח)", s: "ok", st: "פעיל", d: "קריאת נתונים ציבוריים, כ-6,150 יחידות נוצלו במחקר" },
     { n: "Kaggle (GPU)", s: "ok", st: "פעיל", d: "2× T4, ‏24.9 שעות פנויות השבוע. שימוש מסחרי: תנאים עוד לא אומתו" },
     { n: "WanGP", s: "ok", st: "פעיל", d: "Z-Image, Klein, Wan 2.2 5B, ACE-Step, Qwen3-TTS" },
@@ -150,7 +150,7 @@ const DATA = {
       name: "טיטו הפיל", tag: "C · צבעים וסידור", s: "warn", st: "מלוטש · ממתין להעלאה",
       title: "¡A ordenar los colores con Tito! 🐘",
       video: null, // filled after upload: { id, url }
-      meta: [["אורך", "32.2 שניות"], ["קובץ", "pilot_tito_v2.mp4"], ["פרטיות", "Unlisted · Made for Kids"]],
+      meta: [["אורך", "32.2 שניות"], ["קובץ", "pilot_tito_v3_clean.mp4 + .es.srt"], ["פרטיות", "Unlisted · Made for Kids"], ["כתוביות", "CC נפרד, לא צרוב"]],
       next: ["אישור OAuth → בדיקת ערוץ → העלאה", "גרסה מסחרית בפריימים מ-Klein 4B", "Shorts המשך: גרביים, מגדל קוביות"],
     },
     {
@@ -158,7 +158,7 @@ const DATA = {
       title: "Arriba y abajo (צחצוח)",
       video: null,
       meta: [["אורך", "32.6 שניות"], ["קובץ", "pilot_popo.mp4"], ["שם", "הוחלף ל-Nilo (popó = קקי)"]],
-      next: ["אותם 3 ליטושים כמו טיטו (Hook, כתוביות, פה)", "פזמון כפול בשיר", "Shorts המשך: ידיים, שינה (ניסוי רגוע)"],
+      next: ["אותם ליטושים כמו טיטו: Hook, מסך נקי + CC, פה", "פזמון כפול בשיר", "Shorts המשך: ידיים, שינה (ניסוי רגוע)"],
     },
   ],
 };

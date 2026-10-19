@@ -3,7 +3,7 @@
     python production/youtube/yt.py auth-url            # prints a Google sign-in link
     python production/youtube/yt.py auth-finish '<URL>' # paste the full localhost URL the browser ended on
     python production/youtube/yt.py whoami              # channel name, id, upload permission check
-    python production/youtube/yt.py upload <meta.json>  # uploads; prints video id + link
+    python production/youtube/yt.py upload <meta.json>  # uploads video (+ captions if meta has "captions"); prints id + link
 
 Secrets: OAuth client id/secret come from env (Client_ID_google / Client_secret_google), never from
 the repo. The user token is stored at ~/.config/yt-kids/token.json (chmod 600), outside the repo.
@@ -21,7 +21,8 @@ from google_auth_oauthlib.flow import Flow
 from googleapiclient.discovery import build
 from googleapiclient.http import MediaFileUpload
 
-SCOPES = ["https://www.googleapis.com/auth/youtube.upload", "https://www.googleapis.com/auth/youtube.readonly"]
+SCOPES = ["https://www.googleapis.com/auth/youtube.upload", "https://www.googleapis.com/auth/youtube.readonly",
+          "https://www.googleapis.com/auth/youtube.force-ssl"]  # force-ssl: needed for captions.insert
 REDIRECT = "http://localhost:8765/"
 HOME = Path.home() / ".config" / "yt-kids"
 TOKEN = HOME / "token.json"
@@ -93,6 +94,18 @@ def whoami():
     }, ensure_ascii=False, indent=1))
 
 
+def add_captions(yt, vid, srt_file, lang, name):
+    """Upload a separate closed-caption track (CC). The video picture stays clean."""
+    media = MediaFileUpload(srt_file, mimetype="application/octet-stream", resumable=False)
+    r = yt.captions().insert(part="snippet", body={"snippet": {"videoId": vid, "language": lang, "name": name, "isDraft": False}},
+                             media_body=media).execute()
+    print(json.dumps({"captionId": r["id"], "language": lang, "track": name}, ensure_ascii=False))
+
+
+def captions_cmd(video_id, srt_file, lang="es"):
+    add_captions(build("youtube", "v3", credentials=creds()), video_id, srt_file, lang, "Español")
+
+
 def upload(meta_file):
     m = json.loads(Path(meta_file).read_text())
     yt = build("youtube", "v3", credentials=creds())
@@ -111,6 +124,8 @@ def upload(meta_file):
         if status:
             print(f"uploaded {int(status.progress() * 100)}%", flush=True)
     vid = resp["id"]
+    if m.get("captions"):
+        add_captions(yt, vid, m["captions"], m.get("language", "es"), m.get("captionName", "Español"))
     check = yt.videos().list(part="status,snippet,processingDetails", id=vid).execute()["items"]
     st = check[0]["status"] if check else {}
     print(json.dumps({"videoId": vid, "watch": f"https://www.youtube.com/watch?v={vid}", "shorts": f"https://youtube.com/shorts/{vid}",
@@ -121,4 +136,4 @@ def upload(meta_file):
 
 if __name__ == "__main__":
     cmd, args = sys.argv[1], sys.argv[2:]
-    {"auth-url": auth_url, "auth-finish": auth_finish, "whoami": whoami, "upload": upload}[cmd](*args)
+    {"auth-url": auth_url, "auth-finish": auth_finish, "whoami": whoami, "upload": upload, "captions": captions_cmd}[cmd](*args)
