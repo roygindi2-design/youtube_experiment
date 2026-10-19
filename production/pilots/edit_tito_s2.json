@@ -1,0 +1,376 @@
+{
+ "out": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/s2build/tito_s2.mp4",
+ "fps": 30,
+ "size": [
+  1080,
+  1920
+ ],
+ "burn_captions": false,
+ "song": {
+  "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS2/out/tito_s2_calcetines_song_s4.wav",
+  "start": 1.13,
+  "gain_db": 0
+ },
+ "shots": [
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS2/out/tito_s2_calcetines_clip_A1_s7.mp4",
+   "in": 0.06,
+   "dur": 4.23,
+   "speed": 0.941,
+   "src_len": 3.98,
+   "shot": "A1@7",
+   "punch": {
+    "to": 1.25,
+    "dur": 0.45,
+    "cx": 0.5,
+    "cy": 0.32,
+    "settle": 1.15,
+    "shake": 10
+   }
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS2/out/tito_s2_calcetines_clip_A2_s7.mp4",
+   "in": 0.06,
+   "dur": 2.32,
+   "speed": 1.0,
+   "src_len": 2.32,
+   "shot": "A2@7"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS2/out/tito_s2_calcetines_clip_A3_s19.mp4",
+   "in": 0.06,
+   "dur": 3.92,
+   "speed": 1.0,
+   "src_len": 3.92,
+   "shot": "A3@19"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS2/out/tito_s2_calcetines_clip_A4_s7.mp4",
+   "in": 0.06,
+   "dur": 1.76,
+   "speed": 0.8,
+   "src_len": 0.94,
+   "shot": "A4@7",
+   "hold": 0.685
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS2/out/tito_s2_calcetines_clip_A4_s19.mp4",
+   "in": 1.5,
+   "dur": 2.0,
+   "speed": 1.0,
+   "src_len": 2.0,
+   "shot": "A4@19"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS2/out/tito_s2_calcetines_clip_A5_s7.mp4",
+   "in": 0.06,
+   "dur": 3.0,
+   "speed": 1.0,
+   "src_len": 3.0,
+   "shot": "A5@7"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS2/out/tito_s2_calcetines_clip_A2_s19.mp4",
+   "in": 0.06,
+   "dur": 3.8,
+   "speed": 1.0,
+   "src_len": 3.8,
+   "shot": "A2@19"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS2/out/tito_s2_calcetines_clip_A5_s19.mp4",
+   "in": 0.06,
+   "dur": 2.62,
+   "speed": 1.0,
+   "src_len": 2.62,
+   "shot": "A5@19"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS2/out/tito_s2_calcetines_clip_A1_s19.mp4",
+   "in": 0.3,
+   "dur": 4.72,
+   "speed": 0.8,
+   "src_len": 3.742,
+   "shot": "A1@19",
+   "hold": 0.143
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS2/out/tito_s2_calcetines_clip_A6_s7.mp4",
+   "in": 0.06,
+   "dur": 5.4,
+   "speed": 0.8,
+   "src_len": 3.982,
+   "shot": "A6@7",
+   "hold": 0.523
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS2/out/tito_s2_calcetines_clip_A8_s19.mp4",
+   "in": 0.06,
+   "dur": 3.98,
+   "speed": 1.0,
+   "src_len": 3.98,
+   "shot": "A8@19"
+  }
+ ],
+ "sfx": [],
+ "lines": [
+  {
+   "start": 0.05,
+   "end": 3.87,
+   "words": [
+    [
+     "¡Uy!",
+     0.15000000000000013,
+     3.8700000000000006
+    ],
+    [
+     "¡Calcetines!",
+     0.15000000000000013,
+     3.8700000000000006
+    ]
+   ]
+  },
+  {
+   "start": 4.25,
+   "end": 6.62,
+   "words": [
+    [
+     "¿Dónde",
+     4.3500000000000005,
+     6.62
+    ],
+    [
+     "está",
+     4.3500000000000005,
+     6.62
+    ],
+    [
+     "su",
+     4.3500000000000005,
+     6.62
+    ],
+    [
+     "par?",
+     4.3500000000000005,
+     6.62
+    ]
+   ]
+  },
+  {
+   "start": 6.57,
+   "end": 10.54,
+   "words": [
+    [
+     "Rojo",
+     6.67,
+     10.54
+    ],
+    [
+     "con",
+     6.67,
+     10.54
+    ],
+    [
+     "rojo,",
+     6.67,
+     10.54
+    ],
+    [
+     "¡aquí",
+     6.67,
+     10.54
+    ],
+    [
+     "está!",
+     6.67,
+     10.54
+    ]
+   ]
+  },
+  {
+   "start": 10.49,
+   "end": 14.3,
+   "words": [
+    [
+     "Azul",
+     10.59,
+     14.3
+    ],
+    [
+     "con",
+     10.59,
+     14.3
+    ],
+    [
+     "azul,",
+     10.59,
+     14.3
+    ],
+    [
+     "¡qué",
+     10.59,
+     14.3
+    ],
+    [
+     "bien",
+     10.59,
+     14.3
+    ],
+    [
+     "se",
+     10.59,
+     14.3
+    ],
+    [
+     "ve!",
+     10.59,
+     14.3
+    ]
+   ]
+  },
+  {
+   "start": 14.25,
+   "end": 19.89,
+   "words": [
+    [
+     "Calcetines",
+     14.350000000000001,
+     19.890000000000004
+    ],
+    [
+     "de",
+     14.350000000000001,
+     19.890000000000004
+    ],
+    [
+     "colores,",
+     14.350000000000001,
+     19.890000000000004
+    ],
+    [
+     "¡uno",
+     14.350000000000001,
+     19.890000000000004
+    ],
+    [
+     "y",
+     14.350000000000001,
+     19.890000000000004
+    ],
+    [
+     "dos!",
+     14.350000000000001,
+     19.890000000000004
+    ]
+   ]
+  },
+  {
+   "start": 21.05,
+   "end": 27.67,
+   "words": [
+    [
+     "Cada",
+     21.150000000000002,
+     27.67
+    ],
+    [
+     "uno",
+     21.150000000000002,
+     27.67
+    ],
+    [
+     "con",
+     21.150000000000002,
+     27.67
+    ],
+    [
+     "su",
+     21.150000000000002,
+     27.67
+    ],
+    [
+     "par,",
+     21.150000000000002,
+     27.67
+    ],
+    [
+     "¡qué",
+     21.150000000000002,
+     27.67
+    ],
+    [
+     "bonito",
+     21.150000000000002,
+     27.67
+    ],
+    [
+     "son!",
+     21.150000000000002,
+     27.67
+    ]
+   ]
+  },
+  {
+   "start": 28.39,
+   "end": 32.51,
+   "words": [
+    [
+     "Azul",
+     28.490000000000002,
+     32.51
+    ],
+    [
+     "con",
+     28.490000000000002,
+     32.51
+    ],
+    [
+     "amarillo…",
+     28.490000000000002,
+     32.51
+    ],
+    [
+     "¿así?",
+     28.490000000000002,
+     32.51
+    ],
+    [
+     "¡No,",
+     28.490000000000002,
+     32.51
+    ],
+    [
+     "no!",
+     28.490000000000002,
+     32.51
+    ]
+   ]
+  },
+  {
+   "start": 33.79,
+   "end": 36.75,
+   "words": [
+    [
+     "¡Amarillo",
+     33.89,
+     36.75
+    ],
+    [
+     "con",
+     33.89,
+     36.75
+    ],
+    [
+     "amarillo!",
+     33.89,
+     36.75
+    ],
+    [
+     "¡Tu-tuuu!",
+     33.89,
+     36.75
+    ]
+   ]
+  }
+ ]
+}

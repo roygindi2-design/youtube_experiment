@@ -12,6 +12,7 @@ import sys
 from pathlib import Path
 
 CLIP = 97 / 24
+SKIP = 0.06  # frame 0 is the raw keyframe (brighter): skip it, no flash at the cut
 # (start, end, shot, seed) — seed "a" = 7, "b" = 19
 CUTS = [
     (0.0, 4.4, "L01", "a"), (4.4, 8.7, "L03", "a"),                                  # Intro: ¡Uy! / ¡Vamos a ordenar!
@@ -53,10 +54,12 @@ def main():
         seed = int(alt.get(f"{sid}{sd}", SEED[sd]))
         dur = round(end - start, 3)
         speed = 1.0 if dur <= CLIP - 0.05 else max(0.8, round(CLIP / dur, 3))
-        s = {"file": f"{clips}/lf_clip_{sid}_s{seed}.mp4", "in": 0.0, "dur": dur, "speed": speed,
-             "src_len": round(min(CLIP, dur * speed), 3)}
-        if CLIP / speed < dur:
-            s["hold"] = round(dur - CLIP / speed + 0.1, 3)
+        usable = CLIP - SKIP
+        speed = 1.0 if dur <= usable else max(0.8, round(usable / dur, 3))
+        s = {"file": f"{clips}/lf_clip_{sid}_s{seed}.mp4", "in": SKIP, "dur": dur, "speed": speed,
+             "src_len": round(min(usable, dur * speed), 3)}
+        if usable / speed < dur:
+            s["hold"] = round(dur - usable / speed + 0.1, 3)
         shots.append(s)
     edit = {"out": out, "fps": 30, "size": [1920, 1080], "burn_captions": False,
             "song": {"file": song, "start": 0.0, "gain_db": -1},

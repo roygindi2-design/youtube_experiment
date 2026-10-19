@@ -1,0 +1,31 @@
+1
+00:00:00,050 --> 00:00:03,870
+¡Uy! ¡Calcetines!
+
+2
+00:00:04,250 --> 00:00:06,520
+¿Dónde está su par?
+
+3
+00:00:06,570 --> 00:00:10,440
+Rojo con rojo, ¡aquí está!
+
+4
+00:00:10,490 --> 00:00:14,200
+Azul con azul, ¡qué bien se ve!
+
+5
+00:00:14,250 --> 00:00:19,890
+Calcetines de colores, ¡uno y dos!
+
+6
+00:00:21,050 --> 00:00:27,670
+Cada uno con su par, ¡qué bonito son!
+
+7
+00:00:28,390 --> 00:00:32,510
+Azul con amarillo… ¿así? ¡No, no!
+
+8
+00:00:33,790 --> 00:00:36,750
+¡Amarillo con amarillo! ¡Tu-tuuu!
