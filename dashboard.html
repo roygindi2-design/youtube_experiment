@@ -95,6 +95,24 @@
     <div class="grid2" id="projects"></div>
   </section>
 
+  <section>
+    <h2>נתוני הערוץ <span class="n" id="anTaken"></span></h2>
+    <div class="kpis" id="anKpis" style="margin-bottom:12px"></div>
+    <div class="scroll"><table class="tbl" id="anTable"></table></div>
+    <div class="note" id="anNote"></div>
+  </section>
+
+  <section>
+    <h2>תקציב GPU ולוח זמנים <span class="n">Kaggle T4 · שבוע עד 24.10</span></h2>
+    <div class="scroll"><table class="tbl" id="gpuPlan"></table></div>
+    <div class="note" id="gpuNote"></div>
+  </section>
+
+  <section>
+    <h2>לקחים מהשטח <span class="n">מוזן לפרומפטים ולמבנה הפרקים הבאים</span></h2>
+    <div class="scroll"><table class="tbl" id="lessons"></table></div>
+  </section>
+
   <footer>קובץ יחיד, בלי תלות חיצונית. לעדכון הנתונים: לערוך את האובייקט DATA בראש הסקריפט.</footer>
 </div>
 
@@ -147,11 +165,11 @@ const DATA = {
   ],
   projects: [
     {
-      name: "טיטו הפיל", tag: "C · צבעים וסידור", s: "ok", st: "הועלה · Unlisted",
+      name: "טיטו הפיל", tag: "C · צבעים וסידור", s: "ok", st: "Public · Made for Kids",
       title: "¡A ordenar los colores con Tito! 🐘",
       video: { id: "gPKBDFi0nss", url: "https://youtube.com/shorts/gPKBDFi0nss" },
-      meta: [["אורך", "32.2 שניות"], ["קובץ", "pilot_tito_v3_clean.mp4 + .es.srt"], ["פרטיות", "Unlisted · Made for Kids"], ["כתוביות", "CC נפרד, לא צרוב"]],
-      next: ["צפייה ואישור שלך ב-YouTube Studio", "גרסה מסחרית בפריימים מ-Klein 4B (לפני Public)", "Shorts המשך: גרביים, מגדל קוביות"],
+      meta: [["אורך", "32.2 שניות"], ["קובץ", "pilot_tito_v3_clean.mp4 + .es.srt"], ["פרטיות", "Public · Made for Kids"], ["כתוביות", "CC נפרד, לא צרוב"]],
+      next: ["פרק מלא 1: Cada juguete a su casita (2:20, Klein 4B) — בהפקה", "להחליף את הפיילוט (Klein 9B) לפני מונטיזציה", "Shorts המשך: גרביים, מגדל קוביות"],
     },
     {
       name: "נילו ההיפופוטם", tag: "B · שגרות (לשעבר Popo)", s: "idle", st: "פיילוט מוכן · לא הועלה",
@@ -162,6 +180,25 @@ const DATA = {
     },
   ],
 };
+
+const ANALYTICS = /*ANALYTICS*/{"taken": "2026-10-19 11:57 UTC", "channel": {"title": "Cantilandia", "id": "UCDwph5nbCbbl97Pu4gTyZUA", "subscribers": 0, "views": 0, "videos": 1}, "analytics_api": "missing scope yt-analytics.readonly (re-consent needed)", "videos": [{"id": "gPKBDFi0nss", "title": "¡A ordenar los colores con Tito! 🐘 | Canciones Infantiles #Shorts", "privacy": "public", "duration_s": 33, "views": 4, "likes": 1, "averageViewPercentage": null, "averageViewDuration": null, "retention_0_5s": null}]}/*END*/;
+const GPU = {
+  total: 30, used_before: 5.13, reserve_pct: 20,
+  plan: [
+    { step: "L1: חדר + 48 פריימי מפתח (Klein 4B) + 5 שירים + קריינות", est: 1.0, state: "active" },
+    { step: "L2: 24 קליפים (Wan 2.2 5B, 960x544), שתי הרצות במקביל", est: 2.6, state: "idle" },
+    { step: "תיקונים: קליפים חוזרים לשוטים פגומים (עד 6)", est: 0.6, state: "idle" },
+    { step: "גרסה מסחרית של פיילוט נילו (Klein 4B)", est: 1.5, state: "idle" },
+  ],
+};
+const LESSONS = [
+  { src: "פיילוט טיטו (Short)", what: "Hook: זום מהיר לפנים + ¡Uy! בשנייה 0", effect: "חובה בכל פרק: תנועה לכיוון המצלמה בשנייה הראשונה", state: "ok" },
+  { src: "משוב אנושי", what: "כתוביות צרובות חוסמות את המסך לפעוטות", effect: "מסך נקי + קובץ CC נפרד בכל סרטון", state: "ok" },
+  { src: "QC קליפים", what: "פה זז בלי סנכרון כשהזמרת שרה", effect: "מסגור על פעולה ועיניים, חיתוך קליפים אחרי פתיחת פה", state: "ok" },
+  { src: "API שירים", what: "ACE-Step מדלג על שורות", effect: "5–6 גרסאות ובחירה לפי התאמת תמלול", state: "ok" },
+  { src: "רישיונות", what: "Klein 9B לא מסחרי", effect: "רק Klein 4B / Z-Image. להחליף את פיילוט טיטו לפני מונטיזציה", state: "warn" },
+  { src: "Analytics", what: "ממתין לנתונים (24–48 שעות עיכוב)", effect: "יתעדכן אוטומטית", state: "idle" },
+];
 
 // ---- render ----
 const $ = (id) => document.getElementById(id);
@@ -185,6 +222,27 @@ $("projects").innerHTML = DATA.projects.map((p) => `<div class="proj">
   <div class="meta">${p.meta.map(([k, v]) => `<span>${esc(k)}</span><span>${esc(v)}</span>`).join("")}
     <span>סרטון</span><span>${p.video ? `<a class="ltr" href="${esc(p.video.url)}" target="_blank" rel="noopener">${esc(p.video.url)}</a> · <span class="ltr">ID ${esc(p.video.id)}</span>` : "עוד לא הועלה"}</span></div>
   <b>הבא בתור:</b><ul>${p.next.map((n) => `<li>${esc(n)}</li>`).join("")}</ul></div>`).join("");
+
+// analytics
+const A = ANALYTICS;
+$("anTaken").textContent = "צילום: " + A.taken;
+$("anKpis").innerHTML = [["מנויים", A.channel.subscribers], ["צפיות בערוץ", A.channel.views], ["סרטונים", A.channel.videos]]
+  .map(([l, v]) => `<div class="kpi"><div class="v ltr">${esc(v)}</div><div class="l">${esc(l)}</div></div>`).join("");
+$("anTable").innerHTML = `<tr><th>סרטון</th><th>פרטיות</th><th>אורך</th><th>צפיות</th><th>לייקים</th><th>% צפייה ממוצע</th><th>שימור 0–5 שנ'</th></tr>` +
+  (A.videos.length ? A.videos.map((v) => `<tr><td class="ltr"><a href="https://youtube.com/watch?v=${esc(v.id)}" target="_blank" rel="noopener">${esc(v.title)}</a></td>
+  <td>${esc(v.privacy)}</td><td>${esc(v.duration_s)} שנ'</td><td>${esc(v.views)}</td><td>${esc(v.likes)}</td>
+  <td>${v.averageViewPercentage != null ? esc(Math.round(v.averageViewPercentage)) + "%" : "—"}</td>
+  <td>${v.retention_0_5s != null ? esc(Math.round(v.retention_0_5s * 100)) + "%" : "—"}</td></tr>`).join("") : `<tr><td colspan="7">אין עדיין נתונים</td></tr>`);
+$("anNote").textContent = "מקור: YouTube Data API + Analytics API (" + A.analytics_api + "). נתוני Analytics מתעכבים 24–48 שעות. 'נצפה מול הוחלק' של Shorts זמין רק ב-YouTube Studio, לא ב-API.";
+// GPU plan
+const usable = GPU.total * (1 - GPU.reserve_pct / 100);
+let cum = GPU.used_before;
+$("gpuPlan").innerHTML = `<tr><th>שלב</th><th>הערכה (שעות)</th><th>מצטבר</th><th>מצב</th></tr>` + GPU.plan.map((p) => { cum += p.est;
+  return `<tr><td>${esc(p.step)}</td><td class="ltr">${p.est.toFixed(1)}</td><td class="ltr">${cum.toFixed(1)} / ${GPU.total}</td><td>${pill(p.state)}</td></tr>`; }).join("");
+$("gpuNote").textContent = `נוצל לפני הפרק: ${GPU.used_before} ש'. סף שימוש (80%): ${usable} ש'. רזרבה לשורטס ותיקונים: ${(GPU.total - usable).toFixed(0)} ש' לפחות. אחרי התוכנית: ${cum.toFixed(1)} ש'.`;
+// lessons
+$("lessons").innerHTML = `<tr><th>מקור</th><th>מה למדנו</th><th>מה משתנה בפרק הבא</th><th>מצב</th></tr>` +
+  LESSONS.map((l) => `<tr><td>${esc(l.src)}</td><td>${esc(l.what)}</td><td>${esc(l.effect)}</td><td>${pill(l.state, l.state === "ok" ? "מיושם" : l.state === "warn" ? "פתוח" : "ממתין")}</td></tr>`).join("");
 </script>
 </body>
 </html>

@@ -1,0 +1,23 @@
+{
+ "taken": "2026-10-19 11:57 UTC",
+ "channel": {
+  "title": "Cantilandia",
+  "id": "UCDwph5nbCbbl97Pu4gTyZUA",
+  "subscribers": 0,
+  "views": 0,
+  "videos": 1
+ },
+ "videos": [
+  {
+   "id": "gPKBDFi0nss",
+   "title": "¡A ordenar los colores con Tito! 🐘 | Canciones Infantiles #Shorts",
+   "published": "2026-10-19",
+   "privacy": "public",
+   "duration_s": 33,
+   "views": 4,
+   "likes": 1,
+   "comments": 0
+  }
+ ],
+ "analytics_api": "missing scope yt-analytics.readonly (re-consent needed)"
+}

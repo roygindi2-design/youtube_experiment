@@ -1,0 +1,133 @@
+{
+ "id": "tito_ep1",
+ "title": "Cada juguete a su casita – Canción completa",
+ "format": "1920x1080",
+ "style": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. ",
+ "lock": "TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail.",
+ "neg": "text, letters, watermark, logo, realistic animal, scary, sharp teeth, extra limbs, extra fingers, deformed, dark, gloomy, human, blurry",
+ "vneg": "text, subtitles, watermark, flicker, morphing, deformed, extra limbs, extra fingers, fast camera shake, blurry, low quality, scary",
+ "room": "Interior of a bright cozy playroom, wide 16:9 composition, camera at child eye level. Light wooden floor, big round pastel-pink rug in the center, FOUR EMPTY open toy boxes standing in a row on the floor at the back: red, blue, yellow and green, nothing inside them. A shiny red ball, a small blue toy car, a yellow rubber duck and three green building blocks lie on the rug. Big window with soft daylight on the left, a small shelf with plants. The room is empty: no characters, no animals, no faces, no people.",
+ "lyrics": "[Intro]\n¡Uy! ¡Qué desorden!\n¡Vamos a ordenar!\n[Verse 1]\nLa pelota roja, ¿dónde va?\n¡A la caja roja, ya está!\n[Chorus]\nCada juguete a su casita, ¡uno, dos, tres!\nCada juguete a su casita, ¡qué bonito es!\n[Verse 2]\nEl carrito azul, ¿dónde va?\n¡A la caja azul, ya está!\n[Chorus]\nCada juguete a su casita, ¡uno, dos, tres!\nCada juguete a su casita, ¡qué bonito es!\n[Verse 3]\nEl patito amarillo… ¿aquí? ¡No, no, no!\n¡A la caja amarilla, sí señor!\n[Verse 4]\nLos bloques verdes, ¿dónde van?\n¡A la caja verde, ya están!\n[Chorus]\nCada juguete a su casita, ¡uno, dos, tres!\nCada juguete a su casita, ¡qué bonito es!\n[Outro]\nRojo, azul, amarillo y verde,\n¡todo en su lugar!",
+ "shots": [
+  {
+   "id": "L01",
+   "frame": "Wide shot: the baby elephant sits on the rug while colorful toys tumble down around him in mid-air, a red ball, a blue toy car, a yellow rubber duck and green blocks, his big ears raised in surprise.",
+   "motion": "Toys tumble and bounce on the floor around the baby elephant, he flaps his ears in surprise. Static camera."
+  },
+  {
+   "id": "L02",
+   "frame": "Medium shot: the baby elephant covers his eyes with his trunk and peeks out between, playful, toys scattered around him.",
+   "motion": "The baby elephant peeks out from behind his trunk, then lowers it and smiles. Slow push-in."
+  },
+  {
+   "id": "L03",
+   "frame": "Wide shot: the baby elephant stands proudly in front of the four open toy boxes, red, blue, yellow and green, trunk raised high.",
+   "motion": "The baby elephant raises his trunk like a trumpet and marches in place happily. Static camera."
+  },
+  {
+   "id": "L04",
+   "frame": "Medium shot: the baby elephant walks across the rug toward the shiny red ball, determined happy face.",
+   "motion": "The baby elephant toddles toward the red ball with small bouncy steps. Gentle camera follow."
+  },
+  {
+   "id": "L05",
+   "frame": "Medium close-up: the baby elephant holds a shiny red ball curled in his trunk, smiling.",
+   "motion": "The baby elephant lifts the red ball with his trunk and shows it to the camera, eyes sparkling. Static camera."
+  },
+  {
+   "id": "L06",
+   "frame": "Medium shot: the baby elephant drops the red ball into the open RED toy box.",
+   "motion": "The red ball drops into the red box and bounces, the elephant cheers with raised arms. Static camera."
+  },
+  {
+   "id": "L07",
+   "frame": "Wide shot: the baby elephant dances in the middle of the playroom, ears flapping, one foot raised.",
+   "motion": "The baby elephant dances side to side, ears flapping on the beat. Slight camera sway."
+  },
+  {
+   "id": "L08",
+   "frame": "Wide shot: the baby elephant spins happily on the rug, arms open, joyful.",
+   "motion": "The baby elephant spins in a little circle and claps. Static camera."
+  },
+  {
+   "id": "L09",
+   "frame": "Wide shot: toys hop by themselves toward the matching colored boxes while the baby elephant watches with delight.",
+   "motion": "Toys bounce one by one into the matching colored boxes, the elephant claps. Static camera."
+  },
+  {
+   "id": "L10",
+   "frame": "Medium shot: the baby elephant pushes a small blue toy car across the rug with his trunk.",
+   "motion": "The baby elephant pushes the blue toy car with his trunk, it rolls forward. Gentle camera follow."
+  },
+  {
+   "id": "L11",
+   "frame": "Medium shot: the small blue toy car rolls into the open BLUE toy box, the baby elephant watches happily beside it.",
+   "motion": "The blue car rolls and drops into the blue box, the elephant smiles and nods. Static camera."
+  },
+  {
+   "id": "L12",
+   "frame": "Medium close-up: the baby elephant claps his hands happily, big smile, eyes closed with joy.",
+   "motion": "The baby elephant claps on the beat and wiggles his ears. Static camera."
+  },
+  {
+   "id": "L13",
+   "frame": "Medium shot: the baby elephant picks up a yellow rubber duck with his trunk, curious face.",
+   "motion": "The baby elephant lifts the yellow duck and squeezes it gently, surprised. Static camera."
+  },
+  {
+   "id": "L14",
+   "frame": "Medium shot: the baby elephant holds the yellow rubber duck above the open BLUE toy box, head tilted, puzzled.",
+   "motion": "The elephant hesitates over the blue box, tilts his head and blinks, puzzled. Slow push-in."
+  },
+  {
+   "id": "L15",
+   "frame": "Medium close-up: the baby elephant shakes his head with a funny face, trunk swinging, the yellow duck in his hands.",
+   "motion": "The elephant shakes his head no, trunk swinging, then laughs. Static camera."
+  },
+  {
+   "id": "L16",
+   "frame": "Medium shot: the baby elephant places the yellow rubber duck into the open YELLOW toy box.",
+   "motion": "The elephant drops the duck into the yellow box, then raises his trunk proudly. Static camera."
+  },
+  {
+   "id": "L17",
+   "frame": "Medium shot: the baby elephant trumpets with his trunk raised high, eyes closed with joy.",
+   "motion": "The elephant trumpets with his trunk raised, ears flapping. Static camera."
+  },
+  {
+   "id": "L18",
+   "frame": "Medium shot: three green building blocks on the rug, the baby elephant kneels next to them looking at them curiously.",
+   "motion": "The elephant picks up a green block with his trunk and smiles. Static camera."
+  },
+  {
+   "id": "L19",
+   "frame": "Medium shot: the baby elephant puts green building blocks into the open GREEN toy box.",
+   "motion": "The elephant places the green blocks one by one into the green box. Static camera."
+  },
+  {
+   "id": "L20",
+   "frame": "Medium close-up: the baby elephant dances happily, ears flapping, big smile.",
+   "motion": "The elephant bounces and sways, ears flapping on the beat. Slight camera sway."
+  },
+  {
+   "id": "L21",
+   "frame": "Wide shot: the baby elephant and all four full toy boxes, a happy dance in front of them.",
+   "motion": "The elephant dances in front of the full boxes, a little jump at the end. Static camera."
+  },
+  {
+   "id": "L22",
+   "frame": "Wide shot: the tidy playroom, the baby elephant sits proudly next to the four full toy boxes.",
+   "motion": "The elephant sits proudly, looks around the tidy room and smiles. Slow push-in."
+  },
+  {
+   "id": "L23",
+   "frame": "Medium shot: the baby elephant waves goodbye with one hand and his trunk, big smile.",
+   "motion": "The elephant waves goodbye with his hand and trunk, smiling. Static camera."
+  },
+  {
+   "id": "L24",
+   "frame": "Wide shot: the tidy playroom, a red ball rolls out of the red box toward the camera, the elephant gasps.",
+   "motion": "The red ball rolls out of the box toward the camera, the elephant covers his eyes and laughs. Static camera."
+  }
+ ]
+}

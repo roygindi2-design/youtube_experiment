@@ -22,9 +22,10 @@ from googleapiclient.discovery import build
 from googleapiclient.http import MediaFileUpload
 
 SCOPES = ["https://www.googleapis.com/auth/youtube.upload", "https://www.googleapis.com/auth/youtube.readonly",
-          "https://www.googleapis.com/auth/youtube.force-ssl"]  # force-ssl: needed for captions.insert
+          "https://www.googleapis.com/auth/youtube.force-ssl",  # force-ssl: captions.insert, privacy updates
+          "https://www.googleapis.com/auth/yt-analytics.readonly"]  # Analytics API: retention, watch time
 REDIRECT = "http://localhost:8765/"
-HOME = Path.home() / ".config" / "yt-kids"
+HOME = Path(os.environ.get("YT_KIDS_HOME", Path.home() / ".config" / "yt-kids"))
 TOKEN = HOME / "token.json"
 PENDING = HOME / "pending_flow.json"
 
@@ -65,7 +66,7 @@ def auth_finish(redirect_url):
 def creds():
     if not TOKEN.exists():
         sys.exit("Not authorized yet: run auth-url / auth-finish")
-    c = Credentials.from_authorized_user_file(str(TOKEN), SCOPES)
+    c = Credentials.from_authorized_user_file(str(TOKEN))  # use whatever scopes were granted
     if not c.valid and c.refresh_token:
         c.refresh(Request())
         secure_write(TOKEN, c.to_json())
