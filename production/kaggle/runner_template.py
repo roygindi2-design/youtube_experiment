@@ -147,6 +147,10 @@ def stage_wangp():
                         raise RuntimeError(f"dependency {r} produced no output")
                     paths.append(got[0])
                 settings[key] = paths if isinstance(ref, list) else paths[0]
+            for key in [k for k in settings if k.endswith("_extra")]:  # append to a list setting
+                base = key[: -len("_extra")]
+                extra = settings.pop(key)
+                settings[base] = list(settings.get(base) or []) + (extra if isinstance(extra, list) else [extra])
         except Exception:
             M["tasks"].append({"id": task["id"], "status": "skipped", "error": traceback.format_exc()[-1500:]})
             save()
@@ -167,7 +171,9 @@ def stage_kokoro():
     tasks = [t for t in TASKS if t.get("kind") == "kokoro"]
     if not tasks:
         return
-    sh([sys.executable, "-m", "pip", "install", "-q", "kokoro>=0.9", "soundfile"])
+    sh([sys.executable, "-m", "pip", "install", "-q", "--no-deps", "kokoro", "misaki", "soundfile", "loguru", "espeakng-loader", "num2words", "addict"])
+    import types
+    sys.modules.setdefault("spacy", types.ModuleType("spacy"))
     import numpy as np
     import soundfile as sf
     from kokoro import KPipeline

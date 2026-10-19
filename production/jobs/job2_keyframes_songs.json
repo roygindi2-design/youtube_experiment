@@ -1,0 +1,800 @@
+[
+ {
+  "id": "tito_playroom_klein",
+  "model_type": "flux2_klein_9b",
+  "resolution": "768x1344",
+  "num_inference_steps": 4,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Interior of a bright cozy playroom, vertical composition, camera at child eye level. Light wooden floor, round pastel rug, three EMPTY open toy boxes standing in a row on the floor, colored red, blue and yellow, nothing inside them. A red ball, a blue toy car, a yellow rubber duck and green blocks lie on the rug. Big window with soft daylight. The room is empty: no characters, no animals, no faces, no people."
+ },
+ {
+  "id": "popo_P1_kf_s101",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby hippo from the second reference image, exactly the same character design, same colors and same features: POPO, a baby hippo toddler. Lavender-purple body, soft pink belly patch and rosy pink cheeks, big round head about half of the body height, wide friendly smile showing two big square white front teeth, small round ears with pink insides, two tiny nostrils on top of the round snout, big glossy dark-brown eyes with white sparkle highlights, one small curl of darker purple hair on top of the head, short chubby arms and legs, small round tail. Setting: the room from the first reference image. Extreme close-up, front view: the hippo's face fills the frame, mouth wide open in a big silly 'aaah', two big square front teeth with small brown chocolate smudges, eyes squeezed happily. Bathroom softly blurred behind. Vertical 9:16 frame.",
+  "video_prompt_type": "KI",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "inputs": {
+   "image_refs": [
+    "popo_bathroom.jpg",
+    "popo_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "popo_P1_kf_s202",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby hippo from the second reference image, exactly the same character design, same colors and same features: POPO, a baby hippo toddler. Lavender-purple body, soft pink belly patch and rosy pink cheeks, big round head about half of the body height, wide friendly smile showing two big square white front teeth, small round ears with pink insides, two tiny nostrils on top of the round snout, big glossy dark-brown eyes with white sparkle highlights, one small curl of darker purple hair on top of the head, short chubby arms and legs, small round tail. Setting: the room from the first reference image. Extreme close-up, front view: the hippo's face fills the frame, mouth wide open in a big silly 'aaah', two big square front teeth with small brown chocolate smudges, eyes squeezed happily. Bathroom softly blurred behind. Vertical 9:16 frame.",
+  "video_prompt_type": "KI",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "inputs": {
+   "image_refs": [
+    "popo_bathroom.jpg",
+    "popo_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "popo_P2_kf_s101",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby hippo from the second reference image, exactly the same character design, same colors and same features: POPO, a baby hippo toddler. Lavender-purple body, soft pink belly patch and rosy pink cheeks, big round head about half of the body height, wide friendly smile showing two big square white front teeth, small round ears with pink insides, two tiny nostrils on top of the round snout, big glossy dark-brown eyes with white sparkle highlights, one small curl of darker purple hair on top of the head, short chubby arms and legs, small round tail. Setting: the room from the first reference image. Medium shot: the hippo stands on a wooden step stool at the sink, looking up excited at a sky-blue toothbrush floating in from the right side, arms reaching up. Vertical 9:16 frame.",
+  "video_prompt_type": "KI",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "inputs": {
+   "image_refs": [
+    "popo_bathroom.jpg",
+    "popo_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "popo_P2_kf_s202",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby hippo from the second reference image, exactly the same character design, same colors and same features: POPO, a baby hippo toddler. Lavender-purple body, soft pink belly patch and rosy pink cheeks, big round head about half of the body height, wide friendly smile showing two big square white front teeth, small round ears with pink insides, two tiny nostrils on top of the round snout, big glossy dark-brown eyes with white sparkle highlights, one small curl of darker purple hair on top of the head, short chubby arms and legs, small round tail. Setting: the room from the first reference image. Medium shot: the hippo stands on a wooden step stool at the sink, looking up excited at a sky-blue toothbrush floating in from the right side, arms reaching up. Vertical 9:16 frame.",
+  "video_prompt_type": "KI",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "inputs": {
+   "image_refs": [
+    "popo_bathroom.jpg",
+    "popo_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "popo_P3_kf_s101",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby hippo from the second reference image, exactly the same character design, same colors and same features: POPO, a baby hippo toddler. Lavender-purple body, soft pink belly patch and rosy pink cheeks, big round head about half of the body height, wide friendly smile showing two big square white front teeth, small round ears with pink insides, two tiny nostrils on top of the round snout, big glossy dark-brown eyes with white sparkle highlights, one small curl of darker purple hair on top of the head, short chubby arms and legs, small round tail. Setting: the room from the first reference image. Close-up on the hippo's hands and smiling face: holding the sky-blue toothbrush and a small tube, a rainbow-striped toothpaste swirl on the bristles. Vertical 9:16 frame.",
+  "video_prompt_type": "KI",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "inputs": {
+   "image_refs": [
+    "popo_bathroom.jpg",
+    "popo_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "popo_P3_kf_s202",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby hippo from the second reference image, exactly the same character design, same colors and same features: POPO, a baby hippo toddler. Lavender-purple body, soft pink belly patch and rosy pink cheeks, big round head about half of the body height, wide friendly smile showing two big square white front teeth, small round ears with pink insides, two tiny nostrils on top of the round snout, big glossy dark-brown eyes with white sparkle highlights, one small curl of darker purple hair on top of the head, short chubby arms and legs, small round tail. Setting: the room from the first reference image. Close-up on the hippo's hands and smiling face: holding the sky-blue toothbrush and a small tube, a rainbow-striped toothpaste swirl on the bristles. Vertical 9:16 frame.",
+  "video_prompt_type": "KI",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "inputs": {
+   "image_refs": [
+    "popo_bathroom.jpg",
+    "popo_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "popo_P4_kf_s101",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby hippo from the second reference image, exactly the same character design, same colors and same features: POPO, a baby hippo toddler. Lavender-purple body, soft pink belly patch and rosy pink cheeks, big round head about half of the body height, wide friendly smile showing two big square white front teeth, small round ears with pink insides, two tiny nostrils on top of the round snout, big glossy dark-brown eyes with white sparkle highlights, one small curl of darker purple hair on top of the head, short chubby arms and legs, small round tail. Setting: the room from the first reference image. Medium shot, front view through the mirror: the hippo brushes its two big front teeth with white foam bubbles around the mouth, eyes happy. Vertical 9:16 frame.",
+  "video_prompt_type": "KI",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "inputs": {
+   "image_refs": [
+    "popo_bathroom.jpg",
+    "popo_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "popo_P4_kf_s202",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby hippo from the second reference image, exactly the same character design, same colors and same features: POPO, a baby hippo toddler. Lavender-purple body, soft pink belly patch and rosy pink cheeks, big round head about half of the body height, wide friendly smile showing two big square white front teeth, small round ears with pink insides, two tiny nostrils on top of the round snout, big glossy dark-brown eyes with white sparkle highlights, one small curl of darker purple hair on top of the head, short chubby arms and legs, small round tail. Setting: the room from the first reference image. Medium shot, front view through the mirror: the hippo brushes its two big front teeth with white foam bubbles around the mouth, eyes happy. Vertical 9:16 frame.",
+  "video_prompt_type": "KI",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "inputs": {
+   "image_refs": [
+    "popo_bathroom.jpg",
+    "popo_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "popo_P5_kf_s101",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby hippo from the second reference image, exactly the same character design, same colors and same features: POPO, a baby hippo toddler. Lavender-purple body, soft pink belly patch and rosy pink cheeks, big round head about half of the body height, wide friendly smile showing two big square white front teeth, small round ears with pink insides, two tiny nostrils on top of the round snout, big glossy dark-brown eyes with white sparkle highlights, one small curl of darker purple hair on top of the head, short chubby arms and legs, small round tail. Setting: the room from the first reference image. Medium-wide shot: the hippo dances on the stool while brushing, hips tilted to one side, the yellow rubber duck on the sink, soap bubbles floating. Vertical 9:16 frame.",
+  "video_prompt_type": "KI",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "inputs": {
+   "image_refs": [
+    "popo_bathroom.jpg",
+    "popo_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "popo_P5_kf_s202",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby hippo from the second reference image, exactly the same character design, same colors and same features: POPO, a baby hippo toddler. Lavender-purple body, soft pink belly patch and rosy pink cheeks, big round head about half of the body height, wide friendly smile showing two big square white front teeth, small round ears with pink insides, two tiny nostrils on top of the round snout, big glossy dark-brown eyes with white sparkle highlights, one small curl of darker purple hair on top of the head, short chubby arms and legs, small round tail. Setting: the room from the first reference image. Medium-wide shot: the hippo dances on the stool while brushing, hips tilted to one side, the yellow rubber duck on the sink, soap bubbles floating. Vertical 9:16 frame.",
+  "video_prompt_type": "KI",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "inputs": {
+   "image_refs": [
+    "popo_bathroom.jpg",
+    "popo_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "popo_P6_kf_s101",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby hippo from the second reference image, exactly the same character design, same colors and same features: POPO, a baby hippo toddler. Lavender-purple body, soft pink belly patch and rosy pink cheeks, big round head about half of the body height, wide friendly smile showing two big square white front teeth, small round ears with pink insides, two tiny nostrils on top of the round snout, big glossy dark-brown eyes with white sparkle highlights, one small curl of darker purple hair on top of the head, short chubby arms and legs, small round tail. Setting: the room from the first reference image. Close-up: the hippo brushing the side of its teeth with a big foamy grin, one eye winking. Vertical 9:16 frame.",
+  "video_prompt_type": "KI",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "inputs": {
+   "image_refs": [
+    "popo_bathroom.jpg",
+    "popo_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "popo_P6_kf_s202",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby hippo from the second reference image, exactly the same character design, same colors and same features: POPO, a baby hippo toddler. Lavender-purple body, soft pink belly patch and rosy pink cheeks, big round head about half of the body height, wide friendly smile showing two big square white front teeth, small round ears with pink insides, two tiny nostrils on top of the round snout, big glossy dark-brown eyes with white sparkle highlights, one small curl of darker purple hair on top of the head, short chubby arms and legs, small round tail. Setting: the room from the first reference image. Close-up: the hippo brushing the side of its teeth with a big foamy grin, one eye winking. Vertical 9:16 frame.",
+  "video_prompt_type": "KI",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "inputs": {
+   "image_refs": [
+    "popo_bathroom.jpg",
+    "popo_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "popo_P7_kf_s101",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby hippo from the second reference image, exactly the same character design, same colors and same features: POPO, a baby hippo toddler. Lavender-purple body, soft pink belly patch and rosy pink cheeks, big round head about half of the body height, wide friendly smile showing two big square white front teeth, small round ears with pink insides, two tiny nostrils on top of the round snout, big glossy dark-brown eyes with white sparkle highlights, one small curl of darker purple hair on top of the head, short chubby arms and legs, small round tail. Setting: the room from the first reference image. Medium shot: the hippo holds a small mint-green cup of water near its mouth over the sink, cheeks puffed full of water, playful eyes. Vertical 9:16 frame.",
+  "video_prompt_type": "KI",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "inputs": {
+   "image_refs": [
+    "popo_bathroom.jpg",
+    "popo_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "popo_P7_kf_s202",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby hippo from the second reference image, exactly the same character design, same colors and same features: POPO, a baby hippo toddler. Lavender-purple body, soft pink belly patch and rosy pink cheeks, big round head about half of the body height, wide friendly smile showing two big square white front teeth, small round ears with pink insides, two tiny nostrils on top of the round snout, big glossy dark-brown eyes with white sparkle highlights, one small curl of darker purple hair on top of the head, short chubby arms and legs, small round tail. Setting: the room from the first reference image. Medium shot: the hippo holds a small mint-green cup of water near its mouth over the sink, cheeks puffed full of water, playful eyes. Vertical 9:16 frame.",
+  "video_prompt_type": "KI",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "inputs": {
+   "image_refs": [
+    "popo_bathroom.jpg",
+    "popo_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "popo_P8_kf_s101",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby hippo from the second reference image, exactly the same character design, same colors and same features: POPO, a baby hippo toddler. Lavender-purple body, soft pink belly patch and rosy pink cheeks, big round head about half of the body height, wide friendly smile showing two big square white front teeth, small round ears with pink insides, two tiny nostrils on top of the round snout, big glossy dark-brown eyes with white sparkle highlights, one small curl of darker purple hair on top of the head, short chubby arms and legs, small round tail. Setting: the room from the first reference image. Close-up, front view: the hippo shows a huge proud smile, two clean white front teeth with star-shaped sparkle glints, a round soap bubble floating in front. Vertical 9:16 frame.",
+  "video_prompt_type": "KI",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "inputs": {
+   "image_refs": [
+    "popo_bathroom.jpg",
+    "popo_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "popo_P8_kf_s202",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby hippo from the second reference image, exactly the same character design, same colors and same features: POPO, a baby hippo toddler. Lavender-purple body, soft pink belly patch and rosy pink cheeks, big round head about half of the body height, wide friendly smile showing two big square white front teeth, small round ears with pink insides, two tiny nostrils on top of the round snout, big glossy dark-brown eyes with white sparkle highlights, one small curl of darker purple hair on top of the head, short chubby arms and legs, small round tail. Setting: the room from the first reference image. Close-up, front view: the hippo shows a huge proud smile, two clean white front teeth with star-shaped sparkle glints, a round soap bubble floating in front. Vertical 9:16 frame.",
+  "video_prompt_type": "KI",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "inputs": {
+   "image_refs": [
+    "popo_bathroom.jpg",
+    "popo_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "song_popo_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Aaah!\n¿Listos? ¡A cepillar!\n[Verse]\nUn poquito de pasta, ¡mira qué color!\nMuevo el cepillo con mucho amor.\n[Chorus]\nArriba y abajo, ¡cepi, cepi, cepi!\nAdelante y atrás, ¡dientes con brillo!\n[Bridge]\nEnjuago, enjuago… ¡ya terminé!\n[Outro]\n¡Sonrisa brillante!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 36,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "song_popo_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Aaah!\n¿Listos? ¡A cepillar!\n[Verse]\nUn poquito de pasta, ¡mira qué color!\nMuevo el cepillo con mucho amor.\n[Chorus]\nArriba y abajo, ¡cepi, cepi, cepi!\nAdelante y atrás, ¡dientes con brillo!\n[Bridge]\nEnjuago, enjuago… ¡ya terminé!\n[Outro]\n¡Sonrisa brillante!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 36,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "song_popo_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Aaah!\n¿Listos? ¡A cepillar!\n[Verse]\nUn poquito de pasta, ¡mira qué color!\nMuevo el cepillo con mucho amor.\n[Chorus]\nArriba y abajo, ¡cepi, cepi, cepi!\nAdelante y atrás, ¡dientes con brillo!\n[Bridge]\nEnjuago, enjuago… ¡ya terminé!\n[Outro]\n¡Sonrisa brillante!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 36,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "song_popo_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Aaah!\n¿Listos? ¡A cepillar!\n[Verse]\nUn poquito de pasta, ¡mira qué color!\nMuevo el cepillo con mucho amor.\n[Chorus]\nArriba y abajo, ¡cepi, cepi, cepi!\nAdelante y atrás, ¡dientes con brillo!\n[Bridge]\nEnjuago, enjuago… ¡ya terminé!\n[Outro]\n¡Sonrisa brillante!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 36,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "song_popo_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Aaah!\n¿Listos? ¡A cepillar!\n[Verse]\nUn poquito de pasta, ¡mira qué color!\nMuevo el cepillo con mucho amor.\n[Chorus]\nArriba y abajo, ¡cepi, cepi, cepi!\nAdelante y atrás, ¡dientes con brillo!\n[Bridge]\nEnjuago, enjuago… ¡ya terminé!\n[Outro]\n¡Sonrisa brillante!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 36,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "song_popo_s6",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Aaah!\n¿Listos? ¡A cepillar!\n[Verse]\nUn poquito de pasta, ¡mira qué color!\nMuevo el cepillo con mucho amor.\n[Chorus]\nArriba y abajo, ¡cepi, cepi, cepi!\nAdelante y atrás, ¡dientes con brillo!\n[Bridge]\nEnjuago, enjuago… ¡ya terminé!\n[Outro]\n¡Sonrisa brillante!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 36,
+  "seed": 6,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_T1_kf_s101",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium-wide shot: the baby elephant sits on the rug while colorful toys tumble down around him, a red ball, a blue toy car, a yellow rubber duck and green blocks in mid-air, his big ears raised in surprise. Vertical 9:16 frame.",
+  "video_prompt_type": "KI",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "after": {
+   "image_refs": [
+    "tito_playroom_klein"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_T1_kf_s202",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium-wide shot: the baby elephant sits on the rug while colorful toys tumble down around him, a red ball, a blue toy car, a yellow rubber duck and green blocks in mid-air, his big ears raised in surprise. Vertical 9:16 frame.",
+  "video_prompt_type": "KI",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "after": {
+   "image_refs": [
+    "tito_playroom_klein"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_T2_kf_s101",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Wide shot: the baby elephant stands proudly in front of three open toy boxes colored red, blue and yellow, trunk raised and pointing forward, determined smile. Vertical 9:16 frame.",
+  "video_prompt_type": "KI",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "after": {
+   "image_refs": [
+    "tito_playroom_klein"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_T2_kf_s202",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Wide shot: the baby elephant stands proudly in front of three open toy boxes colored red, blue and yellow, trunk raised and pointing forward, determined smile. Vertical 9:16 frame.",
+  "video_prompt_type": "KI",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "after": {
+   "image_refs": [
+    "tito_playroom_klein"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_T3_kf_s101",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium shot: the baby elephant holds a shiny red ball curled in his trunk above the open red toy box. Vertical 9:16 frame.",
+  "video_prompt_type": "KI",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "after": {
+   "image_refs": [
+    "tito_playroom_klein"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_T3_kf_s202",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium shot: the baby elephant holds a shiny red ball curled in his trunk above the open red toy box. Vertical 9:16 frame.",
+  "video_prompt_type": "KI",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "after": {
+   "image_refs": [
+    "tito_playroom_klein"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_T4_kf_s101",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium shot: the baby elephant pushes a small blue toy car with his trunk toward the open blue toy box. Vertical 9:16 frame.",
+  "video_prompt_type": "KI",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "after": {
+   "image_refs": [
+    "tito_playroom_klein"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_T4_kf_s202",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium shot: the baby elephant pushes a small blue toy car with his trunk toward the open blue toy box. Vertical 9:16 frame.",
+  "video_prompt_type": "KI",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "after": {
+   "image_refs": [
+    "tito_playroom_klein"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_T5_kf_s101",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Wide shot: the baby elephant dances happily in the middle of the playroom, ears flapping, one foot raised, toys hopping toward their colored boxes. Vertical 9:16 frame.",
+  "video_prompt_type": "KI",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "after": {
+   "image_refs": [
+    "tito_playroom_klein"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_T5_kf_s202",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Wide shot: the baby elephant dances happily in the middle of the playroom, ears flapping, one foot raised, toys hopping toward their colored boxes. Vertical 9:16 frame.",
+  "video_prompt_type": "KI",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "after": {
+   "image_refs": [
+    "tito_playroom_klein"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_T6_kf_s101",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Close-up: the baby elephant holds a yellow rubber duck with his trunk above the BLUE toy box, head tilted, puzzled face. Vertical 9:16 frame.",
+  "video_prompt_type": "KI",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "after": {
+   "image_refs": [
+    "tito_playroom_klein"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_T6_kf_s202",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Close-up: the baby elephant holds a yellow rubber duck with his trunk above the BLUE toy box, head tilted, puzzled face. Vertical 9:16 frame.",
+  "video_prompt_type": "KI",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "after": {
+   "image_refs": [
+    "tito_playroom_klein"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_T7_kf_s101",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium shot: the baby elephant happily places the yellow rubber duck into the YELLOW toy box, trunk raised in joy. Vertical 9:16 frame.",
+  "video_prompt_type": "KI",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "after": {
+   "image_refs": [
+    "tito_playroom_klein"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_T7_kf_s202",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium shot: the baby elephant happily places the yellow rubber duck into the YELLOW toy box, trunk raised in joy. Vertical 9:16 frame.",
+  "video_prompt_type": "KI",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "after": {
+   "image_refs": [
+    "tito_playroom_klein"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_T8_kf_s101",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Wide shot: the tidy playroom, the baby elephant sits proudly next to the three full toy boxes, a red ball balanced on top of the red box. Vertical 9:16 frame.",
+  "video_prompt_type": "KI",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "after": {
+   "image_refs": [
+    "tito_playroom_klein"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_T8_kf_s202",
+  "model_type": "flux2_klein_9b",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Wide shot: the tidy playroom, the baby elephant sits proudly next to the three full toy boxes, a red ball balanced on top of the red box. Vertical 9:16 frame.",
+  "video_prompt_type": "KI",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "after": {
+   "image_refs": [
+    "tito_playroom_klein"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "song_tito_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Qué desorden!\n¡A ordenar!\n[Verse]\nLa pelota roja, a la caja roja.\nEl carrito azul, a la caja azul.\n[Chorus]\nCada juguete a su casita, ¡uno, dos, tres!\nCada juguete a su casita, ¡qué bonito es!\n[Bridge]\nEl patito amarillo… ¿aquí? ¡No!\n¡A la caja amarilla!\n[Outro]\n¡Todo en su lugar!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 36,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "song_tito_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Qué desorden!\n¡A ordenar!\n[Verse]\nLa pelota roja, a la caja roja.\nEl carrito azul, a la caja azul.\n[Chorus]\nCada juguete a su casita, ¡uno, dos, tres!\nCada juguete a su casita, ¡qué bonito es!\n[Bridge]\nEl patito amarillo… ¿aquí? ¡No!\n¡A la caja amarilla!\n[Outro]\n¡Todo en su lugar!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 36,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "song_tito_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Qué desorden!\n¡A ordenar!\n[Verse]\nLa pelota roja, a la caja roja.\nEl carrito azul, a la caja azul.\n[Chorus]\nCada juguete a su casita, ¡uno, dos, tres!\nCada juguete a su casita, ¡qué bonito es!\n[Bridge]\nEl patito amarillo… ¿aquí? ¡No!\n¡A la caja amarilla!\n[Outro]\n¡Todo en su lugar!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 36,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "song_tito_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Qué desorden!\n¡A ordenar!\n[Verse]\nLa pelota roja, a la caja roja.\nEl carrito azul, a la caja azul.\n[Chorus]\nCada juguete a su casita, ¡uno, dos, tres!\nCada juguete a su casita, ¡qué bonito es!\n[Bridge]\nEl patito amarillo… ¿aquí? ¡No!\n¡A la caja amarilla!\n[Outro]\n¡Todo en su lugar!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 36,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "song_tito_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Qué desorden!\n¡A ordenar!\n[Verse]\nLa pelota roja, a la caja roja.\nEl carrito azul, a la caja azul.\n[Chorus]\nCada juguete a su casita, ¡uno, dos, tres!\nCada juguete a su casita, ¡qué bonito es!\n[Bridge]\nEl patito amarillo… ¿aquí? ¡No!\n¡A la caja amarilla!\n[Outro]\n¡Todo en su lugar!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 36,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "song_tito_s6",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Qué desorden!\n¡A ordenar!\n[Verse]\nLa pelota roja, a la caja roja.\nEl carrito azul, a la caja azul.\n[Chorus]\nCada juguete a su casita, ¡uno, dos, tres!\nCada juguete a su casita, ¡qué bonito es!\n[Bridge]\nEl patito amarillo… ¿aquí? ¡No!\n¡A la caja amarilla!\n[Outro]\n¡Todo en su lugar!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 36,
+  "seed": 6,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "popo_P1_i2v_test",
+  "model_type": "i2v_2_2_Enhanced_Lightning_v2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby hippo opens its mouth even wider in a funny 'aaah', tilts its head, then closes into a cheeky grin. Slow camera push-in.",
+  "negative_prompt": "text, subtitles, watermark, flicker, morphing, deformed, extra limbs, extra fingers, fast camera shake, blurry, low quality, scary",
+  "resolution": "480x832",
+  "video_length": 65,
+  "num_inference_steps": 4,
+  "seed": 5,
+  "after": {
+   "image_start": "popo_P1_kf_s101"
+  }
+ },
+ {
+  "id": "tito_T1_i2v_test",
+  "model_type": "i2v_2_2_Enhanced_Lightning_v2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Toys tumble down and bounce on the floor around the baby elephant, he flaps his big ears in surprise and covers his eyes with his trunk. Static camera.",
+  "negative_prompt": "text, subtitles, watermark, flicker, morphing, deformed, extra limbs, extra fingers, fast camera shake, blurry, low quality, scary",
+  "resolution": "480x832",
+  "video_length": 65,
+  "num_inference_steps": 4,
+  "seed": 5,
+  "after": {
+   "image_start": "tito_T1_kf_s101"
+  }
+ },
+ {
+  "id": "sfx_boing",
+  "model_type": "stable_audio3_small_sfx",
+  "prompt": "Cartoon spring boing, playful and bouncy, clean, no background",
+  "duration_seconds": 3
+ },
+ {
+  "id": "sfx_pop",
+  "model_type": "stable_audio3_small_sfx",
+  "prompt": "Single soap bubble pop, light and cute, close, clean",
+  "duration_seconds": 3
+ },
+ {
+  "id": "sfx_sparkle",
+  "model_type": "stable_audio3_small_sfx",
+  "prompt": "Magical sparkle twinkle chime, bright, short, cartoon",
+  "duration_seconds": 3
+ },
+ {
+  "id": "sfx_brush",
+  "model_type": "stable_audio3_small_sfx",
+  "prompt": "Toothbrush scrubbing teeth, rhythmic soft swish swish, cartoon foley, clean",
+  "duration_seconds": 3
+ },
+ {
+  "id": "sfx_squish",
+  "model_type": "stable_audio3_small_sfx",
+  "prompt": "Toothpaste tube squeeze squish, soft cartoon foley",
+  "duration_seconds": 3
+ },
+ {
+  "id": "sfx_gargle",
+  "model_type": "stable_audio3_small_sfx",
+  "prompt": "Cartoon gargling water glu glu, funny and gentle, short",
+  "duration_seconds": 3
+ },
+ {
+  "id": "sfx_clatter",
+  "model_type": "stable_audio3_small_sfx",
+  "prompt": "Plastic toys tumbling onto a wooden floor, soft cartoon clatter, not harsh",
+  "duration_seconds": 3
+ },
+ {
+  "id": "sfx_trumpet",
+  "model_type": "stable_audio3_small_sfx",
+  "prompt": "Cute baby elephant trumpet toot, short and happy, cartoon",
+  "duration_seconds": 3
+ },
+ {
+  "id": "sfx_vroom",
+  "model_type": "stable_audio3_small_sfx",
+  "prompt": "Tiny toy car vroom, playful cartoon, short",
+  "duration_seconds": 3
+ },
+ {
+  "id": "sfx_ding",
+  "model_type": "stable_audio3_small_sfx",
+  "prompt": "One small bright bell ding, cartoon, clean and gentle, short tail",
+  "duration_seconds": 3
+ },
+ {
+  "id": "sfx_clap",
+  "model_type": "stable_audio3_small_sfx",
+  "prompt": "Kids hand claps, two claps, clean",
+  "duration_seconds": 3
+ },
+ {
+  "id": "sfx_whoosh",
+  "model_type": "stable_audio3_small_sfx",
+  "prompt": "Soft cartoon whoosh, gentle and short",
+  "duration_seconds": 3
+ }
+]
