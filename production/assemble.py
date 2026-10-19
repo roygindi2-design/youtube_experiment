@@ -131,7 +131,10 @@ def main():
             vf += (f",scale={int(1080 * zf) // 2 * 2}:{int(1920 * zf) // 2 * 2}:flags=lanczos,"
                    f"crop=1080:1920:x='(iw-1080)*{frame.get('cx', 0.5)}':y='(ih-1920)*{frame.get('cy', 0.5)}'")
         vf += ",format=yuv420p"
-        run(["ffmpeg", "-y", "-v", "error", "-ss", str(s.get("in", 0)), "-i", s["file"], "-t", str(s["dur"] * speed),
+        src_len = s.get("src_len", s["dur"] * speed)  # how much of the source to read (stops before a QC glitch)
+        if s.get("hold"):  # freeze the last clean frame for the rest of the shot (tpad clone)
+            vf = vf.replace(f"setpts=PTS/{speed},", f"setpts=PTS/{speed},tpad=stop_mode=clone:stop_duration={s['hold']},", 1)
+        run(["ffmpeg", "-y", "-v", "error", "-ss", str(s.get("in", 0)), "-t", str(src_len), "-i", s["file"],
              "-an", "-vf", vf, "-t", str(s["dur"]), "-c:v", "libx264", "-preset", "medium", "-crf", "16", str(p)])
         parts.append(p)
     lst = tmp / "list.txt"

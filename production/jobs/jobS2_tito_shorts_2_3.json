@@ -219,9 +219,9 @@
   }
  },
  {
-  "id": "tito_s2_calcetines_clip_A1",
+  "id": "tito_s2_calcetines_clip_A1_s7",
   "model_type": "ti2v_2_2_fastwan",
-  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Socks tumble onto the baby elephant's head, he blinks and shakes his ears, a red sock dangling from his trunk. Static camera.",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Socks tumble onto the baby elephant's head, he blinks and shakes his ears, a red sock dangling from his trunk. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; no fast motion, no camera zoom, no morphing.",
   "resolution": "544x960",
   "video_length": 97,
   "num_inference_steps": 3,
@@ -233,9 +233,23 @@
   }
  },
  {
-  "id": "tito_s2_calcetines_clip_A2",
+  "id": "tito_s2_calcetines_clip_A1_s19",
   "model_type": "ti2v_2_2_fastwan",
-  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant looks around at the socks and tilts his head curiously. Static camera.",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Socks tumble onto the baby elephant's head, he blinks and shakes his ears, a red sock dangling from his trunk. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s2_calcetines_A1_kf"
+  }
+ },
+ {
+  "id": "tito_s2_calcetines_clip_A2_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant looks around at the socks and tilts his head curiously. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; no fast motion, no camera zoom, no morphing.",
   "resolution": "544x960",
   "video_length": 97,
   "num_inference_steps": 3,
@@ -247,9 +261,23 @@
   }
  },
  {
-  "id": "tito_s2_calcetines_clip_A3",
+  "id": "tito_s2_calcetines_clip_A2_s19",
   "model_type": "ti2v_2_2_fastwan",
-  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant joins the two red socks and holds them up proudly. Static camera.",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant looks around at the socks and tilts his head curiously. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s2_calcetines_A2_kf"
+  }
+ },
+ {
+  "id": "tito_s2_calcetines_clip_A3_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant joins the two red socks and holds them up proudly. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; no fast motion, no camera zoom, no morphing.",
   "resolution": "544x960",
   "video_length": 97,
   "num_inference_steps": 3,
@@ -261,9 +289,23 @@
   }
  },
  {
-  "id": "tito_s2_calcetines_clip_A4",
+  "id": "tito_s2_calcetines_clip_A3_s19",
   "model_type": "ti2v_2_2_fastwan",
-  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant joins the two blue socks and waves them happily. Static camera.",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant joins the two red socks and holds them up proudly. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s2_calcetines_A3_kf"
+  }
+ },
+ {
+  "id": "tito_s2_calcetines_clip_A4_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant joins the two blue socks and waves them happily. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; no fast motion, no camera zoom, no morphing.",
   "resolution": "544x960",
   "video_length": 97,
   "num_inference_steps": 3,
@@ -275,9 +317,23 @@
   }
  },
  {
-  "id": "tito_s2_calcetines_clip_A5",
+  "id": "tito_s2_calcetines_clip_A4_s19",
   "model_type": "ti2v_2_2_fastwan",
-  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant dances side to side waving the sock pairs, ears flapping on the beat. Slight camera sway.",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant joins the two blue socks and waves them happily. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s2_calcetines_A4_kf"
+  }
+ },
+ {
+  "id": "tito_s2_calcetines_clip_A5_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant dances side to side waving the sock pairs, ears flapping on the beat. Slight camera sway. Small, calm, smooth movements; the character's head stays steady and stays the same single character; no fast motion, no camera zoom, no morphing.",
   "resolution": "544x960",
   "video_length": 97,
   "num_inference_steps": 3,
@@ -289,9 +345,23 @@
   }
  },
  {
-  "id": "tito_s2_calcetines_clip_A6",
+  "id": "tito_s2_calcetines_clip_A5_s19",
   "model_type": "ti2v_2_2_fastwan",
-  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant looks at the blue and yellow socks, tilts his head and blinks, puzzled. Slow push-in.",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant dances side to side waving the sock pairs, ears flapping on the beat. Slight camera sway. Small, calm, smooth movements; the character's head stays steady and stays the same single character; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s2_calcetines_A5_kf"
+  }
+ },
+ {
+  "id": "tito_s2_calcetines_clip_A6_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant looks at the blue and yellow socks, tilts his head and blinks, puzzled. Slow push-in. Small, calm, smooth movements; the character's head stays steady and stays the same single character; no fast motion, no camera zoom, no morphing.",
   "resolution": "544x960",
   "video_length": 97,
   "num_inference_steps": 3,
@@ -303,9 +373,23 @@
   }
  },
  {
-  "id": "tito_s2_calcetines_clip_A7",
+  "id": "tito_s2_calcetines_clip_A6_s19",
   "model_type": "ti2v_2_2_fastwan",
-  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant swaps to two yellow socks, nods and raises his trunk with joy. Static camera.",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant looks at the blue and yellow socks, tilts his head and blinks, puzzled. Slow push-in. Small, calm, smooth movements; the character's head stays steady and stays the same single character; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s2_calcetines_A6_kf"
+  }
+ },
+ {
+  "id": "tito_s2_calcetines_clip_A7_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant swaps to two yellow socks, nods and raises his trunk with joy. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; no fast motion, no camera zoom, no morphing.",
   "resolution": "544x960",
   "video_length": 97,
   "num_inference_steps": 3,
@@ -317,15 +401,43 @@
   }
  },
  {
-  "id": "tito_s2_calcetines_clip_A8",
+  "id": "tito_s2_calcetines_clip_A7_s19",
   "model_type": "ti2v_2_2_fastwan",
-  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant sits proudly by the neat sock pairs, then one sock slides off and he gasps. Static camera.",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant swaps to two yellow socks, nods and raises his trunk with joy. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s2_calcetines_A7_kf"
+  }
+ },
+ {
+  "id": "tito_s2_calcetines_clip_A8_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant sits proudly by the neat sock pairs, then one sock slides off and he gasps. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; no fast motion, no camera zoom, no morphing.",
   "resolution": "544x960",
   "video_length": 97,
   "num_inference_steps": 3,
   "guidance_scale": 1,
   "flow_shift": 3,
   "seed": 7,
+  "after": {
+   "image_start": "tito_s2_calcetines_A8_kf"
+  }
+ },
+ {
+  "id": "tito_s2_calcetines_clip_A8_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant sits proudly by the neat sock pairs, then one sock slides off and he gasps. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
   "after": {
    "image_start": "tito_s2_calcetines_A8_kf"
   }
@@ -550,9 +662,9 @@
   }
  },
  {
-  "id": "tito_s3_torre_clip_B1",
+  "id": "tito_s3_torre_clip_B1_s7",
   "model_type": "ti2v_2_2_fastwan",
-  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The block tower wobbles and tumbles, the baby elephant covers his eyes with his ears. Static camera.",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The block tower wobbles and tumbles, the baby elephant covers his eyes with his ears. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; no fast motion, no camera zoom, no morphing.",
   "resolution": "544x960",
   "video_length": 97,
   "num_inference_steps": 3,
@@ -564,9 +676,23 @@
   }
  },
  {
-  "id": "tito_s3_torre_clip_B2",
+  "id": "tito_s3_torre_clip_B1_s19",
   "model_type": "ti2v_2_2_fastwan",
-  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant raises his trunk and nods, determined to build. Static camera.",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The block tower wobbles and tumbles, the baby elephant covers his eyes with his ears. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s3_torre_B1_kf"
+  }
+ },
+ {
+  "id": "tito_s3_torre_clip_B2_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant raises his trunk and nods, determined to build. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; no fast motion, no camera zoom, no morphing.",
   "resolution": "544x960",
   "video_length": 97,
   "num_inference_steps": 3,
@@ -578,9 +704,23 @@
   }
  },
  {
-  "id": "tito_s3_torre_clip_B3",
+  "id": "tito_s3_torre_clip_B2_s19",
   "model_type": "ti2v_2_2_fastwan",
-  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant sets the green block down carefully with his trunk. Static camera.",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant raises his trunk and nods, determined to build. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s3_torre_B2_kf"
+  }
+ },
+ {
+  "id": "tito_s3_torre_clip_B3_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant sets the green block down carefully with his trunk. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; no fast motion, no camera zoom, no morphing.",
   "resolution": "544x960",
   "video_length": 97,
   "num_inference_steps": 3,
@@ -592,9 +732,23 @@
   }
  },
  {
-  "id": "tito_s3_torre_clip_B4",
+  "id": "tito_s3_torre_clip_B3_s19",
   "model_type": "ti2v_2_2_fastwan",
-  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant stacks the orange block on top of the green one, it wobbles a little. Static camera.",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant sets the green block down carefully with his trunk. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s3_torre_B3_kf"
+  }
+ },
+ {
+  "id": "tito_s3_torre_clip_B4_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant stacks the orange block on top of the green one, it wobbles a little. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; no fast motion, no camera zoom, no morphing.",
   "resolution": "544x960",
   "video_length": 97,
   "num_inference_steps": 3,
@@ -606,9 +760,23 @@
   }
  },
  {
-  "id": "tito_s3_torre_clip_B5",
+  "id": "tito_s3_torre_clip_B4_s19",
   "model_type": "ti2v_2_2_fastwan",
-  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant dances next to the tower, ears flapping on the beat. Slight camera sway.",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant stacks the orange block on top of the green one, it wobbles a little. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s3_torre_B4_kf"
+  }
+ },
+ {
+  "id": "tito_s3_torre_clip_B5_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant dances next to the tower, ears flapping on the beat. Slight camera sway. Small, calm, smooth movements; the character's head stays steady and stays the same single character; no fast motion, no camera zoom, no morphing.",
   "resolution": "544x960",
   "video_length": 97,
   "num_inference_steps": 3,
@@ -620,9 +788,23 @@
   }
  },
  {
-  "id": "tito_s3_torre_clip_B6",
+  "id": "tito_s3_torre_clip_B5_s19",
   "model_type": "ti2v_2_2_fastwan",
-  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant looks at the upside-down purple block and tilts his head, puzzled. Slow push-in.",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant dances next to the tower, ears flapping on the beat. Slight camera sway. Small, calm, smooth movements; the character's head stays steady and stays the same single character; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s3_torre_B5_kf"
+  }
+ },
+ {
+  "id": "tito_s3_torre_clip_B6_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant looks at the upside-down purple block and tilts his head, puzzled. Slow push-in. Small, calm, smooth movements; the character's head stays steady and stays the same single character; no fast motion, no camera zoom, no morphing.",
   "resolution": "544x960",
   "video_length": 97,
   "num_inference_steps": 3,
@@ -634,9 +816,23 @@
   }
  },
  {
-  "id": "tito_s3_torre_clip_B7",
+  "id": "tito_s3_torre_clip_B6_s19",
   "model_type": "ti2v_2_2_fastwan",
-  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant turns the purple block the right way, puts it on top and trumpets happily. Static camera.",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant looks at the upside-down purple block and tilts his head, puzzled. Slow push-in. Small, calm, smooth movements; the character's head stays steady and stays the same single character; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s3_torre_B6_kf"
+  }
+ },
+ {
+  "id": "tito_s3_torre_clip_B7_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant turns the purple block the right way, puts it on top and trumpets happily. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; no fast motion, no camera zoom, no morphing.",
   "resolution": "544x960",
   "video_length": 97,
   "num_inference_steps": 3,
@@ -648,15 +844,43 @@
   }
  },
  {
-  "id": "tito_s3_torre_clip_B8",
+  "id": "tito_s3_torre_clip_B7_s19",
   "model_type": "ti2v_2_2_fastwan",
-  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant smiles proudly, then sneezes with his trunk and the tower wobbles. Static camera.",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant turns the purple block the right way, puts it on top and trumpets happily. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s3_torre_B7_kf"
+  }
+ },
+ {
+  "id": "tito_s3_torre_clip_B8_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant smiles proudly, then sneezes with his trunk and the tower wobbles. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; no fast motion, no camera zoom, no morphing.",
   "resolution": "544x960",
   "video_length": 97,
   "num_inference_steps": 3,
   "guidance_scale": 1,
   "flow_shift": 3,
   "seed": 7,
+  "after": {
+   "image_start": "tito_s3_torre_B8_kf"
+  }
+ },
+ {
+  "id": "tito_s3_torre_clip_B8_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The elephant smiles proudly, then sneezes with his trunk and the tower wobbles. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
   "after": {
    "image_start": "tito_s3_torre_B8_kf"
   }

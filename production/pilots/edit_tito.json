@@ -1,5 +1,5 @@
 {
- "out": "/home/user/youtube_experiment/production/pilots/build/tito_short_official.mp4",
+ "out": "/home/user/youtube_experiment/production/pilots/build/tito_short_official_v2.mp4",
  "fps": 30,
  "song": {
   "file": "/home/user/youtube_experiment/production/pilots/build/song_tito.wav",
@@ -40,8 +40,18 @@
    "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS1/out/clip_T4.mp4",
    "in": 0.0,
    "dur": 3.208,
-   "speed": 1.0,
-   "shot": "T4"
+   "speed": 0.8,
+   "shot": "T4",
+   "punch": {
+    "to": 1.07,
+    "dur": 3.2,
+    "settle": 1.07,
+    "shake": 0,
+    "cx": 0.5,
+    "cy": 0.35
+   },
+   "src_len": 1.33,
+   "hold": 1.596
   },
   {
    "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS1/out/clip_T5.mp4",

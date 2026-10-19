@@ -38,9 +38,13 @@ def shots(bounds, extras=None):
         dur = round(s(b) - s(a), 3)
         x = extras.get(sid, {})
         start = x.get("in", 0.0)
-        speed = round(min(1.0, (CLIP_LEN - start) / dur), 3)
+        usable = x.get("until", CLIP_LEN) - start  # "until": last clean second of the clip (QC: cut before a glitch)
+        speed = round(min(1.0, usable / dur), 3)
+        if "hold_speed" in x:  # play the clean part at this speed, then freeze its last frame
+            speed = x["hold_speed"]
+            x = {**x, "src_len": round(usable, 3), "hold": round(dur - usable / speed + 0.05, 3)}
         out.append({"file": str(CLIPS / f"clip_{sid}.mp4"), "in": start, "dur": dur, "speed": speed, "shot": sid,
-                    **{k: v for k, v in x.items() if k != "in"}})
+                    **{k: v for k, v in x.items() if k not in ("in", "until", "hold_speed")}})
     return out
 
 
@@ -67,6 +71,9 @@ TITO = {
                     ("T5b", 20.4, 24.1), ("T6", 24.1, 28.3), ("T7", 28.3, 31.3), ("T8", 31.3, 34.1)],
                    {  # polish v2: thumb-stop hook + keep moving mouths out of focus while the song sings
                        "T1": {"punch": {"to": 1.32, "dur": 0.45, "cx": 0.5, "cy": 0.30, "settle": 1.20, "shake": 12}},
+                       # QC 2026-10-19: ghosting (double tuft/ears, third eye) from frame 36 of the commercial T4 clip:
+                       # play the clean 1.33 s at 0.8x, then hold its last frame with a slow push-in
+                       "T4": {"until": 1.33, "hold_speed": 0.8, "punch": {"to": 1.07, "dur": 3.2, "settle": 1.07, "shake": 0, "cx": 0.5, "cy": 0.35}},
                        "T6": {"frame": {"zoom": 1.10, "cx": 0.5, "cy": 0.62}},   # favour the duck + eyes, trunk covers mouth
                        "T7": {"in": 0.3, "frame": {"zoom": 1.08, "cx": 0.6, "cy": 0.5}},  # commercial clip: calm start, trumpet at the end
                    }),
