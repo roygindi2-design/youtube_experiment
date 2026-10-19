@@ -107,12 +107,13 @@ def main():
     out = Path(e["out"])
     out.parent.mkdir(parents=True, exist_ok=True)
     tmp = Path(tempfile.mkdtemp())
+    W, H = e.get("size", [1080, 1920])  # Shorts 1080x1920; long-form episodes 1920x1080
     parts = []
     for i, s in enumerate(e["shots"]):
         p = tmp / f"s{i:02d}.mp4"
         speed = s.get("speed", 1.0)
-        vf = (f"setpts=PTS/{speed},scale=1080:1920:force_original_aspect_ratio=increase:flags=lanczos,"
-              f"crop=1080:1920,fps={fps},eq=saturation=1.12:contrast=1.04,unsharp=5:5:0.6")
+        vf = (f"setpts=PTS/{speed},scale={W}:{H}:force_original_aspect_ratio=increase:flags=lanczos,"
+              f"crop={W}:{H},fps={fps},eq=saturation=1.12:contrast=1.04,unsharp=5:5:0.6")
         punch = s.get("punch")  # fast push-in toward a point: {"to":1.32,"dur":0.45,"cx":0.5,"cy":0.33,"settle":1.22,"shake":10}
         frame = s.get("frame")  # static reframe: {"zoom":1.15,"cx":0.5,"cy":0.35}
         if punch:
@@ -123,13 +124,13 @@ def main():
             z = (f"if(lt(t,{D}),1+({Z1}-1)*(1-pow(1-t/{D},3)),{Z1}+({Z2}-{Z1})*(t-{D})/{max(T - D, 0.01)})")
             sh = punch.get("shake", 10)
             cx, cy = punch.get("cx", 0.5), punch.get("cy", 0.35)
-            vf += (f",scale=w='trunc(1080*({z})/2)*2':h='trunc(1920*({z})/2)*2':eval=frame:flags=lanczos,"
-                   f"crop=1080:1920:x='min(max((iw-1080)*{cx}+if(lt(t,0.35),{sh}*sin(t*90),0),0),iw-1080)'"
-                   f":y='min(max((ih-1920)*{cy}+if(lt(t,0.35),{sh}*cos(t*70),0),0),ih-1920)'")
+            vf += (f",scale=w='trunc({W}*({z})/2)*2':h='trunc({H}*({z})/2)*2':eval=frame:flags=lanczos,"
+                   f"crop={W}:{H}:x='min(max((iw-{W})*{cx}+if(lt(t,0.35),{sh}*sin(t*90),0),0),iw-{W})'"
+                   f":y='min(max((ih-{H})*{cy}+if(lt(t,0.35),{sh}*cos(t*70),0),0),ih-{H})'")
         elif frame:
             zf = frame.get("zoom", 1.15)
-            vf += (f",scale={int(1080 * zf) // 2 * 2}:{int(1920 * zf) // 2 * 2}:flags=lanczos,"
-                   f"crop=1080:1920:x='(iw-1080)*{frame.get('cx', 0.5)}':y='(ih-1920)*{frame.get('cy', 0.5)}'")
+            vf += (f",scale={int(W * zf) // 2 * 2}:{int(H * zf) // 2 * 2}:flags=lanczos,"
+                   f"crop={W}:{H}:x='(iw-{W})*{frame.get('cx', 0.5)}':y='(ih-{H})*{frame.get('cy', 0.5)}'")
         vf += ",format=yuv420p"
         src_len = s.get("src_len", s["dur"] * speed)  # how much of the source to read (stops before a QC glitch)
         if s.get("hold"):  # freeze the last clean frame for the rest of the shot (tpad clone)
