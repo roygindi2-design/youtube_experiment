@@ -68,7 +68,7 @@ TITO = {
                    {  # polish v2: thumb-stop hook + keep moving mouths out of focus while the song sings
                        "T1": {"punch": {"to": 1.32, "dur": 0.45, "cx": 0.5, "cy": 0.30, "settle": 1.20, "shake": 12}},
                        "T6": {"frame": {"zoom": 1.10, "cx": 0.5, "cy": 0.62}},   # favour the duck + eyes, trunk covers mouth
-                       "T7": {"in": 1.4, "frame": {"zoom": 1.10, "cx": 0.72, "cy": 0.55}},  # skip the open-mouth start, favour the box
+                       "T7": {"in": 0.3, "frame": {"zoom": 1.08, "cx": 0.6, "cy": 0.5}},  # commercial clip: calm start, trumpet at the end
                    }),
     "lines": lines([
         ([("¡Uy!", 0.05)], 1.8),

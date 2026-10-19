@@ -1,5 +1,5 @@
 {
- "out": "/home/user/youtube_experiment/production/pilots/build/pilot_tito_v3_clean.mp4",
+ "out": "/home/user/youtube_experiment/production/pilots/build/tito_short_official.mp4",
  "fps": 30,
  "song": {
   "file": "/home/user/youtube_experiment/production/pilots/build/song_tito.wav",
@@ -8,7 +8,7 @@
  },
  "shots": [
   {
-   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/clips/clip_T1.mp4",
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS1/out/clip_T1.mp4",
    "in": 0.0,
    "dur": 3.396,
    "speed": 1.0,
@@ -23,42 +23,42 @@
    }
   },
   {
-   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/clips/clip_T2.mp4",
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS1/out/clip_T2.mp4",
    "in": 0.0,
    "dur": 4.434,
    "speed": 0.912,
    "shot": "T2"
   },
   {
-   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/clips/clip_T3.mp4",
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS1/out/clip_T3.mp4",
    "in": 0.0,
    "dur": 4.151,
    "speed": 0.974,
    "shot": "T3"
   },
   {
-   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/clips/clip_T4.mp4",
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS1/out/clip_T4.mp4",
    "in": 0.0,
    "dur": 3.208,
    "speed": 1.0,
    "shot": "T4"
   },
   {
-   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/clips/clip_T5.mp4",
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS1/out/clip_T5.mp4",
    "in": 0.0,
    "dur": 4.056,
    "speed": 0.996,
    "shot": "T5"
   },
   {
-   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/clips/clip_T5b.mp4",
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS1/out/clip_T5b.mp4",
    "in": 0.0,
    "dur": 3.491,
    "speed": 1.0,
    "shot": "T5b"
   },
   {
-   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/clips/clip_T6.mp4",
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS1/out/clip_T6.mp4",
    "in": 0.0,
    "dur": 3.962,
    "speed": 1.0,
@@ -70,19 +70,19 @@
    }
   },
   {
-   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/clips/clip_T7.mp4",
-   "in": 1.4,
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS1/out/clip_T7.mp4",
+   "in": 0.3,
    "dur": 2.83,
-   "speed": 0.933,
+   "speed": 1.0,
    "shot": "T7",
    "frame": {
-    "zoom": 1.1,
-    "cx": 0.72,
-    "cy": 0.55
+    "zoom": 1.08,
+    "cx": 0.6,
+    "cy": 0.5
    }
   },
   {
-   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/clips/clip_T8.mp4",
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/kaggle/jobS1/out/clip_T8.mp4",
    "in": 0.0,
    "dur": 2.642,
    "speed": 1.0,
@@ -418,6 +418,7 @@
  ],
  "font": "Fredoka",
  "font_file": "/home/user/youtube_experiment/production/fonts/Fredoka.ttf",
+ "burn_captions": false,
  "font_size": 84,
  "outline": 8,
  "colors": {
@@ -430,6 +431,5 @@
   "color": "#0E1F3D",
   "opacity": 0.72,
   "pad": 18
- },
- "burn_captions": false
+ }
 }

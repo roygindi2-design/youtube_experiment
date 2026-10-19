@@ -1,0 +1,31 @@
+1
+00:00:00,000 --> 00:00:01,698
+¡Uy!
+
+2
+00:00:02,284 --> 00:00:06,226
+¡Qué desorden! ¡A ordenar!
+
+3
+00:00:07,756 --> 00:00:11,819
+La pelota roja, a la caja roja.
+
+4
+00:00:11,869 --> 00:00:15,083
+El carrito azul, a la caja azul.
+
+5
+00:00:15,133 --> 00:00:19,102
+Cada juguete a su casita, ¡uno, dos, tres!
+
+6
+00:00:19,152 --> 00:00:22,649
+Cada juguete a su casita, ¡qué bonito es!
+
+7
+00:00:22,699 --> 00:00:26,981
+El patito amarillo… ¿aquí? ¡No!
+
+8
+00:00:27,624 --> 00:00:31,698
+¡A la caja amarilla!
