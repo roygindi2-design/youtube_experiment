@@ -1,0 +1,103 @@
+{
+ "character": "popo",
+ "lock": "POPO, a baby hippo toddler. Lavender-purple body, soft pink belly patch and rosy pink cheeks, big round head about half of the body height, wide friendly smile showing two big square white front teeth, small round ears with pink insides, two tiny nostrils on top of the round snout, big glossy dark-brown eyes with white sparkle highlights, one small curl of darker purple hair on top of the head, short chubby arms and legs, small round tail.",
+ "room": "Cozy toddler bathroom with sky-blue round tiles, small white sink, round mirror, wooden step stool, yellow rubber duck on the sink, mint-green towel, soft morning sunlight.",
+ "song": {
+  "bpm": 120,
+  "title": "Arriba y abajo",
+  "lyrics": "[Intro]\n¡Aaah!\n¿Listos? ¡A cepillar!\n[Verse]\nUn poquito de pasta, ¡mira qué color!\nMuevo el cepillo con mucho amor.\n[Chorus]\nArriba y abajo, ¡cepi, cepi, cepi!\nAdelante y atrás, ¡dientes con brillo!\n[Bridge]\nEnjuago, enjuago… ¡ya terminé!\n[Outro]\n¡Sonrisa brillante!"
+ },
+ "shots": [
+  {
+   "id": "P1",
+   "t": [
+    0.0,
+    3.0
+   ],
+   "frame": "Extreme close-up, front view: the hippo's face fills the frame, mouth wide open in a big silly 'aaah', two big square front teeth with small brown chocolate smudges, eyes squeezed happily. Bathroom softly blurred behind.",
+   "motion": "The baby hippo opens its mouth even wider in a funny 'aaah', tilts its head, then closes into a cheeky grin. Slow camera push-in.",
+   "sfx": "boing + kid 'aaah'",
+   "lyric": "(hook) ¡Aaah!"
+  },
+  {
+   "id": "P2",
+   "t": [
+    3.0,
+    6.5
+   ],
+   "frame": "Medium shot: the hippo stands on a wooden step stool at the sink, looking up excited at a sky-blue toothbrush floating in from the right side, arms reaching up.",
+   "motion": "A sky-blue toothbrush bounces into the frame, the hippo catches it with both hands and bounces happily on the stool. Static camera.",
+   "sfx": "spring bounce, catch 'pop'",
+   "lyric": "¿Listos? ¡A cepillar!"
+  },
+  {
+   "id": "P3",
+   "t": [
+    6.5,
+    10.0
+   ],
+   "frame": "Close-up on the hippo's hands and smiling face: holding the sky-blue toothbrush and a small tube, a rainbow-striped toothpaste swirl on the bristles.",
+   "motion": "The hippo squeezes the tube, a colorful striped toothpaste swirl curls onto the bristles, the hippo giggles with delight. Gentle camera drift.",
+   "sfx": "squish",
+   "lyric": "Un poquito de pasta, ¡mira qué color!"
+  },
+  {
+   "id": "P4",
+   "t": [
+    10.0,
+    14.0
+   ],
+   "frame": "Medium shot, front view through the mirror: the hippo brushes its two big front teeth with white foam bubbles around the mouth, eyes happy.",
+   "motion": "The hippo brushes its teeth up and down in rhythm, white foam bubbles, sways its head to the beat. Static camera.",
+   "sfx": "brush 'fsh-fsh' on beat",
+   "lyric": "Muevo el cepillo con mucho amor."
+  },
+  {
+   "id": "P5",
+   "t": [
+    14.0,
+    18.0
+   ],
+   "frame": "Medium-wide shot: the hippo dances on the stool while brushing, hips tilted to one side, the yellow rubber duck on the sink, soap bubbles floating.",
+   "motion": "The hippo dances side to side while brushing, little hops on the beat, soap bubbles float up, the rubber duck bobs. Slight camera sway.",
+   "sfx": "claps on beat",
+   "lyric": "Arriba y abajo, ¡cepi, cepi, cepi!"
+  },
+  {
+   "id": "P6",
+   "t": [
+    18.0,
+    21.5
+   ],
+   "frame": "Close-up: the hippo brushing the side of its teeth with a big foamy grin, one eye winking.",
+   "motion": "The hippo brushes forward and back with a big foamy grin, winks at the camera. Slow push-in.",
+   "sfx": "'ding' sparkle",
+   "lyric": "Adelante y atrás, ¡dientes con brillo!"
+  },
+  {
+   "id": "P7",
+   "t": [
+    21.5,
+    25.0
+   ],
+   "frame": "Medium shot: the hippo holds a small mint-green cup of water near its mouth over the sink, cheeks puffed full of water, playful eyes.",
+   "motion": "The hippo swishes water with puffed cheeks, then lowers the cup and smiles, a few water droplets sparkle. Static camera.",
+   "sfx": "gargle 'glu-glu', splash",
+   "lyric": "Enjuago, enjuago… ¡ya terminé!"
+  },
+  {
+   "id": "P8",
+   "t": [
+    25.0,
+    28.0
+   ],
+   "frame": "Close-up, front view: the hippo shows a huge proud smile, two clean white front teeth with star-shaped sparkle glints, a round soap bubble floating in front.",
+   "motion": "Star sparkles twinkle on the clean teeth, the soap bubble pops, the hippo laughs and opens its mouth wide again. Static camera.",
+   "sfx": "bubble 'pop' + sparkle",
+   "lyric": "¡Sonrisa brillante!"
+  }
+ ],
+ "style": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. ",
+ "neg": "text, letters, watermark, logo, realistic animal, scary, sharp teeth, extra limbs, extra fingers, deformed, dark, gloomy, human, blurry",
+ "vneg": "text, subtitles, watermark, flicker, morphing, deformed, extra limbs, extra fingers, fast camera shake, blurry, low quality, scary"
+}

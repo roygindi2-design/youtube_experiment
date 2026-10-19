@@ -1,0 +1,103 @@
+{
+ "character": "tito",
+ "lock": "TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail.",
+ "room": "Bright cozy playroom with light wooden floor, round pastel rug, three open toy boxes in a row colored red, blue and yellow, big window with soft daylight.",
+ "song": {
+  "bpm": 120,
+  "title": "Cada juguete a su casita",
+  "lyrics": "[Intro]\n¡Uy! ¡Qué desorden!\n¡A ordenar!\n[Verse]\nLa pelota roja, a la caja roja.\nEl carrito azul, a la caja azul.\n[Chorus]\nCada juguete a su casita, ¡uno, dos, tres!\nCada juguete a su casita, ¡qué bonito es!\n[Bridge]\nEl patito amarillo… ¿aquí? ¡No!\n¡A la caja amarilla!\n[Outro]\n¡Todo en su lugar!"
+ },
+ "shots": [
+  {
+   "id": "T1",
+   "t": [
+    0.0,
+    3.0
+   ],
+   "frame": "Medium-wide shot: the baby elephant sits on the rug while colorful toys tumble down around him, a red ball, a blue toy car, a yellow rubber duck and green blocks in mid-air, his big ears raised in surprise.",
+   "motion": "Toys tumble down and bounce on the floor around the baby elephant, he flaps his big ears in surprise and covers his eyes with his trunk. Static camera.",
+   "sfx": "toy clatter + 'uy'",
+   "lyric": "(hook) ¡Uy! ¡Qué desorden!"
+  },
+  {
+   "id": "T2",
+   "t": [
+    3.0,
+    6.5
+   ],
+   "frame": "Wide shot: the baby elephant stands proudly in front of three open toy boxes colored red, blue and yellow, trunk raised and pointing forward, determined smile.",
+   "motion": "The baby elephant raises his trunk like a little trumpet and marches in place, determined and happy. Static camera.",
+   "sfx": "trunk 'tu-tuuu'",
+   "lyric": "¡A ordenar!"
+  },
+  {
+   "id": "T3",
+   "t": [
+    6.5,
+    10.0
+   ],
+   "frame": "Medium shot: the baby elephant holds a shiny red ball curled in his trunk above the open red toy box.",
+   "motion": "The baby elephant lifts the red ball with his trunk and drops it into the red box, it bounces inside, he smiles. Static camera.",
+   "sfx": "'pop' + high 'ding'",
+   "lyric": "La pelota roja, a la caja roja."
+  },
+  {
+   "id": "T4",
+   "t": [
+    10.0,
+    13.5
+   ],
+   "frame": "Medium shot: the baby elephant pushes a small blue toy car with his trunk toward the open blue toy box.",
+   "motion": "The baby elephant pushes the blue toy car with his trunk, it rolls and drops into the blue box. Gentle camera follow.",
+   "sfx": "'vroom' + 'ding'",
+   "lyric": "El carrito azul, a la caja azul."
+  },
+  {
+   "id": "T5",
+   "t": [
+    13.5,
+    17.5
+   ],
+   "frame": "Wide shot: the baby elephant dances happily in the middle of the playroom, ears flapping, one foot raised, toys hopping toward their colored boxes.",
+   "motion": "The baby elephant dances and spins, ears flapping on the beat, toys hop by themselves into the matching colored boxes. Slight camera sway.",
+   "sfx": "claps + 'ding' x3",
+   "lyric": "Cada juguete a su casita, ¡uno, dos, tres!"
+  },
+  {
+   "id": "T6",
+   "t": [
+    17.5,
+    21.0
+   ],
+   "frame": "Close-up: the baby elephant holds a yellow rubber duck with his trunk above the BLUE toy box, head tilted, puzzled face.",
+   "motion": "The baby elephant hesitates holding the yellow duck over the blue box, tilts his head and blinks, puzzled. Slow push-in.",
+   "sfx": "question 'hmm?' boing",
+   "lyric": "El patito amarillo… ¿aquí? ¡No!"
+  },
+  {
+   "id": "T7",
+   "t": [
+    21.0,
+    24.5
+   ],
+   "frame": "Medium shot: the baby elephant happily places the yellow rubber duck into the YELLOW toy box, trunk raised in joy.",
+   "motion": "The baby elephant shakes his head no, moves the duck to the yellow box and drops it in, then raises his trunk and trumpets with joy. Static camera.",
+   "sfx": "'ding' + trunk trumpet",
+   "lyric": "¡A la caja amarilla!"
+  },
+  {
+   "id": "T8",
+   "t": [
+    24.5,
+    28.0
+   ],
+   "frame": "Wide shot: the tidy playroom, the baby elephant sits proudly next to the three full toy boxes, a red ball balanced on top of the red box.",
+   "motion": "The baby elephant sits proudly and smiles, then the red ball rolls off the box toward the camera and he gasps. Static camera.",
+   "sfx": "sparkle, then soft 'boing' of the ball",
+   "lyric": "¡Todo en su lugar!"
+  }
+ ],
+ "style": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. ",
+ "neg": "text, letters, watermark, logo, realistic animal, scary, sharp teeth, extra limbs, extra fingers, deformed, dark, gloomy, human, blurry",
+ "vneg": "text, subtitles, watermark, flicker, morphing, deformed, extra limbs, extra fingers, fast camera shake, blurry, low quality, scary"
+}
