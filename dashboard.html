@@ -167,8 +167,8 @@ const DATA = {
     {
       name: "טיטו הפיל", tag: "C · צבעים וסידור", s: "ok", st: "Public · Made for Kids · CC",
       title: "¡A ordenar los colores con Tito! 🐘",
-      video: { id: "oNcoDrj0HL8", url: "https://youtube.com/shorts/oNcoDrj0HL8" },
-      meta: [["אורך", "32.2 שניות"], ["קובץ", "tito_short_official.mp4 + .es.srt (Klein 4B)"], ["פיילוט ישן", "Unlisted (Klein 9B) · לא יפורסם"], ["כתוביות", "CC נפרד, לא צרוב"]],
+      video: { id: "owjvOANiAy4", url: "https://youtube.com/shorts/owjvOANiAy4" },
+      meta: [["אורך", "32.2 שניות"], ["קובץ", "tito_short_official_v2.mp4 + .es.srt (Klein 4B, אחרי QC)"], ["פיילוט ישן", "Unlisted (Klein 9B) · לא יפורסם"], ["גרסה עם גליץ'", "oNcoDrj0HL8 · Unlisted"], ["כתוביות", "CC נפרד, לא צרוב"]],
       next: ["Short 2 \"Calcetines de colores\" → Public היום (~20:15)", "+5 שעות: בדיקת נתונים והפקת לקחים → Short 3 \"La torre de bloques\"", "פרק מלא 1 (2:20) → Public כשמוכן", "Shorts המשך: גרביים, מגדל קוביות"],
     },
     {
@@ -188,6 +188,7 @@ const GPU = {
     { step: "S1: Short טיטו מסחרי — חדר + 18 פריימים (Klein 4B) + 9 קליפים (בפועל 0.8)", est: 0.8, state: "ok" },
     { step: "L1: חדר + 48 פריימי מפתח (Klein 4B) + 5 שירים + קריינות", est: 1.0, state: "active" },
     { step: "L2: 24 קליפים (Wan 2.2 5B, 960x544), שתי הרצות במקביל", est: 2.6, state: "idle" },
+    { step: "S2: שני Shorts (גרביים, מגדל) — 2 seeds לכל שוט + תנועה רגועה", est: 2.0, state: "idle" },
     { step: "תיקונים: קליפים חוזרים לשוטים פגומים (עד 6)", est: 0.6, state: "idle" },
     { step: "גרסה מסחרית של פיילוט נילו (Klein 4B)", est: 1.5, state: "idle" },
   ],
@@ -198,6 +199,7 @@ const LESSONS = [
   { src: "QC קליפים", what: "פה זז בלי סנכרון כשהזמרת שרה", effect: "מסגור על פעולה ועיניים, חיתוך קליפים אחרי פתיחת פה", state: "ok" },
   { src: "API שירים", what: "ACE-Step מדלג על שורות", effect: "5–6 גרסאות ובחירה לפי התאמת תמלול", state: "ok" },
   { src: "מדיניות (Roy)", what: "אין תוכן זמני; מחיקה פוגעת באלגוריתם", effect: "100% מודלים מסחריים מהפריים הראשון. Klein 9B אסור. הפיילוט הישן נשאר Unlisted", state: "ok" },
+  { src: "משוב Roy (גליץ')", what: "Ghosting בקליפ T4: עין שלישית ואוזן כפולה (מהפריים 36)", effect: "רק Hard Cuts, תנועה רגועה, 2 seeds לשוט, QC אוטומטי + בדיקה ויזואלית של כל פריים לפני העלאה (QC_RULES.md)", state: "ok" },
   { src: "Analytics", what: "ממתין לנתונים (24–48 שעות עיכוב)", effect: "יתעדכן אוטומטית", state: "idle" },
   { src: "מדיניות העלאה (Roy)", what: "מעלים כדי ללמוד", effect: "Short אחד, בדיקת נתונים אחרי 5 שעות, ואז ה-Short הבא עם התיקונים", state: "ok" },
 ];
