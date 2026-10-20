@@ -34,3 +34,8 @@
 3. **סריקות נישה — אחת-אחת ועם מעט חיפושים** (2–3 שאילתות), כדי לא לשרוף את מכסת ה-Search היומית.
 
 **תסריטים:** rojito_ciudad, tito_dormir, tito_basura → `script_ready` (preflight produce עבר).
+
+### תוספת — 21.10.2026 (בקשת Roy): rojito_rescate
+- תסריט "¡Rojito al rescate del gatito!" — rescue_mission (דפוס ראשון מסוגו), עולם חווה/מטע תפוחים. preflight עבר.
+- **בדיקת ספרדית לכל 4 התסריטים:** "resbaladilla" (מקסיקו) במקום "tobogán" (ספרד); תוקנו סימני פיסוק: ¡ כפול בתוך שורה (rojito_ciudad) ו-"Tito, ¿dónde va la basura?" (tito_basura).
+- **כלל:** מילת צליל באמצע משפט בלי ¡ נוסף ("hace nii-noo"); פנייה בשם לפני סימן השאלה.

@@ -16,7 +16,7 @@
   "A new sound, nii-noo! Everyone looks around... it is Rojito's own siren lighting up (twist)",
   "Rojito drives down the street spraying a water arc with a little rainbow, the bus honks again (reward + loop)"
  ],
- "lyrics": "[Intro]\n¡Pi, pi! ¿Quién hace así?\n[Verse]\nEl autobús hace ¡pi, pi, pi!\nEl camión de basura, ¡ñam, ñam, ñam!\nLa excavadora, ¡ras, ras, ras!\nEl tren hace ¡chu, chu, chu!\nLa ambulancia, ¡ui, ui, ui!\n[Chorus]\n¿Y quién hace ¡nii-noo!? ¡Soy yo!\n[Outro]\n¡Rojito hace ¡nii-noo, nii-noo!",
+ "lyrics": "[Intro]\n¡Pi, pi! ¿Quién hace así?\n[Verse]\nEl autobús hace ¡pi, pi, pi!\nEl camión de basura, ¡ñam, ñam, ñam!\nLa excavadora, ¡ras, ras, ras!\nEl tren hace ¡chu, chu, chu!\nLa ambulancia, ¡ui, ui, ui!\n[Chorus]\n¿Y quién hace nii-noo? ¡Soy yo!\n[Outro]\n¡Rojito hace nii-noo, nii-noo!",
  "locations": {
   "calle": "A cheerful toy city street on a sunny morning, outdoors, vertical 9:16 composition, camera low at toy level: a smooth grey play road with a white zebra crossing, a small bus stop with a blue roof and a bench, a friendly traffic light showing green, colorful rounded toy houses and shops in pastel orange, mint and yellow, little round trees, a wide open blue sky with white clouds. No vehicles on the road.",
   "obra": "A sunny toy construction site outdoors, vertical 9:16 composition, camera low at toy level: a big pit of soft golden sand with orange and white traffic cones, a little red-and-white railroad crossing with a wooden barrier and a curved toy train track behind the pit, green rounded hills and a wide open blue sky with white clouds. No vehicles in the pit."
@@ -115,7 +115,7 @@
  "pattern": "guess_interactive",
  "opening": "sound_first_bus_honk",
  "twist": "after five friends each make their sound, a new 'nii-noo!' is heard and nobody knows who it is — Rojito's own siren lights up FLASHING BLUE on his roof: the mystery sound was him",
- "moral": "¡Cada amigo tiene su sonido, y Rojito hace ¡nii-noo!",
+ "moral": "¡Cada amigo tiene su sonido, y Rojito hace nii-noo!",
  "experiment": "NuNu 'X hace Y' sound song (NuNu ×95, Singaroo ×665): every lyric line is a DIFFERENT one-off vehicle friend doing exactly its sound on the beat; first multi-character sound song on the channel",
  "continuity": "sunny morning in every shot; Rojito always cherry red and visible at the edge of each friend shot (Q1-Q6), siren dark blue until Q7, FLASHING from Q7 to Q8; yellow bus at the bus stop in Q1, Q2, Q7 (blurred) and Q8 (background); each friend vehicle appears only in its own shot: bus yellow, garbage truck green, excavator orange, train blue, ambulance white with orange stripe; calle = Q1-Q3, Q6-Q8, obra = Q4-Q5"
 }

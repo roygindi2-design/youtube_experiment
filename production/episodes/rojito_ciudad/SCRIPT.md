@@ -6,7 +6,7 @@
 
 **Twist (visible):** after five friends each make their sound, a new 'nii-noo!' is heard and nobody knows who it is — Rojito's own siren lights up FLASHING BLUE on his roof: the mystery sound was him
 
-**Moral:** ¡Cada amigo tiene su sonido, y Rojito hace ¡nii-noo!
+**Moral:** ¡Cada amigo tiene su sonido, y Rojito hace nii-noo!
 
 ## Beat table (~3 s per line at 120 bpm; each line = what is on screen)
 
@@ -18,8 +18,8 @@
 | 4 | 9–12s | La excavadora, ¡ras, ras, ras! | Q4 | Top-down view from above the sandy construction pit: The orange excavator scoops the sand and lifts it up, sand pouring from the scoop. | Construction vehicle = Singaroo ×665 (excavator is their lead card) |
 | 5 | 12–15s | El tren hace ¡chu, chu, chu! | Q5 | View from behind the little red fire truck character at the railroad crossing: The blue train chugs from left to right, round puffs of white steam float up. | Classic train sound, top-recognised by toddlers (Biper 'Todos a bordo del Tren' 7.3M ×193) |
 | 6 | 15–18s | La ambulancia, ¡ui, ui, ui! | Q6 | Medium shot, front three-quarter view on the city street: The white ambulance drives along the road, its blue roof light flashing on and off. | Rescue vehicle sound (KORIRI 'Wee-woo' 4.2M ×450) |
-| 7 | 18–21s | ¿Y quién hace ¡nii-noo!? ¡Soy yo! | Q7 | Close-up from the front of the little red fire truck character on the city street: His blue siren flashes brighter and brighter, he looks up at it and starts to smile. | Twist: the mystery sound is our hero — guess + reveal (MiniVerso ×4,687) |
-| 8 | 21–24s | ¡Rojito hace ¡nii-noo, nii-noo! | Q8 | Low side view at ground level: He drives forward spraying a sparkling water arc, a little rainbow shimmers in the spray. | Reward + water spray (splash ×3,598) + loop back to the bus honk |
+| 7 | 18–21s | ¿Y quién hace nii-noo? ¡Soy yo! | Q7 | Close-up from the front of the little red fire truck character on the city street: His blue siren flashes brighter and brighter, he looks up at it and starts to smile. | Twist: the mystery sound is our hero — guess + reveal (MiniVerso ×4,687) |
+| 8 | 21–24s | ¡Rojito hace nii-noo, nii-noo! | Q8 | Low side view at ground level: He drives forward spraying a sparkling water arc, a little rainbow shimmers in the spray. | Reward + water spray (splash ×3,598) + loop back to the bus honk |
 
 ## Story beats
 
