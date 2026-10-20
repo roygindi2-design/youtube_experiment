@@ -1,0 +1,638 @@
+[
+ {
+  "id": "tito_halloween_loc_porche_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cozy wooden house porch on an autumn evening, vertical 9:16 composition, camera at child eye level: three big glowing orange jack-o-lanterns with friendly smiling carved faces on the steps, strings of warm orange and purple fairy lights, fallen orange and yellow leaves, a soft purple evening sky with a big friendly round moon, a small wooden front door with a wreath of autumn leaves. Nobody is on the porch."
+ },
+ {
+  "id": "tito_halloween_loc_porche_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cozy wooden house porch on an autumn evening, vertical 9:16 composition, camera at child eye level: three big glowing orange jack-o-lanterns with friendly smiling carved faces on the steps, strings of warm orange and purple fairy lights, fallen orange and yellow leaves, a soft purple evening sky with a big friendly round moon, a small wooden front door with a wreath of autumn leaves. Nobody is on the porch."
+ },
+ {
+  "id": "tito_halloween_loc_espejo_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A warm cozy bathroom corner in the evening, vertical 9:16 composition, camera at child eye level: a round mirror above a small white sink, a cup with a small blue toothbrush and a tube of toothpaste, a little wooden step stool, soft warm lamp light, purple and orange tiles, a tiny pumpkin decoration on the shelf. Nobody is in the bathroom."
+ },
+ {
+  "id": "tito_halloween_loc_espejo_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A warm cozy bathroom corner in the evening, vertical 9:16 composition, camera at child eye level: a round mirror above a small white sink, a cup with a small blue toothbrush and a tube of toothpaste, a little wooden step stool, soft warm lamp light, purple and orange tiles, a tiny pumpkin decoration on the shelf. Nobody is in the bathroom."
+ },
+ {
+  "id": "tito_halloween_song_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¿Dónde está Tito?\n[Verse]\n¡Calabaza al revés!\n¿Dulces? ¡Primero, los dientes!\nCepillo, cepillo, ¡qué brillo!\n[Chorus]\n¡Calabazas que brillan!\n¡Hola, fantasmita!\n¡Dulce, dulce, qué rico!\n[Outro]\n¡Feliz noche, Tito!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_halloween_song_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¿Dónde está Tito?\n[Verse]\n¡Calabaza al revés!\n¿Dulces? ¡Primero, los dientes!\nCepillo, cepillo, ¡qué brillo!\n[Chorus]\n¡Calabazas que brillan!\n¡Hola, fantasmita!\n¡Dulce, dulce, qué rico!\n[Outro]\n¡Feliz noche, Tito!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_halloween_song_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¿Dónde está Tito?\n[Verse]\n¡Calabaza al revés!\n¿Dulces? ¡Primero, los dientes!\nCepillo, cepillo, ¡qué brillo!\n[Chorus]\n¡Calabazas que brillan!\n¡Hola, fantasmita!\n¡Dulce, dulce, qué rico!\n[Outro]\n¡Feliz noche, Tito!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_halloween_song_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¿Dónde está Tito?\n[Verse]\n¡Calabaza al revés!\n¿Dulces? ¡Primero, los dientes!\nCepillo, cepillo, ¡qué brillo!\n[Chorus]\n¡Calabazas que brillan!\n¡Hola, fantasmita!\n¡Dulce, dulce, qué rico!\n[Outro]\n¡Feliz noche, Tito!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_halloween_song_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¿Dónde está Tito?\n[Verse]\n¡Calabaza al revés!\n¿Dulces? ¡Primero, los dientes!\nCepillo, cepillo, ¡qué brillo!\n[Chorus]\n¡Calabazas que brillan!\n¡Hola, fantasmita!\n¡Dulce, dulce, qué rico!\n[Outro]\n¡Feliz noche, Tito!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_halloween_song_s6",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¿Dónde está Tito?\n[Verse]\n¡Calabaza al revés!\n¿Dulces? ¡Primero, los dientes!\nCepillo, cepillo, ¡qué brillo!\n[Chorus]\n¡Calabazas que brillan!\n¡Hola, fantasmita!\n¡Dulce, dulce, qué rico!\n[Outro]\n¡Feliz noche, Tito!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 6,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_halloween_song_s7",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¿Dónde está Tito?\n[Verse]\n¡Calabaza al revés!\n¿Dulces? ¡Primero, los dientes!\nCepillo, cepillo, ¡qué brillo!\n[Chorus]\n¡Calabazas que brillan!\n¡Hola, fantasmita!\n¡Dulce, dulce, qué rico!\n[Outro]\n¡Feliz noche, Tito!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 7,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_halloween_song_s8",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¿Dónde está Tito?\n[Verse]\n¡Calabaza al revés!\n¿Dulces? ¡Primero, los dientes!\nCepillo, cepillo, ¡qué brillo!\n[Chorus]\n¡Calabazas que brillan!\n¡Hola, fantasmita!\n¡Dulce, dulce, qué rico!\n[Outro]\n¡Feliz noche, Tito!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 8,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_halloween_song_s9",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¿Dónde está Tito?\n[Verse]\n¡Calabaza al revés!\n¿Dulces? ¡Primero, los dientes!\nCepillo, cepillo, ¡qué brillo!\n[Chorus]\n¡Calabazas que brillan!\n¡Hola, fantasmita!\n¡Dulce, dulce, qué rico!\n[Outro]\n¡Feliz noche, Tito!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 9,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_halloween_song_s10",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¿Dónde está Tito?\n[Verse]\n¡Calabaza al revés!\n¿Dulces? ¡Primero, los dientes!\nCepillo, cepillo, ¡qué brillo!\n[Chorus]\n¡Calabazas que brillan!\n¡Hola, fantasmita!\n¡Dulce, dulce, qué rico!\n[Outro]\n¡Feliz noche, Tito!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 10,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_halloween_song_s11",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¿Dónde está Tito?\n[Verse]\n¡Calabaza al revés!\n¿Dulces? ¡Primero, los dientes!\nCepillo, cepillo, ¡qué brillo!\n[Chorus]\n¡Calabazas que brillan!\n¡Hola, fantasmita!\n¡Dulce, dulce, qué rico!\n[Outro]\n¡Feliz noche, Tito!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 11,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_halloween_song_s12",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¿Dónde está Tito?\n[Verse]\n¡Calabaza al revés!\n¿Dulces? ¡Primero, los dientes!\nCepillo, cepillo, ¡qué brillo!\n[Chorus]\n¡Calabazas que brillan!\n¡Hola, fantasmita!\n¡Dulce, dulce, qué rico!\n[Outro]\n¡Feliz noche, Tito!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 12,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_barro_loc_barro_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A countryside dirt road just after the rain, vertical 9:16 composition, camera low at toy level: a big round brown mud puddle in the middle of the road, wet green grass, a small wooden fence, little puddles reflecting the sky, soft rounded green hills, a pale rainbow in the bright sky. No vehicles on the road."
+ },
+ {
+  "id": "rojito_barro_loc_barro_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A countryside dirt road just after the rain, vertical 9:16 composition, camera low at toy level: a big round brown mud puddle in the middle of the road, wet green grass, a small wooden fence, little puddles reflecting the sky, soft rounded green hills, a pale rainbow in the bright sky. No vehicles on the road."
+ },
+ {
+  "id": "rojito_barro_loc_lavado_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cheerful toy car wash, vertical 9:16 composition, camera low at toy level: big spinning round brushes in rainbow colors, foamy white soap bubbles floating in the air, shiny water drops, light blue and white tiled walls, a sign with a big water drop symbol, bright sunny light. No vehicles in the car wash."
+ },
+ {
+  "id": "rojito_barro_loc_lavado_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cheerful toy car wash, vertical 9:16 composition, camera low at toy level: big spinning round brushes in rainbow colors, foamy white soap bubbles floating in the air, shiny water drops, light blue and white tiled walls, a sign with a big water drop symbol, bright sunny light. No vehicles in the car wash."
+ },
+ {
+  "id": "rojito_barro_song_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito en el barro!\n[Verse]\nGira, gira, ¡no se mueve!\n¡Tilín, tilín! ¿Quién me ayuda?\n¡Agua, agua, chuf, chuf, chuf!\n[Chorus]\n¡Fuera barro, a rodar!\nBurbujas de colores\n¡Rojito, qué brillante!\n[Outro]\n¡Uy! ¿Otra vez?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_barro_song_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito en el barro!\n[Verse]\nGira, gira, ¡no se mueve!\n¡Tilín, tilín! ¿Quién me ayuda?\n¡Agua, agua, chuf, chuf, chuf!\n[Chorus]\n¡Fuera barro, a rodar!\nBurbujas de colores\n¡Rojito, qué brillante!\n[Outro]\n¡Uy! ¿Otra vez?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_barro_song_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito en el barro!\n[Verse]\nGira, gira, ¡no se mueve!\n¡Tilín, tilín! ¿Quién me ayuda?\n¡Agua, agua, chuf, chuf, chuf!\n[Chorus]\n¡Fuera barro, a rodar!\nBurbujas de colores\n¡Rojito, qué brillante!\n[Outro]\n¡Uy! ¿Otra vez?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_barro_song_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito en el barro!\n[Verse]\nGira, gira, ¡no se mueve!\n¡Tilín, tilín! ¿Quién me ayuda?\n¡Agua, agua, chuf, chuf, chuf!\n[Chorus]\n¡Fuera barro, a rodar!\nBurbujas de colores\n¡Rojito, qué brillante!\n[Outro]\n¡Uy! ¿Otra vez?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_barro_song_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito en el barro!\n[Verse]\nGira, gira, ¡no se mueve!\n¡Tilín, tilín! ¿Quién me ayuda?\n¡Agua, agua, chuf, chuf, chuf!\n[Chorus]\n¡Fuera barro, a rodar!\nBurbujas de colores\n¡Rojito, qué brillante!\n[Outro]\n¡Uy! ¿Otra vez?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_barro_song_s6",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito en el barro!\n[Verse]\nGira, gira, ¡no se mueve!\n¡Tilín, tilín! ¿Quién me ayuda?\n¡Agua, agua, chuf, chuf, chuf!\n[Chorus]\n¡Fuera barro, a rodar!\nBurbujas de colores\n¡Rojito, qué brillante!\n[Outro]\n¡Uy! ¿Otra vez?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 6,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_barro_song_s7",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito en el barro!\n[Verse]\nGira, gira, ¡no se mueve!\n¡Tilín, tilín! ¿Quién me ayuda?\n¡Agua, agua, chuf, chuf, chuf!\n[Chorus]\n¡Fuera barro, a rodar!\nBurbujas de colores\n¡Rojito, qué brillante!\n[Outro]\n¡Uy! ¿Otra vez?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 7,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_barro_song_s8",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito en el barro!\n[Verse]\nGira, gira, ¡no se mueve!\n¡Tilín, tilín! ¿Quién me ayuda?\n¡Agua, agua, chuf, chuf, chuf!\n[Chorus]\n¡Fuera barro, a rodar!\nBurbujas de colores\n¡Rojito, qué brillante!\n[Outro]\n¡Uy! ¿Otra vez?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 8,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_barro_song_s9",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito en el barro!\n[Verse]\nGira, gira, ¡no se mueve!\n¡Tilín, tilín! ¿Quién me ayuda?\n¡Agua, agua, chuf, chuf, chuf!\n[Chorus]\n¡Fuera barro, a rodar!\nBurbujas de colores\n¡Rojito, qué brillante!\n[Outro]\n¡Uy! ¿Otra vez?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 9,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_barro_song_s10",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito en el barro!\n[Verse]\nGira, gira, ¡no se mueve!\n¡Tilín, tilín! ¿Quién me ayuda?\n¡Agua, agua, chuf, chuf, chuf!\n[Chorus]\n¡Fuera barro, a rodar!\nBurbujas de colores\n¡Rojito, qué brillante!\n[Outro]\n¡Uy! ¿Otra vez?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 10,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_barro_song_s11",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito en el barro!\n[Verse]\nGira, gira, ¡no se mueve!\n¡Tilín, tilín! ¿Quién me ayuda?\n¡Agua, agua, chuf, chuf, chuf!\n[Chorus]\n¡Fuera barro, a rodar!\nBurbujas de colores\n¡Rojito, qué brillante!\n[Outro]\n¡Uy! ¿Otra vez?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 11,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_barro_song_s12",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito en el barro!\n[Verse]\nGira, gira, ¡no se mueve!\n¡Tilín, tilín! ¿Quién me ayuda?\n¡Agua, agua, chuf, chuf, chuf!\n[Chorus]\n¡Fuera barro, a rodar!\nBurbujas de colores\n¡Rojito, qué brillante!\n[Outro]\n¡Uy! ¿Otra vez?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 12,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_colores_loc_pintura_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cheerful toy paint playground, vertical 9:16 composition, camera low at toy level: a smooth white play road with four big round shallow pools of thick paint in a row, bright blue, sunny yellow, grass green and cherry red, colorful paint splashes on the road edges, soft rounded green hills and a blue sky with white clouds. No vehicles on the road."
+ },
+ {
+  "id": "rojito_colores_loc_pintura_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cheerful toy paint playground, vertical 9:16 composition, camera low at toy level: a smooth white play road with four big round shallow pools of thick paint in a row, bright blue, sunny yellow, grass green and cherry red, colorful paint splashes on the road edges, soft rounded green hills and a blue sky with white clouds. No vehicles on the road."
+ },
+ {
+  "id": "rojito_colores_loc_arcoiris_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny meadow with a road, vertical 9:16 composition, camera low at toy level: a smooth sandy road curving through soft green grass with little flowers, a big bright rainbow arching across the blue sky, fluffy white clouds. No vehicles on the road."
+ },
+ {
+  "id": "rojito_colores_loc_arcoiris_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny meadow with a road, vertical 9:16 composition, camera low at toy level: a smooth sandy road curving through soft green grass with little flowers, a big bright rainbow arching across the blue sky, fluffy white clouds. No vehicles on the road."
+ },
+ {
+  "id": "rojito_colores_song_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito azul!\n[Verse]\n¡Azul, azul! ¿Quién es?\n¡Splash! ¡Amarillo!\n¡Splash! ¡Verde, verde!\n[Chorus]\n¡No, no! ¿Dónde está Rojito?\n¡Rojo, rojo! ¡Aquí está!\n¡Arcoíris, a rodar!\n[Outro]\n¡Uy! ¿Morado?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_colores_song_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito azul!\n[Verse]\n¡Azul, azul! ¿Quién es?\n¡Splash! ¡Amarillo!\n¡Splash! ¡Verde, verde!\n[Chorus]\n¡No, no! ¿Dónde está Rojito?\n¡Rojo, rojo! ¡Aquí está!\n¡Arcoíris, a rodar!\n[Outro]\n¡Uy! ¿Morado?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_colores_song_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito azul!\n[Verse]\n¡Azul, azul! ¿Quién es?\n¡Splash! ¡Amarillo!\n¡Splash! ¡Verde, verde!\n[Chorus]\n¡No, no! ¿Dónde está Rojito?\n¡Rojo, rojo! ¡Aquí está!\n¡Arcoíris, a rodar!\n[Outro]\n¡Uy! ¿Morado?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_colores_song_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito azul!\n[Verse]\n¡Azul, azul! ¿Quién es?\n¡Splash! ¡Amarillo!\n¡Splash! ¡Verde, verde!\n[Chorus]\n¡No, no! ¿Dónde está Rojito?\n¡Rojo, rojo! ¡Aquí está!\n¡Arcoíris, a rodar!\n[Outro]\n¡Uy! ¿Morado?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_colores_song_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito azul!\n[Verse]\n¡Azul, azul! ¿Quién es?\n¡Splash! ¡Amarillo!\n¡Splash! ¡Verde, verde!\n[Chorus]\n¡No, no! ¿Dónde está Rojito?\n¡Rojo, rojo! ¡Aquí está!\n¡Arcoíris, a rodar!\n[Outro]\n¡Uy! ¿Morado?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_colores_song_s6",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito azul!\n[Verse]\n¡Azul, azul! ¿Quién es?\n¡Splash! ¡Amarillo!\n¡Splash! ¡Verde, verde!\n[Chorus]\n¡No, no! ¿Dónde está Rojito?\n¡Rojo, rojo! ¡Aquí está!\n¡Arcoíris, a rodar!\n[Outro]\n¡Uy! ¿Morado?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 6,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_colores_song_s7",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito azul!\n[Verse]\n¡Azul, azul! ¿Quién es?\n¡Splash! ¡Amarillo!\n¡Splash! ¡Verde, verde!\n[Chorus]\n¡No, no! ¿Dónde está Rojito?\n¡Rojo, rojo! ¡Aquí está!\n¡Arcoíris, a rodar!\n[Outro]\n¡Uy! ¿Morado?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 7,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_colores_song_s8",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito azul!\n[Verse]\n¡Azul, azul! ¿Quién es?\n¡Splash! ¡Amarillo!\n¡Splash! ¡Verde, verde!\n[Chorus]\n¡No, no! ¿Dónde está Rojito?\n¡Rojo, rojo! ¡Aquí está!\n¡Arcoíris, a rodar!\n[Outro]\n¡Uy! ¿Morado?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 8,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_colores_song_s9",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito azul!\n[Verse]\n¡Azul, azul! ¿Quién es?\n¡Splash! ¡Amarillo!\n¡Splash! ¡Verde, verde!\n[Chorus]\n¡No, no! ¿Dónde está Rojito?\n¡Rojo, rojo! ¡Aquí está!\n¡Arcoíris, a rodar!\n[Outro]\n¡Uy! ¿Morado?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 9,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_colores_song_s10",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito azul!\n[Verse]\n¡Azul, azul! ¿Quién es?\n¡Splash! ¡Amarillo!\n¡Splash! ¡Verde, verde!\n[Chorus]\n¡No, no! ¿Dónde está Rojito?\n¡Rojo, rojo! ¡Aquí está!\n¡Arcoíris, a rodar!\n[Outro]\n¡Uy! ¿Morado?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 10,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_colores_song_s11",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito azul!\n[Verse]\n¡Azul, azul! ¿Quién es?\n¡Splash! ¡Amarillo!\n¡Splash! ¡Verde, verde!\n[Chorus]\n¡No, no! ¿Dónde está Rojito?\n¡Rojo, rojo! ¡Aquí está!\n¡Arcoíris, a rodar!\n[Outro]\n¡Uy! ¿Morado?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 11,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_colores_song_s12",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito azul!\n[Verse]\n¡Azul, azul! ¿Quién es?\n¡Splash! ¡Amarillo!\n¡Splash! ¡Verde, verde!\n[Chorus]\n¡No, no! ¿Dónde está Rojito?\n¡Rojo, rojo! ¡Aquí está!\n¡Arcoíris, a rodar!\n[Outro]\n¡Uy! ¿Morado?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 12,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ }
+]

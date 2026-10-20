@@ -1,0 +1,114 @@
+{
+ "id": "rojito_colores",
+ "title": "¡Rojito cambia de color! 🚒🌈 | Aprende los Colores #Shorts",
+ "hook": "paint_splash_turns_blue",
+ "world": "toy paint playground: a play road with big pools of blue, yellow, green and red paint + a meadow with a big rainbow",
+ "story": [
+  "Rojito drives into a blue paint pool, SPLASH, he turns blue! (surprise problem)",
+  "Blue Rojito? He blinks at himself (reaction)",
+  "Yellow paint pool: now he is yellow! (repeat 1)",
+  "Green paint pool: now he is green! (repeat 2)",
+  "Kids call: that's not Rojito! (conflict)",
+  "Red paint pool: he is red again! (fix)",
+  "He drives under a big rainbow, happy (reward)",
+  "A purple drop falls on his roof, uy! (loop gag)"
+ ],
+ "lyrics": "[Intro]\n¡Splash! ¡Rojito azul!\n[Verse]\n¡Azul, azul! ¿Quién es?\n¡Splash! ¡Amarillo!\n¡Splash! ¡Verde, verde!\n[Chorus]\n¡No, no! ¿Dónde está Rojito?\n¡Rojo, rojo! ¡Aquí está!\n¡Arcoíris, a rodar!\n[Outro]\n¡Uy! ¿Morado?",
+ "locations": {
+  "pintura": "A cheerful toy paint playground, vertical 9:16 composition, camera low at toy level: a smooth white play road with four big round shallow pools of thick paint in a row, bright blue, sunny yellow, grass green and cherry red, colorful paint splashes on the road edges, soft rounded green hills and a blue sky with white clouds. No vehicles on the road.",
+  "arcoiris": "A sunny meadow with a road, vertical 9:16 composition, camera low at toy level: a smooth sandy road curving through soft green grass with little flowers, a big bright rainbow arching across the blue sky, fluffy white clouds. No vehicles on the road."
+ },
+ "shots": [
+  [
+   "C1",
+   "Extreme close-up at toy level: the little red fire truck character splashing into a big pool of bright blue paint, blue paint flying up, his body now bright blue, surprised wide eyes.",
+   "Blue paint splashes up around him and he blinks in surprise.",
+   "pintura",
+   [
+    "hero"
+   ],
+   3
+  ],
+  [
+   "C2",
+   "Close-up: the little fire truck character painted completely bright blue, looking down at himself with a puzzled funny face, blue drips falling.",
+   "He looks down at his blue body and blinks, blue drops drip down.",
+   "pintura",
+   [
+    "hero"
+   ],
+   3
+  ],
+  [
+   "C3",
+   "Medium shot on the paint playground: the little fire truck character painted completely sunny yellow, driving out of the yellow paint pool, yellow splashes around, laughing.",
+   "He rolls out of the yellow pool, yellow paint splashes, he laughs.",
+   "pintura",
+   [
+    "hero"
+   ],
+   3
+  ],
+  [
+   "C4",
+   "Medium shot on the paint playground: the little fire truck character painted completely grass green, splashing out of the green paint pool, giggling.",
+   "Green paint splashes around him and he giggles.",
+   "pintura",
+   [
+    "hero"
+   ],
+   3
+  ],
+  [
+   "C5",
+   "Close-up: the little fire truck character painted green looks worried and a little sad, a tiny question mark sparkle above his ladder.",
+   "He looks around worried and blinks.",
+   "pintura",
+   [
+    "hero"
+   ],
+   3
+  ],
+  [
+   "C6",
+   "Medium shot: the little fire truck character splashes out of the red paint pool shiny cherry red again, a big happy smile, sparkles around him.",
+   "Red paint splashes and he smiles big, sparkles twinkle.",
+   "pintura",
+   [
+    "hero"
+   ],
+   3
+  ],
+  [
+   "C7",
+   "Wide shot of the sunny meadow: the shiny red little fire truck character drives along the curving road under a big bright rainbow, happy.",
+   "He drives happily along the road under the rainbow.",
+   "arcoiris",
+   [
+    "hero"
+   ],
+   2
+  ],
+  [
+   "C8",
+   "Close-up: the shiny red little fire truck character looks up as one big purple paint drop falls onto his roof with a little splat, making a funny surprised face.",
+   "A purple drop falls and splats on his roof, he makes a funny surprised face.",
+   "arcoiris",
+   [
+    "hero"
+   ],
+   2
+  ]
+ ],
+ "series": "rojito",
+ "hero": {
+  "design": false,
+  "master": "rojito_master.jpg",
+  "who": "The little red fire truck character",
+  "one": "Only one vehicle character in the picture."
+ },
+ "bpm": 120,
+ "song_takes": 12,
+ "style": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. ",
+ "lock": "ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door."
+}

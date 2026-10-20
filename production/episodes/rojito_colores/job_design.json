@@ -1,0 +1,214 @@
+[
+ {
+  "id": "rojito_colores_loc_pintura_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cheerful toy paint playground, vertical 9:16 composition, camera low at toy level: a smooth white play road with four big round shallow pools of thick paint in a row, bright blue, sunny yellow, grass green and cherry red, colorful paint splashes on the road edges, soft rounded green hills and a blue sky with white clouds. No vehicles on the road."
+ },
+ {
+  "id": "rojito_colores_loc_pintura_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cheerful toy paint playground, vertical 9:16 composition, camera low at toy level: a smooth white play road with four big round shallow pools of thick paint in a row, bright blue, sunny yellow, grass green and cherry red, colorful paint splashes on the road edges, soft rounded green hills and a blue sky with white clouds. No vehicles on the road."
+ },
+ {
+  "id": "rojito_colores_loc_arcoiris_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny meadow with a road, vertical 9:16 composition, camera low at toy level: a smooth sandy road curving through soft green grass with little flowers, a big bright rainbow arching across the blue sky, fluffy white clouds. No vehicles on the road."
+ },
+ {
+  "id": "rojito_colores_loc_arcoiris_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny meadow with a road, vertical 9:16 composition, camera low at toy level: a smooth sandy road curving through soft green grass with little flowers, a big bright rainbow arching across the blue sky, fluffy white clouds. No vehicles on the road."
+ },
+ {
+  "id": "rojito_colores_song_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito azul!\n[Verse]\n¡Azul, azul! ¿Quién es?\n¡Splash! ¡Amarillo!\n¡Splash! ¡Verde, verde!\n[Chorus]\n¡No, no! ¿Dónde está Rojito?\n¡Rojo, rojo! ¡Aquí está!\n¡Arcoíris, a rodar!\n[Outro]\n¡Uy! ¿Morado?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_colores_song_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito azul!\n[Verse]\n¡Azul, azul! ¿Quién es?\n¡Splash! ¡Amarillo!\n¡Splash! ¡Verde, verde!\n[Chorus]\n¡No, no! ¿Dónde está Rojito?\n¡Rojo, rojo! ¡Aquí está!\n¡Arcoíris, a rodar!\n[Outro]\n¡Uy! ¿Morado?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_colores_song_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito azul!\n[Verse]\n¡Azul, azul! ¿Quién es?\n¡Splash! ¡Amarillo!\n¡Splash! ¡Verde, verde!\n[Chorus]\n¡No, no! ¿Dónde está Rojito?\n¡Rojo, rojo! ¡Aquí está!\n¡Arcoíris, a rodar!\n[Outro]\n¡Uy! ¿Morado?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_colores_song_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito azul!\n[Verse]\n¡Azul, azul! ¿Quién es?\n¡Splash! ¡Amarillo!\n¡Splash! ¡Verde, verde!\n[Chorus]\n¡No, no! ¿Dónde está Rojito?\n¡Rojo, rojo! ¡Aquí está!\n¡Arcoíris, a rodar!\n[Outro]\n¡Uy! ¿Morado?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_colores_song_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito azul!\n[Verse]\n¡Azul, azul! ¿Quién es?\n¡Splash! ¡Amarillo!\n¡Splash! ¡Verde, verde!\n[Chorus]\n¡No, no! ¿Dónde está Rojito?\n¡Rojo, rojo! ¡Aquí está!\n¡Arcoíris, a rodar!\n[Outro]\n¡Uy! ¿Morado?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_colores_song_s6",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito azul!\n[Verse]\n¡Azul, azul! ¿Quién es?\n¡Splash! ¡Amarillo!\n¡Splash! ¡Verde, verde!\n[Chorus]\n¡No, no! ¿Dónde está Rojito?\n¡Rojo, rojo! ¡Aquí está!\n¡Arcoíris, a rodar!\n[Outro]\n¡Uy! ¿Morado?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 6,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_colores_song_s7",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito azul!\n[Verse]\n¡Azul, azul! ¿Quién es?\n¡Splash! ¡Amarillo!\n¡Splash! ¡Verde, verde!\n[Chorus]\n¡No, no! ¿Dónde está Rojito?\n¡Rojo, rojo! ¡Aquí está!\n¡Arcoíris, a rodar!\n[Outro]\n¡Uy! ¿Morado?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 7,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_colores_song_s8",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito azul!\n[Verse]\n¡Azul, azul! ¿Quién es?\n¡Splash! ¡Amarillo!\n¡Splash! ¡Verde, verde!\n[Chorus]\n¡No, no! ¿Dónde está Rojito?\n¡Rojo, rojo! ¡Aquí está!\n¡Arcoíris, a rodar!\n[Outro]\n¡Uy! ¿Morado?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 8,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_colores_song_s9",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito azul!\n[Verse]\n¡Azul, azul! ¿Quién es?\n¡Splash! ¡Amarillo!\n¡Splash! ¡Verde, verde!\n[Chorus]\n¡No, no! ¿Dónde está Rojito?\n¡Rojo, rojo! ¡Aquí está!\n¡Arcoíris, a rodar!\n[Outro]\n¡Uy! ¿Morado?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 9,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_colores_song_s10",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito azul!\n[Verse]\n¡Azul, azul! ¿Quién es?\n¡Splash! ¡Amarillo!\n¡Splash! ¡Verde, verde!\n[Chorus]\n¡No, no! ¿Dónde está Rojito?\n¡Rojo, rojo! ¡Aquí está!\n¡Arcoíris, a rodar!\n[Outro]\n¡Uy! ¿Morado?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 10,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_colores_song_s11",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito azul!\n[Verse]\n¡Azul, azul! ¿Quién es?\n¡Splash! ¡Amarillo!\n¡Splash! ¡Verde, verde!\n[Chorus]\n¡No, no! ¿Dónde está Rojito?\n¡Rojo, rojo! ¡Aquí está!\n¡Arcoíris, a rodar!\n[Outro]\n¡Uy! ¿Morado?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 11,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_colores_song_s12",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Splash! ¡Rojito azul!\n[Verse]\n¡Azul, azul! ¿Quién es?\n¡Splash! ¡Amarillo!\n¡Splash! ¡Verde, verde!\n[Chorus]\n¡No, no! ¿Dónde está Rojito?\n¡Rojo, rojo! ¡Aquí está!\n¡Arcoíris, a rodar!\n[Outro]\n¡Uy! ¿Morado?",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 12,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ }
+]
