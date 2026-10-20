@@ -16,4 +16,5 @@
 | 8. הפקה | `production/runpod/rp.py run ... --specs <spec.json>` | `rp.py` **מסרב** בלי `--specs` או אם השער נכשל |
 | 9. QC | `qc_clips.py` + `frame_sheet.py` + בדיקה ויזואלית → `production/qc/<id>.md` עם PASS | **חוסם העלאה** בלי חתימה |
 | 10. העלאה | `production/youtube/yt.py upload` | **מסרב** בלי תיק + חתימת QC + Made for Kids + CC |
+| 0. ישיבת אסטרטגיה (כל 4 שעות, אוטומטי) | `production/STRATEGY.md` — סדר יום קבוע: מצב, שוק, סיעור מוחות, לקחים, מהלכים, דיווח | scheduled task |
 | 11. רישום ומעקב | `production/registry.json` + analytics כל 6 שעות + בדיקה 3 שעות אחרי כל העלאה | |
