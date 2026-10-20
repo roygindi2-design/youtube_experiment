@@ -1,0 +1,100 @@
+{
+ "out": "production/episodes/rojito_barro/build/rojito_barro.mp4",
+ "fps": 30,
+ "size": [
+  1080,
+  1920
+ ],
+ "burn_captions": false,
+ "song": {
+  "file": "production/episodes/rojito_barro/assets/song.wav",
+  "start": 0.0,
+  "gain_db": 0
+ },
+ "shots": [
+  {
+   "file": "production/episodes/rojito_barro/shots_v2/rojito_barro_clip2_B1_s31.mp4",
+   "in": 0.4,
+   "dur": 1.5,
+   "speed": 1.0,
+   "src_len": 1.5,
+   "shot": "B1@31"
+  },
+  {
+   "file": "production/episodes/rojito_barro/shots_v2/rojito_barro_clip2_B3_s31.mp4",
+   "in": 0.06,
+   "dur": 2.4,
+   "speed": 1.0,
+   "src_len": 2.4,
+   "shot": "B3@31"
+  },
+  {
+   "file": "production/episodes/rojito_barro/shots_v2/rojito_barro_clip2_B2_s19.mp4",
+   "in": 0.06,
+   "dur": 2.2,
+   "speed": 1.0,
+   "src_len": 2.2,
+   "shot": "B2@19"
+  },
+  {
+   "file": "production/episodes/rojito_barro/shots_v2/rojito_barro_clip2_B2_s19.mp4",
+   "in": 0.06,
+   "dur": 2.2,
+   "speed": 1.0,
+   "src_len": 2.2,
+   "shot": "B2@19",
+   "reverse": true
+  },
+  {
+   "file": "production/episodes/rojito_barro/shots_v2/rojito_barro_clip2_B3_s19.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "B3@19"
+  },
+  {
+   "file": "production/episodes/rojito_barro/shots_v2/rojito_barro_clip2_B4_s19.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "B4@19"
+  },
+  {
+   "file": "production/episodes/rojito_barro/shots_v2/rojito_barro_clip2_B4_s19.mp4",
+   "in": 2.7,
+   "dur": 1.2,
+   "speed": 1.0,
+   "src_len": 1.2,
+   "shot": "B4@19",
+   "reverse": true
+  },
+  {
+   "file": "production/episodes/rojito_barro/shots_v2/rojito_barro_clip2_B5_s31.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "B5@31"
+  },
+  {
+   "file": "production/episodes/rojito_barro/shots_v2/rojito_barro_clip2_B6_s7.mp4",
+   "in": 0.06,
+   "dur": 2.5,
+   "speed": 1.0,
+   "src_len": 2.5,
+   "shot": "B6@7"
+  },
+  {
+   "file": "production/episodes/rojito_barro/shots_v2/rojito_barro_clip2_B7_s19.mp4",
+   "in": 0.06,
+   "dur": 2.0,
+   "speed": 1.0,
+   "src_len": 2.0,
+   "shot": "B7@19"
+  }
+ ],
+ "sfx": [],
+ "lines": []
+}

@@ -65,5 +65,18 @@
   "uploaded_utc": "18:50",
   "status": "unlisted 20.10 (Roy: weak, nothing happens; redo in director mode)",
   "opening": "closeup_zoom_old"
+ },
+ {
+  "id": "rojito_colores",
+  "youtube_id": "0WpO8lYXsEU",
+  "date": "2026-10-21",
+  "world": "toy paint playground: a play road with big pools of blue, yellow, green and red paint + a meadow with a big rainbow",
+  "series": [
+   "rojito"
+  ],
+  "uploaded_utc": "22:40",
+  "opening": "cold_open_splash_question",
+  "pattern": "guess_interactive",
+  "experiment": "interactive guess-the-color structure (TikiTykes 20.1M x1171) — first guessing video on the channel"
  }
 ]
