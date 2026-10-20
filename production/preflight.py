@@ -135,8 +135,7 @@ def upload(meta_file):
         ok(f"{vid}: QC sign-off PASS")
     if not m.get("madeForKids", False):
         fail("madeForKids must be true")
-    if not m.get("captions"):
-        fail("captions (.es.srt) missing")
+    # 2026-10-20 Roy: no captions needed at all (no burned text, no CC track)
     series = json.loads((ROOT / "production/youtube/series.json").read_text()) if (ROOT / "production/youtube/series.json").exists() else {}
     if not m.get("series") or any(k not in series for k in m["series"]):
         fail(f"meta 'series' must list at least one series key from production/youtube/series.json ({', '.join(series)})")

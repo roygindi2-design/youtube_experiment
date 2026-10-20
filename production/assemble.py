@@ -81,6 +81,11 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
     Path(path).write_text(head + "\n".join(rows) + "\n", encoding="utf-8")
 
 
+def Image_height(png):
+    from PIL import Image
+    return Image.open(png).height
+
+
 def srt_time(t):
     t = max(0.0, t)
     ms = int(round(t * 1000))
@@ -166,24 +171,33 @@ def main():
     ass = tmp / "captions.ass"
     write_srt(e, out.with_suffix(".es.srt"))  # always: separate closed-caption file for YouTube (CC)
     vf = ["-vf", "null"]
-    tc = e.get("title_card")  # experiment (Roy approved 2026-10-20 for ONE video): big title over the opening, like top AI kids channels
+    tc = e.get("title_card")  # designed title card (production/title_card.py) that pops in over the opening; Roy-approved test
+    tc_png = None
     if tc:
-        font = str(Path(e.get("font_file", "production/fonts/Fredoka.ttf")).resolve())
-        size, gap = tc.get("size", 132), tc.get("line_gap", 1.12)
-        parts = []
-        for i, line in enumerate(tc["text"].split("\n")):
-            lf = tmp / f"title_{i}.txt"
-            lf.write_text(line, encoding="utf-8")
-            parts.append(f"drawtext=fontfile='{font}':textfile='{lf}':fontsize={size}:fontcolor={tc.get('color', '0xFFD23F')}:"
-                         f"borderw={tc.get('border', 12)}:bordercolor={tc.get('border_color', '0x2B1B5A')}:shadowx=0:shadowy=8:shadowcolor=black@0.35:"
-                         f"x=(w-text_w)/2:y=h*{tc.get('y', 0.08)}+{int(i * size * gap)}:enable='between(t,0,{tc.get('dur', 1.2)})'")
-        vf = ["-vf", ",".join(parts)]
+        sys.path.insert(0, str(Path(__file__).resolve().parent))
+        import title_card
+        tc_png = tmp / "title_card.png"
+        title_card.render(tc["text"], tc_png, width=e.get("size", [1080, 1920])[0], accent=tc.get("accent"))
     if e.get("burn_captions", True):  # toddler Shorts: burn_captions=false keeps the picture clean
         build_ass(e, ass)
         fontsdir = str(Path(e.get("font_file", "production/fonts/x")).resolve().parent)
         vf = ["-vf", f"subtitles={ass}:fontsdir={fontsdir}"]
-    run(["ffmpeg", "-y", "-v", "error", "-i", str(video), "-i", str(audio),
-         *vf, "-map", "0:v", "-map", "1:a",
+    if tc_png:  # pop-in: 0.3x -> 1.15x (0.18 s) -> 1.0x, hold, pop-out over 0.15 s
+        D, Y = tc.get("dur", 1.6), tc.get("y", 0.05)
+        sc = (f"if(lt(t,0.18),0.3+0.85*t/0.18,if(lt(t,0.32),1.15-0.15*(t-0.18)/0.14,"
+              f"if(lt(t,{D}),1,max(0.02,1-(t-{D})/0.15))))")
+        base = vf[1] if vf[1] != "null" else "null"
+        fc = (f"[0:v]{base}[bg];[2:v]format=rgba,scale=w='trunc(iw*({sc})/2)*2':h=-2:eval=frame[tc];"
+              f"[bg][tc]overlay=x=(W-w)/2:y=H*{Y}+(overlay_h_max-h)/2:enable='lt(t,{D}+0.15)':eval=frame[v]")
+        fc = fc.replace("overlay_h_max", str(Image_height(tc_png)))
+        vf = ["-filter_complex", fc]
+        maps = ["-map", "[v]", "-map", "1:a"]
+        extra_in = ["-loop", "1", "-t", str(tc.get("dur", 1.6) + 0.3), "-i", str(tc_png)]
+    else:
+        maps = ["-map", "0:v", "-map", "1:a"]
+        extra_in = []
+    run(["ffmpeg", "-y", "-v", "error", "-i", str(video), "-i", str(audio), *extra_in,
+         *vf, *maps,
          "-c:v", "libx264", "-preset", "slow", "-crf", "17", "-pix_fmt", "yuv420p", "-r", str(fps),
          "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart", "-t", str(total), str(out)])
     print("done", out, round(total, 2), "s")
