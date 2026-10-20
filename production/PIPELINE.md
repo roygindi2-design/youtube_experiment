@@ -1,0 +1,19 @@
+# צינור ההפקה — מה קורה לפני כל סרטון (נאכף בקוד)
+
+```
+מחקר → תיק → תסריט → שער (preflight produce) → הפקה ב-RunPod → QC → חתימת QC → שער (preflight upload) → העלאה → registry → מעקב
+```
+
+| שלב | כלי | נאכף? |
+|---|---|---|
+| 1. סריקת שוק לפי פורמט (14 יום) | `research/market_scan.py` | אוטומטי כל 6 שעות + השער מריץ אם ישן מ-3 ימים |
+| 2. סריקת outliers ביחס לערוץ (60 יום) | `research/outlier_scan.py` | השער מריץ אם ישן מ-3 ימים |
+| 3. בדיקה ויזואלית של המנצחים (4 פריימים לסרטון) | `research/watch_frames.py` → `research/market/frames_<date>/` | השער מריץ אם חסר. Claude חייב להסתכל עליה לפני כתיבת התסריט |
+| 4. תיק עם 3 סיבות שמצטטות מספרים | `production/dossiers/<id>.md` | **חוסם** אם אין 3 סיבות עם מספר מהמחקר |
+| 5. עולם חדש | `spec.world` מול `production/registry.json` | **חוסם** אם העולם הופיע ב-4 הסרטונים האחרונים |
+| 6. תסריט לפני שיר | `spec.story` (4–8 ביטים) + מילים | **חוסם** אם אין עלילה או שהמילים לא מכסות את הביטים |
+| 7. שוטים מגוונים | `spec.shots` | **חוסם** אם יש פחות מ-2 תקריבים, שוט רחב אחד ו-2 סוגי מסגור |
+| 8. הפקה | `production/runpod/rp.py run ... --specs <spec.json>` | `rp.py` **מסרב** בלי `--specs` או אם השער נכשל |
+| 9. QC | `qc_clips.py` + `frame_sheet.py` + בדיקה ויזואלית → `production/qc/<id>.md` עם PASS | **חוסם העלאה** בלי חתימה |
+| 10. העלאה | `production/youtube/yt.py upload` | **מסרב** בלי תיק + חתימת QC + Made for Kids + CC |
+| 11. רישום ומעקב | `production/registry.json` + analytics כל 6 שעות + בדיקה 3 שעות אחרי כל העלאה | |

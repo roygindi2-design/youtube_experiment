@@ -152,7 +152,7 @@ def tasks_for(s):
 def main():
     d = ROOT / "production/sprint"
     for s in SHORTS:
-        spec = {"id": s["id"], "hook": s["hook"], "style": STYLE, "lock": LOCK, "title": s["title"], "room": s["room"],
+        spec = {"id": s["id"], "hook": s["hook"], "world": s.get("world"), "story": s.get("story", []), "style": STYLE, "lock": LOCK, "title": s["title"], "room": s["room"],
                 "lyrics": s["lyrics"], "shots": [list(x) for x in s["shots"]]}
         (d / f"{s['id']}.json").write_text(json.dumps(spec, ensure_ascii=False, indent=1))
     a = tasks_for(SHORTS[0]) + tasks_for(SHORTS[1])

@@ -16,6 +16,7 @@ import base64
 import json
 import os
 import secrets
+import subprocess
 import sys
 import time
 from pathlib import Path
@@ -143,6 +144,13 @@ def upload(name, local, remote):
 
 
 def run(name, tasks_file, *inputs):
+    # research gate: every video in the job must pass production/preflight.py (dossier, fresh market data, world, story, shots)
+    if "--specs" not in inputs:
+        sys.exit("refused: pass --specs <spec.json ...> so production/preflight.py can check the research first")
+    i = inputs.index("--specs")
+    specs, inputs = list(inputs[i + 1:]), list(inputs[:i])
+    if subprocess.run([sys.executable, str(HERE.parent / "preflight.py"), "produce", *specs]).returncode != 0:
+        sys.exit("refused by preflight: finish the research/dossier first")
     tasks = json.loads(Path(tasks_file).read_text())
     body = (HERE.parent / "kaggle" / "runner_template.py").read_text().replace("__TASKS_JSON__", json.dumps(tasks, ensure_ascii=False))
     tmp = STATE / f"runner_{name}.py"

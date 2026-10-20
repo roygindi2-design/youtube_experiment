@@ -144,6 +144,10 @@ def captions_cmd(video_id, srt_file, lang="es"):
 
 
 def upload(meta_file):
+    import subprocess
+    gate = Path(__file__).resolve().parents[1] / "preflight.py"
+    if subprocess.run([sys.executable, str(gate), "upload", meta_file]).returncode != 0:
+        sys.exit("refused by preflight: dossier + QC sign-off required before publishing")
     m = json.loads(Path(meta_file).read_text())
     yt = build("youtube", "v3", credentials=creds())
     body = {
