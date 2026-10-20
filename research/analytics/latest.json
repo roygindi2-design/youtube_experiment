@@ -1,5 +1,5 @@
 {
- "taken": "2026-10-20 17:24 UTC",
+ "taken": "2026-10-20 18:35 UTC",
  "channel": {
   "title": "CantilandiaTV",
   "id": "UCDwph5nbCbbl97Pu4gTyZUA",
@@ -17,7 +17,7 @@
    "views": 3,
    "likes": 0,
    "comments": 0,
-   "analytics_error": "500: b'{\\n  \"error\": {\\n    \"code\": 500,\\n    \"message\": \"Internal error encountered.\",\\n    \"errors\": [\\n      {\\n        \"message\": \"Internal error encountered.\",\\"
+   "retention_curve": []
   },
   {
    "id": "DxxmhZrbspY",
@@ -25,8 +25,8 @@
    "published": "2026-10-20",
    "privacy": "public",
    "duration_s": 29,
-   "views": 8,
-   "likes": 0,
+   "views": 10,
+   "likes": 1,
    "comments": 0,
    "retention_curve": []
   },
