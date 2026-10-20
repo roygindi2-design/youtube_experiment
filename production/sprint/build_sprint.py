@@ -23,14 +23,15 @@ SHORTS = [
     {  # hook: GIANT surprise object at second 0 (pattern of the current #1 breakout format)
         "id": "tito_s4_helado", "hook": "giant_object", "bpm": 120, "food": True, "room_seed": 8,
         "title": "¡Un helado GIGANTE de colores! 🍦🐘 | Aprende los colores con Tito #Shorts",
-        "room": "Bright sunny kids playroom, vertical 9:16 composition, camera at child eye level, light wooden floor, round "
-                "pastel-pink rug, big window with soft daylight. In the center of the room stands a GIANT ice cream cone, "
-                "taller than a child, with three huge scoops stacked: a red strawberry scoop at the bottom, a yellow banana "
-                "scoop in the middle and a brown chocolate scoop on top. The scoops are plain ice cream with no faces and no eyes. No characters, no animals, no faces, no people.",
+        "room": "A sunny tropical beach, vertical 9:16 composition, camera at child eye level: soft golden sand, gentle turquoise "
+                "sea and small waves in the background, two palm trees, a striped beach umbrella, clear blue sky with fluffy clouds. "
+                "On the sand stands a GIANT ice cream cone, taller than a child, with three huge scoops stacked: a red strawberry "
+                "scoop at the bottom, a yellow banana scoop in the middle and a brown chocolate scoop on top. The scoops are plain "
+                "ice cream with no faces and no eyes. No characters, no animals, no faces, no people.",
         "lyrics": "[Intro]\n¡Uy! ¡Un helado gigante!\n[Verse]\nBola roja, ¡fresa!\nBola amarilla, ¡plátano!\nBola café, ¡chocolate!\n"
                   "[Chorus]\nHelado de colores, ¡mmm, qué rico!\n[Outro]\n¡Uno, dos, tres! ¡Mmm!",
         "shots": [
-            ("H1", "Low angle medium shot: the baby elephant stands next to the giant ice cream cone that towers over him, he looks up at it with a huge surprised open-mouth smile, ears raised.",
+            ("H1", "Low angle medium shot: the baby elephant stands next to the giant ice cream cone on the beach that towers over him, he looks up at it with a huge surprised open-mouth smile, ears raised.",
              "The baby elephant looks up at the giant ice cream, his ears lift in surprise and his eyes sparkle. Static camera."),
             ("H2", "Medium close-up: the baby elephant points his trunk at the huge red strawberry scoop of the giant ice cream, happy face.",
              "The baby elephant points at the red scoop with his trunk and nods happily. Static camera."),
@@ -38,9 +39,9 @@ SHORTS = [
              "The baby elephant looks at the yellow scoop and smiles, his ears flap gently. Static camera."),
             ("H4", "Medium shot: the baby elephant stands beside the giant three-scoop ice cream cone, which is taller than him, and stretches his trunk up toward the brown chocolate scoop on the very top, eyes wide.",
              "The baby elephant stretches his trunk up toward the brown scoop and giggles. Static camera."),
-            ("H5", "Medium shot: the baby elephant hugs himself with joy in front of the giant ice cream, eyes closed, blissful 'mmm' smile.",
+            ("H5", "Medium shot: the baby elephant hugs himself with joy on the beach in front of the giant ice cream, eyes closed, blissful 'mmm' smile.",
              "The baby elephant sways happily side to side with his eyes closed, smiling. Static camera."),
-            ("H6", "Wide shot: the baby elephant dances next to the giant three-color ice cream cone, ears flapping, one foot raised.",
+            ("H6", "Wide shot: the baby elephant dances on the sand next to the giant three-color ice cream cone, ears flapping, one foot raised.",
              "The baby elephant dances gently side to side next to the giant ice cream. Static camera."),
             ("H7", "Medium close-up: the baby elephant has a small dab of pink strawberry ice cream on the tip of his trunk, he looks at it cross-eyed and laughs.",
              "The baby elephant looks at the ice cream on his trunk and laughs. Static camera."),
@@ -97,10 +98,11 @@ SHORTS = [
     {  # habit + food + giant object: the strongest combination in the 2026-10-20 market scan
         "id": "tito_s4_frutas", "hook": "giant_food_habit", "bpm": 118, "food": True,
         "title": "¡A lavar las frutas gigantes! 🍎🍌🍐 | Aprende los colores con Tito #Shorts",
-        "room": "Bright sunny kids bathroom-playroom, vertical 9:16 composition, camera at child eye level, light wooden floor, "
-                "a big round shallow wooden tub full of clear water and soft white soap bubbles in the middle. Floating in the tub: "
-                "a GIANT shiny red apple, a GIANT yellow banana and a GIANT green pear, each fruit as big as a toddler. "
-                "No characters, no animals, no faces on the fruit, no people.",
+        "room": "A sunny green garden, vertical 9:16 composition, camera at child eye level: soft green grass, colorful flowers, "
+                "a small apple tree and a little white fence, a soft rainbow in the blue sky. On the grass stands a big round shallow "
+                "wooden tub full of clear water and soft white soap bubbles. Floating in the tub: a GIANT shiny red apple, a GIANT "
+                "yellow banana and a GIANT green pear, each fruit as big as a toddler. No characters, no animals, no faces on the "
+                "fruit, no people.",
         "lyrics": "[Intro]\n¡Splash! ¡Frutas gigantes!\n[Verse]\n¿Las lavamos? ¡Sí, sí, sí!\nManzana roja, ¡splash, splash!\n"
                   "Plátano amarillo, ¡splash, splash!\nPera verde, ¡splash, splash!\n[Outro]\n¡Limpias y ricas! ¡Mmm!",
         "shots": [
@@ -112,11 +114,11 @@ SHORTS = [
              "The banana bobs gently in the water, soap bubbles drift up, the baby elephant laughs. Static camera."),
             ("F4", "Medium shot: the GIANT green pear floats in the bubbly tub, the baby elephant sprays a little water on it from his trunk.",
              "A gentle stream of water from the trunk splashes the pear, bubbles drift up. Static camera."),
-            ("F5", "Wide shot: the three GIANT clean shiny fruits, a red apple, a yellow banana and a green pear, stand in a row on the rug, sparkling, the baby elephant claps next to them.",
+            ("F5", "Wide shot: the three GIANT clean shiny fruits, a red apple, a yellow banana and a green pear, stand in a row on the grass, sparkling, the baby elephant claps next to them.",
              "Little sparkles twinkle on the clean fruits, the baby elephant claps happily. Static camera."),
             ("F6", "Medium shot: the baby elephant hugs the GIANT shiny red apple with both arms, eyes closed, blissful 'mmm' smile.",
              "The baby elephant hugs the giant apple and sways gently with a happy smile. Static camera."),
-            ("F7", "Medium shot: the baby elephant dances happily next to the tub of bubbly water, soap bubbles floating around him.",
+            ("F7", "Medium shot: the baby elephant dances happily on the grass next to the tub of bubbly water, soap bubbles floating around him.",
              "The baby elephant dances gently side to side, bubbles float around. Static camera."),
         ],
     },
