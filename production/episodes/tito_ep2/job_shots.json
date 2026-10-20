@@ -1,0 +1,782 @@
+[
+ {
+  "id": "tito_ep2_E01_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting, exactly the place from the first reference image: A cozy warm kitchen in the morning, wide 16:9 composition, camera at child eye level: a round wooden table with a plate of fluffy pancakes and a glass of milk, mint-green wall tiles, orange curtains on a sunny window, a white sink with a little wooden step stool and a soap pump, potted plants. Wide shot of the sunny kitchen in the morning: the baby elephant runs in happily toward the table, his little hands covered in colorful paint. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep2_cocina.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E01_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He runs toward the table with a happy bounce. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_ep2_E01_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E01_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He runs toward the table with a happy bounce. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_ep2_E01_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_E02_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting, exactly the place from the first reference image: A cozy warm kitchen in the morning, wide 16:9 composition, camera at child eye level: a round wooden table with a plate of fluffy pancakes and a glass of milk, mint-green wall tiles, orange curtains on a sunny window, a white sink with a little wooden step stool and a soap pump, potted plants. Close-up: the baby elephant's paint-covered hands reaching toward the pancakes, his hungry excited face behind. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep2_cocina.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E02_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His paint-covered hands reach slowly toward the pancakes. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_ep2_E02_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E02_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His paint-covered hands reach slowly toward the pancakes. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_ep2_E02_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_E03_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Mamá Elefanta from the third reference image, exactly the same character design: MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear. Exactly two elephants in the picture: the small baby and his taller mother. Setting, exactly the place from the first reference image: A cozy warm kitchen in the morning, wide 16:9 composition, camera at child eye level: a round wooden table with a plate of fluffy pancakes and a glass of milk, mint-green wall tiles, orange curtains on a sunny window, a white sink with a little wooden step stool and a soap pump, potted plants. Medium shot in the kitchen: Mamá Elefanta holds up her trunk like a friendly stop sign and points to the sink; the baby elephant looks at his hands. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep2_cocina.jpg",
+    "tito_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E03_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá points to the sink with a smile; the baby elephant looks at his hands and nods. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_ep2_E03_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E03_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá points to the sink with a smile; the baby elephant looks at his hands and nods. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_ep2_E03_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_E04_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting, exactly the place from the first reference image: A cozy warm kitchen in the morning, wide 16:9 composition, camera at child eye level: a round wooden table with a plate of fluffy pancakes and a glass of milk, mint-green wall tiles, orange curtains on a sunny window, a white sink with a little wooden step stool and a soap pump, potted plants. Close-up at the kitchen sink: the baby elephant on a little stool rubs his hands in a big cloud of white soap foam, rainbow bubbles float up. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep2_cocina.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E04_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His hands rub round and round in the foam, bubbles float up. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_ep2_E04_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E04_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His hands rub round and round in the foam, bubbles float up. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_ep2_E04_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_E05_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting, exactly the place from the first reference image: A cozy warm kitchen in the morning, wide 16:9 composition, camera at child eye level: a round wooden table with a plate of fluffy pancakes and a glass of milk, mint-green wall tiles, orange curtains on a sunny window, a white sink with a little wooden step stool and a soap pump, potted plants. Close-up at the sink: the baby elephant shows his clean sparkling hands to the camera with a proud smile. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep2_cocina.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E05_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He holds up his clean hands proudly and wiggles them. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_ep2_E05_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E05_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He holds up his clean hands proudly and wiggles them. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_ep2_E05_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_E06_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Mamá Elefanta from the third reference image, exactly the same character design: MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear. Exactly two elephants in the picture: the small baby and his taller mother. Setting, exactly the place from the first reference image: A cozy warm kitchen in the morning, wide 16:9 composition, camera at child eye level: a round wooden table with a plate of fluffy pancakes and a glass of milk, mint-green wall tiles, orange curtains on a sunny window, a white sink with a little wooden step stool and a soap pump, potted plants. Medium shot at the kitchen table: the baby elephant and Mamá Elefanta eat pancakes together, he takes a happy bite. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep2_cocina.jpg",
+    "tito_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E06_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He takes a happy bite and wiggles with joy; Mamá smiles. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_ep2_E06_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E06_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He takes a happy bite and wiggles with joy; Mamá smiles. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_ep2_E06_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_E07_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting, exactly the place from the first reference image: A cozy warm kitchen in the morning, wide 16:9 composition, camera at child eye level: a round wooden table with a plate of fluffy pancakes and a glass of milk, mint-green wall tiles, orange curtains on a sunny window, a white sink with a little wooden step stool and a soap pump, potted plants. Medium shot in the kitchen: the baby elephant dances happily with his arms up, swaying side to side. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep2_cocina.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E07_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He dances, swaying side to side with his arms up. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_ep2_E07_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E07_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He dances, swaying side to side with his arms up. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_ep2_E07_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_E08_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting, exactly the place from the first reference image: A cheerful bathroom, wide 16:9 composition, camera at child eye level: turquoise and white tiles, a big white clawfoot bathtub overflowing with fluffy foam and rainbow soap bubbles, a yellow rubber duck toy, a small sink with a round mirror and a cup with a small blue toothbrush, a fluffy yellow towel on a hook. Close-up: the baby elephant's face covered in brown mud splats, mud on his ears and trunk, a guilty grin. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep2_bano.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E08_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A drop of mud drips from his ear, he blinks and grins. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_ep2_E08_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E08_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A drop of mud drips from his ear, he blinks and grins. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_ep2_E08_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_E09_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting, exactly the place from the first reference image: A cheerful bathroom, wide 16:9 composition, camera at child eye level: turquoise and white tiles, a big white clawfoot bathtub overflowing with fluffy foam and rainbow soap bubbles, a yellow rubber duck toy, a small sink with a round mirror and a cup with a small blue toothbrush, a fluffy yellow towel on a hook. Medium shot in the bathroom: the baby elephant sits in the bubble bath, a big splash of water and foam flies around him, laughing. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep2_bano.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E09_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Water splashes and foam flies, he laughs. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_ep2_E09_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E09_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Water splashes and foam flies, he laughs. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_ep2_E09_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_E10_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting, exactly the place from the first reference image: A cheerful bathroom, wide 16:9 composition, camera at child eye level: turquoise and white tiles, a big white clawfoot bathtub overflowing with fluffy foam and rainbow soap bubbles, a yellow rubber duck toy, a small sink with a round mirror and a cup with a small blue toothbrush, a fluffy yellow towel on a hook. Close-up: the baby elephant in the bath with a white bubble beard and a tall bubble hat, laughing. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep2_bano.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E10_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A bubble pops on his nose and he giggles. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_ep2_E10_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E10_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A bubble pops on his nose and he giggles. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_ep2_E10_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_E11_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Mamá Elefanta from the third reference image, exactly the same character design: MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear. Exactly two elephants in the picture: the small baby and his taller mother. Setting, exactly the place from the first reference image: A cheerful bathroom, wide 16:9 composition, camera at child eye level: turquoise and white tiles, a big white clawfoot bathtub overflowing with fluffy foam and rainbow soap bubbles, a yellow rubber duck toy, a small sink with a round mirror and a cup with a small blue toothbrush, a fluffy yellow towel on a hook. Medium shot in the bathroom: the clean baby elephant wrapped in a fluffy yellow towel hugs Mamá Elefanta. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep2_bano.jpg",
+    "tito_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E11_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. They hug and sway gently, sparkles twinkle. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_ep2_E11_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E11_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. They hug and sway gently, sparkles twinkle. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_ep2_E11_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_E12_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting, exactly the place from the first reference image: A cheerful bathroom, wide 16:9 composition, camera at child eye level: turquoise and white tiles, a big white clawfoot bathtub overflowing with fluffy foam and rainbow soap bubbles, a yellow rubber duck toy, a small sink with a round mirror and a cup with a small blue toothbrush, a fluffy yellow towel on a hook. Medium shot in the bathroom: the baby elephant dances happily with the towel on his head, swaying side to side. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep2_bano.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E12_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He dances, swaying side to side. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_ep2_E12_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E12_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He dances, swaying side to side. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_ep2_E12_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_E13_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting, exactly the place from the first reference image: A cheerful bathroom, wide 16:9 composition, camera at child eye level: turquoise and white tiles, a big white clawfoot bathtub overflowing with fluffy foam and rainbow soap bubbles, a yellow rubber duck toy, a small sink with a round mirror and a cup with a small blue toothbrush, a fluffy yellow towel on a hook. Close-up in front of the bathroom mirror: the baby elephant brushes his teeth with a small blue toothbrush, white foam around his mouth. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep2_bano.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E13_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He brushes up and down, foam bubbles float up. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_ep2_E13_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E13_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He brushes up and down, foam bubbles float up. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_ep2_E13_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_E14_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting, exactly the place from the first reference image: A cheerful bathroom, wide 16:9 composition, camera at child eye level: turquoise and white tiles, a big white clawfoot bathtub overflowing with fluffy foam and rainbow soap bubbles, a yellow rubber duck toy, a small sink with a round mirror and a cup with a small blue toothbrush, a fluffy yellow towel on a hook. Close-up: the baby elephant smiles big at the mirror, his clean teeth sparkle with tiny stars. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep2_bano.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E14_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His teeth sparkle and he smiles proudly. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_ep2_E14_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E14_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His teeth sparkle and he smiles proudly. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_ep2_E14_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_E15_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Mamá Elefanta from the third reference image, exactly the same character design: MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear. Exactly two elephants in the picture: the small baby and his taller mother. Setting, exactly the place from the first reference image: A cheerful bathroom, wide 16:9 composition, camera at child eye level: turquoise and white tiles, a big white clawfoot bathtub overflowing with fluffy foam and rainbow soap bubbles, a yellow rubber duck toy, a small sink with a round mirror and a cup with a small blue toothbrush, a fluffy yellow towel on a hook. Medium shot in the bathroom: Mamá Elefanta claps happily next to the baby elephant holding his toothbrush up like a trophy. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep2_bano.jpg",
+    "tito_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E15_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá claps and the baby elephant raises his toothbrush proudly. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_ep2_E15_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E15_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá claps and the baby elephant raises his toothbrush proudly. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_ep2_E15_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_E16_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Mamá Elefanta from the third reference image, exactly the same character design: MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear. Exactly two elephants in the picture: the small baby and his taller mother. Setting, exactly the place from the first reference image: A cozy child's bedroom at night, wide 16:9 composition, camera at child eye level: a small wooden bed with a soft blue blanket with star patterns, a big window showing a deep blue night sky with twinkling stars and a big friendly smiling moon, a warm little lamp, a shelf with picture books, a soft rug. Medium shot in the bedroom at night: the baby elephant in soft blue pajamas with stars sits in bed, Mamá Elefanta reads him a picture book. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep2_cuarto.jpg",
+    "tito_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E16_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá turns a page and the baby elephant looks at the book with wonder. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_ep2_E16_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E16_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá turns a page and the baby elephant looks at the book with wonder. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_ep2_E16_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_E17_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Mamá Elefanta from the third reference image, exactly the same character design: MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear. Exactly two elephants in the picture: the small baby and his taller mother. Setting, exactly the place from the first reference image: A cozy child's bedroom at night, wide 16:9 composition, camera at child eye level: a small wooden bed with a soft blue blanket with star patterns, a big window showing a deep blue night sky with twinkling stars and a big friendly smiling moon, a warm little lamp, a shelf with picture books, a soft rug. Close-up: Mamá Elefanta gives the sleepy baby elephant a gentle goodnight kiss on the forehead, warm lamp light. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep2_cuarto.jpg",
+    "tito_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E17_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá leans in for a gentle kiss, the baby elephant smiles sleepily. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_ep2_E17_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E17_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá leans in for a gentle kiss, the baby elephant smiles sleepily. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_ep2_E17_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_E18_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting, exactly the place from the first reference image: A cozy child's bedroom at night, wide 16:9 composition, camera at child eye level: a small wooden bed with a soft blue blanket with star patterns, a big window showing a deep blue night sky with twinkling stars and a big friendly smiling moon, a warm little lamp, a shelf with picture books, a soft rug. Wide shot of the bedroom at night: the baby elephant asleep in his bed under the starry blanket, the big friendly moon smiling in the window, stars twinkling. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep2_cuarto.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E18_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The stars twinkle softly and the moon smiles, the baby elephant breathes slowly in his sleep. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_ep2_E18_kf"
+  }
+ },
+ {
+  "id": "tito_ep2_clip_E18_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The stars twinkle softly and the moon smiles, the baby elephant breathes slowly in his sleep. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_ep2_E18_kf"
+  }
+ }
+]

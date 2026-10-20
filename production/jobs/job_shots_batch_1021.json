@@ -1,0 +1,1289 @@
+[
+ {
+  "id": "tito_halloween_H1_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting, exactly the place from the first reference image: A cozy wooden house porch on an autumn evening, vertical 9:16 composition, camera at child eye level: three big glowing orange jack-o-lanterns with friendly smiling carved faces on the steps, strings of warm orange and purple fairy lights, fallen orange and yellow leaves, a soft purple evening sky with a big friendly round moon, a small wooden front door with a wreath of autumn leaves. Extreme close-up: a round orange pumpkin costume worn backwards by the baby elephant, only the tip of his trunk peeking out of the costume's back opening, wiggling, a glowing jack-o-lantern blurred behind. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_halloween_porche.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H1_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The pumpkin costume wobbles and the little trunk tip wiggles out of the opening. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_halloween_H1_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H1_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The pumpkin costume wobbles and the little trunk tip wiggles out of the opening. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_halloween_H1_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H1_s31",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The pumpkin costume wobbles and the little trunk tip wiggles out of the opening. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 31,
+  "after": {
+   "image_start": "tito_halloween_H1_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_H2_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Mamá Elefanta from the third reference image, exactly the same character design: MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear. Exactly two elephants in the picture: the small baby and his taller mother. Setting, exactly the place from the first reference image: A cozy wooden house porch on an autumn evening, vertical 9:16 composition, camera at child eye level: three big glowing orange jack-o-lanterns with friendly smiling carved faces on the steps, strings of warm orange and purple fairy lights, fallen orange and yellow leaves, a soft purple evening sky with a big friendly round moon, a small wooden front door with a wreath of autumn leaves. Medium shot on the porch: Mamá Elefanta laughs kindly and turns the baby elephant's round orange pumpkin costume the right way; now his happy face shows through the face opening with a big grin. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_halloween_porche.jpg",
+    "tito_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H2_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá gently turns the costume around and the baby elephant's face pops out grinning. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_halloween_H2_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H2_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá gently turns the costume around and the baby elephant's face pops out grinning. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_halloween_H2_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H2_s31",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá gently turns the costume around and the baby elephant's face pops out grinning. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 31,
+  "after": {
+   "image_start": "tito_halloween_H2_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_H3_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Mamá Elefanta from the third reference image, exactly the same character design: MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear. Exactly two elephants in the picture: the small baby and his taller mother. Setting, exactly the place from the first reference image: A cozy wooden house porch on an autumn evening, vertical 9:16 composition, camera at child eye level: three big glowing orange jack-o-lanterns with friendly smiling carved faces on the steps, strings of warm orange and purple fairy lights, fallen orange and yellow leaves, a soft purple evening sky with a big friendly round moon, a small wooden front door with a wreath of autumn leaves. Medium shot on the porch: the baby elephant in the pumpkin costume holds a small orange candy bucket and runs toward the front door; Mamá Elefanta holds up a small blue toothbrush with a smile, like saying first teeth. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_halloween_porche.jpg",
+    "tito_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H3_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant runs with the bucket, then stops and looks back at the toothbrush. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_halloween_H3_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H3_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant runs with the bucket, then stops and looks back at the toothbrush. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_halloween_H3_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H3_s31",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant runs with the bucket, then stops and looks back at the toothbrush. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 31,
+  "after": {
+   "image_start": "tito_halloween_H3_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_H4_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting, exactly the place from the first reference image: A warm cozy bathroom corner in the evening, vertical 9:16 composition, camera at child eye level: a round mirror above a small white sink, a cup with a small blue toothbrush and a tube of toothpaste, a little wooden step stool, soft warm lamp light, purple and orange tiles, a tiny pumpkin decoration on the shelf. Close-up in front of the bathroom mirror: the baby elephant in his pumpkin costume brushes his teeth with a small blue toothbrush, white foam bubbles around his mouth, tiny sparkles on his teeth. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_halloween_espejo.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H4_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He brushes up and down, foam bubbles float up and his teeth sparkle. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_halloween_H4_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H4_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He brushes up and down, foam bubbles float up and his teeth sparkle. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_halloween_H4_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H4_s31",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He brushes up and down, foam bubbles float up and his teeth sparkle. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 31,
+  "after": {
+   "image_start": "tito_halloween_H4_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_H5_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting, exactly the place from the first reference image: A cozy wooden house porch on an autumn evening, vertical 9:16 composition, camera at child eye level: three big glowing orange jack-o-lanterns with friendly smiling carved faces on the steps, strings of warm orange and purple fairy lights, fallen orange and yellow leaves, a soft purple evening sky with a big friendly round moon, a small wooden front door with a wreath of autumn leaves. Wide shot of the autumn porch at evening: three glowing jack-o-lanterns with friendly smiles light up, orange and purple fairy lights twinkle, the baby elephant in his pumpkin costume looks at them with wonder. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_halloween_porche.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H5_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The jack-o-lanterns glow brighter one by one and the fairy lights twinkle. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_halloween_H5_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H5_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The jack-o-lanterns glow brighter one by one and the fairy lights twinkle. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_halloween_H5_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H5_s31",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The jack-o-lanterns glow brighter one by one and the fairy lights twinkle. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 31,
+  "after": {
+   "image_start": "tito_halloween_H5_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_H6_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting, exactly the place from the first reference image: A cozy wooden house porch on an autumn evening, vertical 9:16 composition, camera at child eye level: three big glowing orange jack-o-lanterns with friendly smiling carved faces on the steps, strings of warm orange and purple fairy lights, fallen orange and yellow leaves, a soft purple evening sky with a big friendly round moon, a small wooden front door with a wreath of autumn leaves. Close-up on the porch: a tiny cute white sheet ghost toy with two big round friendly eyes and a little smile floats softly next to the baby elephant in his pumpkin costume; the baby elephant waves and giggles. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_halloween_porche.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H6_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The tiny friendly ghost toy floats and waves; the baby elephant waves back and giggles. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_halloween_H6_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H6_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The tiny friendly ghost toy floats and waves; the baby elephant waves back and giggles. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_halloween_H6_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H6_s31",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The tiny friendly ghost toy floats and waves; the baby elephant waves back and giggles. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 31,
+  "after": {
+   "image_start": "tito_halloween_H6_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_H7_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Mamá Elefanta from the third reference image, exactly the same character design: MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear. Exactly two elephants in the picture: the small baby and his taller mother. Setting, exactly the place from the first reference image: A cozy wooden house porch on an autumn evening, vertical 9:16 composition, camera at child eye level: three big glowing orange jack-o-lanterns with friendly smiling carved faces on the steps, strings of warm orange and purple fairy lights, fallen orange and yellow leaves, a soft purple evening sky with a big friendly round moon, a small wooden front door with a wreath of autumn leaves. Medium shot on the porch steps under orange fairy lights: the baby elephant in his pumpkin costume and Mamá Elefanta sit together and share a wrapped candy from the orange candy bucket, smiling. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_halloween_porche.jpg",
+    "tito_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H7_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. They share the candy and smile at each other, the lights twinkle. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_halloween_H7_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H7_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. They share the candy and smile at each other, the lights twinkle. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_halloween_H7_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_H8_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting, exactly the place from the first reference image: A cozy wooden house porch on an autumn evening, vertical 9:16 composition, camera at child eye level: three big glowing orange jack-o-lanterns with friendly smiling carved faces on the steps, strings of warm orange and purple fairy lights, fallen orange and yellow leaves, a soft purple evening sky with a big friendly round moon, a small wooden front door with a wreath of autumn leaves. Medium shot on the porch: the baby elephant playfully pulls the round pumpkin costume over his head the wrong way again, only his trunk tip sticking out, wiggling. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_halloween_porche.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H8_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The costume slips over his head backwards and his trunk tip wiggles out again. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_halloween_H8_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H8_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The costume slips over his head backwards and his trunk tip wiggles out again. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_halloween_H8_kf"
+  }
+ },
+ {
+  "id": "rojito_barro_B1_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The little red fire truck character from the second reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one vehicle character in the picture. Setting, exactly the place from the first reference image: A countryside dirt road just after the rain, vertical 9:16 composition, camera low at toy level: a big round brown mud puddle in the middle of the road, wet green grass, a small wooden fence, little puddles reflecting the sky, soft rounded green hills, a pale rainbow in the bright sky. No vehicles on the road.. Extreme close-up at toy level: the little red fire truck character driving into a big brown mud puddle, a big splash of mud flying up around his surprised face with wide eyes. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_barro_barro.jpg",
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_barro_clip_B1_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He drives into the puddle and a big splash of mud flies up, his eyes go wide. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "rojito_barro_B1_kf"
+  }
+ },
+ {
+  "id": "rojito_barro_clip_B1_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He drives into the puddle and a big splash of mud flies up, his eyes go wide. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "rojito_barro_B1_kf"
+  }
+ },
+ {
+  "id": "rojito_barro_clip_B1_s31",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He drives into the puddle and a big splash of mud flies up, his eyes go wide. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 31,
+  "after": {
+   "image_start": "rojito_barro_B1_kf"
+  }
+ },
+ {
+  "id": "rojito_barro_B2_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The little red fire truck character from the second reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one vehicle character in the picture. Setting, exactly the place from the first reference image: A countryside dirt road just after the rain, vertical 9:16 composition, camera low at toy level: a big round brown mud puddle in the middle of the road, wet green grass, a small wooden fence, little puddles reflecting the sky, soft rounded green hills, a pale rainbow in the bright sky. No vehicles on the road.. Medium shot on the muddy road: the little red fire truck character stuck in the brown mud puddle up to his wheels, his wheels spinning and splattering mud, a straining determined face. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_barro_barro.jpg",
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_barro_clip_B2_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His wheels spin fast in the mud, mud splatters, he strains but does not move. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "rojito_barro_B2_kf"
+  }
+ },
+ {
+  "id": "rojito_barro_clip_B2_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His wheels spin fast in the mud, mud splatters, he strains but does not move. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "rojito_barro_B2_kf"
+  }
+ },
+ {
+  "id": "rojito_barro_clip_B2_s31",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His wheels spin fast in the mud, mud splatters, he strains but does not move. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 31,
+  "after": {
+   "image_start": "rojito_barro_B2_kf"
+  }
+ },
+ {
+  "id": "rojito_barro_B3_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The little red fire truck character from the second reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one vehicle character in the picture. Setting, exactly the place from the first reference image: A countryside dirt road just after the rain, vertical 9:16 composition, camera low at toy level: a big round brown mud puddle in the middle of the road, wet green grass, a small wooden fence, little puddles reflecting the sky, soft rounded green hills, a pale rainbow in the bright sky. No vehicles on the road.. Close-up: the little red fire truck character stuck in the mud, his golden bell ringing, looking left and right with a hopeful little face. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_barro_barro.jpg",
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_barro_clip_B3_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His golden bell rings and he looks left and right hopefully. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "rojito_barro_B3_kf"
+  }
+ },
+ {
+  "id": "rojito_barro_clip_B3_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His golden bell rings and he looks left and right hopefully. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "rojito_barro_B3_kf"
+  }
+ },
+ {
+  "id": "rojito_barro_clip_B3_s31",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His golden bell rings and he looks left and right hopefully. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 31,
+  "after": {
+   "image_start": "rojito_barro_B3_kf"
+  }
+ },
+ {
+  "id": "rojito_barro_B4_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The little red fire truck character from the second reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one vehicle character in the picture. Setting, exactly the place from the first reference image: A countryside dirt road just after the rain, vertical 9:16 composition, camera low at toy level: a big round brown mud puddle in the middle of the road, wet green grass, a small wooden fence, little puddles reflecting the sky, soft rounded green hills, a pale rainbow in the bright sky. No vehicles on the road.. Medium shot on the muddy road: the little red fire truck character sprays a big arc of clear water from the small hose on his roof onto the mud puddle around him, a happy idea face. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_barro_barro.jpg",
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_barro_clip_B4_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Water sprays in a sparkling arc onto the mud, the mud starts to wash away. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "rojito_barro_B4_kf"
+  }
+ },
+ {
+  "id": "rojito_barro_clip_B4_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Water sprays in a sparkling arc onto the mud, the mud starts to wash away. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "rojito_barro_B4_kf"
+  }
+ },
+ {
+  "id": "rojito_barro_clip_B4_s31",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Water sprays in a sparkling arc onto the mud, the mud starts to wash away. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 31,
+  "after": {
+   "image_start": "rojito_barro_B4_kf"
+  }
+ },
+ {
+  "id": "rojito_barro_B5_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The little red fire truck character from the second reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one vehicle character in the picture. Setting, exactly the place from the first reference image: A countryside dirt road just after the rain, vertical 9:16 composition, camera low at toy level: a big round brown mud puddle in the middle of the road, wet green grass, a small wooden fence, little puddles reflecting the sky, soft rounded green hills, a pale rainbow in the bright sky. No vehicles on the road.. Wide shot of the countryside road: the little red fire truck character rolls out of the puddle onto the dry road, happy, a little mud on his sides, the pale rainbow in the sky. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_barro_barro.jpg",
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_barro_clip_B5_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He rolls forward out of the puddle happily onto the road. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "rojito_barro_B5_kf"
+  }
+ },
+ {
+  "id": "rojito_barro_clip_B5_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He rolls forward out of the puddle happily onto the road. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "rojito_barro_B5_kf"
+  }
+ },
+ {
+  "id": "rojito_barro_clip_B5_s31",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He rolls forward out of the puddle happily onto the road. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 31,
+  "after": {
+   "image_start": "rojito_barro_B5_kf"
+  }
+ },
+ {
+  "id": "rojito_barro_B6_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The little red fire truck character from the second reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one vehicle character in the picture. Setting, exactly the place from the first reference image: A cheerful toy car wash, vertical 9:16 composition, camera low at toy level: big spinning round brushes in rainbow colors, foamy white soap bubbles floating in the air, shiny water drops, light blue and white tiled walls, a sign with a big water drop symbol, bright sunny light. No vehicles in the car wash.. Medium shot in the toy car wash: the little red fire truck character between big spinning rainbow-colored brushes, covered in white soap foam and bubbles, giggling. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_barro_lavado.jpg",
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_barro_clip_B6_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The rainbow brushes spin around him, foam and bubbles fly, he giggles. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "rojito_barro_B6_kf"
+  }
+ },
+ {
+  "id": "rojito_barro_clip_B6_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The rainbow brushes spin around him, foam and bubbles fly, he giggles. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "rojito_barro_B6_kf"
+  }
+ },
+ {
+  "id": "rojito_barro_clip_B6_s31",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The rainbow brushes spin around him, foam and bubbles fly, he giggles. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 31,
+  "after": {
+   "image_start": "rojito_barro_B6_kf"
+  }
+ },
+ {
+  "id": "rojito_barro_B7_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The little red fire truck character from the second reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one vehicle character in the picture. Setting, exactly the place from the first reference image: A cheerful toy car wash, vertical 9:16 composition, camera low at toy level: big spinning round brushes in rainbow colors, foamy white soap bubbles floating in the air, shiny water drops, light blue and white tiled walls, a sign with a big water drop symbol, bright sunny light. No vehicles in the car wash.. Close-up in the car wash: the little red fire truck character perfectly clean and shiny red, sparkles twinkling on his paint, a big proud happy smile, a few bubbles floating. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_barro_lavado.jpg",
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_barro_clip_B7_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Sparkles twinkle on his shiny paint and he smiles proudly. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "rojito_barro_B7_kf"
+  }
+ },
+ {
+  "id": "rojito_barro_clip_B7_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Sparkles twinkle on his shiny paint and he smiles proudly. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "rojito_barro_B7_kf"
+  }
+ },
+ {
+  "id": "rojito_barro_B8_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The little red fire truck character from the second reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one vehicle character in the picture. Setting, exactly the place from the first reference image: A countryside dirt road just after the rain, vertical 9:16 composition, camera low at toy level: a big round brown mud puddle in the middle of the road, wet green grass, a small wooden fence, little puddles reflecting the sky, soft rounded green hills, a pale rainbow in the bright sky. No vehicles on the road.. Wide shot of the countryside road: the clean shiny little red fire truck character looks at another big mud puddle ahead with a mischievous grin. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_barro_barro.jpg",
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_barro_clip_B8_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He rolls slowly toward the puddle with a sneaky grin. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "rojito_barro_B8_kf"
+  }
+ },
+ {
+  "id": "rojito_barro_clip_B8_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He rolls slowly toward the puddle with a sneaky grin. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "rojito_barro_B8_kf"
+  }
+ },
+ {
+  "id": "rojito_colores_C1_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The little red fire truck character from the second reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one vehicle character in the picture. Setting, exactly the place from the first reference image: A cheerful toy paint playground, vertical 9:16 composition, camera low at toy level: a smooth white play road with four big round shallow pools of thick paint in a row, bright blue, sunny yellow, grass green and cherry red, colorful paint splashes on the road edges, soft rounded green hills and a blue sky with white clouds. No vehicles on the road.. Extreme close-up at toy level: the little red fire truck character splashing into a big pool of bright blue paint, blue paint flying up, his body now bright blue, surprised wide eyes. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_colores_pintura.jpg",
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_colores_clip_C1_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Blue paint splashes up around him and he blinks in surprise. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "rojito_colores_C1_kf"
+  }
+ },
+ {
+  "id": "rojito_colores_clip_C1_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Blue paint splashes up around him and he blinks in surprise. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "rojito_colores_C1_kf"
+  }
+ },
+ {
+  "id": "rojito_colores_clip_C1_s31",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Blue paint splashes up around him and he blinks in surprise. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 31,
+  "after": {
+   "image_start": "rojito_colores_C1_kf"
+  }
+ },
+ {
+  "id": "rojito_colores_C2_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The little red fire truck character from the second reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one vehicle character in the picture. Setting, exactly the place from the first reference image: A cheerful toy paint playground, vertical 9:16 composition, camera low at toy level: a smooth white play road with four big round shallow pools of thick paint in a row, bright blue, sunny yellow, grass green and cherry red, colorful paint splashes on the road edges, soft rounded green hills and a blue sky with white clouds. No vehicles on the road.. Close-up: the little fire truck character painted completely bright blue, looking down at himself with a puzzled funny face, blue drips falling. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_colores_pintura.jpg",
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_colores_clip_C2_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He looks down at his blue body and blinks, blue drops drip down. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "rojito_colores_C2_kf"
+  }
+ },
+ {
+  "id": "rojito_colores_clip_C2_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He looks down at his blue body and blinks, blue drops drip down. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "rojito_colores_C2_kf"
+  }
+ },
+ {
+  "id": "rojito_colores_clip_C2_s31",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He looks down at his blue body and blinks, blue drops drip down. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 31,
+  "after": {
+   "image_start": "rojito_colores_C2_kf"
+  }
+ },
+ {
+  "id": "rojito_colores_C3_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The little red fire truck character from the second reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one vehicle character in the picture. Setting, exactly the place from the first reference image: A cheerful toy paint playground, vertical 9:16 composition, camera low at toy level: a smooth white play road with four big round shallow pools of thick paint in a row, bright blue, sunny yellow, grass green and cherry red, colorful paint splashes on the road edges, soft rounded green hills and a blue sky with white clouds. No vehicles on the road.. Medium shot on the paint playground: the little fire truck character painted completely sunny yellow, driving out of the yellow paint pool, yellow splashes around, laughing. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_colores_pintura.jpg",
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_colores_clip_C3_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He rolls out of the yellow pool, yellow paint splashes, he laughs. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "rojito_colores_C3_kf"
+  }
+ },
+ {
+  "id": "rojito_colores_clip_C3_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He rolls out of the yellow pool, yellow paint splashes, he laughs. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "rojito_colores_C3_kf"
+  }
+ },
+ {
+  "id": "rojito_colores_clip_C3_s31",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He rolls out of the yellow pool, yellow paint splashes, he laughs. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 31,
+  "after": {
+   "image_start": "rojito_colores_C3_kf"
+  }
+ },
+ {
+  "id": "rojito_colores_C4_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The little red fire truck character from the second reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one vehicle character in the picture. Setting, exactly the place from the first reference image: A cheerful toy paint playground, vertical 9:16 composition, camera low at toy level: a smooth white play road with four big round shallow pools of thick paint in a row, bright blue, sunny yellow, grass green and cherry red, colorful paint splashes on the road edges, soft rounded green hills and a blue sky with white clouds. No vehicles on the road.. Medium shot on the paint playground: the little fire truck character painted completely grass green, splashing out of the green paint pool, giggling. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_colores_pintura.jpg",
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_colores_clip_C4_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Green paint splashes around him and he giggles. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "rojito_colores_C4_kf"
+  }
+ },
+ {
+  "id": "rojito_colores_clip_C4_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Green paint splashes around him and he giggles. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "rojito_colores_C4_kf"
+  }
+ },
+ {
+  "id": "rojito_colores_clip_C4_s31",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Green paint splashes around him and he giggles. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 31,
+  "after": {
+   "image_start": "rojito_colores_C4_kf"
+  }
+ },
+ {
+  "id": "rojito_colores_C5_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The little red fire truck character from the second reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one vehicle character in the picture. Setting, exactly the place from the first reference image: A cheerful toy paint playground, vertical 9:16 composition, camera low at toy level: a smooth white play road with four big round shallow pools of thick paint in a row, bright blue, sunny yellow, grass green and cherry red, colorful paint splashes on the road edges, soft rounded green hills and a blue sky with white clouds. No vehicles on the road.. Close-up: the little fire truck character painted green looks worried and a little sad, a tiny question mark sparkle above his ladder. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_colores_pintura.jpg",
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_colores_clip_C5_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He looks around worried and blinks. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "rojito_colores_C5_kf"
+  }
+ },
+ {
+  "id": "rojito_colores_clip_C5_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He looks around worried and blinks. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "rojito_colores_C5_kf"
+  }
+ },
+ {
+  "id": "rojito_colores_clip_C5_s31",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He looks around worried and blinks. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 31,
+  "after": {
+   "image_start": "rojito_colores_C5_kf"
+  }
+ },
+ {
+  "id": "rojito_colores_C6_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The little red fire truck character from the second reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one vehicle character in the picture. Setting, exactly the place from the first reference image: A cheerful toy paint playground, vertical 9:16 composition, camera low at toy level: a smooth white play road with four big round shallow pools of thick paint in a row, bright blue, sunny yellow, grass green and cherry red, colorful paint splashes on the road edges, soft rounded green hills and a blue sky with white clouds. No vehicles on the road.. Medium shot: the little fire truck character splashes out of the red paint pool shiny cherry red again, a big happy smile, sparkles around him. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_colores_pintura.jpg",
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_colores_clip_C6_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Red paint splashes and he smiles big, sparkles twinkle. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "rojito_colores_C6_kf"
+  }
+ },
+ {
+  "id": "rojito_colores_clip_C6_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Red paint splashes and he smiles big, sparkles twinkle. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "rojito_colores_C6_kf"
+  }
+ },
+ {
+  "id": "rojito_colores_clip_C6_s31",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Red paint splashes and he smiles big, sparkles twinkle. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 31,
+  "after": {
+   "image_start": "rojito_colores_C6_kf"
+  }
+ },
+ {
+  "id": "rojito_colores_C7_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The little red fire truck character from the second reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one vehicle character in the picture. Setting, exactly the place from the first reference image: A sunny meadow with a road, vertical 9:16 composition, camera low at toy level: a smooth sandy road curving through soft green grass with little flowers, a big bright rainbow arching across the blue sky, fluffy white clouds. No vehicles on the road.. Wide shot of the sunny meadow: the shiny red little fire truck character drives along the curving road under a big bright rainbow, happy. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_colores_arcoiris.jpg",
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_colores_clip_C7_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He drives happily along the road under the rainbow. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "rojito_colores_C7_kf"
+  }
+ },
+ {
+  "id": "rojito_colores_clip_C7_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He drives happily along the road under the rainbow. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "rojito_colores_C7_kf"
+  }
+ },
+ {
+  "id": "rojito_colores_C8_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The little red fire truck character from the second reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one vehicle character in the picture. Setting, exactly the place from the first reference image: A sunny meadow with a road, vertical 9:16 composition, camera low at toy level: a smooth sandy road curving through soft green grass with little flowers, a big bright rainbow arching across the blue sky, fluffy white clouds. No vehicles on the road.. Close-up: the shiny red little fire truck character looks up as one big purple paint drop falls onto his roof with a little splat, making a funny surprised face. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_colores_arcoiris.jpg",
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_colores_clip_C8_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A purple drop falls and splats on his roof, he makes a funny surprised face. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "rojito_colores_C8_kf"
+  }
+ },
+ {
+  "id": "rojito_colores_clip_C8_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A purple drop falls and splats on his roof, he makes a funny surprised face. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "rojito_colores_C8_kf"
+  }
+ }
+]

@@ -1,0 +1,568 @@
+[
+ {
+  "file": "production/episodes/rojito_colores/design/rojito_colores_song_s11.wav",
+  "score": 0.423,
+  "duration": 26.0,
+  "transcript": "¡Splash! ¡Rojito azul! ¡Splash! ¡Amarillo! ¡Splash! ¡Amarillo! ¡Splash! ¿Dónde está Rojito? Alcoheriza, Rodar, Morado",
+  "words": [
+   [
+    "¡Splash!",
+    0.0,
+    2.06
+   ],
+   [
+    "¡Rojito",
+    2.48,
+    3.44
+   ],
+   [
+    "azul!",
+    3.44,
+    3.82
+   ],
+   [
+    "¡Splash!",
+    6.86,
+    8.26
+   ],
+   [
+    "¡Amarillo!",
+    8.28,
+    9.66
+   ],
+   [
+    "¡Splash!",
+    11.1,
+    12.24
+   ],
+   [
+    "¡Amarillo!",
+    12.68,
+    13.76
+   ],
+   [
+    "¡Splash!",
+    15.16,
+    15.98
+   ],
+   [
+    "¿Dónde",
+    16.66,
+    16.96
+   ],
+   [
+    "está",
+    16.96,
+    17.26
+   ],
+   [
+    "Rojito?",
+    17.26,
+    18.04
+   ],
+   [
+    "Alcoheriza,",
+    19.74,
+    21.14
+   ],
+   [
+    "Rodar,",
+    21.44,
+    22.02
+   ],
+   [
+    "Morado",
+    22.66,
+    23.52
+   ]
+  ]
+ },
+ {
+  "file": "production/episodes/rojito_colores/design/rojito_colores_song_s1.wav",
+  "score": 0.346,
+  "duration": 26.0,
+  "transcript": "¡Splash! ¡Splash! ¡Amarillo! ¡Splash! ¡Splash! ¡Verde, verde! ¿Dónde está Rojito? ¡No!",
+  "words": [
+   [
+    "¡Splash!",
+    0.0,
+    0.4
+   ],
+   [
+    "¡Splash!",
+    1.86,
+    2.62
+   ],
+   [
+    "¡Amarillo!",
+    7.0,
+    7.88
+   ],
+   [
+    "¡Splash!",
+    8.32,
+    8.8
+   ],
+   [
+    "¡Splash!",
+    9.88,
+    10.58
+   ],
+   [
+    "¡Verde,",
+    12.54,
+    13.24
+   ],
+   [
+    "verde!",
+    13.3,
+    13.68
+   ],
+   [
+    "¿Dónde",
+    16.56,
+    17.26
+   ],
+   [
+    "está",
+    17.26,
+    17.68
+   ],
+   [
+    "Rojito?",
+    17.68,
+    18.6
+   ],
+   [
+    "¡No!",
+    23.68,
+    24.38
+   ]
+  ]
+ },
+ {
+  "file": "production/episodes/rojito_colores/design/rojito_colores_song_s8.wav",
+  "score": 0.346,
+  "duration": 26.0,
+  "transcript": "¡Splash! ¡Rojito azul! ¡Azul! ¡Splash! ¡Amarillo! ¡Splash! ¡Verde, verde!",
+  "words": [
+   [
+    "¡Splash!",
+    0.0,
+    0.5
+   ],
+   [
+    "¡Rojito",
+    0.6,
+    1.46
+   ],
+   [
+    "azul!",
+    1.46,
+    1.92
+   ],
+   [
+    "¡Azul!",
+    5.4,
+    6.18
+   ],
+   [
+    "¡Splash!",
+    9.2,
+    9.96
+   ],
+   [
+    "¡Amarillo!",
+    10.2,
+    11.46
+   ],
+   [
+    "¡Splash!",
+    13.2,
+    13.9
+   ],
+   [
+    "¡Verde,",
+    14.18,
+    14.78
+   ],
+   [
+    "verde!",
+    14.96,
+    15.24
+   ]
+  ]
+ },
+ {
+  "file": "production/episodes/rojito_colores/design/rojito_colores_song_s7.wav",
+  "score": 0.308,
+  "duration": 26.0,
+  "transcript": "¡Splash! ¡Rojito azul! ¡Splash! ¡Amarillo! ¡Splash! ¡Verde, verde!",
+  "words": [
+   [
+    "¡Splash!",
+    0.0,
+    0.4
+   ],
+   [
+    "¡Rojito",
+    0.6,
+    1.26
+   ],
+   [
+    "azul!",
+    1.26,
+    1.62
+   ],
+   [
+    "¡Splash!",
+    7.64,
+    8.34
+   ],
+   [
+    "¡Amarillo!",
+    8.76,
+    9.78
+   ],
+   [
+    "¡Splash!",
+    12.74,
+    13.44
+   ],
+   [
+    "¡Verde,",
+    13.8,
+    14.7
+   ],
+   [
+    "verde!",
+    14.7,
+    15.12
+   ]
+  ]
+ },
+ {
+  "file": "production/episodes/rojito_colores/design/rojito_colores_song_s3.wav",
+  "score": 0.269,
+  "duration": 26.0,
+  "transcript": "¡Splash! ¡Splash! ¡Splash! ¡Azul, azul, azul, azul! ¡Splash! ¡Verde, verde!",
+  "words": [
+   [
+    "¡Splash!",
+    0.0,
+    0.44
+   ],
+   [
+    "¡Splash!",
+    4.3,
+    5.4
+   ],
+   [
+    "¡Splash!",
+    7.24,
+    8.34
+   ],
+   [
+    "¡Azul,",
+    10.97,
+    11.52
+   ],
+   [
+    "azul,",
+    11.7,
+    12.16
+   ],
+   [
+    "azul,",
+    12.16,
+    12.58
+   ],
+   [
+    "azul!",
+    12.58,
+    13.08
+   ],
+   [
+    "¡Splash!",
+    18.95,
+    19.5
+   ],
+   [
+    "¡Verde,",
+    19.88,
+    20.48
+   ],
+   [
+    "verde!",
+    20.58,
+    20.7
+   ]
+  ]
+ },
+ {
+  "file": "production/episodes/rojito_colores/design/rojito_colores_song_s5.wav",
+  "score": 0.269,
+  "duration": 26.0,
+  "transcript": "¡Splash! ¡Splash! ¡Amarillo! ¡Argoiris a rodar! ¡Uy, morado!",
+  "words": [
+   [
+    "¡Splash!",
+    0.0,
+    0.54
+   ],
+   [
+    "¡Splash!",
+    8.76,
+    9.46
+   ],
+   [
+    "¡Amarillo!",
+    9.96,
+    11.36
+   ],
+   [
+    "¡Argoiris",
+    13.46,
+    14.86
+   ],
+   [
+    "a",
+    14.86,
+    15.32
+   ],
+   [
+    "rodar!",
+    15.32,
+    16.26
+   ],
+   [
+    "¡Uy,",
+    21.58,
+    22.28
+   ],
+   [
+    "morado!",
+    22.9,
+    23.52
+   ]
+  ]
+ },
+ {
+  "file": "production/episodes/rojito_colores/design/rojito_colores_song_s12.wav",
+  "score": 0.231,
+  "duration": 26.0,
+  "transcript": "¡Splash! ¡Splash! ¡Amarillo! ¡Splash! ¡Verde, verde!",
+  "words": [
+   [
+    "¡Splash!",
+    0.0,
+    0.5
+   ],
+   [
+    "¡Splash!",
+    6.0,
+    6.82
+   ],
+   [
+    "¡Amarillo!",
+    6.82,
+    8.22
+   ],
+   [
+    "¡Splash!",
+    9.8,
+    10.5
+   ],
+   [
+    "¡Verde,",
+    11.0,
+    11.44
+   ],
+   [
+    "verde!",
+    11.78,
+    12.0
+   ]
+  ]
+ },
+ {
+  "file": "production/episodes/rojito_colores/design/rojito_colores_song_s4.wav",
+  "score": 0.231,
+  "duration": 26.0,
+  "transcript": "¡Splash! ¡Rojito azul! ¡Azul, azul! ¡Yeeeyy! ¡Y Morado!",
+  "words": [
+   [
+    "¡Splash!",
+    0.0,
+    1.62
+   ],
+   [
+    "¡Rojito",
+    2.24,
+    2.92
+   ],
+   [
+    "azul!",
+    2.92,
+    3.3
+   ],
+   [
+    "¡Azul,",
+    8.14,
+    9.34
+   ],
+   [
+    "azul!",
+    9.78,
+    10.1
+   ],
+   [
+    "¡Yeeeyy!",
+    17.12,
+    18.52
+   ],
+   [
+    "¡Y",
+    22.5,
+    23.2
+   ],
+   [
+    "Morado!",
+    23.2,
+    23.88
+   ]
+  ]
+ },
+ {
+  "file": "production/episodes/rojito_colores/design/rojito_colores_song_s6.wav",
+  "score": 0.231,
+  "duration": 26.0,
+  "transcript": "¡Splash! ¡Rojito azul! ¡Quién es? ¡Morado!",
+  "words": [
+   [
+    "¡Splash!",
+    0.0,
+    0.5
+   ],
+   [
+    "¡Rojito",
+    0.78,
+    1.6
+   ],
+   [
+    "azul!",
+    1.6,
+    2.04
+   ],
+   [
+    "¡Quién",
+    22.72,
+    23.72
+   ],
+   [
+    "es?",
+    23.72,
+    23.84
+   ],
+   [
+    "¡Morado!",
+    23.84,
+    24.62
+   ]
+  ]
+ },
+ {
+  "file": "production/episodes/rojito_colores/design/rojito_colores_song_s10.wav",
+  "score": 0.154,
+  "duration": 26.0,
+  "transcript": "¡Splash! ¡Amarillo! ¡Verde, verde!",
+  "words": [
+   [
+    "¡Splash!",
+    7.18,
+    8.58
+   ],
+   [
+    "¡Amarillo!",
+    8.64,
+    9.98
+   ],
+   [
+    "¡Verde,",
+    11.62,
+    12.5
+   ],
+   [
+    "verde!",
+    12.56,
+    13.02
+   ]
+  ]
+ },
+ {
+  "file": "production/episodes/rojito_colores/design/rojito_colores_song_s9.wav",
+  "score": 0.154,
+  "duration": 26.0,
+  "transcript": "¡Splash! ¡Rojito azul! ¡Rojito azul! ¡María! ¡Alcohíris!",
+  "words": [
+   [
+    "¡Splash!",
+    0.0,
+    2.28
+   ],
+   [
+    "¡Rojito",
+    4.06,
+    4.82
+   ],
+   [
+    "azul!",
+    4.82,
+    5.46
+   ],
+   [
+    "¡Rojito",
+    6.7,
+    7.78
+   ],
+   [
+    "azul!",
+    7.78,
+    8.5
+   ],
+   [
+    "¡María!",
+    12.0,
+    12.78
+   ],
+   [
+    "¡Alcohíris!",
+    14.38,
+    15.78
+   ]
+  ]
+ },
+ {
+  "file": "production/episodes/rojito_colores/design/rojito_colores_song_s2.wav",
+  "score": 0.115,
+  "duration": 26.0,
+  "transcript": "¡Splash! ¡Rojito azul!",
+  "words": [
+   [
+    "¡Splash!",
+    0.0,
+    0.38
+   ],
+   [
+    "¡Rojito",
+    0.9,
+    1.48
+   ],
+   [
+    "azul!",
+    1.48,
+    1.84
+   ]
+  ]
+ }
+]

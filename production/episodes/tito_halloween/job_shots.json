@@ -1,0 +1,433 @@
+[
+ {
+  "id": "tito_halloween_H1_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting, exactly the place from the first reference image: A cozy wooden house porch on an autumn evening, vertical 9:16 composition, camera at child eye level: three big glowing orange jack-o-lanterns with friendly smiling carved faces on the steps, strings of warm orange and purple fairy lights, fallen orange and yellow leaves, a soft purple evening sky with a big friendly round moon, a small wooden front door with a wreath of autumn leaves. Extreme close-up: a round orange pumpkin costume worn backwards by the baby elephant, only the tip of his trunk peeking out of the costume's back opening, wiggling, a glowing jack-o-lantern blurred behind. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_halloween_porche.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H1_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The pumpkin costume wobbles and the little trunk tip wiggles out of the opening. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_halloween_H1_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H1_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The pumpkin costume wobbles and the little trunk tip wiggles out of the opening. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_halloween_H1_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H1_s31",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The pumpkin costume wobbles and the little trunk tip wiggles out of the opening. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 31,
+  "after": {
+   "image_start": "tito_halloween_H1_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_H2_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Mamá Elefanta from the third reference image, exactly the same character design: MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear. Exactly two elephants in the picture: the small baby and his taller mother. Setting, exactly the place from the first reference image: A cozy wooden house porch on an autumn evening, vertical 9:16 composition, camera at child eye level: three big glowing orange jack-o-lanterns with friendly smiling carved faces on the steps, strings of warm orange and purple fairy lights, fallen orange and yellow leaves, a soft purple evening sky with a big friendly round moon, a small wooden front door with a wreath of autumn leaves. Medium shot on the porch: Mamá Elefanta laughs kindly and turns the baby elephant's round orange pumpkin costume the right way; now his happy face shows through the face opening with a big grin. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_halloween_porche.jpg",
+    "tito_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H2_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá gently turns the costume around and the baby elephant's face pops out grinning. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_halloween_H2_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H2_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá gently turns the costume around and the baby elephant's face pops out grinning. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_halloween_H2_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H2_s31",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá gently turns the costume around and the baby elephant's face pops out grinning. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 31,
+  "after": {
+   "image_start": "tito_halloween_H2_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_H3_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Mamá Elefanta from the third reference image, exactly the same character design: MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear. Exactly two elephants in the picture: the small baby and his taller mother. Setting, exactly the place from the first reference image: A cozy wooden house porch on an autumn evening, vertical 9:16 composition, camera at child eye level: three big glowing orange jack-o-lanterns with friendly smiling carved faces on the steps, strings of warm orange and purple fairy lights, fallen orange and yellow leaves, a soft purple evening sky with a big friendly round moon, a small wooden front door with a wreath of autumn leaves. Medium shot on the porch: the baby elephant in the pumpkin costume holds a small orange candy bucket and runs toward the front door; Mamá Elefanta holds up a small blue toothbrush with a smile, like saying first teeth. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_halloween_porche.jpg",
+    "tito_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H3_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant runs with the bucket, then stops and looks back at the toothbrush. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_halloween_H3_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H3_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant runs with the bucket, then stops and looks back at the toothbrush. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_halloween_H3_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H3_s31",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant runs with the bucket, then stops and looks back at the toothbrush. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 31,
+  "after": {
+   "image_start": "tito_halloween_H3_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_H4_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting, exactly the place from the first reference image: A warm cozy bathroom corner in the evening, vertical 9:16 composition, camera at child eye level: a round mirror above a small white sink, a cup with a small blue toothbrush and a tube of toothpaste, a little wooden step stool, soft warm lamp light, purple and orange tiles, a tiny pumpkin decoration on the shelf. Close-up in front of the bathroom mirror: the baby elephant in his pumpkin costume brushes his teeth with a small blue toothbrush, white foam bubbles around his mouth, tiny sparkles on his teeth. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_halloween_espejo.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H4_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He brushes up and down, foam bubbles float up and his teeth sparkle. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_halloween_H4_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H4_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He brushes up and down, foam bubbles float up and his teeth sparkle. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_halloween_H4_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H4_s31",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He brushes up and down, foam bubbles float up and his teeth sparkle. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 31,
+  "after": {
+   "image_start": "tito_halloween_H4_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_H5_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting, exactly the place from the first reference image: A cozy wooden house porch on an autumn evening, vertical 9:16 composition, camera at child eye level: three big glowing orange jack-o-lanterns with friendly smiling carved faces on the steps, strings of warm orange and purple fairy lights, fallen orange and yellow leaves, a soft purple evening sky with a big friendly round moon, a small wooden front door with a wreath of autumn leaves. Wide shot of the autumn porch at evening: three glowing jack-o-lanterns with friendly smiles light up, orange and purple fairy lights twinkle, the baby elephant in his pumpkin costume looks at them with wonder. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_halloween_porche.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H5_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The jack-o-lanterns glow brighter one by one and the fairy lights twinkle. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_halloween_H5_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H5_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The jack-o-lanterns glow brighter one by one and the fairy lights twinkle. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_halloween_H5_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H5_s31",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The jack-o-lanterns glow brighter one by one and the fairy lights twinkle. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 31,
+  "after": {
+   "image_start": "tito_halloween_H5_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_H6_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting, exactly the place from the first reference image: A cozy wooden house porch on an autumn evening, vertical 9:16 composition, camera at child eye level: three big glowing orange jack-o-lanterns with friendly smiling carved faces on the steps, strings of warm orange and purple fairy lights, fallen orange and yellow leaves, a soft purple evening sky with a big friendly round moon, a small wooden front door with a wreath of autumn leaves. Close-up on the porch: a tiny cute white sheet ghost toy with two big round friendly eyes and a little smile floats softly next to the baby elephant in his pumpkin costume; the baby elephant waves and giggles. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_halloween_porche.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H6_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The tiny friendly ghost toy floats and waves; the baby elephant waves back and giggles. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_halloween_H6_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H6_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The tiny friendly ghost toy floats and waves; the baby elephant waves back and giggles. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_halloween_H6_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H6_s31",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The tiny friendly ghost toy floats and waves; the baby elephant waves back and giggles. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 31,
+  "after": {
+   "image_start": "tito_halloween_H6_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_H7_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Mamá Elefanta from the third reference image, exactly the same character design: MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear. Exactly two elephants in the picture: the small baby and his taller mother. Setting, exactly the place from the first reference image: A cozy wooden house porch on an autumn evening, vertical 9:16 composition, camera at child eye level: three big glowing orange jack-o-lanterns with friendly smiling carved faces on the steps, strings of warm orange and purple fairy lights, fallen orange and yellow leaves, a soft purple evening sky with a big friendly round moon, a small wooden front door with a wreath of autumn leaves. Medium shot on the porch steps under orange fairy lights: the baby elephant in his pumpkin costume and Mamá Elefanta sit together and share a wrapped candy from the orange candy bucket, smiling. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_halloween_porche.jpg",
+    "tito_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H7_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. They share the candy and smile at each other, the lights twinkle. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_halloween_H7_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H7_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. They share the candy and smile at each other, the lights twinkle. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_halloween_H7_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_H8_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting, exactly the place from the first reference image: A cozy wooden house porch on an autumn evening, vertical 9:16 composition, camera at child eye level: three big glowing orange jack-o-lanterns with friendly smiling carved faces on the steps, strings of warm orange and purple fairy lights, fallen orange and yellow leaves, a soft purple evening sky with a big friendly round moon, a small wooden front door with a wreath of autumn leaves. Medium shot on the porch: the baby elephant playfully pulls the round pumpkin costume over his head the wrong way again, only his trunk tip sticking out, wiggling. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_halloween_porche.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H8_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The costume slips over his head backwards and his trunk tip wiggles out again. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_halloween_H8_kf"
+  }
+ },
+ {
+  "id": "tito_halloween_clip_H8_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The costume slips over his head backwards and his trunk tip wiggles out again. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_halloween_H8_kf"
+  }
+ }
+]
