@@ -54,7 +54,40 @@ def balance():
     print(json.dumps(r["data"]["myself"]))
 
 
+def cuda_ok(name):
+    """Bad hosts exist (2026-10-20: an L40S pod failed torch.cuda init). Test before running a job."""
+    url, hdr = agent(name)
+    test = "import torch; torch.zeros(1).cuda(); print('CUDA_OK', torch.cuda.get_device_name(0))"
+    for _ in range(5):
+        try:
+            if requests.post(url + "/run", headers=hdr, json={"name": "cudatest", "cmd": ["python3", "-c", test]}, timeout=60).ok:
+                break
+        except requests.RequestException:
+            pass
+        time.sleep(5)
+    for _ in range(30):
+        time.sleep(4)
+        try:
+            j = requests.get(url + "/status", headers=hdr, timeout=60).json()["jobs"].get("cudatest")
+            if j and j["returncode"] is not None:
+                return j["returncode"] == 0 and "CUDA_OK" in j["log_tail"]
+        except (requests.RequestException, ValueError):
+            pass
+    return False
+
+
 def up(name, gpu=None):
+    for attempt in range(3):
+        up_once(name, gpu)
+        if cuda_ok(name):
+            print("cuda ok", flush=True)
+            return
+        print("bad GPU host, terminating and retrying", flush=True)
+        down(name)
+    sys.exit("no healthy GPU pod after 3 tries")
+
+
+def up_once(name, gpu=None):
     token = secrets.token_urlsafe(24)
     code = base64.b64encode((HERE / "agent.py").read_bytes()).decode()
     last = None
