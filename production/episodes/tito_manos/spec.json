@@ -1,0 +1,129 @@
+{
+ "id": "tito_manos",
+ "title": "¡ALTO, Tito! ¿Y tus manos? 🧼🥞 | Canciones Infantiles #Shorts",
+ "hook": "paint_hands_reach_for_food_stop",
+ "world": "warm wooden kitchen (mint tiles, orange accents): table with finger paints and pancakes + sink with step stool",
+ "reuse_mama": true,
+ "title_card": {
+  "text": "¡ALTO, Tito!|¿Y tus manos?",
+  "accent": 2,
+  "dur": 1.6,
+  "y": 0.05
+ },
+ "story": [
+  "Tito's hands are covered in finger paint and he reaches for the pancakes (problem)",
+  "Mamá raises her trunk: ALTO! Tito freezes (conflict)",
+  "Tito looks at his palms: paint and tiny silly germ creatures (discovery)",
+  "Off to the sink on a little stool, Mamá pumps the soap (the try)",
+  "Rub rub: giant foam and rainbow bubbles (the habit)",
+  "Splash rinse: the paint swirls away, germs wave bye (climax)",
+  "Clean sparkling palms shown proudly, Mamá claps (reward)",
+  "Pancakes together; Tito sneaks a look at the paint pots again (loop gag)"
+ ],
+ "lyrics": "[Intro]\n¡ALTO, Tito! ¿Y tus manos?\n[Verse]\n¡Uy! ¡Pintura y bichitos!\nAl lavabo, ¡vamos ya!\nAgua y jabón, ¡qué espuma!\n[Chorus]\n¡Frota, frota, frota!\n¡Splash! ¡Se van, se van!\n¡Manitas limpias!\n[Outro]\n¡Ahora sí, a comer!",
+ "bpm": 120,
+ "style": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. ",
+ "lock": "TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail.",
+ "mama_lock": "MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear.",
+ "locations": {
+  "mesa": "A cozy warm kitchen, vertical 9:16 composition, camera at child eye level: a round wooden kitchen table with a big sheet of paper covered in colorful finger-paint splashes, three small open pots of red, blue and green finger paint, and a white plate with a tall stack of fluffy pancakes topped with strawberries and honey; mint-green wall tiles, orange curtains on a sunny window, a potted plant. Nobody is in the kitchen.",
+  "fregadero": "A cozy warm kitchen sink corner, vertical 9:16 composition, camera at child eye level: a white kitchen sink with a shiny tap, a small wooden step stool in front of it, a round soap pump bottle with pink soap, a fluffy orange hand towel on a hook, mint-green wall tiles, a sunny window with herb pots on the sill, warm wooden cabinets. Nobody is in the kitchen."
+ },
+ "shots": [
+  [
+   "M1",
+   "Extreme close-up: the baby elephant's two little hands completely covered in bright red, blue and green finger paint, reaching toward a stack of fluffy pancakes with strawberries in the foreground; his excited hungry face with wide eyes just behind his hands.",
+   "His paint-covered hands reach slowly toward the pancakes, his eyes sparkle with hunger.",
+   "mesa",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "M2",
+   "Medium shot at the kitchen table: Mamá Elefanta stands tall and holds up her trunk like a friendly stop sign with a gentle surprised face; the baby elephant freezes mid-reach with his paint-covered hands in the air.",
+   "Mamá raises her trunk to say stop; the baby elephant freezes and blinks.",
+   "mesa",
+   [
+    "tito",
+    "mama"
+   ],
+   3
+  ],
+  [
+   "M3",
+   "Close-up: the baby elephant looks down at his open palms covered in colorful finger paint; on his palms sit four tiny cute round green fuzzy germ creatures with silly little faces, dancing; his eyes are wide with surprise.",
+   "The tiny green germ creatures wiggle and dance on his palms; he leans back surprised.",
+   "mesa",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "M4",
+   "Wide shot of the kitchen sink corner: the baby elephant climbs onto the little wooden step stool in front of the sink, Mamá Elefanta stands beside him and presses the soap pump bottle.",
+   "The baby elephant steps up onto the stool; Mamá presses the soap pump, pink soap comes out.",
+   "fregadero",
+   [
+    "tito",
+    "mama"
+   ],
+   3
+  ],
+  [
+   "M5",
+   "Close-up over the sink: the baby elephant's little hands rubbing together inside a huge cloud of white soap foam, rainbow soap bubbles floating up around them.",
+   "His hands rub round and round, the foam grows bigger and rainbow bubbles float up.",
+   "fregadero",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "M6",
+   "Close-up over the sink: water from the shiny tap splashes onto the baby elephant's foamy hands, red, blue and green paint swirls down the drain in a little rainbow whirl, a few tiny green germ creatures float away inside soap bubbles waving bye.",
+   "Water splashes on his hands, the colors swirl away down the drain, the bubbles with the tiny germs float up and away.",
+   "fregadero",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "M7",
+   "Medium shot at the sink: the baby elephant proudly shows his clean, sparkling palms to the camera with a big happy smile, tiny sparkles around his hands; Mamá Elefanta behind him claps happily.",
+   "He holds up his clean hands proudly, the sparkles twinkle; Mamá claps.",
+   "fregadero",
+   [
+    "tito",
+    "mama"
+   ],
+   2
+  ],
+  [
+   "M8",
+   "Medium shot at the kitchen table: the baby elephant and Mamá Elefanta sit together, the baby elephant takes a big happy bite of a fluffy pancake with a strawberry, Mamá smiles at him.",
+   "He takes a happy bite and wiggles with joy; Mamá smiles warmly.",
+   "mesa",
+   [
+    "tito",
+    "mama"
+   ],
+   2
+  ],
+  [
+   "M9",
+   "Wide shot of the kitchen table: the clean baby elephant with a full belly glances sideways at the three pots of finger paint and slowly reaches one finger toward the blue pot with a mischievous grin.",
+   "He slowly reaches one finger toward the paint pot with a sneaky grin.",
+   "mesa",
+   [
+    "tito"
+   ],
+   2
+  ]
+ ],
+ "song_takes": 12
+}

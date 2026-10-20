@@ -25,7 +25,7 @@ ACT = ("Smooth natural motion with a clear purposeful action; every character ke
 
 tasks = []
 if stage == "design":
-    for k in (1, 2, 3, 4):
+    for k in (() if s.get("reuse_mama") else (1, 2, 3, 4)):  # reuse_mama: production/characters/mama_master.jpg
         tasks.append({"id": f"{sid}_mama_s{k}", "model_type": "flux2_klein_4b", "resolution": "720x1280", "num_inference_steps": 4,
                       "seed": 300 + k, "video_prompt_type": "KI",
                       "prompt": STYLE + "Character design sheet, full body, front three-quarter view, standing on a plain soft pastel "
@@ -36,7 +36,7 @@ if stage == "design":
         for k in (1, 2):
             tasks.append({"id": f"{sid}_loc_{name}_s{k}", "model_type": "flux2_klein_4b", "resolution": "720x1280",
                           "num_inference_steps": 4, "seed": 400 + k, "prompt": STYLE + prompt})
-    for k in range(1, 7):
+    for k in range(1, 1 + s.get("song_takes", 6)):
         tasks.append({"id": f"{sid}_song_s{k}", "model_type": "ace_step_v1_5_turbo_lm_1_7b", "prompt": s["lyrics"],
                       "alt_prompt": SONG.format(bpm=s["bpm"]), "duration_seconds": 26, "seed": k, "num_inference_steps": 8,
                       "custom_settings": {"bpm": s["bpm"], "language": "es", "keyscale": "C major", "timesignature": 4}})
