@@ -1,5 +1,5 @@
 # דוח העלאה — "¡Rojito perdió sus ruedas!" (Rojito פרק 1)
-**קישור:** https://youtube.com/shorts/gCaM5FcbPpY · **סדרה:** Rojito el Camioncito 🚒 · **הועלה:** 20.10, ~22:05 ישראל · **אורך:** 28 ש'
+**קישור:** https://youtube.com/shorts/gCaM5FcbPpY · **סדרה:** Rojito el Camioncito 🚒 · **הועלה:** 20.10, 21:50 ישראל · **אורך:** 28 ש'
 
 ## 1. מחקר לפני התסריט
 1. **סריקת שוק כללית (14 ימים):** הרגלים ×4.6, אוכל ×4.0 — כולם כבר בסדרת טיטו; חיפשנו פורמט שונה לסדרה 2.
