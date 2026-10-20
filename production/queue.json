@@ -1,0 +1,41 @@
+{
+ "_doc": "Shared work queue. Research agent (scriptwriter) owns status 'researching'/'script_ready'/'script_revised'. Producer agent owns 'in_production'/'qc'/'published'/'needs_rewrite'. Each agent only edits its own statuses. Producer feedback: production/feedback/<id>.md.",
+ "items": [
+  {
+   "id": "rojito_ciudad",
+   "status": "idea",
+   "owner": "research",
+   "note": "NuNu-style 'En la ciudad, ¿cómo hacen?' — each line a different vehicle character + its sound (research/10). Needs full spec + dossier."
+  },
+  {
+   "id": "tito_halloween",
+   "status": "script_ready",
+   "owner": "producer",
+   "note": "director mode rewrite done; keyframes next"
+  },
+  {
+   "id": "rojito_ruedas",
+   "status": "script_ready",
+   "owner": "producer",
+   "note": "redo of unlisted ep1 in director mode"
+  },
+  {
+   "id": "tito_ep2",
+   "status": "script_ready",
+   "owner": "producer",
+   "note": "long-form 'Un día con Tito'; song s8 picked"
+  },
+  {
+   "id": "rojito_barro",
+   "status": "qc",
+   "owner": "producer",
+   "note": "uploads 23:35 UTC 20.10"
+  },
+  {
+   "id": "rojito_colores",
+   "status": "published",
+   "owner": "producer",
+   "youtube_id": "0WpO8lYXsEU"
+  }
+ ]
+}
