@@ -1,0 +1,120 @@
+{
+ "id": "tito_bano",
+ "title": "¡Tito no se quiere bañar! 😱🛁 | Canciones Infantiles #Shorts",
+ "hook": "mud_closeup_refusal_story",
+ "world": "backyard after rain (mud puddles, clothesline) + turquoise bathroom with bubble tub",
+ "story": [
+  "Tito is covered in mud (problem)",
+  "Mamá offers a bath, Tito refuses: no, no, no (conflict)",
+  "Tito runs and hides behind a sheet on the clothesline (escape)",
+  "He discovers a tub of rainbow bubbles and a rubber duck (curiosity wins)",
+  "Splash! He jumps in, foam flies (climax)",
+  "Mamá scrubs, mud melts away (the habit)",
+  "Clean, towel hug with Mamá (reward)",
+  "He spots a mud puddle again (loop gag)"
+ ],
+ "lyrics": "[Intro]\n¡Uy! ¡Tito está sucio!\n[Verse]\n¿A bañarse? ¡No, no, no!\n¡Tito corre y se esconde!\n¡Mira, mira! ¡Burbujas!\n[Chorus]\n¡Splash, splash, splash!\n¡Agua y jabón!\n¡Fuera barro, fuera!\n[Outro]\n¡Limpito y feliz!",
+ "bpm": 120,
+ "style": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. ",
+ "lock": "TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail.",
+ "mama_lock": "MAMÁ ELEFANTA, the mother of the baby elephant: a gentle adult elephant about 1.6 times taller than Tito, soft lavender-grey body, big round ears with peach-pink insides, big warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots and a small yellow flower behind one ear.",
+ "locations": {
+  "patio": "A backyard just after the rain, vertical 9:16 composition, camera at child eye level: wet green grass, big brown mud puddles, a clothesline with white sheets gently moving, a pair of small yellow rain boots, a little wooden fence and a bright sky with soft clouds after the rain. Nobody is in the yard.",
+  "bano": "A cheerful bathroom, vertical 9:16 composition, camera at child eye level: turquoise and white tiles, a big white clawfoot bathtub overflowing with fluffy white foam and rainbow soap bubbles, a plain yellow rubber duck toy floating on the foam, a small window with warm sunlight, a fluffy yellow towel on a hook. Nobody is in the bathroom."
+ },
+ "shots": [
+  [
+   "T1",
+   "Extreme close-up: the baby elephant's face covered in brown mud splats, a drop of mud dripping from his ear, a guilty toothy grin, looking slightly to the side, the wet backyard softly blurred behind.",
+   "A drop of mud falls from his ear, he blinks and grins guiltily.",
+   "patio",
+   [
+    "tito"
+   ],
+   2
+  ],
+  [
+   "T2",
+   "Medium shot in the wet backyard: Mamá Elefanta holds a fluffy yellow towel and a plain yellow rubber duck toy, smiling kindly; next to her the muddy baby elephant crosses his arms and pouts.",
+   "The baby elephant shakes his head no with his arms crossed; Mamá tilts her head patiently.",
+   "patio",
+   [
+    "tito",
+    "mama"
+   ],
+   3
+  ],
+  [
+   "T3",
+   "Wide shot of the wet backyard after the rain: the muddy baby elephant peeks out from behind a white sheet hanging on the clothesline, a trail of little muddy footprints leads to him.",
+   "The sheet sways in the breeze, the baby elephant peeks out and giggles.",
+   "patio",
+   [
+    "tito"
+   ],
+   2
+  ],
+  [
+   "T4",
+   "Medium shot in the bathroom: a big white bathtub overflowing with fluffy foam and rainbow soap bubbles, a yellow rubber duck toy on the foam; the muddy baby elephant peeks in from the doorway with huge curious eyes.",
+   "Rainbow bubbles drift up, the duck bobs on the foam, the baby elephant leans in curiously.",
+   "bano",
+   [
+    "tito"
+   ],
+   2
+  ],
+  [
+   "T5",
+   "Medium shot: the baby elephant sits in the bubble bath, a big splash of water and foam flying around him, laughing with joy.",
+   "Water splashes up and foam flies, the baby elephant laughs.",
+   "bano",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "T6",
+   "Close-up: the baby elephant in the bath with a white bubble beard and a tall bubble hat, laughing, rainbow bubbles around.",
+   "A bubble pops on his nose and he giggles.",
+   "bano",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "T7",
+   "Close-up insert: Mamá Elefanta's trunk holds a soft sponge and scrubs the baby elephant's back in the bath, brown mud melting into the foamy water.",
+   "The sponge moves in slow circles, foam spreads, the mud washes away.",
+   "bano",
+   [
+    "tito",
+    "mama"
+   ],
+   3
+  ],
+  [
+   "T8",
+   "Medium shot: the clean baby elephant wrapped in a fluffy yellow hooded towel with little duck ears hugs Mamá Elefanta, tiny sparkles around them, the bathroom behind.",
+   "They hug and sway gently, sparkles twinkle.",
+   "bano",
+   [
+    "tito",
+    "mama"
+   ],
+   3
+  ],
+  [
+   "T9",
+   "Wide shot of the wet backyard: the clean baby elephant in soft pajamas stands next to a big mud puddle, one foot raised above it, a mischievous grin.",
+   "He lifts his foot over the puddle with a sneaky grin.",
+   "patio",
+   [
+    "tito"
+   ],
+   2
+  ]
+ ]
+}

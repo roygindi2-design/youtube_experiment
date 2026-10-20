@@ -1,0 +1,180 @@
+[
+ {
+  "id": "tito_bano_mama_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 301,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Character design sheet, full body, front three-quarter view, standing on a plain soft pastel background: the mother of the baby elephant in the reference image, drawn in exactly the same 3D style. MAMÁ ELEFANTA, the mother of the baby elephant: a gentle adult elephant about 1.6 times taller than Tito, soft lavender-grey body, big round ears with peach-pink insides, big warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots and a small yellow flower behind one ear. Only one character, friendly and warm.",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_bano_mama_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 302,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Character design sheet, full body, front three-quarter view, standing on a plain soft pastel background: the mother of the baby elephant in the reference image, drawn in exactly the same 3D style. MAMÁ ELEFANTA, the mother of the baby elephant: a gentle adult elephant about 1.6 times taller than Tito, soft lavender-grey body, big round ears with peach-pink insides, big warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots and a small yellow flower behind one ear. Only one character, friendly and warm.",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_bano_mama_s3",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 303,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Character design sheet, full body, front three-quarter view, standing on a plain soft pastel background: the mother of the baby elephant in the reference image, drawn in exactly the same 3D style. MAMÁ ELEFANTA, the mother of the baby elephant: a gentle adult elephant about 1.6 times taller than Tito, soft lavender-grey body, big round ears with peach-pink insides, big warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots and a small yellow flower behind one ear. Only one character, friendly and warm.",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_bano_mama_s4",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 304,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Character design sheet, full body, front three-quarter view, standing on a plain soft pastel background: the mother of the baby elephant in the reference image, drawn in exactly the same 3D style. MAMÁ ELEFANTA, the mother of the baby elephant: a gentle adult elephant about 1.6 times taller than Tito, soft lavender-grey body, big round ears with peach-pink insides, big warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots and a small yellow flower behind one ear. Only one character, friendly and warm.",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_bano_loc_patio_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A backyard just after the rain, vertical 9:16 composition, camera at child eye level: wet green grass, big brown mud puddles, a clothesline with white sheets gently moving, a pair of small yellow rain boots, a little wooden fence and a bright sky with soft clouds after the rain. Nobody is in the yard."
+ },
+ {
+  "id": "tito_bano_loc_patio_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A backyard just after the rain, vertical 9:16 composition, camera at child eye level: wet green grass, big brown mud puddles, a clothesline with white sheets gently moving, a pair of small yellow rain boots, a little wooden fence and a bright sky with soft clouds after the rain. Nobody is in the yard."
+ },
+ {
+  "id": "tito_bano_loc_bano_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cheerful bathroom, vertical 9:16 composition, camera at child eye level: turquoise and white tiles, a big white clawfoot bathtub overflowing with fluffy white foam and rainbow soap bubbles, a plain yellow rubber duck toy floating on the foam, a small window with warm sunlight, a fluffy yellow towel on a hook. Nobody is in the bathroom."
+ },
+ {
+  "id": "tito_bano_loc_bano_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cheerful bathroom, vertical 9:16 composition, camera at child eye level: turquoise and white tiles, a big white clawfoot bathtub overflowing with fluffy white foam and rainbow soap bubbles, a plain yellow rubber duck toy floating on the foam, a small window with warm sunlight, a fluffy yellow towel on a hook. Nobody is in the bathroom."
+ },
+ {
+  "id": "tito_bano_song_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Tito está sucio!\n[Verse]\n¿A bañarse? ¡No, no, no!\n¡Tito corre y se esconde!\n¡Mira, mira! ¡Burbujas!\n[Chorus]\n¡Splash, splash, splash!\n¡Agua y jabón!\n¡Fuera barro, fuera!\n[Outro]\n¡Limpito y feliz!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_bano_song_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Tito está sucio!\n[Verse]\n¿A bañarse? ¡No, no, no!\n¡Tito corre y se esconde!\n¡Mira, mira! ¡Burbujas!\n[Chorus]\n¡Splash, splash, splash!\n¡Agua y jabón!\n¡Fuera barro, fuera!\n[Outro]\n¡Limpito y feliz!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_bano_song_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Tito está sucio!\n[Verse]\n¿A bañarse? ¡No, no, no!\n¡Tito corre y se esconde!\n¡Mira, mira! ¡Burbujas!\n[Chorus]\n¡Splash, splash, splash!\n¡Agua y jabón!\n¡Fuera barro, fuera!\n[Outro]\n¡Limpito y feliz!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_bano_song_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Tito está sucio!\n[Verse]\n¿A bañarse? ¡No, no, no!\n¡Tito corre y se esconde!\n¡Mira, mira! ¡Burbujas!\n[Chorus]\n¡Splash, splash, splash!\n¡Agua y jabón!\n¡Fuera barro, fuera!\n[Outro]\n¡Limpito y feliz!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_bano_song_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Tito está sucio!\n[Verse]\n¿A bañarse? ¡No, no, no!\n¡Tito corre y se esconde!\n¡Mira, mira! ¡Burbujas!\n[Chorus]\n¡Splash, splash, splash!\n¡Agua y jabón!\n¡Fuera barro, fuera!\n[Outro]\n¡Limpito y feliz!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_bano_song_s6",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Tito está sucio!\n[Verse]\n¿A bañarse? ¡No, no, no!\n¡Tito corre y se esconde!\n¡Mira, mira! ¡Burbujas!\n[Chorus]\n¡Splash, splash, splash!\n¡Agua y jabón!\n¡Fuera barro, fuera!\n[Outro]\n¡Limpito y feliz!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 6,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ }
+]
