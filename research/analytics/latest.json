@@ -1,20 +1,31 @@
 {
- "taken": "2026-10-20 06:59 UTC",
+ "taken": "2026-10-20 12:48 UTC",
  "channel": {
   "title": "Cantilandia",
   "id": "UCDwph5nbCbbl97Pu4gTyZUA",
   "subscribers": 0,
   "views": 0,
-  "videos": 4
+  "videos": 5
  },
  "videos": [
+  {
+   "id": "HxAYv-GieDM",
+   "title": "¡Tuuu! Los colores con Tito 🐘🎈 | Rojo, azul y amarillo #Shorts",
+   "published": "2026-10-20",
+   "privacy": "public",
+   "duration_s": 22,
+   "views": 3,
+   "likes": 0,
+   "comments": 0,
+   "retention_curve": []
+  },
   {
    "id": "gxH1p0Sp59g",
    "title": "¡La torre de colores de Tito! 🐘🧱 | Canciones Infantiles #Shorts",
    "published": "2026-10-19",
    "privacy": "public",
    "duration_s": 39,
-   "views": 7,
+   "views": 8,
    "likes": 0,
    "comments": 0,
    "retention_curve": []
