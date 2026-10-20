@@ -166,6 +166,18 @@ def main():
     ass = tmp / "captions.ass"
     write_srt(e, out.with_suffix(".es.srt"))  # always: separate closed-caption file for YouTube (CC)
     vf = ["-vf", "null"]
+    tc = e.get("title_card")  # experiment (Roy approved 2026-10-20 for ONE video): big title over the opening, like top AI kids channels
+    if tc:
+        font = str(Path(e.get("font_file", "production/fonts/Fredoka.ttf")).resolve())
+        size, gap = tc.get("size", 132), tc.get("line_gap", 1.12)
+        parts = []
+        for i, line in enumerate(tc["text"].split("\n")):
+            lf = tmp / f"title_{i}.txt"
+            lf.write_text(line, encoding="utf-8")
+            parts.append(f"drawtext=fontfile='{font}':textfile='{lf}':fontsize={size}:fontcolor={tc.get('color', '0xFFD23F')}:"
+                         f"borderw={tc.get('border', 12)}:bordercolor={tc.get('border_color', '0x2B1B5A')}:shadowx=0:shadowy=8:shadowcolor=black@0.35:"
+                         f"x=(w-text_w)/2:y=h*{tc.get('y', 0.08)}+{int(i * size * gap)}:enable='between(t,0,{tc.get('dur', 1.2)})'")
+        vf = ["-vf", ",".join(parts)]
     if e.get("burn_captions", True):  # toddler Shorts: burn_captions=false keeps the picture clean
         build_ass(e, ass)
         fontsdir = str(Path(e.get("font_file", "production/fonts/x")).resolve().parent)
