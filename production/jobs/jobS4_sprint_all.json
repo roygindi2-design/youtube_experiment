@@ -1,0 +1,1151 @@
+[
+ {
+  "id": "tito_s4_helado_room",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Bright sunny kids playroom, vertical 9:16 composition, camera at child eye level, light wooden floor, round pastel-pink rug, big window with soft daylight. In the center of the room stands a GIANT ice cream cone, taller than a child, with three huge scoops stacked: a red strawberry scoop at the bottom, a yellow banana scoop in the middle and a brown chocolate scoop on top. No characters, no animals, no faces, no people."
+ },
+ {
+  "id": "tito_s4_helado_song_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Un helado gigante!\n[Verse]\nBola roja, ¡fresa!\nBola amarilla, ¡plátano!\nBola café, ¡chocolate!\n[Chorus]\nHelado de colores, ¡mmm, qué rico!\n[Outro]\n¡Uno, dos, tres! ¡Mmm!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 30,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_s4_helado_song_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Un helado gigante!\n[Verse]\nBola roja, ¡fresa!\nBola amarilla, ¡plátano!\nBola café, ¡chocolate!\n[Chorus]\nHelado de colores, ¡mmm, qué rico!\n[Outro]\n¡Uno, dos, tres! ¡Mmm!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 30,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_s4_helado_song_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Un helado gigante!\n[Verse]\nBola roja, ¡fresa!\nBola amarilla, ¡plátano!\nBola café, ¡chocolate!\n[Chorus]\nHelado de colores, ¡mmm, qué rico!\n[Outro]\n¡Uno, dos, tres! ¡Mmm!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 30,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_s4_helado_song_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Un helado gigante!\n[Verse]\nBola roja, ¡fresa!\nBola amarilla, ¡plátano!\nBola café, ¡chocolate!\n[Chorus]\nHelado de colores, ¡mmm, qué rico!\n[Outro]\n¡Uno, dos, tres! ¡Mmm!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 30,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_s4_helado_song_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Un helado gigante!\n[Verse]\nBola roja, ¡fresa!\nBola amarilla, ¡plátano!\nBola café, ¡chocolate!\n[Chorus]\nHelado de colores, ¡mmm, qué rico!\n[Outro]\n¡Uno, dos, tres! ¡Mmm!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 30,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_s4_helado_H1_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Low angle medium shot: the baby elephant stands next to the giant ice cream cone that towers over him, he looks up at it with a huge surprised open-mouth smile, ears raised. Only one elephant in the picture. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s4_helado_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s4_helado_H2_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium close-up: the baby elephant points his trunk at the huge red strawberry scoop of the giant ice cream, happy face. Only one elephant in the picture. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s4_helado_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s4_helado_H3_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium close-up: the baby elephant looks up at the huge yellow banana scoop of the giant ice cream, delighted smile. Only one elephant in the picture. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s4_helado_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s4_helado_H4_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium close-up: the baby elephant reaches his trunk toward the huge brown chocolate scoop on top of the giant ice cream, eyes wide. Only one elephant in the picture. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s4_helado_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s4_helado_H5_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium shot: the baby elephant hugs himself with joy in front of the giant ice cream, eyes closed, blissful 'mmm' smile. Only one elephant in the picture. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s4_helado_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s4_helado_H6_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Wide shot: the baby elephant dances next to the giant three-color ice cream cone, ears flapping, one foot raised. Only one elephant in the picture. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s4_helado_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s4_helado_H7_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium close-up: the baby elephant has a small dab of pink strawberry ice cream on the tip of his trunk, he looks at it cross-eyed and laughs. Only one elephant in the picture. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s4_helado_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s4_helado_clip_H1_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant looks up at the giant ice cream, his ears lift in surprise and his eyes sparkle. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s4_helado_H1_kf"
+  }
+ },
+ {
+  "id": "tito_s4_helado_clip_H1_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant looks up at the giant ice cream, his ears lift in surprise and his eyes sparkle. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s4_helado_H1_kf"
+  }
+ },
+ {
+  "id": "tito_s4_helado_clip_H2_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant points at the red scoop with his trunk and nods happily. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s4_helado_H2_kf"
+  }
+ },
+ {
+  "id": "tito_s4_helado_clip_H2_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant points at the red scoop with his trunk and nods happily. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s4_helado_H2_kf"
+  }
+ },
+ {
+  "id": "tito_s4_helado_clip_H3_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant looks at the yellow scoop and smiles, his ears flap gently. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s4_helado_H3_kf"
+  }
+ },
+ {
+  "id": "tito_s4_helado_clip_H3_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant looks at the yellow scoop and smiles, his ears flap gently. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s4_helado_H3_kf"
+  }
+ },
+ {
+  "id": "tito_s4_helado_clip_H4_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant stretches his trunk up toward the brown scoop and giggles. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s4_helado_H4_kf"
+  }
+ },
+ {
+  "id": "tito_s4_helado_clip_H4_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant stretches his trunk up toward the brown scoop and giggles. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s4_helado_H4_kf"
+  }
+ },
+ {
+  "id": "tito_s4_helado_clip_H5_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant sways happily side to side with his eyes closed, smiling. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s4_helado_H5_kf"
+  }
+ },
+ {
+  "id": "tito_s4_helado_clip_H5_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant sways happily side to side with his eyes closed, smiling. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s4_helado_H5_kf"
+  }
+ },
+ {
+  "id": "tito_s4_helado_clip_H6_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant dances gently side to side next to the giant ice cream. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s4_helado_H6_kf"
+  }
+ },
+ {
+  "id": "tito_s4_helado_clip_H6_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant dances gently side to side next to the giant ice cream. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s4_helado_H6_kf"
+  }
+ },
+ {
+  "id": "tito_s4_helado_clip_H7_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant looks at the ice cream on his trunk and laughs. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s4_helado_H7_kf"
+  }
+ },
+ {
+  "id": "tito_s4_helado_clip_H7_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant looks at the ice cream on his trunk and laughs. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s4_helado_H7_kf"
+  }
+ },
+ {
+  "id": "tito_s4_color_room",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Bright cozy kids playroom, vertical 9:16 composition, camera at child eye level, light wooden floor, round pastel-pink rug, big window with soft daylight. On the rug lie a shiny red ball and a yellow rubber duck, and a blue balloon on a string floats above the rug. No characters, no animals, no faces, no people."
+ },
+ {
+  "id": "tito_s4_color_song_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Tuuu! ¡Tuuu! ¡Colores!\n[Verse]\n¡Rojo, rojo, la pelota!\n¡Azul, azul, el globo!\n¡Amarillo, amarillo, el patito!\n[Outro]\n¡Tuuu! ¡Muy bien!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 116 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 30,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 116,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_s4_color_song_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Tuuu! ¡Tuuu! ¡Colores!\n[Verse]\n¡Rojo, rojo, la pelota!\n¡Azul, azul, el globo!\n¡Amarillo, amarillo, el patito!\n[Outro]\n¡Tuuu! ¡Muy bien!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 116 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 30,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 116,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_s4_color_song_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Tuuu! ¡Tuuu! ¡Colores!\n[Verse]\n¡Rojo, rojo, la pelota!\n¡Azul, azul, el globo!\n¡Amarillo, amarillo, el patito!\n[Outro]\n¡Tuuu! ¡Muy bien!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 116 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 30,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 116,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_s4_color_song_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Tuuu! ¡Tuuu! ¡Colores!\n[Verse]\n¡Rojo, rojo, la pelota!\n¡Azul, azul, el globo!\n¡Amarillo, amarillo, el patito!\n[Outro]\n¡Tuuu! ¡Muy bien!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 116 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 30,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 116,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_s4_color_song_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Tuuu! ¡Tuuu! ¡Colores!\n[Verse]\n¡Rojo, rojo, la pelota!\n¡Azul, azul, el globo!\n¡Amarillo, amarillo, el patito!\n[Outro]\n¡Tuuu! ¡Muy bien!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 116 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 30,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 116,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_s4_color_C1_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium shot: the baby elephant raises his trunk high and trumpets joyfully, ears spread wide, eyes closed with joy. Only one elephant in the picture. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s4_color_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s4_color_C2_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium shot: a shiny red ball bounces on the pink rug next to the baby elephant, he watches it with delight. Only one elephant in the picture. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s4_color_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s4_color_C3_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium shot: a blue balloon on a string floats above the baby elephant, he looks up at it with wonder. Only one elephant in the picture. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s4_color_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s4_color_C4_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium shot: the baby elephant claps happily next to a yellow rubber duck sitting on the rug. Only one elephant in the picture. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s4_color_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s4_color_C5_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Wide shot: the baby elephant dances on the rug next to the red ball, the yellow duck and the floating blue balloon. Only one elephant in the picture. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s4_color_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s4_color_C6_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium shot: the baby elephant raises his trunk high and trumpets again, very happy, ears spread wide. Only one elephant in the picture. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s4_color_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s4_color_clip_C1_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant trumpets with his trunk raised high, his ears flutter. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s4_color_C1_kf"
+  }
+ },
+ {
+  "id": "tito_s4_color_clip_C1_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant trumpets with his trunk raised high, his ears flutter. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s4_color_C1_kf"
+  }
+ },
+ {
+  "id": "tito_s4_color_clip_C2_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The red ball bounces gently up and down on the rug, the baby elephant follows it with his eyes. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s4_color_C2_kf"
+  }
+ },
+ {
+  "id": "tito_s4_color_clip_C2_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The red ball bounces gently up and down on the rug, the baby elephant follows it with his eyes. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s4_color_C2_kf"
+  }
+ },
+ {
+  "id": "tito_s4_color_clip_C3_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The blue balloon sways gently in the air, the baby elephant looks up and smiles. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s4_color_C3_kf"
+  }
+ },
+ {
+  "id": "tito_s4_color_clip_C3_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The blue balloon sways gently in the air, the baby elephant looks up and smiles. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s4_color_C3_kf"
+  }
+ },
+ {
+  "id": "tito_s4_color_clip_C4_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant claps his hands happily, the duck stays on the rug. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s4_color_C4_kf"
+  }
+ },
+ {
+  "id": "tito_s4_color_clip_C4_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant claps his hands happily, the duck stays on the rug. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s4_color_C4_kf"
+  }
+ },
+ {
+  "id": "tito_s4_color_clip_C5_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant dances gently side to side, ears flapping. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s4_color_C5_kf"
+  }
+ },
+ {
+  "id": "tito_s4_color_clip_C5_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant dances gently side to side, ears flapping. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s4_color_C5_kf"
+  }
+ },
+ {
+  "id": "tito_s4_color_clip_C6_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant trumpets with his trunk raised high. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s4_color_C6_kf"
+  }
+ },
+ {
+  "id": "tito_s4_color_clip_C6_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant trumpets with his trunk raised high. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s4_color_C6_kf"
+  }
+ },
+ {
+  "id": "tito_s4_cucu_room",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Bright cozy kids bedroom, vertical 9:16 composition, camera at child eye level, light wooden floor, round pastel-pink rug, a long soft yellow curtain hanging by the window, a fluffy light-blue blanket on the rug, a small toy chest. No characters, no animals, no faces, no people."
+ },
+ {
+  "id": "tito_s4_cucu_song_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¿Dónde está Tito? ¿Dónde está?\n[Verse]\n¿Detrás de la cortina? ¡Cucú! ¡Aquí está!\n¿Debajo de la manta? ¡Cucú! ¡Aquí está!\n[Chorus]\n¡Cucú, cucú, te veo yo!\n[Outro]\n¡Cucú! ¡Adiós!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 112 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 30,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 112,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_s4_cucu_song_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¿Dónde está Tito? ¿Dónde está?\n[Verse]\n¿Detrás de la cortina? ¡Cucú! ¡Aquí está!\n¿Debajo de la manta? ¡Cucú! ¡Aquí está!\n[Chorus]\n¡Cucú, cucú, te veo yo!\n[Outro]\n¡Cucú! ¡Adiós!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 112 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 30,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 112,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_s4_cucu_song_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¿Dónde está Tito? ¿Dónde está?\n[Verse]\n¿Detrás de la cortina? ¡Cucú! ¡Aquí está!\n¿Debajo de la manta? ¡Cucú! ¡Aquí está!\n[Chorus]\n¡Cucú, cucú, te veo yo!\n[Outro]\n¡Cucú! ¡Adiós!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 112 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 30,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 112,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_s4_cucu_song_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¿Dónde está Tito? ¿Dónde está?\n[Verse]\n¿Detrás de la cortina? ¡Cucú! ¡Aquí está!\n¿Debajo de la manta? ¡Cucú! ¡Aquí está!\n[Chorus]\n¡Cucú, cucú, te veo yo!\n[Outro]\n¡Cucú! ¡Adiós!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 112 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 30,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 112,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_s4_cucu_song_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¿Dónde está Tito? ¿Dónde está?\n[Verse]\n¿Detrás de la cortina? ¡Cucú! ¡Aquí está!\n¿Debajo de la manta? ¡Cucú! ¡Aquí está!\n[Chorus]\n¡Cucú, cucú, te veo yo!\n[Outro]\n¡Cucú! ¡Adiós!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 112 bpm, bright, happy, very clear lyrics, every word sung clearly",
+  "duration_seconds": 30,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 112,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_s4_cucu_P1_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium shot: the long yellow curtain by the window, a big round elephant ear and a small blue foot of the baby elephant peek out from behind it. Only one elephant in the picture. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s4_cucu_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s4_cucu_P2_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium shot: the baby elephant peeks out from behind the yellow curtain with a huge happy smile, looking into the camera. Only one elephant in the picture. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s4_cucu_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s4_cucu_P3_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium shot: a fluffy light-blue blanket on the rug with a round elephant-shaped lump under it and a pink-and-blue ear sticking out. Only one elephant in the picture. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s4_cucu_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s4_cucu_P4_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium shot: the baby elephant sits on the rug with the light-blue blanket over his back like a cape, his face visible, laughing into the camera. Only one elephant in the picture. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s4_cucu_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s4_cucu_P5_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Close-up: the baby elephant covers his eyes with both hands, playing peekaboo with the viewer. Only one elephant in the picture. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s4_cucu_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s4_cucu_P6_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Close-up: the baby elephant laughs with delight looking straight into the camera, ears up. Only one elephant in the picture. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s4_cucu_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s4_cucu_P7_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design, same colors and same features: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Setting: the room from the first reference image. Medium shot: the baby elephant waves goodbye at the camera with one hand, big smile. Only one elephant in the picture. Vertical 9:16 frame.",
+  "after": {
+   "image_refs": [
+    "tito_s4_cucu_room"
+   ]
+  },
+  "inputs": {
+   "image_refs_extra": "tito_master.jpg"
+  }
+ },
+ {
+  "id": "tito_s4_cucu_clip_P1_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The curtain sways very gently, the elephant ear wiggles behind it. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s4_cucu_P1_kf"
+  }
+ },
+ {
+  "id": "tito_s4_cucu_clip_P1_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The curtain sways very gently, the elephant ear wiggles behind it. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s4_cucu_P1_kf"
+  }
+ },
+ {
+  "id": "tito_s4_cucu_clip_P2_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant leans out a little from behind the curtain and smiles at the camera. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s4_cucu_P2_kf"
+  }
+ },
+ {
+  "id": "tito_s4_cucu_clip_P2_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant leans out a little from behind the curtain and smiles at the camera. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s4_cucu_P2_kf"
+  }
+ },
+ {
+  "id": "tito_s4_cucu_clip_P3_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The blanket rises and falls gently as if breathing, the ear wiggles. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s4_cucu_P3_kf"
+  }
+ },
+ {
+  "id": "tito_s4_cucu_clip_P3_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The blanket rises and falls gently as if breathing, the ear wiggles. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s4_cucu_P3_kf"
+  }
+ },
+ {
+  "id": "tito_s4_cucu_clip_P4_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant laughs and wiggles his ears. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s4_cucu_P4_kf"
+  }
+ },
+ {
+  "id": "tito_s4_cucu_clip_P4_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant laughs and wiggles his ears. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s4_cucu_P4_kf"
+  }
+ },
+ {
+  "id": "tito_s4_cucu_clip_P5_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant slowly lowers his hands from his eyes and smiles at the camera. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s4_cucu_P5_kf"
+  }
+ },
+ {
+  "id": "tito_s4_cucu_clip_P5_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant slowly lowers his hands from his eyes and smiles at the camera. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s4_cucu_P5_kf"
+  }
+ },
+ {
+  "id": "tito_s4_cucu_clip_P6_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant giggles and his ears bounce gently. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s4_cucu_P6_kf"
+  }
+ },
+ {
+  "id": "tito_s4_cucu_clip_P6_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant giggles and his ears bounce gently. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s4_cucu_P6_kf"
+  }
+ },
+ {
+  "id": "tito_s4_cucu_clip_P7_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant waves goodbye with one hand. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_s4_cucu_P7_kf"
+  }
+ },
+ {
+  "id": "tito_s4_cucu_clip_P7_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant waves goodbye with one hand. Static camera. Small, calm, smooth movements; the character's head stays steady and stays the same single character; only one elephant; every object stays in its place and keeps its shape; no fast motion, no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_s4_cucu_P7_kf"
+  }
+ }
+]

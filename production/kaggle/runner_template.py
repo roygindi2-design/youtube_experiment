@@ -20,13 +20,13 @@ import time
 import traceback
 from pathlib import Path
 
-WORK = Path("/kaggle/working")
-TEMP = Path("/kaggle/temp")
+WORK = Path(os.environ.get("RUNNER_WORK", "/kaggle/working"))  # RunPod: /workspace/work
+TEMP = Path(os.environ.get("RUNNER_TEMP", "/kaggle/temp"))
 REPO = TEMP / "Wan2GP"
 OUT = WORK / "out"
 RAW = TEMP / "raw"
 MANIFEST = WORK / "manifest.json"
-INPUT = Path("/kaggle/input")
+INPUT = Path(os.environ.get("RUNNER_INPUT", "/kaggle/input"))
 T0 = time.time()
 
 TASKS = json.loads(r'''__TASKS_JSON__''')
