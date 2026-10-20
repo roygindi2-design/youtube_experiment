@@ -143,6 +143,30 @@ def captions_cmd(video_id, srt_file, lang="es"):
     add_captions(build("youtube", "v3", credentials=creds()), video_id, srt_file, lang, "Español")
 
 
+SERIES_FILE = Path(__file__).resolve().parent / "series.json"
+
+
+def playlist_cmd(action, *args):
+    """playlist create <key> "<title>" "<description>"   |   playlist add <key> <videoId>"""
+    yt = build("youtube", "v3", credentials=creds())
+    reg = json.loads(SERIES_FILE.read_text()) if SERIES_FILE.exists() else {}
+    if action == "create":
+        key, title, desc = args
+        if key in reg:
+            print("exists", reg[key]["id"])
+            return
+        r = yt.playlists().insert(part="snippet,status", body={"snippet": {"title": title, "description": desc, "defaultLanguage": "es"},
+                                                               "status": {"privacyStatus": "public"}}).execute()
+        reg[key] = {"id": r["id"], "title": title}
+        SERIES_FILE.write_text(json.dumps(reg, ensure_ascii=False, indent=1))
+        print("created", key, r["id"])
+    elif action == "add":
+        key, vid = args
+        yt.playlistItems().insert(part="snippet", body={"snippet": {"playlistId": reg[key]["id"],
+                                                                    "resourceId": {"kind": "youtube#video", "videoId": vid}}}).execute()
+        print("added", vid, "->", key)
+
+
 def upload(meta_file):
     import subprocess
     gate = Path(__file__).resolve().parents[1] / "preflight.py"
@@ -167,6 +191,11 @@ def upload(meta_file):
     vid = resp["id"]
     if m.get("captions"):
         add_captions(yt, vid, m["captions"], m.get("language", "es"), m.get("captionName", "Español"))
+    for key in m.get("series", []):  # every upload joins its series playlists (autoplay inside the series)
+        try:
+            playlist_cmd("add", key, vid)
+        except Exception as e:
+            print("playlist add failed", key, type(e).__name__)
     check = yt.videos().list(part="status,snippet,processingDetails", id=vid).execute()["items"]
     st = check[0]["status"] if check else {}
     print(json.dumps({"videoId": vid, "watch": f"https://www.youtube.com/watch?v={vid}", "shorts": f"https://youtube.com/shorts/{vid}",
@@ -177,4 +206,4 @@ def upload(meta_file):
 
 if __name__ == "__main__":
     cmd, args = sys.argv[1], sys.argv[2:]
-    {"auth-url": auth_url, "auth-finish": auth_finish, "whoami": whoami, "upload": upload, "captions": captions_cmd}[cmd](*args)
+    {"auth-url": auth_url, "auth-finish": auth_finish, "whoami": whoami, "upload": upload, "captions": captions_cmd, "playlist": playlist_cmd}[cmd](*args)

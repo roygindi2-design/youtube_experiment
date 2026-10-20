@@ -137,6 +137,9 @@ def upload(meta_file):
         fail("madeForKids must be true")
     if not m.get("captions"):
         fail("captions (.es.srt) missing")
+    series = json.loads((ROOT / "production/youtube/series.json").read_text()) if (ROOT / "production/youtube/series.json").exists() else {}
+    if not m.get("series") or any(k not in series for k in m["series"]):
+        fail(f"meta 'series' must list at least one series key from production/youtube/series.json ({', '.join(series)})")
     if not FAIL:
         ok("upload checks passed")
 
