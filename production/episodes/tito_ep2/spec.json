@@ -1,0 +1,218 @@
+{
+ "id": "tito_ep2",
+ "series": "tito",
+ "orientation": "landscape",
+ "song_seconds": 120,
+ "song_takes": 8,
+ "reuse_mama": true,
+ "title": "Un día con Tito 🐘 | Manos, dientes, baño y a dormir | Canciones Infantiles",
+ "hook": "mud_splash_wakeup_long",
+ "world": "Tito's house through one day: sunny kitchen (morning), turquoise bathroom (evening), cozy bedroom with starry night window (night)",
+ "story": [
+  "Morning: Tito wakes up and runs to breakfast with paint on his hands (problem)",
+  "Mamá: hands first! Washing with foam and bubbles (habit 1)",
+  "Breakfast together, happy (reward 1)",
+  "After playing outside Tito is muddy: bath time with bubbles and splash (habit 2)",
+  "Brushing teeth up and down in front of the mirror (habit 3)",
+  "Pajamas, a story with Mamá, a goodnight kiss (habit 4)",
+  "Tito sleeps under the stars, the moon smiles (ending)"
+ ],
+ "lyrics": "[Intro]\n¡Buenos días, Tito! ¡Ya salió el sol!\n[Verse 1]\nManitas de colores, ¿a desayunar?\n¡Primero agua y jabón, a lavar, lavar!\n[Chorus]\n¡Así, así, Tito lo hace así!\n¡Así, así, qué feliz!\n[Verse 2]\nBarro en las orejas, barro en la nariz\n¡Al baño con burbujas, splash, qué feliz!\n[Chorus]\n¡Así, así, Tito lo hace así!\n¡Así, así, qué feliz!\n[Verse 3]\nCepillo los dientes, arriba y abajo\nCepillo, cepillo, ¡qué brillo, qué trabajo!\n[Chorus]\n¡Así, así, Tito lo hace así!\n¡Así, así, qué feliz!\n[Verse 4]\nPijama y un cuento, un beso de mamá\nLa luna ya sale, ¡buenas noches ya!\n[Outro]\nBuenas noches, Tito, a soñar",
+ "bpm": 110,
+ "style": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. ",
+ "lock": "TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail.",
+ "mama_lock": "MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear.",
+ "locations": {
+  "cocina": "A cozy warm kitchen in the morning, wide 16:9 composition, camera at child eye level: a round wooden table with a plate of fluffy pancakes and a glass of milk, mint-green wall tiles, orange curtains on a sunny window, a white sink with a little wooden step stool and a soap pump, potted plants. Nobody is in the kitchen.",
+  "bano": "A cheerful bathroom, wide 16:9 composition, camera at child eye level: turquoise and white tiles, a big white clawfoot bathtub overflowing with fluffy foam and rainbow soap bubbles, a yellow rubber duck toy, a small sink with a round mirror and a cup with a small blue toothbrush, a fluffy yellow towel on a hook. Nobody is in the bathroom.",
+  "cuarto": "A cozy child's bedroom at night, wide 16:9 composition, camera at child eye level: a small wooden bed with a soft blue blanket with star patterns, a big window showing a deep blue night sky with twinkling stars and a big friendly smiling moon, a warm little lamp, a shelf with picture books, a soft rug. Nobody is in the bedroom."
+ },
+ "shots": [
+  [
+   "E01",
+   "Wide shot of the sunny kitchen in the morning: the baby elephant runs in happily toward the table, his little hands covered in colorful paint.",
+   "He runs toward the table with a happy bounce.",
+   "cocina",
+   [
+    "tito"
+   ],
+   2
+  ],
+  [
+   "E02",
+   "Close-up: the baby elephant's paint-covered hands reaching toward the pancakes, his hungry excited face behind.",
+   "His paint-covered hands reach slowly toward the pancakes.",
+   "cocina",
+   [
+    "tito"
+   ],
+   2
+  ],
+  [
+   "E03",
+   "Medium shot in the kitchen: Mamá Elefanta holds up her trunk like a friendly stop sign and points to the sink; the baby elephant looks at his hands.",
+   "Mamá points to the sink with a smile; the baby elephant looks at his hands and nods.",
+   "cocina",
+   [
+    "tito",
+    "mama"
+   ],
+   2
+  ],
+  [
+   "E04",
+   "Close-up at the kitchen sink: the baby elephant on a little stool rubs his hands in a big cloud of white soap foam, rainbow bubbles float up.",
+   "His hands rub round and round in the foam, bubbles float up.",
+   "cocina",
+   [
+    "tito"
+   ],
+   2
+  ],
+  [
+   "E05",
+   "Close-up at the sink: the baby elephant shows his clean sparkling hands to the camera with a proud smile.",
+   "He holds up his clean hands proudly and wiggles them.",
+   "cocina",
+   [
+    "tito"
+   ],
+   2
+  ],
+  [
+   "E06",
+   "Medium shot at the kitchen table: the baby elephant and Mamá Elefanta eat pancakes together, he takes a happy bite.",
+   "He takes a happy bite and wiggles with joy; Mamá smiles.",
+   "cocina",
+   [
+    "tito",
+    "mama"
+   ],
+   2
+  ],
+  [
+   "E07",
+   "Medium shot in the kitchen: the baby elephant dances happily with his arms up, swaying side to side.",
+   "He dances, swaying side to side with his arms up.",
+   "cocina",
+   [
+    "tito"
+   ],
+   2
+  ],
+  [
+   "E08",
+   "Close-up: the baby elephant's face covered in brown mud splats, mud on his ears and trunk, a guilty grin.",
+   "A drop of mud drips from his ear, he blinks and grins.",
+   "bano",
+   [
+    "tito"
+   ],
+   2
+  ],
+  [
+   "E09",
+   "Medium shot in the bathroom: the baby elephant sits in the bubble bath, a big splash of water and foam flies around him, laughing.",
+   "Water splashes and foam flies, he laughs.",
+   "bano",
+   [
+    "tito"
+   ],
+   2
+  ],
+  [
+   "E10",
+   "Close-up: the baby elephant in the bath with a white bubble beard and a tall bubble hat, laughing.",
+   "A bubble pops on his nose and he giggles.",
+   "bano",
+   [
+    "tito"
+   ],
+   2
+  ],
+  [
+   "E11",
+   "Medium shot in the bathroom: the clean baby elephant wrapped in a fluffy yellow towel hugs Mamá Elefanta.",
+   "They hug and sway gently, sparkles twinkle.",
+   "bano",
+   [
+    "tito",
+    "mama"
+   ],
+   2
+  ],
+  [
+   "E12",
+   "Medium shot in the bathroom: the baby elephant dances happily with the towel on his head, swaying side to side.",
+   "He dances, swaying side to side.",
+   "bano",
+   [
+    "tito"
+   ],
+   2
+  ],
+  [
+   "E13",
+   "Close-up in front of the bathroom mirror: the baby elephant brushes his teeth with a small blue toothbrush, white foam around his mouth.",
+   "He brushes up and down, foam bubbles float up.",
+   "bano",
+   [
+    "tito"
+   ],
+   2
+  ],
+  [
+   "E14",
+   "Close-up: the baby elephant smiles big at the mirror, his clean teeth sparkle with tiny stars.",
+   "His teeth sparkle and he smiles proudly.",
+   "bano",
+   [
+    "tito"
+   ],
+   2
+  ],
+  [
+   "E15",
+   "Medium shot in the bathroom: Mamá Elefanta claps happily next to the baby elephant holding his toothbrush up like a trophy.",
+   "Mamá claps and the baby elephant raises his toothbrush proudly.",
+   "bano",
+   [
+    "tito",
+    "mama"
+   ],
+   2
+  ],
+  [
+   "E16",
+   "Medium shot in the bedroom at night: the baby elephant in soft blue pajamas with stars sits in bed, Mamá Elefanta reads him a picture book.",
+   "Mamá turns a page and the baby elephant looks at the book with wonder.",
+   "cuarto",
+   [
+    "tito",
+    "mama"
+   ],
+   2
+  ],
+  [
+   "E17",
+   "Close-up: Mamá Elefanta gives the sleepy baby elephant a gentle goodnight kiss on the forehead, warm lamp light.",
+   "Mamá leans in for a gentle kiss, the baby elephant smiles sleepily.",
+   "cuarto",
+   [
+    "tito",
+    "mama"
+   ],
+   2
+  ],
+  [
+   "E18",
+   "Wide shot of the bedroom at night: the baby elephant asleep in his bed under the starry blanket, the big friendly moon smiling in the window, stars twinkling.",
+   "The stars twinkle softly and the moon smiles, the baby elephant breathes slowly in his sleep.",
+   "cuarto",
+   [
+    "tito"
+   ],
+   2
+  ]
+ ]
+}

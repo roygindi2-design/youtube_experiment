@@ -634,5 +634,173 @@
    "keyscale": "C major",
    "timesignature": 4
   }
+ },
+ {
+  "id": "tito_ep2_loc_cocina_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cozy warm kitchen in the morning, wide 16:9 composition, camera at child eye level: a round wooden table with a plate of fluffy pancakes and a glass of milk, mint-green wall tiles, orange curtains on a sunny window, a white sink with a little wooden step stool and a soap pump, potted plants. Nobody is in the kitchen."
+ },
+ {
+  "id": "tito_ep2_loc_cocina_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cozy warm kitchen in the morning, wide 16:9 composition, camera at child eye level: a round wooden table with a plate of fluffy pancakes and a glass of milk, mint-green wall tiles, orange curtains on a sunny window, a white sink with a little wooden step stool and a soap pump, potted plants. Nobody is in the kitchen."
+ },
+ {
+  "id": "tito_ep2_loc_bano_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cheerful bathroom, wide 16:9 composition, camera at child eye level: turquoise and white tiles, a big white clawfoot bathtub overflowing with fluffy foam and rainbow soap bubbles, a yellow rubber duck toy, a small sink with a round mirror and a cup with a small blue toothbrush, a fluffy yellow towel on a hook. Nobody is in the bathroom."
+ },
+ {
+  "id": "tito_ep2_loc_bano_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cheerful bathroom, wide 16:9 composition, camera at child eye level: turquoise and white tiles, a big white clawfoot bathtub overflowing with fluffy foam and rainbow soap bubbles, a yellow rubber duck toy, a small sink with a round mirror and a cup with a small blue toothbrush, a fluffy yellow towel on a hook. Nobody is in the bathroom."
+ },
+ {
+  "id": "tito_ep2_loc_cuarto_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cozy child's bedroom at night, wide 16:9 composition, camera at child eye level: a small wooden bed with a soft blue blanket with star patterns, a big window showing a deep blue night sky with twinkling stars and a big friendly smiling moon, a warm little lamp, a shelf with picture books, a soft rug. Nobody is in the bedroom."
+ },
+ {
+  "id": "tito_ep2_loc_cuarto_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cozy child's bedroom at night, wide 16:9 composition, camera at child eye level: a small wooden bed with a soft blue blanket with star patterns, a big window showing a deep blue night sky with twinkling stars and a big friendly smiling moon, a warm little lamp, a shelf with picture books, a soft rug. Nobody is in the bedroom."
+ },
+ {
+  "id": "tito_ep2_song_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Buenos días, Tito! ¡Ya salió el sol!\n[Verse 1]\nManitas de colores, ¿a desayunar?\n¡Primero agua y jabón, a lavar, lavar!\n[Chorus]\n¡Así, así, Tito lo hace así!\n¡Así, así, qué feliz!\n[Verse 2]\nBarro en las orejas, barro en la nariz\n¡Al baño con burbujas, splash, qué feliz!\n[Chorus]\n¡Así, así, Tito lo hace así!\n¡Así, así, qué feliz!\n[Verse 3]\nCepillo los dientes, arriba y abajo\nCepillo, cepillo, ¡qué brillo, qué trabajo!\n[Chorus]\n¡Así, así, Tito lo hace así!\n¡Así, así, qué feliz!\n[Verse 4]\nPijama y un cuento, un beso de mamá\nLa luna ya sale, ¡buenas noches ya!\n[Outro]\nBuenas noches, Tito, a soñar",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 110 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 120,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 110,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_ep2_song_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Buenos días, Tito! ¡Ya salió el sol!\n[Verse 1]\nManitas de colores, ¿a desayunar?\n¡Primero agua y jabón, a lavar, lavar!\n[Chorus]\n¡Así, así, Tito lo hace así!\n¡Así, así, qué feliz!\n[Verse 2]\nBarro en las orejas, barro en la nariz\n¡Al baño con burbujas, splash, qué feliz!\n[Chorus]\n¡Así, así, Tito lo hace así!\n¡Así, así, qué feliz!\n[Verse 3]\nCepillo los dientes, arriba y abajo\nCepillo, cepillo, ¡qué brillo, qué trabajo!\n[Chorus]\n¡Así, así, Tito lo hace así!\n¡Así, así, qué feliz!\n[Verse 4]\nPijama y un cuento, un beso de mamá\nLa luna ya sale, ¡buenas noches ya!\n[Outro]\nBuenas noches, Tito, a soñar",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 110 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 120,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 110,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_ep2_song_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Buenos días, Tito! ¡Ya salió el sol!\n[Verse 1]\nManitas de colores, ¿a desayunar?\n¡Primero agua y jabón, a lavar, lavar!\n[Chorus]\n¡Así, así, Tito lo hace así!\n¡Así, así, qué feliz!\n[Verse 2]\nBarro en las orejas, barro en la nariz\n¡Al baño con burbujas, splash, qué feliz!\n[Chorus]\n¡Así, así, Tito lo hace así!\n¡Así, así, qué feliz!\n[Verse 3]\nCepillo los dientes, arriba y abajo\nCepillo, cepillo, ¡qué brillo, qué trabajo!\n[Chorus]\n¡Así, así, Tito lo hace así!\n¡Así, así, qué feliz!\n[Verse 4]\nPijama y un cuento, un beso de mamá\nLa luna ya sale, ¡buenas noches ya!\n[Outro]\nBuenas noches, Tito, a soñar",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 110 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 120,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 110,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_ep2_song_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Buenos días, Tito! ¡Ya salió el sol!\n[Verse 1]\nManitas de colores, ¿a desayunar?\n¡Primero agua y jabón, a lavar, lavar!\n[Chorus]\n¡Así, así, Tito lo hace así!\n¡Así, así, qué feliz!\n[Verse 2]\nBarro en las orejas, barro en la nariz\n¡Al baño con burbujas, splash, qué feliz!\n[Chorus]\n¡Así, así, Tito lo hace así!\n¡Así, así, qué feliz!\n[Verse 3]\nCepillo los dientes, arriba y abajo\nCepillo, cepillo, ¡qué brillo, qué trabajo!\n[Chorus]\n¡Así, así, Tito lo hace así!\n¡Así, así, qué feliz!\n[Verse 4]\nPijama y un cuento, un beso de mamá\nLa luna ya sale, ¡buenas noches ya!\n[Outro]\nBuenas noches, Tito, a soñar",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 110 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 120,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 110,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_ep2_song_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Buenos días, Tito! ¡Ya salió el sol!\n[Verse 1]\nManitas de colores, ¿a desayunar?\n¡Primero agua y jabón, a lavar, lavar!\n[Chorus]\n¡Así, así, Tito lo hace así!\n¡Así, así, qué feliz!\n[Verse 2]\nBarro en las orejas, barro en la nariz\n¡Al baño con burbujas, splash, qué feliz!\n[Chorus]\n¡Así, así, Tito lo hace así!\n¡Así, así, qué feliz!\n[Verse 3]\nCepillo los dientes, arriba y abajo\nCepillo, cepillo, ¡qué brillo, qué trabajo!\n[Chorus]\n¡Así, así, Tito lo hace así!\n¡Así, así, qué feliz!\n[Verse 4]\nPijama y un cuento, un beso de mamá\nLa luna ya sale, ¡buenas noches ya!\n[Outro]\nBuenas noches, Tito, a soñar",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 110 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 120,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 110,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_ep2_song_s6",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Buenos días, Tito! ¡Ya salió el sol!\n[Verse 1]\nManitas de colores, ¿a desayunar?\n¡Primero agua y jabón, a lavar, lavar!\n[Chorus]\n¡Así, así, Tito lo hace así!\n¡Así, así, qué feliz!\n[Verse 2]\nBarro en las orejas, barro en la nariz\n¡Al baño con burbujas, splash, qué feliz!\n[Chorus]\n¡Así, así, Tito lo hace así!\n¡Así, así, qué feliz!\n[Verse 3]\nCepillo los dientes, arriba y abajo\nCepillo, cepillo, ¡qué brillo, qué trabajo!\n[Chorus]\n¡Así, así, Tito lo hace así!\n¡Así, así, qué feliz!\n[Verse 4]\nPijama y un cuento, un beso de mamá\nLa luna ya sale, ¡buenas noches ya!\n[Outro]\nBuenas noches, Tito, a soñar",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 110 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 120,
+  "seed": 6,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 110,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_ep2_song_s7",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Buenos días, Tito! ¡Ya salió el sol!\n[Verse 1]\nManitas de colores, ¿a desayunar?\n¡Primero agua y jabón, a lavar, lavar!\n[Chorus]\n¡Así, así, Tito lo hace así!\n¡Así, así, qué feliz!\n[Verse 2]\nBarro en las orejas, barro en la nariz\n¡Al baño con burbujas, splash, qué feliz!\n[Chorus]\n¡Así, así, Tito lo hace así!\n¡Así, así, qué feliz!\n[Verse 3]\nCepillo los dientes, arriba y abajo\nCepillo, cepillo, ¡qué brillo, qué trabajo!\n[Chorus]\n¡Así, así, Tito lo hace así!\n¡Así, así, qué feliz!\n[Verse 4]\nPijama y un cuento, un beso de mamá\nLa luna ya sale, ¡buenas noches ya!\n[Outro]\nBuenas noches, Tito, a soñar",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 110 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 120,
+  "seed": 7,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 110,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_ep2_song_s8",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Buenos días, Tito! ¡Ya salió el sol!\n[Verse 1]\nManitas de colores, ¿a desayunar?\n¡Primero agua y jabón, a lavar, lavar!\n[Chorus]\n¡Así, así, Tito lo hace así!\n¡Así, así, qué feliz!\n[Verse 2]\nBarro en las orejas, barro en la nariz\n¡Al baño con burbujas, splash, qué feliz!\n[Chorus]\n¡Así, así, Tito lo hace así!\n¡Así, así, qué feliz!\n[Verse 3]\nCepillo los dientes, arriba y abajo\nCepillo, cepillo, ¡qué brillo, qué trabajo!\n[Chorus]\n¡Así, así, Tito lo hace así!\n¡Así, así, qué feliz!\n[Verse 4]\nPijama y un cuento, un beso de mamá\nLa luna ya sale, ¡buenas noches ya!\n[Outro]\nBuenas noches, Tito, a soñar",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 110 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 120,
+  "seed": 8,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 110,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
  }
 ]

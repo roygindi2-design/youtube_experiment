@@ -17,6 +17,9 @@ d = Path(sys.argv[1])
 stage = sys.argv[2]
 s = json.loads((d / "spec.json").read_text())
 sid, STYLE = s["id"], s["style"]
+LAND = s.get("orientation") == "landscape"  # long-form 16:9
+KF_RES, CLIP_RES = ("1280x720", "960x544") if LAND else ("720x1280", "544x960")
+FRAME = "Wide 16:9 frame." if LAND else "Vertical 9:16 frame."
 SONG = ("preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, "
         "simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, {bpm} bpm, bright, happy, "
         "very clear lyrics, every word sung clearly, starts singing right away")
@@ -39,11 +42,11 @@ if stage == "design":
                                                         "pastel background: " + s["lock"] + " Only one character, friendly and cute."})
     for name, prompt in s["locations"].items():
         for k in (1, 2):
-            tasks.append({"id": f"{sid}_loc_{name}_s{k}", "model_type": "flux2_klein_4b", "resolution": "720x1280",
+            tasks.append({"id": f"{sid}_loc_{name}_s{k}", "model_type": "flux2_klein_4b", "resolution": KF_RES,
                           "num_inference_steps": 4, "seed": 400 + k, "prompt": STYLE + prompt})
     for k in range(1, 1 + s.get("song_takes", 6)):
         tasks.append({"id": f"{sid}_song_s{k}", "model_type": "ace_step_v1_5_turbo_lm_1_7b", "prompt": s["lyrics"],
-                      "alt_prompt": SONG.format(bpm=s["bpm"]), "duration_seconds": 26, "seed": k, "num_inference_steps": 8,
+                      "alt_prompt": SONG.format(bpm=s["bpm"]), "duration_seconds": s.get("song_seconds", 26), "seed": k, "num_inference_steps": 8,
                       "custom_settings": {"bpm": s["bpm"], "language": "es", "keyscale": "C major", "timesignature": 4}})
 elif stage == "shots":
     picks = json.loads((d / "picks.json").read_text())
@@ -57,13 +60,13 @@ elif stage == "shots":
         else:
             who += " " + hero["one"]
         place = s["locations"][loc].split(". Nobody")[0]
-        tasks.append({"id": f"{sid}_{shot}_kf", "model_type": "flux2_klein_4b", "resolution": "720x1280", "num_inference_steps": 4,
+        tasks.append({"id": f"{sid}_{shot}_kf", "model_type": "flux2_klein_4b", "resolution": KF_RES, "num_inference_steps": 4,
                       "seed": 101, "video_prompt_type": "KI",
-                      "prompt": STYLE + who + f" Setting, exactly the place from the first reference image: {place}. " + frame + " Vertical 9:16 frame.",
+                      "prompt": STYLE + who + f" Setting, exactly the place from the first reference image: {place}. " + frame + " " + FRAME,
                       "inputs": {"image_refs": refs}})
         for seed in (7, 19, 31)[:seeds]:
             tasks.append({"id": f"{sid}_clip_{shot}_s{seed}", "model_type": "ti2v_2_2_fastwan", "prompt": STYLE + motion + " " + ACT,
-                          "resolution": "544x960", "video_length": 97, "num_inference_steps": 3, "guidance_scale": 1, "flow_shift": 3,
+                          "resolution": CLIP_RES, "video_length": 97, "num_inference_steps": 3, "guidance_scale": 1, "flow_shift": 3,
                           "seed": seed, "after": {"image_start": f"{sid}_{shot}_kf"}})
 out = d / f"job_{stage}.json"
 out.write_text(json.dumps(tasks, ensure_ascii=False, indent=1))
