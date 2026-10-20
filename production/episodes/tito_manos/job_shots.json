@@ -236,7 +236,7 @@
   "num_inference_steps": 4,
   "seed": 101,
   "video_prompt_type": "KI",
-  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting, exactly the place from the first reference image: A cozy warm kitchen sink corner, vertical 9:16 composition, camera at child eye level: a white kitchen sink with a shiny tap, a small wooden step stool in front of it, a round soap pump bottle with pink soap, a fluffy orange hand towel on a hook, mint-green wall tiles, a sunny window with herb pots on the sill, warm wooden cabinets. Close-up over the sink: the baby elephant's little hands rubbing together inside a huge cloud of white soap foam, rainbow soap bubbles floating up around them. Vertical 9:16 frame.",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting, exactly the place from the first reference image: A cozy warm kitchen sink corner, vertical 9:16 composition, camera at child eye level: a white kitchen sink with a shiny tap, a small wooden step stool in front of it, a round soap pump bottle with pink soap, a fluffy orange hand towel on a hook, mint-green wall tiles, a sunny window with herb pots on the sill, warm wooden cabinets. Close-up, camera very close to the sink at the baby elephant's chest height: the baby elephant stands on the step stool behind the white sink, only his head, shoulders and two little round hands visible; his hands rub together inside a big fluffy cloud of white soap foam, rainbow soap bubbles float up around his happy face. Vertical 9:16 frame.",
   "inputs": {
    "image_refs": [
     "loc_fregadero.jpg",
@@ -247,7 +247,7 @@
  {
   "id": "tito_manos_clip_M5_s7",
   "model_type": "ti2v_2_2_fastwan",
-  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His hands rub round and round, the foam grows bigger and rainbow bubbles float up. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His hands rub round and round inside the foam, the foam grows and rainbow bubbles float up past his smiling face. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
   "resolution": "544x960",
   "video_length": 97,
   "num_inference_steps": 3,
@@ -261,7 +261,7 @@
  {
   "id": "tito_manos_clip_M5_s19",
   "model_type": "ti2v_2_2_fastwan",
-  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His hands rub round and round, the foam grows bigger and rainbow bubbles float up. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His hands rub round and round inside the foam, the foam grows and rainbow bubbles float up past his smiling face. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
   "resolution": "544x960",
   "video_length": 97,
   "num_inference_steps": 3,
@@ -275,7 +275,7 @@
  {
   "id": "tito_manos_clip_M5_s31",
   "model_type": "ti2v_2_2_fastwan",
-  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His hands rub round and round, the foam grows bigger and rainbow bubbles float up. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His hands rub round and round inside the foam, the foam grows and rainbow bubbles float up past his smiling face. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
   "resolution": "544x960",
   "video_length": 97,
   "num_inference_steps": 3,
@@ -293,7 +293,7 @@
   "num_inference_steps": 4,
   "seed": 101,
   "video_prompt_type": "KI",
-  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting, exactly the place from the first reference image: A cozy warm kitchen sink corner, vertical 9:16 composition, camera at child eye level: a white kitchen sink with a shiny tap, a small wooden step stool in front of it, a round soap pump bottle with pink soap, a fluffy orange hand towel on a hook, mint-green wall tiles, a sunny window with herb pots on the sill, warm wooden cabinets. Close-up over the sink: water from the shiny tap splashes onto the baby elephant's foamy hands, red, blue and green paint swirls down the drain in a little rainbow whirl, a few tiny green germ creatures float away inside soap bubbles waving bye. Vertical 9:16 frame.",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting, exactly the place from the first reference image: A cozy warm kitchen sink corner, vertical 9:16 composition, camera at child eye level: a white kitchen sink with a shiny tap, a small wooden step stool in front of it, a round soap pump bottle with pink soap, a fluffy orange hand towel on a hook, mint-green wall tiles, a sunny window with herb pots on the sill, warm wooden cabinets. Close-up, camera very close to the sink at the baby elephant's chest height: the baby elephant holds his foamy hands under the shiny running tap, clear water splashes on his hands, colorful red, blue and green paint swirls into the white sink basin in a little rainbow whirl, he laughs. Vertical 9:16 frame.",
   "inputs": {
    "image_refs": [
     "loc_fregadero.jpg",
@@ -304,7 +304,7 @@
  {
   "id": "tito_manos_clip_M6_s7",
   "model_type": "ti2v_2_2_fastwan",
-  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Water splashes on his hands, the colors swirl away down the drain, the bubbles with the tiny germs float up and away. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Water splashes on his hands and the colorful paint swirls around the sink basin and away; he laughs. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
   "resolution": "544x960",
   "video_length": 97,
   "num_inference_steps": 3,
@@ -318,7 +318,7 @@
  {
   "id": "tito_manos_clip_M6_s19",
   "model_type": "ti2v_2_2_fastwan",
-  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Water splashes on his hands, the colors swirl away down the drain, the bubbles with the tiny germs float up and away. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Water splashes on his hands and the colorful paint swirls around the sink basin and away; he laughs. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
   "resolution": "544x960",
   "video_length": 97,
   "num_inference_steps": 3,
@@ -332,7 +332,7 @@
  {
   "id": "tito_manos_clip_M6_s31",
   "model_type": "ti2v_2_2_fastwan",
-  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Water splashes on his hands, the colors swirl away down the drain, the bubbles with the tiny germs float up and away. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Water splashes on his hands and the colorful paint swirls around the sink basin and away; he laughs. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
   "resolution": "544x960",
   "video_length": 97,
   "num_inference_steps": 3,
@@ -350,19 +350,18 @@
   "num_inference_steps": 4,
   "seed": 101,
   "video_prompt_type": "KI",
-  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Mamá Elefanta from the third reference image, exactly the same character design: MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear. Exactly two elephants in the picture: the small baby and his taller mother. Setting, exactly the place from the first reference image: A cozy warm kitchen sink corner, vertical 9:16 composition, camera at child eye level: a white kitchen sink with a shiny tap, a small wooden step stool in front of it, a round soap pump bottle with pink soap, a fluffy orange hand towel on a hook, mint-green wall tiles, a sunny window with herb pots on the sill, warm wooden cabinets. Medium shot at the sink: the baby elephant proudly shows his clean, sparkling palms to the camera with a big happy smile, tiny sparkles around his hands; Mamá Elefanta behind him claps happily. Vertical 9:16 frame.",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting, exactly the place from the first reference image: A cozy warm kitchen sink corner, vertical 9:16 composition, camera at child eye level: a white kitchen sink with a shiny tap, a small wooden step stool in front of it, a round soap pump bottle with pink soap, a fluffy orange hand towel on a hook, mint-green wall tiles, a sunny window with herb pots on the sill, warm wooden cabinets. Close-up, camera very close at the baby elephant's chest height in front of the sink: the baby elephant holds up both clean pale-blue round hands with the palms facing the camera, little white sparkles twinkling around his hands, a big proud happy smile. Vertical 9:16 frame.",
   "inputs": {
    "image_refs": [
     "loc_fregadero.jpg",
-    "tito_master.jpg",
-    "mama_master.jpg"
+    "tito_master.jpg"
    ]
   }
  },
  {
   "id": "tito_manos_clip_M7_s7",
   "model_type": "ti2v_2_2_fastwan",
-  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He holds up his clean hands proudly, the sparkles twinkle; Mamá claps. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He holds up his clean hands proudly and wiggles them, the sparkles twinkle. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
   "resolution": "544x960",
   "video_length": 97,
   "num_inference_steps": 3,
@@ -376,13 +375,27 @@
  {
   "id": "tito_manos_clip_M7_s19",
   "model_type": "ti2v_2_2_fastwan",
-  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He holds up his clean hands proudly, the sparkles twinkle; Mamá claps. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He holds up his clean hands proudly and wiggles them, the sparkles twinkle. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
   "resolution": "544x960",
   "video_length": 97,
   "num_inference_steps": 3,
   "guidance_scale": 1,
   "flow_shift": 3,
   "seed": 19,
+  "after": {
+   "image_start": "tito_manos_M7_kf"
+  }
+ },
+ {
+  "id": "tito_manos_clip_M7_s31",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He holds up his clean hands proudly and wiggles them, the sparkles twinkle. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 31,
   "after": {
    "image_start": "tito_manos_M7_kf"
   }

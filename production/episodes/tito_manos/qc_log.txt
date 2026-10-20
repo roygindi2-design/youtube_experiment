@@ -1,0 +1,4 @@
+Loading weights:   0%|          | 0/223 [00:00<?, ?it/s]Loading weights:  15%|█▌        | 34/223 [00:00<00:00, 319.11it/s]Loading weights:  30%|██▉       | 66/223 [00:00<00:00, 243.70it/s]Loading weights: 100%|██████████| 223/223 [00:00<00:00, 783.08it/s]
+tito_manos_clip_M1_s19 REVIEW warp max 12.9 thr 12.0 | min sim 0.903 | flagged 1
+tito_manos_clip_M1_s31 REVIEW warp max 12.2 thr 12.0 | min sim 0.896 | flagged 1
+tito_manos_clip_M1_s7 REVIEW warp max 12.3 thr 12.0 | min sim 0.892 | flagged 1

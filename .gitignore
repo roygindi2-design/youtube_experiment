@@ -11,3 +11,5 @@ client_secret*.json
 production/longform/build/*.mp4
 production/episodes/*/build/*.mp4
 production/episodes/*/design/*.wav
+production/episodes/*/shots/*.mp4
+production/episodes/*/qc/*.png
