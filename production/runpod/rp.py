@@ -129,7 +129,8 @@ def up_once(name, gpu=None):
         except (requests.RequestException, ValueError):  # the proxy serves a placeholder page until the agent is up
             pass
         time.sleep(10)
-    sys.exit("agent did not come up; run `down` to stop billing")
+    down(name)  # never leave a pod running (and billing) when its agent didn't start
+    sys.exit("agent did not come up (pod terminated)")
 
 
 def upload(name, local, remote):

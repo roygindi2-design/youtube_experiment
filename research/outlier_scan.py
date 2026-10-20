@@ -21,7 +21,8 @@ KEY = os.environ.get("YOUTUBE_API_KEY") or os.environ.get("youtube_api_key")
 API = "https://www.googleapis.com/youtube/v3/"
 OUT = Path(__file__).resolve().parent / "market"
 DAYS = int(sys.argv[1]) if len(sys.argv) > 1 else 60
-QUERIES = ["canciones infantiles", "canciones para bebés", "aprende los colores", "canciones para niños", "videos para bebés",
+QUERIES_ENV = os.environ.get("OUTLIER_QUERIES")  # e.g. "hora del baño canción|no se quiere bañar" for a niche study
+QUERIES = QUERIES_ENV.split("|") if QUERIES_ENV else ["canciones infantiles", "canciones para bebés", "aprende los colores", "canciones para niños", "videos para bebés",
            "dibujos animados para niños", "canción infantil animales", "hábitos para niños canción", "lavarse las manos canción",
            "cepillarse los dientes canción", "canción para dormir bebé", "números para niños", "frutas para niños",
            "elefante canción infantil", "sorpresa niños colores", "bebé aprende", "nursery rhymes español", "cuentos infantiles cortos"]
@@ -82,6 +83,8 @@ rows = [r for r in rows if r["outlier"] and r["views"] >= 50_000]
 rows.sort(key=lambda r: -r["outlier"])
 OUT.mkdir(exist_ok=True)
 stamp = now.strftime("%Y-%m-%d")
+TAG = os.environ.get("OUTLIER_TAG", "")
+stamp = f"{stamp}_{TAG}" if TAG else stamp
 (OUT / f"outliers_{stamp}.json").write_text(json.dumps(rows, ensure_ascii=False, indent=1))
 md = [f"# Outliers — Shorts לילדים שעקפו את הנורמה של הערוץ שלהם ({stamp}, {DAYS} ימים, {len(QUERIES)} חיפושים, {len(cands)} Shorts, {len(chans)} ערוצים)", "",
       "outlier = צפיות הסרטון / חציון 10 הסרטונים האחרונים של הערוץ. ערוץ קטן עם outlier גבוה = הפורמט עבד, לא המותג.", "",
