@@ -18,3 +18,8 @@ tito_manos_clip_M6_s19 PASS warp max 34.9 thr 52.0 | min sim 0.875 | flagged 0
 tito_manos_clip_M6_s31 PASS warp max 31.7 thr 43.6 | min sim 0.866 | flagged 0
 tito_manos_clip_M6_s7 REVIEW warp max 40.3 thr 39.3 | min sim 0.897 | flagged 1
 tito_manos_clip_M7_s19 REVIEW warp max 12.7 thr 12.0 | min sim 0.885 | flagged 1
+tito_manos_clip_M7_s7 REVIEW warp max 14.1 thr 12.0 | min sim 0.866 | flagged 1
+tito_manos_clip_M8_s19 REVIEW warp max 14.2 thr 12.0 | min sim 0.909 | flagged 1
+tito_manos_clip_M8_s7 REVIEW warp max 13.9 thr 12.0 | min sim 0.890 | flagged 1
+tito_manos_clip_M9_s19 REVIEW warp max 13.4 thr 12.0 | min sim 0.904 | flagged 1
+tito_manos_clip_M9_s7 REVIEW warp max 13.0 thr 12.0 | min sim 0.899 | flagged 1

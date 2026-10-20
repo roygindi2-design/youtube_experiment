@@ -1,0 +1,265 @@
+{
+ "tito_manos_clip_M1_s19": {
+  "verdict": "REVIEW",
+  "frames": 97,
+  "warp_median": 3.12,
+  "warp_threshold": 12.0,
+  "warp_max": 12.88,
+  "min_identity_sim": 0.903,
+  "flagged": [
+   1
+  ]
+ },
+ "tito_manos_clip_M1_s31": {
+  "verdict": "REVIEW",
+  "frames": 97,
+  "warp_median": 2.48,
+  "warp_threshold": 12.0,
+  "warp_max": 12.22,
+  "min_identity_sim": 0.896,
+  "flagged": [
+   1
+  ]
+ },
+ "tito_manos_clip_M1_s7": {
+  "verdict": "REVIEW",
+  "frames": 97,
+  "warp_median": 3.62,
+  "warp_threshold": 12.0,
+  "warp_max": 12.35,
+  "min_identity_sim": 0.892,
+  "flagged": [
+   1
+  ]
+ },
+ "tito_manos_clip_M2_s19": {
+  "verdict": "REVIEW",
+  "frames": 97,
+  "warp_median": 3.07,
+  "warp_threshold": 12.0,
+  "warp_max": 14.56,
+  "min_identity_sim": 0.941,
+  "flagged": [
+   1
+  ]
+ },
+ "tito_manos_clip_M2_s31": {
+  "verdict": "REVIEW",
+  "frames": 97,
+  "warp_median": 2.35,
+  "warp_threshold": 12.0,
+  "warp_max": 15.38,
+  "min_identity_sim": 0.923,
+  "flagged": [
+   1
+  ]
+ },
+ "tito_manos_clip_M2_s7": {
+  "verdict": "REVIEW",
+  "frames": 97,
+  "warp_median": 2.9,
+  "warp_threshold": 12.0,
+  "warp_max": 12.69,
+  "min_identity_sim": 0.921,
+  "flagged": [
+   1
+  ]
+ },
+ "tito_manos_clip_M3_s19": {
+  "verdict": "REVIEW",
+  "frames": 97,
+  "warp_median": 4.54,
+  "warp_threshold": 12.35,
+  "warp_max": 16.78,
+  "min_identity_sim": 0.877,
+  "flagged": [
+   1
+  ]
+ },
+ "tito_manos_clip_M3_s31": {
+  "verdict": "REVIEW",
+  "frames": 97,
+  "warp_median": 3.44,
+  "warp_threshold": 12.0,
+  "warp_max": 13.93,
+  "min_identity_sim": 0.885,
+  "flagged": [
+   1
+  ]
+ },
+ "tito_manos_clip_M3_s7": {
+  "verdict": "REVIEW",
+  "frames": 97,
+  "warp_median": 4.15,
+  "warp_threshold": 12.0,
+  "warp_max": 13.32,
+  "min_identity_sim": 0.916,
+  "flagged": [
+   1
+  ]
+ },
+ "tito_manos_clip_M4_s19": {
+  "verdict": "REVIEW",
+  "frames": 97,
+  "warp_median": 2.96,
+  "warp_threshold": 12.0,
+  "warp_max": 13.29,
+  "min_identity_sim": 0.915,
+  "flagged": [
+   1
+  ]
+ },
+ "tito_manos_clip_M4_s31": {
+  "verdict": "REVIEW",
+  "frames": 97,
+  "warp_median": 3.03,
+  "warp_threshold": 12.0,
+  "warp_max": 16.27,
+  "min_identity_sim": 0.929,
+  "flagged": [
+   1,
+   2
+  ]
+ },
+ "tito_manos_clip_M4_s7": {
+  "verdict": "REVIEW",
+  "frames": 97,
+  "warp_median": 3.1,
+  "warp_threshold": 12.0,
+  "warp_max": 13.84,
+  "min_identity_sim": 0.92,
+  "flagged": [
+   1
+  ]
+ },
+ "tito_manos_clip_M5_s19": {
+  "verdict": "REVIEW",
+  "frames": 97,
+  "warp_median": 4.79,
+  "warp_threshold": 12.94,
+  "warp_max": 15.52,
+  "min_identity_sim": 0.902,
+  "flagged": [
+   1
+  ]
+ },
+ "tito_manos_clip_M5_s31": {
+  "verdict": "REVIEW",
+  "frames": 97,
+  "warp_median": 4.01,
+  "warp_threshold": 12.0,
+  "warp_max": 16.71,
+  "min_identity_sim": 0.915,
+  "flagged": [
+   1,
+   2
+  ]
+ },
+ "tito_manos_clip_M5_s7": {
+  "verdict": "REVIEW",
+  "frames": 97,
+  "warp_median": 4.39,
+  "warp_threshold": 12.0,
+  "warp_max": 16.49,
+  "min_identity_sim": 0.913,
+  "flagged": [
+   1,
+   2
+  ]
+ },
+ "tito_manos_clip_M6_s19": {
+  "verdict": "PASS",
+  "frames": 97,
+  "warp_median": 20.54,
+  "warp_threshold": 51.98,
+  "warp_max": 34.87,
+  "min_identity_sim": 0.875,
+  "flagged": []
+ },
+ "tito_manos_clip_M6_s31": {
+  "verdict": "PASS",
+  "frames": 97,
+  "warp_median": 23.1,
+  "warp_threshold": 43.61,
+  "warp_max": 31.71,
+  "min_identity_sim": 0.866,
+  "flagged": []
+ },
+ "tito_manos_clip_M6_s7": {
+  "verdict": "REVIEW",
+  "frames": 97,
+  "warp_median": 22.5,
+  "warp_threshold": 39.34,
+  "warp_max": 40.29,
+  "min_identity_sim": 0.897,
+  "flagged": [
+   50
+  ]
+ },
+ "tito_manos_clip_M7_s19": {
+  "verdict": "REVIEW",
+  "frames": 97,
+  "warp_median": 3.64,
+  "warp_threshold": 12.0,
+  "warp_max": 12.65,
+  "min_identity_sim": 0.885,
+  "flagged": [
+   1
+  ]
+ },
+ "tito_manos_clip_M7_s7": {
+  "verdict": "REVIEW",
+  "frames": 97,
+  "warp_median": 3.16,
+  "warp_threshold": 12.0,
+  "warp_max": 14.15,
+  "min_identity_sim": 0.866,
+  "flagged": [
+   1
+  ]
+ },
+ "tito_manos_clip_M8_s19": {
+  "verdict": "REVIEW",
+  "frames": 97,
+  "warp_median": 3.1,
+  "warp_threshold": 12.0,
+  "warp_max": 14.17,
+  "min_identity_sim": 0.909,
+  "flagged": [
+   1
+  ]
+ },
+ "tito_manos_clip_M8_s7": {
+  "verdict": "REVIEW",
+  "frames": 97,
+  "warp_median": 2.84,
+  "warp_threshold": 12.0,
+  "warp_max": 13.88,
+  "min_identity_sim": 0.89,
+  "flagged": [
+   1
+  ]
+ },
+ "tito_manos_clip_M9_s19": {
+  "verdict": "REVIEW",
+  "frames": 97,
+  "warp_median": 2.05,
+  "warp_threshold": 12.0,
+  "warp_max": 13.37,
+  "min_identity_sim": 0.904,
+  "flagged": [
+   1
+  ]
+ },
+ "tito_manos_clip_M9_s7": {
+  "verdict": "REVIEW",
+  "frames": 97,
+  "warp_median": 2.51,
+  "warp_threshold": 12.0,
+  "warp_max": 13.01,
+  "min_identity_sim": 0.899,
+  "flagged": [
+   1
+  ]
+ }
+}
