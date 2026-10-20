@@ -10,3 +10,4 @@ client_secret*.json
 .config/
 production/longform/build/*.mp4
 production/episodes/*/build/*.mp4
+production/episodes/*/design/*.wav

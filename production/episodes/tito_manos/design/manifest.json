@@ -1,0 +1,356 @@
+{
+ "stages": [
+  {
+   "stage": "gpu",
+   "t": 0,
+   "gpus": [
+    "NVIDIA GeForce RTX 4090, 24564 MiB"
+   ]
+  },
+  {
+   "stage": "installed",
+   "t": 438,
+   "torch": "2.8.0.dev20250319+cu128"
+  },
+  {
+   "stage": "wangp_session",
+   "t": 62
+  },
+  {
+   "stage": "wangp_done",
+   "t": 460
+  },
+  {
+   "stage": "finished",
+   "t": 903,
+   "ok": 16,
+   "total": 16
+  }
+ ],
+ "tasks": [
+  {
+   "id": "tito_manos_loc_mesa_s1",
+   "settings": {
+    "model_type": "flux2_klein_4b",
+    "resolution": "720x1280",
+    "num_inference_steps": 4,
+    "seed": 401,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cozy warm kitchen, vertical 9:16 composition, camera at child eye level: a round wooden kitchen table with a big sheet of paper covered in colorful finger-paint splashes, three small open pots of red, blue and green finger paint, and a white plate with a tall stack of fluffy pancakes topped with strawberries and honey; mint-green wall tiles, orange curtains on a sunny window, a potted plant. Nobody is in the kitchen."
+   },
+   "status": "ok",
+   "files": [
+    "out/tito_manos_loc_mesa_s1.jpg"
+   ],
+   "seconds": 29.8
+  },
+  {
+   "id": "tito_manos_loc_mesa_s2",
+   "settings": {
+    "model_type": "flux2_klein_4b",
+    "resolution": "720x1280",
+    "num_inference_steps": 4,
+    "seed": 402,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cozy warm kitchen, vertical 9:16 composition, camera at child eye level: a round wooden kitchen table with a big sheet of paper covered in colorful finger-paint splashes, three small open pots of red, blue and green finger paint, and a white plate with a tall stack of fluffy pancakes topped with strawberries and honey; mint-green wall tiles, orange curtains on a sunny window, a potted plant. Nobody is in the kitchen."
+   },
+   "status": "ok",
+   "files": [
+    "out/tito_manos_loc_mesa_s2.jpg"
+   ],
+   "seconds": 2.7
+  },
+  {
+   "id": "tito_manos_loc_fregadero_s1",
+   "settings": {
+    "model_type": "flux2_klein_4b",
+    "resolution": "720x1280",
+    "num_inference_steps": 4,
+    "seed": 401,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cozy warm kitchen sink corner, vertical 9:16 composition, camera at child eye level: a white kitchen sink with a shiny tap, a small wooden step stool in front of it, a round soap pump bottle with pink soap, a fluffy orange hand towel on a hook, mint-green wall tiles, a sunny window with herb pots on the sill, warm wooden cabinets. Nobody is in the kitchen."
+   },
+   "status": "ok",
+   "files": [
+    "out/tito_manos_loc_fregadero_s1.jpg"
+   ],
+   "seconds": 3.7
+  },
+  {
+   "id": "tito_manos_loc_fregadero_s2",
+   "settings": {
+    "model_type": "flux2_klein_4b",
+    "resolution": "720x1280",
+    "num_inference_steps": 4,
+    "seed": 402,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cozy warm kitchen sink corner, vertical 9:16 composition, camera at child eye level: a white kitchen sink with a shiny tap, a small wooden step stool in front of it, a round soap pump bottle with pink soap, a fluffy orange hand towel on a hook, mint-green wall tiles, a sunny window with herb pots on the sill, warm wooden cabinets. Nobody is in the kitchen."
+   },
+   "status": "ok",
+   "files": [
+    "out/tito_manos_loc_fregadero_s2.jpg"
+   ],
+   "seconds": 2.7
+  },
+  {
+   "id": "tito_manos_song_s1",
+   "settings": {
+    "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+    "prompt": "[Intro]\n¡ALTO, Tito! ¿Y tus manos?\n[Verse]\n¡Uy! ¡Pintura y bichitos!\nAl lavabo, ¡vamos ya!\nAgua y jabón, ¡qué espuma!\n[Chorus]\n¡Frota, frota, frota!\n¡Splash! ¡Se van, se van!\n¡Manitas limpias!\n[Outro]\n¡Ahora sí, a comer!",
+    "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+    "duration_seconds": 26,
+    "seed": 1,
+    "num_inference_steps": 8,
+    "custom_settings": {
+     "bpm": 120,
+     "language": "es",
+     "keyscale": "C major",
+     "timesignature": 4
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/tito_manos_song_s1.wav"
+   ],
+   "seconds": 105.1
+  },
+  {
+   "id": "tito_manos_song_s2",
+   "settings": {
+    "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+    "prompt": "[Intro]\n¡ALTO, Tito! ¿Y tus manos?\n[Verse]\n¡Uy! ¡Pintura y bichitos!\nAl lavabo, ¡vamos ya!\nAgua y jabón, ¡qué espuma!\n[Chorus]\n¡Frota, frota, frota!\n¡Splash! ¡Se van, se van!\n¡Manitas limpias!\n[Outro]\n¡Ahora sí, a comer!",
+    "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+    "duration_seconds": 26,
+    "seed": 2,
+    "num_inference_steps": 8,
+    "custom_settings": {
+     "bpm": 120,
+     "language": "es",
+     "keyscale": "C major",
+     "timesignature": 4
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/tito_manos_song_s2.wav"
+   ],
+   "seconds": 22.4
+  },
+  {
+   "id": "tito_manos_song_s3",
+   "settings": {
+    "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+    "prompt": "[Intro]\n¡ALTO, Tito! ¿Y tus manos?\n[Verse]\n¡Uy! ¡Pintura y bichitos!\nAl lavabo, ¡vamos ya!\nAgua y jabón, ¡qué espuma!\n[Chorus]\n¡Frota, frota, frota!\n¡Splash! ¡Se van, se van!\n¡Manitas limpias!\n[Outro]\n¡Ahora sí, a comer!",
+    "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+    "duration_seconds": 26,
+    "seed": 3,
+    "num_inference_steps": 8,
+    "custom_settings": {
+     "bpm": 120,
+     "language": "es",
+     "keyscale": "C major",
+     "timesignature": 4
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/tito_manos_song_s3.wav"
+   ],
+   "seconds": 22.9
+  },
+  {
+   "id": "tito_manos_song_s4",
+   "settings": {
+    "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+    "prompt": "[Intro]\n¡ALTO, Tito! ¿Y tus manos?\n[Verse]\n¡Uy! ¡Pintura y bichitos!\nAl lavabo, ¡vamos ya!\nAgua y jabón, ¡qué espuma!\n[Chorus]\n¡Frota, frota, frota!\n¡Splash! ¡Se van, se van!\n¡Manitas limpias!\n[Outro]\n¡Ahora sí, a comer!",
+    "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+    "duration_seconds": 26,
+    "seed": 4,
+    "num_inference_steps": 8,
+    "custom_settings": {
+     "bpm": 120,
+     "language": "es",
+     "keyscale": "C major",
+     "timesignature": 4
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/tito_manos_song_s4.wav"
+   ],
+   "seconds": 23.5
+  },
+  {
+   "id": "tito_manos_song_s5",
+   "settings": {
+    "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+    "prompt": "[Intro]\n¡ALTO, Tito! ¿Y tus manos?\n[Verse]\n¡Uy! ¡Pintura y bichitos!\nAl lavabo, ¡vamos ya!\nAgua y jabón, ¡qué espuma!\n[Chorus]\n¡Frota, frota, frota!\n¡Splash! ¡Se van, se van!\n¡Manitas limpias!\n[Outro]\n¡Ahora sí, a comer!",
+    "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+    "duration_seconds": 26,
+    "seed": 5,
+    "num_inference_steps": 8,
+    "custom_settings": {
+     "bpm": 120,
+     "language": "es",
+     "keyscale": "C major",
+     "timesignature": 4
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/tito_manos_song_s5.wav"
+   ],
+   "seconds": 22.1
+  },
+  {
+   "id": "tito_manos_song_s6",
+   "settings": {
+    "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+    "prompt": "[Intro]\n¡ALTO, Tito! ¿Y tus manos?\n[Verse]\n¡Uy! ¡Pintura y bichitos!\nAl lavabo, ¡vamos ya!\nAgua y jabón, ¡qué espuma!\n[Chorus]\n¡Frota, frota, frota!\n¡Splash! ¡Se van, se van!\n¡Manitas limpias!\n[Outro]\n¡Ahora sí, a comer!",
+    "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+    "duration_seconds": 26,
+    "seed": 6,
+    "num_inference_steps": 8,
+    "custom_settings": {
+     "bpm": 120,
+     "language": "es",
+     "keyscale": "C major",
+     "timesignature": 4
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/tito_manos_song_s6.wav"
+   ],
+   "seconds": 23.3
+  },
+  {
+   "id": "tito_manos_song_s7",
+   "settings": {
+    "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+    "prompt": "[Intro]\n¡ALTO, Tito! ¿Y tus manos?\n[Verse]\n¡Uy! ¡Pintura y bichitos!\nAl lavabo, ¡vamos ya!\nAgua y jabón, ¡qué espuma!\n[Chorus]\n¡Frota, frota, frota!\n¡Splash! ¡Se van, se van!\n¡Manitas limpias!\n[Outro]\n¡Ahora sí, a comer!",
+    "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+    "duration_seconds": 26,
+    "seed": 7,
+    "num_inference_steps": 8,
+    "custom_settings": {
+     "bpm": 120,
+     "language": "es",
+     "keyscale": "C major",
+     "timesignature": 4
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/tito_manos_song_s7.wav"
+   ],
+   "seconds": 24.1
+  },
+  {
+   "id": "tito_manos_song_s8",
+   "settings": {
+    "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+    "prompt": "[Intro]\n¡ALTO, Tito! ¿Y tus manos?\n[Verse]\n¡Uy! ¡Pintura y bichitos!\nAl lavabo, ¡vamos ya!\nAgua y jabón, ¡qué espuma!\n[Chorus]\n¡Frota, frota, frota!\n¡Splash! ¡Se van, se van!\n¡Manitas limpias!\n[Outro]\n¡Ahora sí, a comer!",
+    "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+    "duration_seconds": 26,
+    "seed": 8,
+    "num_inference_steps": 8,
+    "custom_settings": {
+     "bpm": 120,
+     "language": "es",
+     "keyscale": "C major",
+     "timesignature": 4
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/tito_manos_song_s8.wav"
+   ],
+   "seconds": 22.5
+  },
+  {
+   "id": "tito_manos_song_s9",
+   "settings": {
+    "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+    "prompt": "[Intro]\n¡ALTO, Tito! ¿Y tus manos?\n[Verse]\n¡Uy! ¡Pintura y bichitos!\nAl lavabo, ¡vamos ya!\nAgua y jabón, ¡qué espuma!\n[Chorus]\n¡Frota, frota, frota!\n¡Splash! ¡Se van, se van!\n¡Manitas limpias!\n[Outro]\n¡Ahora sí, a comer!",
+    "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+    "duration_seconds": 26,
+    "seed": 9,
+    "num_inference_steps": 8,
+    "custom_settings": {
+     "bpm": 120,
+     "language": "es",
+     "keyscale": "C major",
+     "timesignature": 4
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/tito_manos_song_s9.wav"
+   ],
+   "seconds": 23.2
+  },
+  {
+   "id": "tito_manos_song_s10",
+   "settings": {
+    "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+    "prompt": "[Intro]\n¡ALTO, Tito! ¿Y tus manos?\n[Verse]\n¡Uy! ¡Pintura y bichitos!\nAl lavabo, ¡vamos ya!\nAgua y jabón, ¡qué espuma!\n[Chorus]\n¡Frota, frota, frota!\n¡Splash! ¡Se van, se van!\n¡Manitas limpias!\n[Outro]\n¡Ahora sí, a comer!",
+    "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+    "duration_seconds": 26,
+    "seed": 10,
+    "num_inference_steps": 8,
+    "custom_settings": {
+     "bpm": 120,
+     "language": "es",
+     "keyscale": "C major",
+     "timesignature": 4
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/tito_manos_song_s10.wav"
+   ],
+   "seconds": 24.1
+  },
+  {
+   "id": "tito_manos_song_s11",
+   "settings": {
+    "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+    "prompt": "[Intro]\n¡ALTO, Tito! ¿Y tus manos?\n[Verse]\n¡Uy! ¡Pintura y bichitos!\nAl lavabo, ¡vamos ya!\nAgua y jabón, ¡qué espuma!\n[Chorus]\n¡Frota, frota, frota!\n¡Splash! ¡Se van, se van!\n¡Manitas limpias!\n[Outro]\n¡Ahora sí, a comer!",
+    "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+    "duration_seconds": 26,
+    "seed": 11,
+    "num_inference_steps": 8,
+    "custom_settings": {
+     "bpm": 120,
+     "language": "es",
+     "keyscale": "C major",
+     "timesignature": 4
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/tito_manos_song_s11.wav"
+   ],
+   "seconds": 22.6
+  },
+  {
+   "id": "tito_manos_song_s12",
+   "settings": {
+    "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+    "prompt": "[Intro]\n¡ALTO, Tito! ¿Y tus manos?\n[Verse]\n¡Uy! ¡Pintura y bichitos!\nAl lavabo, ¡vamos ya!\nAgua y jabón, ¡qué espuma!\n[Chorus]\n¡Frota, frota, frota!\n¡Splash! ¡Se van, se van!\n¡Manitas limpias!\n[Outro]\n¡Ahora sí, a comer!",
+    "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+    "duration_seconds": 26,
+    "seed": 12,
+    "num_inference_steps": 8,
+    "custom_settings": {
+     "bpm": 120,
+     "language": "es",
+     "keyscale": "C major",
+     "timesignature": 4
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/tito_manos_song_s12.wav"
+   ],
+   "seconds": 23.4
+  }
+ ]
+}
