@@ -1,20 +1,31 @@
 {
- "taken": "2026-10-20 15:20 UTC",
+ "taken": "2026-10-20 16:14 UTC",
  "channel": {
-  "title": "Cantilandia",
+  "title": "CantilandiaTV",
   "id": "UCDwph5nbCbbl97Pu4gTyZUA",
   "subscribers": 0,
   "views": 0,
-  "videos": 6
+  "videos": 7
  },
  "videos": [
+  {
+   "id": "SMMKda9GxPM",
+   "title": "¡ALTO, Tito! ¿Y tus manos? 🧼🥞 | Canciones Infantiles #Shorts",
+   "published": "2026-10-20",
+   "privacy": "public",
+   "duration_s": 27,
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "retention_curve": []
+  },
   {
    "id": "DxxmhZrbspY",
    "title": "¡Tito no se quiere bañar! 😱🛁 | Canciones Infantiles #Shorts",
    "published": "2026-10-20",
    "privacy": "public",
    "duration_s": 29,
-   "views": 2,
+   "views": 8,
    "likes": 0,
    "comments": 0,
    "retention_curve": []
