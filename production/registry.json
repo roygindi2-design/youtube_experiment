@@ -78,5 +78,18 @@
   "opening": "cold_open_splash_question",
   "pattern": "guess_interactive",
   "experiment": "interactive guess-the-color structure (TikiTykes 20.1M x1171) — first guessing video on the channel"
+ },
+ {
+  "id": "rojito_barro",
+  "youtube_id": "AOZCCuEFUK4",
+  "date": "2026-10-21",
+  "world": "muddy countryside road after rain (big brown puddle, wooden fence, rainbow sky) + toy car wash with rainbow brushes and bubbles",
+  "series": [
+   "rojito"
+  ],
+  "uploaded_utc": "23:36",
+  "opening": "cold_open_mid_action_side_splash",
+  "pattern": "overcome_fear",
+  "experiment": "self-solve twist (hero solves with his own ability) + low side-view opening instead of front close-up"
  }
 ]
