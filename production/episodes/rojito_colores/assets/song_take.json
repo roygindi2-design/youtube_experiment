@@ -1,0 +1,75 @@
+[
+ {
+  "file": "production/episodes/rojito_colores/assets/song.wav",
+  "duration": 26.500000000000004,
+  "words": [
+   [
+    "¡Splash!",
+    0.0,
+    0.5
+   ],
+   [
+    "¡Rojito",
+    0.6,
+    1.46
+   ],
+   [
+    "azul!",
+    1.46,
+    1.92
+   ],
+   [
+    "¡Azul!",
+    5.4,
+    6.18
+   ],
+   [
+    "¡Splash!",
+    9.2,
+    9.96
+   ],
+   [
+    "¡Amarillo!",
+    10.2,
+    11.46
+   ],
+   [
+    "¡Splash!",
+    13.2,
+    13.9
+   ],
+   [
+    "¡Verde,",
+    14.18,
+    14.78
+   ],
+   [
+    "verde!",
+    14.96,
+    15.24
+   ],
+   [
+    "¿Dónde",
+    17.06,
+    17.76
+   ],
+   [
+    "está",
+    17.76,
+    18.18
+   ],
+   [
+    "Rojito?",
+    18.18,
+    19.1
+   ],
+   [
+    "¡No!",
+    24.18,
+    24.88
+   ]
+  ],
+  "transcript": "¡Splash! ¡Rojito azul! ¡Azul! ¡Splash! ¡Amarillo! ¡Splash! ¡Verde, verde! ¿Dónde está Rojito? ¡No!",
+  "splice": "s8 0-16.2 + s1 15.7-26 (offset 0.5 s = 1 beat)"
+ }
+]
