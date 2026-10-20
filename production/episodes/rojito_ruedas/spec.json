@@ -32,8 +32,8 @@
  "shots": [
   [
    "R1",
-   "Extreme close-up at toy level: the little red fire truck character on the sandy play road with a shocked face and wide eyes, his four black wheels popping off and bouncing away in a puff of sand.",
-   "His wheels pop off and bounce away, sand puffs up, his eyes go wide in surprise.",
+   "Low side view at ground level on the sandy play road: the little red fire truck character bounces and all four of his black wheels pop off at once and fly away in different directions in a puff of sand, his body dropping to the ground, his eyes wide with shock.",
+   "The four wheels pop off and roll away in all directions, he drops to the sand.",
    "parque",
    [
     "hero"
@@ -42,8 +42,8 @@
   ],
   [
    "R2",
-   "Medium shot on the sandy play road: the little red fire truck character standing on four big yellow SQUARE wheels, trying to drive, looking determined.",
-   "He bumps forward clunk clunk on the square wheels, bouncing up and down with every turn.",
+   "Close-up from the front: the little red fire truck character sitting flat on the sand with NO wheels at all, empty wheel arches, looking sad with big teary eyes, one black wheel rolling away in the background.",
+   "He sighs and blinks sadly as a wheel rolls away behind him.",
    "parque",
    [
     "hero"
@@ -52,8 +52,8 @@
   ],
   [
    "R3",
-   "Medium shot on the sandy play road: the little red fire truck character standing on four very tiny blue wheels, wobbling, with a nervous wobbly smile.",
-   "He wobbles left and right on the tiny wheels and shakes his head no.",
+   "Side view: the little red fire truck character standing on four big yellow SQUARE blocks with corners instead of wheels, tilted and bumping, a funny determined face.",
+   "He bumps forward clunk clunk on the square blocks, rocking up and down.",
    "parque",
    [
     "hero"
@@ -62,8 +62,8 @@
   ],
   [
    "R4",
-   "Low-angle wide shot on the sandy play road: the little red fire truck character lifted very high up on four giant black monster truck wheels, looking down surprised and a little dizzy, the green hills far below.",
-   "He sways high up on the giant wheels and blinks down in surprise.",
+   "Close-up three-quarter view from the front: the little red fire truck character standing on four TINY blue wheels as small as buttons, his body almost touching the ground, wobbling, with a nervous wobbly smile.",
+   "He wobbles left and right on the tiny wheels and shakes.",
    "parque",
    [
     "hero"
@@ -72,18 +72,8 @@
   ],
   [
    "R5",
-   "Close-up in the toy garage workshop: the little red fire truck character looks up at the wall of wheels and his eyes sparkle as he spots four round shiny red wheels on a hook.",
-   "His eyes light up with joy, a little sparkle twinkles on the round red wheels.",
-   "taller",
-   [
-    "hero"
-   ],
-   3
-  ],
-  [
-   "R6",
-   "Wide shot on the sandy play road: the little red fire truck character with four round shiny red wheels drives fast and happy along the curving road, a trail of sand dust behind him.",
-   "He zooms along the curving road happily, the wheels spin, sand dust trails behind.",
+   "Very low angle from the ground looking up: the little red fire truck character lifted very high on four GIANT black monster truck wheels taller than him, swaying, looking down dizzy, blue sky behind.",
+   "He sways high on the giant wheels and blinks down dizzily.",
    "parque",
    [
     "hero"
@@ -91,9 +81,19 @@
    3
   ],
   [
+   "R6",
+   "Wide shot of the toy garage workshop: the little red fire truck character rolls toward a wall full of different wheels and looks up; four round shiny red wheels hang on a hook at the center, a sparkle on them.",
+   "His eyes light up as he looks at the round red wheels, a sparkle twinkles.",
+   "taller",
+   [
+    "hero"
+   ],
+   3
+  ],
+  [
    "R7",
-   "Medium shot on the sandy play road: the little red fire truck character with his blue siren light glowing, spraying a big arc of water from a small hose on his roof that makes a rainbow in the sunshine, laughing.",
-   "The siren light flashes, water sprays in a sparkling arc and a rainbow appears.",
+   "Tracking side view on the sandy play road: the little red fire truck character with four round shiny red wheels zooms fast from left to right, motion lines of sand dust behind, cones flying past, laughing.",
+   "He zooms along the road from left to right, wheels spinning fast, sand dust trailing.",
    "parque",
    [
     "hero"
@@ -102,13 +102,14 @@
   ],
   [
    "R8",
-   "Close-up at toy level: the little red fire truck character with round red wheels, one of his wheels rolling away from him on the sandy road, his face making a funny 'oh no' expression.",
-   "One wheel slowly rolls away and he looks at it with a funny surprised face.",
+   "Medium shot from the front: the happy little red fire truck character with round red wheels sprays a big arc of water from the hose on his roof into the sky, making a bright rainbow, his blue siren light glowing.",
+   "Water sprays in an arc and a rainbow appears, the siren light flashes.",
    "parque",
    [
     "hero"
    ],
    2
   ]
- ]
+ ],
+ "director": true
 }

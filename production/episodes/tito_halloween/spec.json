@@ -28,8 +28,8 @@
  "shots": [
   [
    "H1",
-   "Extreme close-up: a round orange pumpkin costume worn backwards by the baby elephant, only the tip of his trunk peeking out of the costume's back opening, wiggling, a glowing jack-o-lantern blurred behind.",
-   "The pumpkin costume wobbles and the little trunk tip wiggles out of the opening.",
+   "Extreme close-up from the front on the porch at night: a round orange pumpkin costume on the baby elephant worn BACKWARDS, so only the round orange back of the pumpkin is visible with the tip of a little blue trunk poking out of a small hole and wiggling, glowing jack-o-lanterns blurred behind.",
+   "The pumpkin costume wobbles and the little trunk tip wiggles out of the hole.",
    "porche",
    [
     "tito"
@@ -38,8 +38,8 @@
   ],
   [
    "H2",
-   "Medium shot on the porch: Mamá Elefanta laughs kindly and turns the baby elephant's round orange pumpkin costume the right way; now his happy face shows through the face opening with a big grin.",
-   "Mamá gently turns the costume around and the baby elephant's face pops out grinning.",
+   "Medium shot, side view on the porch: Mamá Elefanta laughing turns the round pumpkin costume around on the baby elephant with both hands; now the baby elephant's happy face pops out of the round opening, wearing a round orange pumpkin costume with a short green stem on top, his face and ears sticking out of the round opening, his yellow overalls hidden.",
+   "Mamá turns the costume around and the baby elephant's face pops out grinning.",
    "porche",
    [
     "tito",
@@ -49,8 +49,8 @@
   ],
   [
    "H3",
-   "Medium shot on the porch: the baby elephant in the pumpkin costume holds a small orange candy bucket and runs toward the front door; Mamá Elefanta holds up a small blue toothbrush with a smile, like saying first teeth.",
-   "The baby elephant runs with the bucket, then stops and looks back at the toothbrush.",
+   "Low angle from behind the baby elephant wearing a round orange pumpkin costume with a short green stem on top, his face and ears sticking out of the round opening, his yellow overalls hidden: he runs toward the glowing front door holding a small orange candy bucket; at the door Mamá Elefanta holds up a small blue toothbrush with a smile.",
+   "He runs toward the door, then stops and looks up at the toothbrush.",
    "porche",
    [
     "tito",
@@ -60,7 +60,7 @@
   ],
   [
    "H4",
-   "Close-up in front of the bathroom mirror: the baby elephant in his pumpkin costume brushes his teeth with a small blue toothbrush, white foam bubbles around his mouth, tiny sparkles on his teeth.",
+   "Close-up from the side in front of the bathroom mirror: the baby elephant wearing a round orange pumpkin costume with a short green stem on top, his face and ears sticking out of the round opening, his yellow overalls hidden brushes his teeth with a small blue toothbrush, white foam bubbles around his mouth, his reflection smiling in the round mirror.",
    "He brushes up and down, foam bubbles float up and his teeth sparkle.",
    "espejo",
    [
@@ -70,7 +70,7 @@
   ],
   [
    "H5",
-   "Wide shot of the autumn porch at evening: three glowing jack-o-lanterns with friendly smiles light up, orange and purple fairy lights twinkle, the baby elephant in his pumpkin costume looks at them with wonder.",
+   "Wide shot of the autumn porch at night: three big glowing jack-o-lanterns with friendly smiling faces light up in a row, orange and purple fairy lights, the big smiling moon, the baby elephant wearing a round orange pumpkin costume with a short green stem on top, his face and ears sticking out of the round opening, his yellow overalls hidden stands small in front of them looking up with wonder.",
    "The jack-o-lanterns glow brighter one by one and the fairy lights twinkle.",
    "porche",
    [
@@ -80,8 +80,8 @@
   ],
   [
    "H6",
-   "Close-up on the porch: a tiny cute white sheet ghost toy with two big round friendly eyes and a little smile floats softly next to the baby elephant in his pumpkin costume; the baby elephant waves and giggles.",
-   "The tiny friendly ghost toy floats and waves; the baby elephant waves back and giggles.",
+   "Close-up, over-the-shoulder from behind the baby elephant in the pumpkin costume: a tiny cute white sheet ghost toy with two big round friendly eyes and a little smile floats in front of him and waves a small hand; the baby elephant waves back.",
+   "The tiny friendly ghost floats and waves, the baby elephant waves back and giggles.",
    "porche",
    [
     "tito"
@@ -90,7 +90,7 @@
   ],
   [
    "H7",
-   "Medium shot on the porch steps under orange fairy lights: the baby elephant in his pumpkin costume and Mamá Elefanta sit together and share a wrapped candy from the orange candy bucket, smiling.",
+   "Medium shot, side view on the porch steps under orange fairy lights: the baby elephant wearing a round orange pumpkin costume with a short green stem on top, his face and ears sticking out of the round opening, his yellow overalls hidden and Mamá Elefanta sit side by side and share a wrapped candy from the orange bucket, smiling at each other.",
    "They share the candy and smile at each other, the lights twinkle.",
    "porche",
    [
@@ -101,13 +101,14 @@
   ],
   [
    "H8",
-   "Medium shot on the porch: the baby elephant playfully pulls the round pumpkin costume over his head the wrong way again, only his trunk tip sticking out, wiggling.",
-   "The costume slips over his head backwards and his trunk tip wiggles out again.",
+   "Close-up from the front: the baby elephant playfully pulls the round orange pumpkin costume down over his head the wrong way again, only the tip of his little blue trunk poking out of a small hole, wiggling.",
+   "The costume slips down over his head and his trunk tip wiggles out again.",
    "porche",
    [
     "tito"
    ],
    2
   ]
- ]
+ ],
+ "director": true
 }
