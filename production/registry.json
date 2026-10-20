@@ -1,7 +1,42 @@
 [
- {"id": "tito_short_official_v2", "youtube_id": "owjvOANiAy4", "date": "2026-10-19", "world": "playroom (pink rug, window)"},
- {"id": "tito_s2_calcetines", "youtube_id": "6eCNeq7Z0W8", "date": "2026-10-19", "world": "bedroom (pink rug, window)"},
- {"id": "tito_ep1", "youtube_id": "-cqaCh6sL5U", "date": "2026-10-19", "world": "playroom (pink rug, window)"},
- {"id": "tito_s3_torre", "youtube_id": "gxH1p0Sp59g", "date": "2026-10-19", "world": "playroom (pink rug, window)"},
- {"id": "tito_s4_color", "youtube_id": "HxAYv-GieDM", "date": "2026-10-20", "world": "playroom (pink rug, window)"}
+ {
+  "id": "tito_short_official_v2",
+  "youtube_id": "owjvOANiAy4",
+  "date": "2026-10-19",
+  "world": "playroom (pink rug, window)"
+ },
+ {
+  "id": "tito_s2_calcetines",
+  "youtube_id": "6eCNeq7Z0W8",
+  "date": "2026-10-19",
+  "world": "bedroom (pink rug, window)"
+ },
+ {
+  "id": "tito_ep1",
+  "youtube_id": "-cqaCh6sL5U",
+  "date": "2026-10-19",
+  "world": "playroom (pink rug, window)"
+ },
+ {
+  "id": "tito_s3_torre",
+  "youtube_id": "gxH1p0Sp59g",
+  "date": "2026-10-19",
+  "world": "playroom (pink rug, window)"
+ },
+ {
+  "id": "tito_s4_color",
+  "youtube_id": "HxAYv-GieDM",
+  "date": "2026-10-20",
+  "world": "playroom (pink rug, window)"
+ },
+ {
+  "id": "tito_bano",
+  "youtube_id": "DxxmhZrbspY",
+  "date": "2026-10-20",
+  "world": "backyard after rain (mud puddles, clothesline) + turquoise bathroom with bubble tub",
+  "series": [
+   "tito",
+   "habitos"
+  ]
+ }
 ]
