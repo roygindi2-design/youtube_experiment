@@ -25,13 +25,18 @@ ACT = ("Smooth natural motion with a clear purposeful action; every character ke
 
 tasks = []
 if stage == "design":
-    for k in (() if s.get("reuse_mama") else (1, 2, 3, 4)):  # reuse_mama: production/characters/mama_master.jpg
+    for k in (() if s.get("reuse_mama") or "mama_lock" not in s else (1, 2, 3, 4)):  # reuse_mama: production/characters/mama_master.jpg
         tasks.append({"id": f"{sid}_mama_s{k}", "model_type": "flux2_klein_4b", "resolution": "720x1280", "num_inference_steps": 4,
                       "seed": 300 + k, "video_prompt_type": "KI",
                       "prompt": STYLE + "Character design sheet, full body, front three-quarter view, standing on a plain soft pastel "
                                 "background: the mother of the baby elephant in the reference image, drawn in exactly the same 3D style. "
                                 + s["mama_lock"] + " Only one character, friendly and warm.",
                       "inputs": {"image_refs": ["tito_master.jpg"]}})
+    hero = s.get("hero")
+    for k in ((1, 2, 3, 4) if hero and hero.get("design") else ()):  # new series hero: design sheet candidates, no refs
+        tasks.append({"id": f"{sid}_hero_s{k}", "model_type": "flux2_klein_4b", "resolution": "720x1280", "num_inference_steps": 4,
+                      "seed": 500 + k, "prompt": STYLE + "Character design sheet, full body, front three-quarter view, on a plain soft "
+                                                        "pastel background: " + s["lock"] + " Only one character, friendly and cute."})
     for name, prompt in s["locations"].items():
         for k in (1, 2):
             tasks.append({"id": f"{sid}_loc_{name}_s{k}", "model_type": "flux2_klein_4b", "resolution": "720x1280",
@@ -43,13 +48,14 @@ if stage == "design":
 elif stage == "shots":
     picks = json.loads((d / "picks.json").read_text())
     for shot, frame, motion, loc, chars, seeds in s["shots"]:
-        refs = [picks["locations"][loc], "tito_master.jpg"] + ([picks["mama"]] if "mama" in chars else [])
-        who = ("The baby elephant from the second reference image, exactly the same character design: " + s["lock"])
+        hero = s.get("hero", {"master": "tito_master.jpg", "who": "The baby elephant", "one": "Only one elephant in the picture."})
+        refs = [picks["locations"][loc], picks.get("hero", hero["master"])] + ([picks["mama"]] if "mama" in chars else [])
+        who = (hero["who"] + " from the second reference image, exactly the same character design: " + s["lock"])
         if "mama" in chars:
             who += (" Mamá Elefanta from the third reference image, exactly the same character design: " + s["mama_lock"]
                     + " Exactly two elephants in the picture: the small baby and his taller mother.")
         else:
-            who += " Only one elephant in the picture."
+            who += " " + hero["one"]
         place = s["locations"][loc].split(". Nobody")[0]
         tasks.append({"id": f"{sid}_{shot}_kf", "model_type": "flux2_klein_4b", "resolution": "720x1280", "num_inference_steps": 4,
                       "seed": 101, "video_prompt_type": "KI",

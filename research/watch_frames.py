@@ -8,6 +8,7 @@ The video files themselves can't be fetched from this server (YouTube blocks it)
 """
 import datetime as dt
 import io
+import re
 import json
 import sys
 from pathlib import Path
@@ -19,7 +20,8 @@ M = Path(__file__).resolve().parent / "market"
 src = Path(sys.argv[1]) if len(sys.argv) > 1 else sorted(M.glob("outliers_*.json"))[-1]
 n = int(sys.argv[2]) if len(sys.argv) > 2 else 24
 rows = [r for r in json.loads(src.read_text()) if r.get("mfk") and r["views"] >= 200_000][:n]
-out = M / f"frames_{dt.date.today():%Y-%m-%d}"
+tag = re.sub(r"^outliers_\d{4}-\d{2}-\d{2}", "", src.stem)  # e.g. "_manos" for a niche scan
+out = M / f"frames_{dt.date.today():%Y-%m-%d}{tag}"
 out.mkdir(parents=True, exist_ok=True)
 W, H = 240, 180
 for g in range(0, len(rows), 6):

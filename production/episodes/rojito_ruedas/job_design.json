@@ -1,0 +1,246 @@
+[
+ {
+  "id": "rojito_ruedas_hero_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 501,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Character design sheet, full body, front three-quarter view, on a plain soft pastel background: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one character, friendly and cute."
+ },
+ {
+  "id": "rojito_ruedas_hero_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 502,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Character design sheet, full body, front three-quarter view, on a plain soft pastel background: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one character, friendly and cute."
+ },
+ {
+  "id": "rojito_ruedas_hero_s3",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 503,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Character design sheet, full body, front three-quarter view, on a plain soft pastel background: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one character, friendly and cute."
+ },
+ {
+  "id": "rojito_ruedas_hero_s4",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 504,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Character design sheet, full body, front three-quarter view, on a plain soft pastel background: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one character, friendly and cute."
+ },
+ {
+  "id": "rojito_ruedas_loc_parque_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A bright toy town sandbox park, vertical 9:16 composition, camera low at toy level: a smooth sandy play road curving between soft green rounded hills, small colorful toy traffic cones, a little wooden toy bridge, round cartoon trees, a bright blue sky with fluffy white clouds. No vehicles on the road."
+ },
+ {
+  "id": "rojito_ruedas_loc_parque_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A bright toy town sandbox park, vertical 9:16 composition, camera low at toy level: a smooth sandy play road curving between soft green rounded hills, small colorful toy traffic cones, a little wooden toy bridge, round cartoon trees, a bright blue sky with fluffy white clouds. No vehicles on the road."
+ },
+ {
+  "id": "rojito_ruedas_loc_taller_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cheerful toy garage workshop, vertical 9:16 composition, camera low at toy level: a wall with hooks holding many different wheels (square wheels, tiny wheels, giant black monster truck wheels, and round red wheels), a red toolbox, a small car lift, warm light from a big open garage door showing green hills outside. No vehicles in the garage."
+ },
+ {
+  "id": "rojito_ruedas_loc_taller_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cheerful toy garage workshop, vertical 9:16 composition, camera low at toy level: a wall with hooks holding many different wheels (square wheels, tiny wheels, giant black monster truck wheels, and round red wheels), a red toolbox, a small car lift, warm light from a big open garage door showing green hills outside. No vehicles in the garage."
+ },
+ {
+  "id": "rojito_ruedas_song_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Bum! ¡Rojito sin ruedas!\n[Verse]\n¿Ruedas cuadradas? ¡Tun, tun, tun!\n¿Ruedas chiquitas? ¡No, no, no!\n¿Ruedas gigantes? ¡Uy, qué alto!\n[Chorus]\n¡Ruedas redondas! ¡Sí, sí, sí!\n¡Vroom, vroom, a rodar!\n¡Nii-noo, nii-noo!\n[Outro]\n¡Rojito al rescate!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_ruedas_song_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Bum! ¡Rojito sin ruedas!\n[Verse]\n¿Ruedas cuadradas? ¡Tun, tun, tun!\n¿Ruedas chiquitas? ¡No, no, no!\n¿Ruedas gigantes? ¡Uy, qué alto!\n[Chorus]\n¡Ruedas redondas! ¡Sí, sí, sí!\n¡Vroom, vroom, a rodar!\n¡Nii-noo, nii-noo!\n[Outro]\n¡Rojito al rescate!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_ruedas_song_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Bum! ¡Rojito sin ruedas!\n[Verse]\n¿Ruedas cuadradas? ¡Tun, tun, tun!\n¿Ruedas chiquitas? ¡No, no, no!\n¿Ruedas gigantes? ¡Uy, qué alto!\n[Chorus]\n¡Ruedas redondas! ¡Sí, sí, sí!\n¡Vroom, vroom, a rodar!\n¡Nii-noo, nii-noo!\n[Outro]\n¡Rojito al rescate!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_ruedas_song_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Bum! ¡Rojito sin ruedas!\n[Verse]\n¿Ruedas cuadradas? ¡Tun, tun, tun!\n¿Ruedas chiquitas? ¡No, no, no!\n¿Ruedas gigantes? ¡Uy, qué alto!\n[Chorus]\n¡Ruedas redondas! ¡Sí, sí, sí!\n¡Vroom, vroom, a rodar!\n¡Nii-noo, nii-noo!\n[Outro]\n¡Rojito al rescate!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_ruedas_song_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Bum! ¡Rojito sin ruedas!\n[Verse]\n¿Ruedas cuadradas? ¡Tun, tun, tun!\n¿Ruedas chiquitas? ¡No, no, no!\n¿Ruedas gigantes? ¡Uy, qué alto!\n[Chorus]\n¡Ruedas redondas! ¡Sí, sí, sí!\n¡Vroom, vroom, a rodar!\n¡Nii-noo, nii-noo!\n[Outro]\n¡Rojito al rescate!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_ruedas_song_s6",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Bum! ¡Rojito sin ruedas!\n[Verse]\n¿Ruedas cuadradas? ¡Tun, tun, tun!\n¿Ruedas chiquitas? ¡No, no, no!\n¿Ruedas gigantes? ¡Uy, qué alto!\n[Chorus]\n¡Ruedas redondas! ¡Sí, sí, sí!\n¡Vroom, vroom, a rodar!\n¡Nii-noo, nii-noo!\n[Outro]\n¡Rojito al rescate!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 6,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_ruedas_song_s7",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Bum! ¡Rojito sin ruedas!\n[Verse]\n¿Ruedas cuadradas? ¡Tun, tun, tun!\n¿Ruedas chiquitas? ¡No, no, no!\n¿Ruedas gigantes? ¡Uy, qué alto!\n[Chorus]\n¡Ruedas redondas! ¡Sí, sí, sí!\n¡Vroom, vroom, a rodar!\n¡Nii-noo, nii-noo!\n[Outro]\n¡Rojito al rescate!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 7,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_ruedas_song_s8",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Bum! ¡Rojito sin ruedas!\n[Verse]\n¿Ruedas cuadradas? ¡Tun, tun, tun!\n¿Ruedas chiquitas? ¡No, no, no!\n¿Ruedas gigantes? ¡Uy, qué alto!\n[Chorus]\n¡Ruedas redondas! ¡Sí, sí, sí!\n¡Vroom, vroom, a rodar!\n¡Nii-noo, nii-noo!\n[Outro]\n¡Rojito al rescate!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 8,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_ruedas_song_s9",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Bum! ¡Rojito sin ruedas!\n[Verse]\n¿Ruedas cuadradas? ¡Tun, tun, tun!\n¿Ruedas chiquitas? ¡No, no, no!\n¿Ruedas gigantes? ¡Uy, qué alto!\n[Chorus]\n¡Ruedas redondas! ¡Sí, sí, sí!\n¡Vroom, vroom, a rodar!\n¡Nii-noo, nii-noo!\n[Outro]\n¡Rojito al rescate!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 9,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_ruedas_song_s10",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Bum! ¡Rojito sin ruedas!\n[Verse]\n¿Ruedas cuadradas? ¡Tun, tun, tun!\n¿Ruedas chiquitas? ¡No, no, no!\n¿Ruedas gigantes? ¡Uy, qué alto!\n[Chorus]\n¡Ruedas redondas! ¡Sí, sí, sí!\n¡Vroom, vroom, a rodar!\n¡Nii-noo, nii-noo!\n[Outro]\n¡Rojito al rescate!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 10,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_ruedas_song_s11",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Bum! ¡Rojito sin ruedas!\n[Verse]\n¿Ruedas cuadradas? ¡Tun, tun, tun!\n¿Ruedas chiquitas? ¡No, no, no!\n¿Ruedas gigantes? ¡Uy, qué alto!\n[Chorus]\n¡Ruedas redondas! ¡Sí, sí, sí!\n¡Vroom, vroom, a rodar!\n¡Nii-noo, nii-noo!\n[Outro]\n¡Rojito al rescate!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 11,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_ruedas_song_s12",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Bum! ¡Rojito sin ruedas!\n[Verse]\n¿Ruedas cuadradas? ¡Tun, tun, tun!\n¿Ruedas chiquitas? ¡No, no, no!\n¿Ruedas gigantes? ¡Uy, qué alto!\n[Chorus]\n¡Ruedas redondas! ¡Sí, sí, sí!\n¡Vroom, vroom, a rodar!\n¡Nii-noo, nii-noo!\n[Outro]\n¡Rojito al rescate!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 12,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ }
+]
