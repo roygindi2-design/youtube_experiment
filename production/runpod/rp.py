@@ -27,7 +27,9 @@ KEY = os.environ.get("runpod_key") or os.environ.get("RUNPOD_API_KEY")
 REST = "https://rest.runpod.io/v1"
 STATE = Path(os.environ.get("YT_KIDS_HOME", Path.home() / ".config" / "yt-kids"))
 IMAGE = "runpod/pytorch:2.8.0-py3.11-cuda12.8.1-cudnn-devel-ubuntu22.04"
-GPUS = ["NVIDIA GeForce RTX 4090", "NVIDIA RTX A6000", "NVIDIA A40", "NVIDIA L40S"]
+CLOUDS = ("SECURE",)  # 2026-10-20: 6 community hosts in a row failed torch CUDA init ("CUDA unknown error"); secure worked
+GPUS = ["NVIDIA GeForce RTX 4090", "NVIDIA RTX PRO 4500 Blackwell", "NVIDIA GeForce RTX 5090", "NVIDIA RTX A6000",
+        "NVIDIA A40", "NVIDIA L40", "NVIDIA L40S", "NVIDIA RTX 6000 Ada Generation"]  # image needs CUDA >= 12.8 drivers
 
 
 def H():
@@ -76,22 +78,32 @@ def cuda_ok(name):
     return False
 
 
-def up(name, gpu=None):
-    for attempt in range(3):
-        up_once(name, gpu)
+def up(name, gpu=None, wait_min=40):
+    t0 = time.time()
+    for attempt in range(40):
+        try:
+            up_once(name, gpu)
+        except SystemExit as e:  # no capacity right now: retry every 2 min
+            if time.time() - t0 > wait_min * 60:
+                raise
+            print("no capacity, retry in 2 min", flush=True)
+            time.sleep(120)
+            continue
         if cuda_ok(name):
             print("cuda ok", flush=True)
             return
         print("bad GPU host, terminating and retrying", flush=True)
         down(name)
-    sys.exit("no healthy GPU pod after 3 tries")
+        if time.time() - t0 > wait_min * 60:
+            break
+    sys.exit("no healthy GPU pod in time")
 
 
 def up_once(name, gpu=None):
     token = secrets.token_urlsafe(24)
     code = base64.b64encode((HERE / "agent.py").read_bytes()).decode()
     last = None
-    for cloud in ("COMMUNITY", "SECURE"):
+    for cloud in CLOUDS:
         body = {"name": f"cantilandia-{name}", "imageName": IMAGE, "gpuTypeIds": [gpu] if gpu else GPUS, "gpuCount": 1,
                 "cloudType": cloud, "containerDiskInGb": 120, "volumeInGb": 0, "ports": ["8000/http"],
                 "env": {"AGENT_TOKEN": token, "AGENT_B64": code},
