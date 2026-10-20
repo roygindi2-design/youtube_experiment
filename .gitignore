@@ -9,3 +9,4 @@ production/pilots/build/animatic_*.mp4
 client_secret*.json
 .config/
 production/longform/build/*.mp4
+production/episodes/*/build/*.mp4

@@ -1,0 +1,325 @@
+{
+ "out": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/bano/build/tito_bano.mp4",
+ "fps": 30,
+ "size": [
+  1080,
+  1920
+ ],
+ "burn_captions": false,
+ "song": {
+  "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/bano/song_final.wav",
+  "start": 0.0,
+  "gain_db": 0
+ },
+ "shots": [
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/bano/shots/tito_bano_clip_T1_s19.mp4",
+   "in": 0.06,
+   "dur": 5.22,
+   "speed": 0.8,
+   "src_len": 3.982,
+   "shot": "T1@19",
+   "hold": 0.343,
+   "punch": {
+    "to": 1.25,
+    "dur": 0.45,
+    "cx": 0.5,
+    "cy": 0.32,
+    "settle": 1.15,
+    "shake": 10
+   }
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/bano/shots/tito_bano_clip_T2_s19.mp4",
+   "in": 0.06,
+   "dur": 4.52,
+   "speed": 0.881,
+   "src_len": 3.982,
+   "shot": "T2@19",
+   "hold": 0.101
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/bano/shots/tito_bano_clip_T3_s19.mp4",
+   "in": 0.06,
+   "dur": 3.6,
+   "speed": 1.0,
+   "src_len": 3.6,
+   "shot": "T3@19"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/bano/shots/tito_bano_clip_T4_s19.mp4",
+   "in": 0.06,
+   "dur": 3.34,
+   "speed": 1.0,
+   "src_len": 3.34,
+   "shot": "T4@19"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/bano/shots/tito_bano_clip_T5_s19.mp4",
+   "in": 0.06,
+   "dur": 2.22,
+   "speed": 1.0,
+   "src_len": 2.22,
+   "shot": "T5@19"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/bano/shots/tito_bano_clip_T6_s31.mp4",
+   "in": 0.06,
+   "dur": 1.7,
+   "speed": 1.0,
+   "src_len": 1.7,
+   "shot": "T6@31"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/bano/shots/tito_bano_clip_T7_s31.mp4",
+   "in": 0.06,
+   "dur": 2.68,
+   "speed": 1.0,
+   "src_len": 2.68,
+   "shot": "T7@31"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/bano/shots/tito_bano_clip_T8_s19.mp4",
+   "in": 0.06,
+   "dur": 2.38,
+   "speed": 1.0,
+   "src_len": 2.38,
+   "shot": "T8@19"
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/bano/shots/tito_bano_clip_T9_s19.mp4",
+   "in": 0.06,
+   "dur": 2.6,
+   "speed": 1.0,
+   "src_len": 2.6,
+   "shot": "T9@19"
+  }
+ ],
+ "sfx": [
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/videostudio/tools/studio/assets/sfx/thud.wav",
+   "at": 0.0,
+   "gain_db": -9
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/videostudio/tools/studio/assets/sfx/bubble.wav",
+   "at": 14.8,
+   "gain_db": -12
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/videostudio/tools/studio/assets/sfx/bubble.wav",
+   "at": 16.8,
+   "gain_db": -10
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/videostudio/tools/studio/assets/sfx/bubble.wav",
+   "at": 17.6,
+   "gain_db": -11
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/videostudio/tools/studio/assets/sfx/sparkle.wav",
+   "at": 22.7,
+   "gain_db": -12
+  },
+  {
+   "file": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/videostudio/tools/studio/assets/sfx/pop.wav",
+   "at": 25.9,
+   "gain_db": -12
+  }
+ ],
+ "lines": [
+  {
+   "start": 0,
+   "end": 4.02,
+   "words": [
+    [
+     "¡Uy!",
+     0.0,
+     4.02
+    ],
+    [
+     "¡Tito",
+     0.0,
+     4.02
+    ],
+    [
+     "está",
+     0.0,
+     4.02
+    ],
+    [
+     "sucio!",
+     0.0,
+     4.02
+    ]
+   ]
+  },
+  {
+   "start": 5.24,
+   "end": 8.96,
+   "words": [
+    [
+     "¿A",
+     5.34,
+     8.959999999999999
+    ],
+    [
+     "bañarse?",
+     5.34,
+     8.959999999999999
+    ],
+    [
+     "¡No,",
+     5.34,
+     8.959999999999999
+    ],
+    [
+     "no,",
+     5.34,
+     8.959999999999999
+    ],
+    [
+     "no!",
+     5.34,
+     8.959999999999999
+    ]
+   ]
+  },
+  {
+   "start": 9.76,
+   "end": 13.24,
+   "words": [
+    [
+     "¡Tito",
+     9.86,
+     13.24
+    ],
+    [
+     "corre",
+     9.86,
+     13.24
+    ],
+    [
+     "y",
+     9.86,
+     13.24
+    ],
+    [
+     "se",
+     9.86,
+     13.24
+    ],
+    [
+     "esconde!",
+     9.86,
+     13.24
+    ]
+   ]
+  },
+  {
+   "start": 13.36,
+   "end": 16.36,
+   "words": [
+    [
+     "¡Mira,",
+     13.46,
+     16.36
+    ],
+    [
+     "mira!",
+     13.46,
+     16.36
+    ],
+    [
+     "¡Burbujas!",
+     13.46,
+     16.36
+    ]
+   ]
+  },
+  {
+   "start": 16.7,
+   "end": 18.82,
+   "words": [
+    [
+     "¡Splash,",
+     16.8,
+     18.82
+    ],
+    [
+     "splash,",
+     16.8,
+     18.82
+    ],
+    [
+     "splash!",
+     16.8,
+     18.82
+    ]
+   ]
+  },
+  {
+   "start": 18.92,
+   "end": 20.67,
+   "words": [
+    [
+     "¡Agua",
+     19.02,
+     20.669999999999998
+    ],
+    [
+     "y",
+     19.02,
+     20.669999999999998
+    ],
+    [
+     "jabón!",
+     19.02,
+     20.669999999999998
+    ]
+   ]
+  },
+  {
+   "start": 20.62,
+   "end": 22.6,
+   "words": [
+    [
+     "¡Fuera",
+     20.72,
+     22.6
+    ],
+    [
+     "barro,",
+     20.72,
+     22.6
+    ],
+    [
+     "fuera!",
+     20.72,
+     22.6
+    ]
+   ]
+  },
+  {
+   "start": 23.3,
+   "end": 24.66,
+   "words": [
+    [
+     "¡Limpito",
+     23.4,
+     24.66
+    ],
+    [
+     "y",
+     23.4,
+     24.66
+    ],
+    [
+     "feliz!",
+     23.4,
+     24.66
+    ]
+   ]
+  }
+ ]
+}
