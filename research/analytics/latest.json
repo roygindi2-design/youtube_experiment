@@ -1,13 +1,24 @@
 {
- "taken": "2026-10-20 13:10 UTC",
+ "taken": "2026-10-20 15:20 UTC",
  "channel": {
   "title": "Cantilandia",
   "id": "UCDwph5nbCbbl97Pu4gTyZUA",
   "subscribers": 0,
   "views": 0,
-  "videos": 5
+  "videos": 6
  },
  "videos": [
+  {
+   "id": "DxxmhZrbspY",
+   "title": "¡Tito no se quiere bañar! 😱🛁 | Canciones Infantiles #Shorts",
+   "published": "2026-10-20",
+   "privacy": "public",
+   "duration_s": 29,
+   "views": 2,
+   "likes": 0,
+   "comments": 0,
+   "retention_curve": []
+  },
   {
    "id": "HxAYv-GieDM",
    "title": "¡Tuuu! Los colores con Tito 🐘🎈 | Rojo, azul y amarillo #Shorts",
@@ -25,7 +36,7 @@
    "published": "2026-10-19",
    "privacy": "public",
    "duration_s": 39,
-   "views": 8,
+   "views": 10,
    "likes": 0,
    "comments": 0,
    "retention_curve": []
@@ -36,7 +47,7 @@
    "published": "2026-10-19",
    "privacy": "public",
    "duration_s": 128,
-   "views": 4,
+   "views": 5,
    "likes": 1,
    "comments": 0,
    "retention_curve": []
