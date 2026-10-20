@@ -1,0 +1,121 @@
+{
+ "id": "rojito_ciudad",
+ "series": "rojito",
+ "title": "¿Cómo hacen los carros de la ciudad? 🚌🚒 | #shorts",
+ "world": "toy city morning: a bus-stop street with a zebra crossing and a traffic light + a sandy construction pit beside a little railroad crossing",
+ "hook": "sound_first_bus_honk",
+ "bpm": 120,
+ "song_takes": 12,
+ "story": [
+  "A big yellow bus honks PI-PI right next to Rojito at the bus stop: who made that sound? (question in second 0)",
+  "Close on the bus: its horn and big smiling mouth go pi, pi, pi (answer 1)",
+  "A green garbage truck lifts a bin and gobbles the trash: ñam, ñam, ñam (answer 2)",
+  "An orange excavator scoops sand in the pit: ras, ras, ras (answer 3)",
+  "A little blue train puffs past the crossing: chu, chu, chu (answer 4)",
+  "A white ambulance rolls by with its light flashing: ui, ui, ui (answer 5)",
+  "A new sound, nii-noo! Everyone looks around... it is Rojito's own siren lighting up (twist)",
+  "Rojito drives down the street spraying a water arc with a little rainbow, the bus honks again (reward + loop)"
+ ],
+ "lyrics": "[Intro]\n¡Pi, pi! ¿Quién hace así?\n[Verse]\nEl autobús hace ¡pi, pi, pi!\nEl camión de basura, ¡ñam, ñam, ñam!\nLa excavadora, ¡ras, ras, ras!\nEl tren hace ¡chu, chu, chu!\nLa ambulancia, ¡ui, ui, ui!\n[Chorus]\n¿Y quién hace ¡nii-noo!? ¡Soy yo!\n[Outro]\n¡Rojito hace ¡nii-noo, nii-noo!",
+ "locations": {
+  "calle": "A cheerful toy city street on a sunny morning, outdoors, vertical 9:16 composition, camera low at toy level: a smooth grey play road with a white zebra crossing, a small bus stop with a blue roof and a bench, a friendly traffic light showing green, colorful rounded toy houses and shops in pastel orange, mint and yellow, little round trees, a wide open blue sky with white clouds. No vehicles on the road.",
+  "obra": "A sunny toy construction site outdoors, vertical 9:16 composition, camera low at toy level: a big pit of soft golden sand with orange and white traffic cones, a little red-and-white railroad crossing with a wooden barrier and a curved toy train track behind the pit, green rounded hills and a wide open blue sky with white clouds. No vehicles in the pit."
+ },
+ "shots": [
+  [
+   "Q1",
+   "Wide shot of the toy city street on a sunny morning: a big round yellow school-bus character with big glossy eyes on its windshield stands at the blue bus stop honking with its mouth wide open, little musical note sparkles coming out of its horn, the little red fire truck character waits beside the bus on the right, looking up at it curiously.",
+   "The yellow bus bounces gently on its wheels as it honks, the little fire truck turns his eyes toward it.",
+   "calle",
+   [
+    "hero"
+   ],
+   2
+  ],
+  [
+   "Q2",
+   "Extreme close-up of the front of the big yellow bus character: its big happy eyes on the windshield and its wide smiling mouth on the bumper, honking, a shiny round horn glowing, the little red fire truck character small and blurred in the side mirror.",
+   "The yellow bus honks three times, its round horn pulsing with each honk.",
+   "calle",
+   [
+    "hero"
+   ],
+   3
+  ],
+  [
+   "Q3",
+   "Low side view at ground level: a chubby GREEN garbage truck character with big glossy eyes lifts a small blue bin with its front arms and tips paper scraps and banana peels into its open back, munching happily, the little red fire truck character watching from the right edge of the picture.",
+   "The green garbage truck lifts the bin and the scraps tumble into its back, it munches happily.",
+   "calle",
+   [
+    "hero"
+   ],
+   3
+  ],
+  [
+   "Q4",
+   "Top-down view from above the sandy construction pit: a round ORANGE excavator character with big glossy eyes digs its scoop into the golden sand and lifts a big scoop of sand, orange cones around the pit, the little red fire truck character parked at the bottom edge of the picture looking at it.",
+   "The orange excavator scoops the sand and lifts it up, sand pouring from the scoop.",
+   "obra",
+   [
+    "hero"
+   ],
+   3
+  ],
+  [
+   "Q5",
+   "View from behind the little red fire truck character at the railroad crossing: the barrier is down and a little BLUE toy train character with big glossy eyes and a smiling face chugs past on the curved track, round white puffs of steam rising from its chimney.",
+   "The blue train chugs from left to right, round puffs of white steam float up.",
+   "obra",
+   [
+    "hero"
+   ],
+   3
+  ],
+  [
+   "Q6",
+   "Medium shot, front three-quarter view on the city street: a rounded WHITE ambulance character with an orange stripe and big glossy eyes drives along the road, a round blue light flashing on its roof, the little red fire truck character waiting at the zebra crossing on the left, watching it go by.",
+   "The white ambulance drives along the road, its blue roof light flashing on and off.",
+   "calle",
+   [
+    "hero"
+   ],
+   3
+  ],
+  [
+   "Q7",
+   "Close-up from the front of the little red fire truck character on the city street: the round blue siren on his roof is now FLASHING BRIGHT BLUE with glowing light rays, he looks up at his own siren with big surprised eyes and a wide open smile, the yellow bus blurred behind him.",
+   "His blue siren flashes brighter and brighter, he looks up at it and starts to smile.",
+   "calle",
+   [
+    "hero"
+   ],
+   3
+  ],
+  [
+   "Q8",
+   "Low side view at ground level: the little red fire truck character drives happily along the city street spraying a long arc of sparkling water from the little hose on his ladder, a small rainbow shining in the spray, his blue siren flashing, the yellow bus at the bus stop behind him.",
+   "He drives forward spraying a sparkling water arc, a little rainbow shimmers in the spray.",
+   "calle",
+   [
+    "hero"
+   ],
+   3
+  ]
+ ],
+ "hero": {
+  "design": false,
+  "master": "rojito_master.jpg",
+  "who": "The little red fire truck character",
+  "one": "Rojito is the only red fire truck in the picture; every other vehicle is a different friendly toy vehicle character with its own colors and its own big glossy cartoon eyes on the windshield."
+ },
+ "style": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. ",
+ "lock": "ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door.",
+ "director": true,
+ "pattern": "guess_interactive",
+ "opening": "sound_first_bus_honk",
+ "twist": "after five friends each make their sound, a new 'nii-noo!' is heard and nobody knows who it is — Rojito's own siren lights up FLASHING BLUE on his roof: the mystery sound was him",
+ "moral": "¡Cada amigo tiene su sonido, y Rojito hace ¡nii-noo!",
+ "experiment": "NuNu 'X hace Y' sound song (NuNu ×95, Singaroo ×665): every lyric line is a DIFFERENT one-off vehicle friend doing exactly its sound on the beat; first multi-character sound song on the channel",
+ "continuity": "sunny morning in every shot; Rojito always cherry red and visible at the edge of each friend shot (Q1-Q6), siren dark blue until Q7, FLASHING from Q7 to Q8; yellow bus at the bus stop in Q1, Q2, Q7 (blurred) and Q8 (background); each friend vehicle appears only in its own shot: bus yellow, garbage truck green, excavator orange, train blue, ambulance white with orange stripe; calle = Q1-Q3, Q6-Q8, obra = Q4-Q5"
+}

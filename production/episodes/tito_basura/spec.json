@@ -1,0 +1,119 @@
+{
+ "id": "tito_basura",
+ "series": "tito",
+ "title": "¡Tito, la basura no va ahí! 🦆🗑️ | #shorts",
+ "world": "sunny duck-pond park: green lawn, wooden bench, weeping willow, lily pads, a family of yellow ducklings + a park path with a smiling green trash bin",
+ "hook": "cold_open_toss_midair",
+ "bpm": 120,
+ "song_takes": 12,
+ "reuse_mama": true,
+ "story": [
+  "In the park Tito finishes his juice box and tosses it over his shoulder; it flies toward the pond (the mistake, second 0)",
+  "Splash! The juice box lands in the pond next to a fluffy yellow duckling, who jumps in surprise (consequence)",
+  "The duckling looks sadly at the floating box in its pond (feeling)",
+  "Mamá Elefanta points at the pond: Tito, where does trash go? Tito's trunk droops (mentor)",
+  "Tito reaches out with his long trunk and lifts the dripping juice box out of the water (twist: his trunk is the tool)",
+  "A smiling green trash bin opens its lid like a big mouth and gobbles the box: ñam, ñam, ñam! (fix)",
+  "The duckling family swims in sparkling clean water and quacks thank you (reward)",
+  "Tito and Mamá do a trunk high-five next to the bin (moral + loop)"
+ ],
+ "lyrics": "[Intro]\n¡Uy! Tito tiró su jugo.\n[Verse]\n¡Splash! ¡Cuac! ¿Qué es eso?\nEl patito está triste.\n¿Tito, dónde va la basura?\n¡Con mi trompa la saco!\n[Chorus]\n¡Al bote! ¡Ñam, ñam, ñam!\n¡Cuac, cuac! ¡Gracias, Tito!\n[Outro]\n¡La basura, a su lugar!",
+ "locations": {
+  "estanque": "A sunny park with a small duck pond, outdoors, vertical 9:16 composition, camera at child eye level: a round pond of clear blue water with green lily pads and a few pink water lilies, soft green lawn around it, a weeping willow tree, a small wooden bench by the water, a wide open blue sky with white clouds. Nobody is in the park.",
+  "sendero": "A sunny park path outdoors, vertical 9:16 composition, camera at child eye level: a light sandy path through soft green grass with little yellow flowers, a round green trash bin with a rounded lid standing beside the path, the blue duck pond glittering in the background, a wide open blue sky. Nobody is on the path."
+ },
+ "shots": [
+  [
+   "P1",
+   "Wide shot of the sunny duck-pond park: the baby elephant sits on the small wooden bench by the pond and tosses an empty plain white juice box over his shoulder, the box flying in the air toward the blue water, three fluffy yellow ducklings swimming among the lily pads.",
+   "He tosses the juice box over his shoulder and it arcs through the air toward the pond.",
+   "estanque",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "P2",
+   "Close-up at water level of the pond: the plain white juice box lands in the clear blue water with a big round splash right next to a fluffy yellow duckling, the duckling jumping up in surprise with its little wings open, lily pads around.",
+   "Water splashes up around the box and the little duckling flaps its wings in surprise.",
+   "estanque",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "P3",
+   "Extreme close-up of the fluffy yellow duckling floating on the pond: it looks sadly at the plain white juice box bobbing next to it, its little beak pointing down, one small shiny tear on its cheek, ripples on the water.",
+   "The duckling looks at the box sadly and paddles a little away from it.",
+   "estanque",
+   [
+    "tito"
+   ],
+   2
+  ],
+  [
+   "P4",
+   "Medium shot, side view on the lawn by the pond: Mamá Elefanta kneels beside the baby elephant and gently points her trunk at the juice box floating in the pond, the baby elephant looks at it with a worried face and his trunk drooping down.",
+   "Mamá points gently at the pond and the baby elephant lowers his head, worried.",
+   "estanque",
+   [
+    "tito",
+    "mama"
+   ],
+   3
+  ],
+  [
+   "P5",
+   "Over-the-shoulder view from behind the baby elephant at the edge of the pond: he stretches his long trunk out over the water and lifts the dripping plain white juice box up out of the pond, water drops falling, the ducklings watching.",
+   "He curls his trunk around the box and lifts it out of the water, drops falling.",
+   "estanque",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "P6",
+   "Low front view on the sandy park path: a round GREEN trash bin with a happy smiling face and big glossy eyes opens its rounded lid wide like a big mouth, and the baby elephant drops the plain white juice box into it from his trunk.",
+   "The green bin opens its lid wide, the box drops in and the lid closes with a happy munch.",
+   "sendero",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "P7",
+   "Top-down view from above the pond: the mother duck and three fluffy yellow ducklings swim in a happy circle in the now SPARKLING CLEAN blue water, round ripples spreading, glittering sparkles on the water, the baby elephant waving at the edge of the pond.",
+   "The ducklings swim in a happy circle and the water sparkles, ripples spreading out.",
+   "estanque",
+   [
+    "tito"
+   ],
+   2
+  ],
+  [
+   "P8",
+   "Close-up, low angle on the sandy path beside the smiling green trash bin: the baby elephant and Mamá Elefanta touch the tips of their trunks together in a happy high-five, bright sunshine and little sparkles around them.",
+   "They tap their trunk tips together and both laugh, sparkles twinkle.",
+   "sendero",
+   [
+    "tito",
+    "mama"
+   ],
+   2
+  ]
+ ],
+ "style": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. ",
+ "lock": "TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail.",
+ "mama_lock": "MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear.",
+ "director": true,
+ "pattern": "lesson_consequence",
+ "opening": "cold_open_toss_midair",
+ "twist": "Tito fixes his own mistake with his TRUNK: he reaches into the pond and lifts the dripping box out, and the trash bin 'eats' it with a ñam — the duckling's water turns sparkling",
+ "moral": "¡La basura, a su lugar!",
+ "experiment": "first littering/environment lesson (Milo Kids ×3,604, NursyTots ×1,382, VocaVoca 21.1M) with a visible consequence for a friend (sad duckling) and a talking trash bin as the fun fix",
+ "continuity": "sunny midday in every shot; juice box plain white: in the air P1, floating P2-P4, in Tito's trunk P5, into the bin P6, gone from P7; three yellow ducklings on the pond P1-P3, P5, P7 (+ mother duck P7); water plain blue P1-P5, SPARKLING from P7; trash bin green with a smiling face only on the path (P6, P8); Mamá only in P4 and P8"
+}

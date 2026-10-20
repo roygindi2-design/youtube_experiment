@@ -1,0 +1,121 @@
+{
+ "id": "tito_dormir",
+ "series": "tito",
+ "title": "¡Tito tiene miedo de la sombra! 🌙🦒 | #shorts",
+ "world": "moonlit night bedroom: navy-blue walls with painted golden stars, round window with a big friendly moon, small wooden bed with a starry blanket, warm night-light + the view through the round window over sleepy hills",
+ "hook": "big_funny_shadow_on_wall",
+ "bpm": 120,
+ "song_takes": 12,
+ "reuse_mama": true,
+ "story": [
+  "Night. A big wobbly shadow with a long neck and two little horns appears on the bedroom wall; Tito peeks from under his blanket (problem in second 0)",
+  "Extreme close-up: Tito's eyes over the starry blanket, he pulls it up to his nose and calls ¡Mamá! (fear)",
+  "Mamá Elefanta comes in holding a small warm lamp (mentor arrives)",
+  "Mamá lifts the soft yellow plush giraffe in front of the lamp: the shadow on the wall moves with it, it is just the giraffe! (the trick that shows why)",
+  "Mamá makes a bunny shadow with her trunk and ears on the wall; Tito laughs (fear turns into play)",
+  "Tito lifts his trunk in the light and his own shadow is a big elephant going ¡tuuu! (he takes control)",
+  "Top-down: Tito cuddles the plush giraffe, Mamá tucks the starry blanket and kisses his forehead (reward)",
+  "Through the round window: the big moon shines, Tito sleeps smiling; the giraffe shadow on the wall now looks friendly (moral + loop)"
+ ],
+ "lyrics": "[Intro]\n¡Uy! ¿Qué es eso en la pared?\n[Verse]\n¡Mamá, mamá, una sombra!\nMamá llega con su luz.\n¡Mira! ¡Es tu jirafa!\nUn conejito, ¡hop, hop, hop!\n[Chorus]\nY Tito hace ¡tuuu, tuuu!\nAbrazo, besito, ¡a dormir!\n[Outro]\nBuenas noches, luna. ¡Shhh!",
+ "locations": {
+  "cuarto": "A cozy child's bedroom at night, vertical 9:16 composition, camera at child eye level: navy-blue walls with small painted golden stars, a small wooden bed with a soft blanket covered in yellow stars and a round pillow, a little wooden shelf with a soft yellow plush giraffe toy, a round window showing a big friendly glowing moon, a small warm night-light glowing amber on the shelf, soft blue moonlight and warm amber light. Nobody is in the bedroom.",
+  "ventana": "A round wooden window seen from outside at night, vertical 9:16 composition, camera at child eye level: a big friendly glowing full moon above sleepy rounded blue hills, twinkling stars in a deep navy sky, a few glowing fireflies near the window, warm amber light inside the round window. Nobody is at the window."
+ },
+ "shots": [
+  [
+   "D1",
+   "Wide shot of the cozy night bedroom: a big soft wobbly shadow with a long neck and two little round horns falls across the navy-blue wall, and the baby elephant peeks out from under his starry blanket in the small wooden bed, only his big eyes and ears showing, looking at the shadow.",
+   "The big shadow sways slowly on the wall and the baby elephant blinks under his blanket.",
+   "cuarto",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "D2",
+   "Extreme close-up of the baby elephant's face in bed at night: his big glossy eyes wide open just above the edge of the blanket with yellow stars, the blanket pulled up to his nose, his ears pulled in, soft blue moonlight on his face.",
+   "He pulls the starry blanket up to his nose and his eyes dart to the side.",
+   "cuarto",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "D3",
+   "Medium shot, side view of the bedroom door at night: Mamá Elefanta walks in smiling, holding a small round lamp with warm amber light in her trunk, the baby elephant sitting up in his bed with the starry blanket around him.",
+   "Mamá walks in gently with the glowing lamp, the warm light spreading over the room.",
+   "cuarto",
+   [
+    "tito",
+    "mama"
+   ],
+   3
+  ],
+  [
+   "D4",
+   "Over-the-shoulder view from behind the baby elephant in bed: Mamá Elefanta holds up a soft yellow plush giraffe toy in front of the warm lamp, and on the navy wall behind her the big shadow is now clearly the same giraffe shape with a long neck and two little horns, matching the toy.",
+   "Mamá wiggles the plush giraffe and the giraffe shadow on the wall wiggles the same way.",
+   "cuarto",
+   [
+    "tito",
+    "mama"
+   ],
+   3
+  ],
+  [
+   "D5",
+   "Close-up of the lit navy wall: a crisp shadow of a little bunny with two tall ears hops across the wall, made by Mamá Elefanta's trunk and ears in front of the warm lamp at the edge of the picture, the baby elephant's happy laughing face in the foreground.",
+   "The bunny shadow hops along the wall and the baby elephant laughs.",
+   "cuarto",
+   [
+    "tito",
+    "mama"
+   ],
+   3
+  ],
+  [
+   "D6",
+   "Low angle from the floor of the bedroom: the baby elephant stands on his bed in the warm lamp light with his trunk raised high, trumpeting, and on the wall behind him his own shadow is a BIG elephant shadow with a raised trunk.",
+   "He raises his trunk and trumpets, his big shadow on the wall raises its trunk too.",
+   "cuarto",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "D7",
+   "Top-down view from above the small wooden bed: the baby elephant lies cuddling the soft yellow plush giraffe under the blanket with yellow stars, Mamá Elefanta tucks the blanket around him and kisses his forehead, warm amber light.",
+   "Mamá tucks the starry blanket and gives him a soft kiss, his eyes slowly close.",
+   "cuarto",
+   [
+    "tito",
+    "mama"
+   ],
+   2
+  ],
+  [
+   "D8",
+   "View from outside the round wooden window at night: the big friendly glowing moon shines over the window, and inside the baby elephant sleeps smiling with the plush giraffe, a soft friendly giraffe shadow on the wall behind him, glowing fireflies drifting by the window.",
+   "Fireflies drift past the window and the moon glows softly while he sleeps.",
+   "ventana",
+   [
+    "tito"
+   ],
+   2
+  ]
+ ],
+ "style": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. ",
+ "lock": "TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail.",
+ "mama_lock": "MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear.",
+ "director": true,
+ "pattern": "trick_why",
+ "opening": "shadow_on_wall_question",
+ "twist": "Mamá lifts the plush giraffe in front of the lamp and the 'monster' shadow on the wall moves exactly with it — the viewer SEES that the scary shape was only the giraffe",
+ "moral": "¡No es un monstruo, es tu jirafa! ¡A dormir, Tito!",
+ "experiment": "first bedtime video + first 'trick_why' (visual proof by a mentor, More Good Stories ×759) — the shadow-puppet demonstration is the punchline",
+ "continuity": "night in every shot (blue moonlight + warm amber lamp from D3 on); Tito always in yellow overalls, starry blanket on the bed in every bedroom shot; plush giraffe on the shelf in D1-D3, in Mamá's trunk in D4, in Tito's arms in D7-D8; lamp in Mamá's trunk D3, then on the shelf D5-D7; giraffe shadow on the wall D1, D4, D8; Mamá only in D3-D5 and D7"
+}

@@ -3,9 +3,21 @@
  "items": [
   {
    "id": "rojito_ciudad",
-   "status": "idea",
+   "status": "script_ready",
    "owner": "research",
-   "note": "NuNu-style 'En la ciudad, ¿cómo hacen?' — each line a different vehicle character + its sound (research/10). Needs full spec + dossier."
+   "note": "NuNu 'X hace Y' vehicle-sound song; guess_interactive; city + construction pit. spec+SCRIPT+dossier+upload draft, preflight OK 20.10 23:00. NOTE producer: hero.one adapted so a friend vehicle can share the frame with Rojito; check Rojito stays red in storyboard."
+  },
+  {
+   "id": "tito_dormir",
+   "status": "script_ready",
+   "owner": "research",
+   "note": "bedtime / fear of the shadow; first trick_why (Mamá shows the shadow is the plush giraffe). Gracioso Bebé x1715, Biper 34.8M x928. preflight OK."
+  },
+  {
+   "id": "tito_basura",
+   "status": "script_ready",
+   "owner": "research",
+   "note": "littering lesson at a duck pond; Tito lifts the box out with his trunk, smiling bin ñam. Milo Kids x3604, NursyTots x1382. preflight OK."
   },
   {
    "id": "tito_halloween",
