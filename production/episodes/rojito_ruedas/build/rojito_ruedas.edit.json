@@ -1,0 +1,287 @@
+{
+ "out": "/tmp/claude-0/-home-user-youtube-experiment/b487dde5-1f05-5918-baa2-743abaa9c857/scratchpad/rojito/build/rojito_ruedas.mp4",
+ "fps": 30,
+ "size": [
+  1080,
+  1920
+ ],
+ "burn_captions": false,
+ "song": {
+  "file": "production/episodes/rojito_ruedas/assets/song.wav",
+  "start": 0.0,
+  "gain_db": 0
+ },
+ "shots": [
+  {
+   "file": "production/episodes/rojito_ruedas/shots/rojito_ruedas_clip_R1_s31.mp4",
+   "in": 0.06,
+   "dur": 3.5,
+   "speed": 1.0,
+   "src_len": 3.5,
+   "shot": "R1@31",
+   "punch": {
+    "to": 1.25,
+    "dur": 0.45,
+    "cx": 0.5,
+    "cy": 0.32,
+    "settle": 1.15,
+    "shake": 10
+   }
+  },
+  {
+   "file": "production/episodes/rojito_ruedas/shots/rojito_ruedas_clip_R1_s7.mp4",
+   "in": 1.6,
+   "dur": 3.1,
+   "speed": 0.8,
+   "src_len": 2.442,
+   "shot": "R1@7",
+   "hold": 0.148
+  },
+  {
+   "file": "production/episodes/rojito_ruedas/shots/rojito_ruedas_clip_R2_s19.mp4",
+   "in": 0.06,
+   "dur": 4.16,
+   "speed": 0.957,
+   "src_len": 3.981,
+   "shot": "R2@19"
+  },
+  {
+   "file": "production/episodes/rojito_ruedas/shots/rojito_ruedas_clip_R3_s19.mp4",
+   "in": 0.06,
+   "dur": 3.88,
+   "speed": 1.0,
+   "src_len": 3.88,
+   "shot": "R3@19"
+  },
+  {
+   "file": "production/episodes/rojito_ruedas/shots/rojito_ruedas_clip_R4_s7.mp4",
+   "in": 1.8,
+   "dur": 2.0,
+   "speed": 1.0,
+   "src_len": 2.0,
+   "shot": "R4@7"
+  },
+  {
+   "file": "production/episodes/rojito_ruedas/shots/rojito_ruedas_clip_R4_s31.mp4",
+   "in": 2.0,
+   "dur": 2.18,
+   "speed": 0.937,
+   "src_len": 2.042,
+   "shot": "R4@31",
+   "hold": 0.101
+  },
+  {
+   "file": "production/episodes/rojito_ruedas/shots/rojito_ruedas_clip_R5_s31.mp4",
+   "in": 0.06,
+   "dur": 4.02,
+   "speed": 0.99,
+   "src_len": 3.98,
+   "shot": "R5@31"
+  },
+  {
+   "file": "production/episodes/rojito_ruedas/shots/rojito_ruedas_clip_R6_s19.mp4",
+   "in": 0.06,
+   "dur": 2.6,
+   "speed": 1.0,
+   "src_len": 2.6,
+   "shot": "R6@19"
+  },
+  {
+   "file": "production/episodes/rojito_ruedas/shots/rojito_ruedas_clip_R7_s31.mp4",
+   "in": 0.06,
+   "dur": 2.8,
+   "speed": 1.0,
+   "src_len": 2.8,
+   "shot": "R7@31"
+  }
+ ],
+ "sfx": [],
+ "lines": [
+  {
+   "start": 0,
+   "end": 6.67,
+   "words": [
+    [
+     "¡Bum!",
+     0.0,
+     6.67
+    ],
+    [
+     "¡Bum!",
+     0.0,
+     6.67
+    ],
+    [
+     "¡Bum!",
+     0.0,
+     6.67
+    ],
+    [
+     "¡Bum!",
+     0.0,
+     6.67
+    ],
+    [
+     "¡Rojito",
+     0.0,
+     6.67
+    ],
+    [
+     "sin",
+     0.0,
+     6.67
+    ],
+    [
+     "ruedas!",
+     0.0,
+     6.67
+    ]
+   ]
+  },
+  {
+   "start": 6.62,
+   "end": 10.83,
+   "words": [
+    [
+     "¿Ruedas",
+     6.72,
+     10.83
+    ],
+    [
+     "cuadradas?",
+     6.72,
+     10.83
+    ],
+    [
+     "¡Tun,",
+     6.72,
+     10.83
+    ],
+    [
+     "tun,",
+     6.72,
+     10.83
+    ],
+    [
+     "tun!",
+     6.72,
+     10.83
+    ]
+   ]
+  },
+  {
+   "start": 10.78,
+   "end": 14.7,
+   "words": [
+    [
+     "¿Ruedas",
+     10.88,
+     14.7
+    ],
+    [
+     "chiquitas?",
+     10.88,
+     14.7
+    ],
+    [
+     "¡No,",
+     10.88,
+     14.7
+    ],
+    [
+     "no,",
+     10.88,
+     14.7
+    ],
+    [
+     "no!",
+     10.88,
+     14.7
+    ]
+   ]
+  },
+  {
+   "start": 14.66,
+   "end": 18.89,
+   "words": [
+    [
+     "¿Ruedas",
+     14.76,
+     18.89
+    ],
+    [
+     "gigantes?",
+     14.76,
+     18.89
+    ],
+    [
+     "¡Uy,",
+     14.76,
+     18.89
+    ],
+    [
+     "qué",
+     14.76,
+     18.89
+    ],
+    [
+     "alto!",
+     14.76,
+     18.89
+    ]
+   ]
+  },
+  {
+   "start": 18.84,
+   "end": 22.8,
+   "words": [
+    [
+     "¡Ruedas",
+     18.94,
+     22.8
+    ],
+    [
+     "redondas!",
+     18.94,
+     22.8
+    ],
+    [
+     "¡Sí,",
+     18.94,
+     22.8
+    ],
+    [
+     "sí,",
+     18.94,
+     22.8
+    ],
+    [
+     "sí!",
+     18.94,
+     22.8
+    ]
+   ]
+  },
+  {
+   "start": 22.86,
+   "end": 25.64,
+   "words": [
+    [
+     "¡Brum!",
+     22.96,
+     25.64
+    ],
+    [
+     "¡Brum!",
+     22.96,
+     25.64
+    ],
+    [
+     "¡Arruda!",
+     22.96,
+     25.64
+    ]
+   ]
+  }
+ ]
+}

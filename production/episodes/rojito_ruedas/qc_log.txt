@@ -1,0 +1,24 @@
+Loading weights:   0%|          | 0/223 [00:00<?, ?it/s]Loading weights:   3%|▎         | 7/223 [00:00<00:03, 54.48it/s]Loading weights:   7%|▋         | 15/223 [00:00<00:09, 22.08it/s]Loading weights:   9%|▊         | 19/223 [00:01<00:16, 12.41it/s]Loading weights:  11%|█         | 24/223 [00:01<00:12, 15.82it/s]Loading weights:  12%|█▏        | 27/223 [00:01<00:16, 11.97it/s]Loading weights:  16%|█▌        | 35/223 [00:02<00:10, 18.79it/s]Loading weights:  18%|█▊        | 41/223 [00:02<00:07, 24.21it/s]Loading weights:  20%|██        | 45/223 [00:02<00:07, 24.57it/s]Loading weights:  22%|██▏       | 49/223 [00:02<00:11, 14.66it/s]Loading weights:  23%|██▎       | 52/223 [00:03<00:11, 14.81it/s]Loading weights:  27%|██▋       | 60/223 [00:03<00:09, 17.82it/s]Loading weights:  33%|███▎      | 73/223 [00:03<00:06, 23.75it/s]Loading weights:  37%|███▋      | 82/223 [00:03<00:04, 29.58it/s]Loading weights:  39%|███▉      | 88/223 [00:04<00:04, 29.20it/s]Loading weights:  41%|████▏     | 92/223 [00:04<00:04, 29.36it/s]Loading weights:  47%|████▋     | 104/223 [00:04<00:02, 41.89it/s]Loading weights:  49%|████▉     | 110/223 [00:04<00:02, 38.04it/s]Loading weights:  53%|█████▎    | 118/223 [00:04<00:02, 42.05it/s]Loading weights:  55%|█████▌    | 123/223 [00:04<00:02, 39.24it/s]Loading weights:  58%|█████▊    | 130/223 [00:05<00:03, 28.24it/s]Loading weights:  60%|██████    | 134/223 [00:05<00:03, 28.92it/s]Loading weights:  66%|██████▋   | 148/223 [00:05<00:02, 28.37it/s]Loading weights:  68%|██████▊   | 152/223 [00:06<00:02, 29.30it/s]Loading weights:  73%|███████▎  | 163/223 [00:06<00:01, 35.96it/s]Loading weights:  75%|███████▍  | 167/223 [00:06<00:01, 29.51it/s]Loading weights:  77%|███████▋  | 171/223 [00:06<00:01, 28.69it/s]Loading weights: 100%|██████████| 223/223 [00:06<00:00, 33.04it/s]
+rojito_ruedas_clip_R1_s19 FAIL warp max 24.5 thr 13.4 | min sim 0.859 | flagged 11
+rojito_ruedas_clip_R1_s31 REVIEW warp max 41.4 thr 18.3 | min sim 0.903 | flagged 2
+rojito_ruedas_clip_R1_s7 FAIL warp max 19.6 thr 18.1 | min sim 0.841 | flagged 6
+rojito_ruedas_clip_R2_s19 PASS warp max 11.9 thr 12.0 | min sim 0.916 | flagged 0
+rojito_ruedas_clip_R2_s31 REVIEW warp max 12.2 thr 12.0 | min sim 0.892 | flagged 1
+rojito_ruedas_clip_R2_s7 REVIEW warp max 12.4 thr 12.0 | min sim 0.912 | flagged 1
+rojito_ruedas_clip_R3_s19 REVIEW warp max 12.4 thr 12.0 | min sim 0.927 | flagged 1
+rojito_ruedas_clip_R3_s31 REVIEW warp max 13.6 thr 12.0 | min sim 0.928 | flagged 1
+rojito_ruedas_clip_R3_s7 REVIEW warp max 13.6 thr 12.0 | min sim 0.891 | flagged 1
+rojito_ruedas_clip_R4_s19 FAIL warp max 16.5 thr 17.0 | min sim 0.776 | flagged 69
+rojito_ruedas_clip_R4_s31 FAIL warp max 14.6 thr 12.0 | min sim 0.793 | flagged 58
+rojito_ruedas_clip_R4_s7 FAIL warp max 12.9 thr 13.2 | min sim 0.813 | flagged 49
+rojito_ruedas_clip_R5_s19 FAIL warp max 13.7 thr 12.0 | min sim 0.793 | flagged 34
+rojito_ruedas_clip_R5_s31 FAIL warp max 14.9 thr 12.0 | min sim 0.809 | flagged 18
+rojito_ruedas_clip_R5_s7 FAIL warp max 17.0 thr 12.0 | min sim 0.795 | flagged 38
+rojito_ruedas_clip_R6_s19 REVIEW warp max 14.3 thr 12.0 | min sim 0.884 | flagged 1
+rojito_ruedas_clip_R6_s31 FAIL warp max 14.1 thr 12.0 | min sim 0.815 | flagged 14
+rojito_ruedas_clip_R6_s7 REVIEW warp max 13.2 thr 12.0 | min sim 0.876 | flagged 1
+rojito_ruedas_clip_R7_s19 REVIEW warp max 17.1 thr 14.4 | min sim 0.860 | flagged 1
+rojito_ruedas_clip_R7_s31 PASS warp max 16.0 thr 16.2 | min sim 0.875 | flagged 0
+rojito_ruedas_clip_R7_s7 PASS warp max 16.1 thr 22.6 | min sim 0.885 | flagged 0
+rojito_ruedas_clip_R8_s19 REVIEW warp max 12.6 thr 12.0 | min sim 0.877 | flagged 1
+rojito_ruedas_clip_R8_s7 FAIL warp max 19.4 thr 13.4 | min sim 0.820 | flagged 11
