@@ -21,13 +21,14 @@ SONG_STYLE = ("preschool children's song, cheerful warm female lead vocal singin
 
 SHORTS = [
     {  # hook: GIANT surprise object at second 0 (pattern of the current #1 breakout format)
-        "id": "tito_s4_helado", "hook": "giant_object", "bpm": 120, "food": True, "room_seed": 8,
+        "id": "tito_s4_helado", "hook": "giant_object", "bpm": 120, "food": True, "room_seed": 9,
+        "world": "outdoors on a sunny tropical beach with golden sand, turquoise sea and palm trees, wide open blue sky all around, open air",
         "title": "¡Un helado GIGANTE de colores! 🍦🐘 | Aprende los colores con Tito #Shorts",
         "room": "A sunny tropical beach, vertical 9:16 composition, camera at child eye level: soft golden sand, gentle turquoise "
                 "sea and small waves in the background, two palm trees, a striped beach umbrella, clear blue sky with fluffy clouds. "
                 "On the sand stands a GIANT ice cream cone, taller than a child, with three huge scoops stacked: a red strawberry "
-                "scoop at the bottom, a yellow banana scoop in the middle and a brown chocolate scoop on top. The scoops are plain "
-                "ice cream with no faces and no eyes. No characters, no animals, no faces, no people.",
+                "scoop at the bottom, a yellow banana scoop in the middle and a brown chocolate scoop on top. The scoops are "
+                "plain smooth ice cream, like real ice cream in a shop. Nobody is on the beach.",
         "lyrics": "[Intro]\n¡Uy! ¡Un helado gigante!\n[Verse]\nBola roja, ¡fresa!\nBola amarilla, ¡plátano!\nBola café, ¡chocolate!\n"
                   "[Chorus]\nHelado de colores, ¡mmm, qué rico!\n[Outro]\n¡Uno, dos, tres! ¡Mmm!",
         "shots": [
@@ -97,12 +98,12 @@ SHORTS = [
     },
     {  # habit + food + giant object: the strongest combination in the 2026-10-20 market scan
         "id": "tito_s4_frutas", "hook": "giant_food_habit", "bpm": 118, "food": True,
+        "world": "outdoors in a sunny green garden with grass, flowers, a white fence and a rainbow in the wide open blue sky, open air",
         "title": "¡A lavar las frutas gigantes! 🍎🍌🍐 | Aprende los colores con Tito #Shorts",
         "room": "A sunny green garden, vertical 9:16 composition, camera at child eye level: soft green grass, colorful flowers, "
                 "a small apple tree and a little white fence, a soft rainbow in the blue sky. On the grass stands a big round shallow "
                 "wooden tub full of clear water and soft white soap bubbles. Floating in the tub: a GIANT shiny red apple, a GIANT "
-                "yellow banana and a GIANT green pear, each fruit as big as a toddler. No characters, no animals, no faces on the "
-                "fruit, no people.",
+                "yellow banana and a GIANT green pear, each fruit as big as a toddler. Plain real fruit. Nobody is in the garden.",
         "lyrics": "[Intro]\n¡Splash! ¡Frutas gigantes!\n[Verse]\n¿Las lavamos? ¡Sí, sí, sí!\nManzana roja, ¡splash, splash!\n"
                   "Plátano amarillo, ¡splash, splash!\nPera verde, ¡splash, splash!\n[Outro]\n¡Limpias y ricas! ¡Mmm!",
         "shots": [
@@ -137,8 +138,8 @@ def tasks_for(s):
         out.append({"id": f"{sid}_{shot}_kf", "model_type": "flux2_klein_4b", "resolution": "720x1280", "num_inference_steps": 4,
                     "seed": 101, "video_prompt_type": "KI",
                     "prompt": STYLE + "The baby elephant from the second reference image, exactly the same character design, same "
-                              "colors and same features: " + LOCK + " Setting: the room from the first reference image. " + frame +
-                              " Only one elephant in the picture." + (" The food has no faces and no eyes." if s.get("food") else "") + " Vertical 9:16 frame.",
+                              "colors and same features: " + LOCK + (f" Setting: {s['world']}, exactly the place from the first reference image. " if s.get("world") else " Setting: the room from the first reference image. ") + frame +
+                              " Only one elephant in the picture." + (" The food is plain, smooth and realistic, like real food." if s.get("food") else "") + " Vertical 9:16 frame.",
                     "after": {"image_refs": [f"{sid}_room"]}, "inputs": {"image_refs_extra": "tito_master.jpg"}})
     for shot, frame, motion in s["shots"]:
         for seed in (7, 19):
@@ -161,7 +162,7 @@ def main():
     print("job a:", len(a), "tasks; job b:", len(b), "tasks")
     # round 2 (after keyframe review): helado re-render (keep its songs) + frutas (habit+food+giant)
     by = {x["id"]: x for x in SHORTS}
-    r2 = [t for t in tasks_for(by["tito_s4_helado"]) if "_song_" not in t["id"]] + tasks_for(by["tito_s4_frutas"])
+    r2 = [t for t in tasks_for(by["tito_s4_helado"]) if "_song_" not in t["id"]] + [t for t in tasks_for(by["tito_s4_frutas"]) if "_song_" not in t["id"]]
     (ROOT / "production/jobs/jobS5_helado_fix_frutas.json").write_text(json.dumps(r2, ensure_ascii=False, indent=1))
     print("round 2:", len(r2), "tasks")
 
