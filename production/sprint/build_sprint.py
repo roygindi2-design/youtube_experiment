@@ -21,12 +21,12 @@ SONG_STYLE = ("preschool children's song, cheerful warm female lead vocal singin
 
 SHORTS = [
     {  # hook: GIANT surprise object at second 0 (pattern of the current #1 breakout format)
-        "id": "tito_s4_helado", "hook": "giant_object", "bpm": 120,
+        "id": "tito_s4_helado", "hook": "giant_object", "bpm": 120, "food": True, "room_seed": 8,
         "title": "¡Un helado GIGANTE de colores! 🍦🐘 | Aprende los colores con Tito #Shorts",
         "room": "Bright sunny kids playroom, vertical 9:16 composition, camera at child eye level, light wooden floor, round "
                 "pastel-pink rug, big window with soft daylight. In the center of the room stands a GIANT ice cream cone, "
                 "taller than a child, with three huge scoops stacked: a red strawberry scoop at the bottom, a yellow banana "
-                "scoop in the middle and a brown chocolate scoop on top. No characters, no animals, no faces, no people.",
+                "scoop in the middle and a brown chocolate scoop on top. The scoops are plain ice cream with no faces and no eyes. No characters, no animals, no faces, no people.",
         "lyrics": "[Intro]\n¡Uy! ¡Un helado gigante!\n[Verse]\nBola roja, ¡fresa!\nBola amarilla, ¡plátano!\nBola café, ¡chocolate!\n"
                   "[Chorus]\nHelado de colores, ¡mmm, qué rico!\n[Outro]\n¡Uno, dos, tres! ¡Mmm!",
         "shots": [
@@ -34,9 +34,9 @@ SHORTS = [
              "The baby elephant looks up at the giant ice cream, his ears lift in surprise and his eyes sparkle. Static camera."),
             ("H2", "Medium close-up: the baby elephant points his trunk at the huge red strawberry scoop of the giant ice cream, happy face.",
              "The baby elephant points at the red scoop with his trunk and nods happily. Static camera."),
-            ("H3", "Medium close-up: the baby elephant looks up at the huge yellow banana scoop of the giant ice cream, delighted smile.",
+            ("H3", "Medium shot: the baby elephant stands beside the same giant three-scoop ice cream cone and looks up at its huge yellow banana middle scoop, delighted smile.",
              "The baby elephant looks at the yellow scoop and smiles, his ears flap gently. Static camera."),
-            ("H4", "Medium close-up: the baby elephant reaches his trunk toward the huge brown chocolate scoop on top of the giant ice cream, eyes wide.",
+            ("H4", "Medium shot: the baby elephant stands beside the giant three-scoop ice cream cone, which is taller than him, and stretches his trunk up toward the brown chocolate scoop on the very top, eyes wide.",
              "The baby elephant stretches his trunk up toward the brown scoop and giggles. Static camera."),
             ("H5", "Medium shot: the baby elephant hugs himself with joy in front of the giant ice cream, eyes closed, blissful 'mmm' smile.",
              "The baby elephant sways happily side to side with his eyes closed, smiling. Static camera."),
@@ -94,12 +94,38 @@ SHORTS = [
              "The baby elephant waves goodbye with one hand. Static camera."),
         ],
     },
+    {  # habit + food + giant object: the strongest combination in the 2026-10-20 market scan
+        "id": "tito_s4_frutas", "hook": "giant_food_habit", "bpm": 118, "food": True,
+        "title": "¡A lavar las frutas gigantes! 🍎🍌🍐 | Aprende los colores con Tito #Shorts",
+        "room": "Bright sunny kids bathroom-playroom, vertical 9:16 composition, camera at child eye level, light wooden floor, "
+                "a big round shallow wooden tub full of clear water and soft white soap bubbles in the middle. Floating in the tub: "
+                "a GIANT shiny red apple, a GIANT yellow banana and a GIANT green pear, each fruit as big as a toddler. "
+                "No characters, no animals, no faces on the fruit, no people.",
+        "lyrics": "[Intro]\n¡Splash! ¡Frutas gigantes!\n[Verse]\n¿Las lavamos? ¡Sí, sí, sí!\nManzana roja, ¡splash, splash!\n"
+                  "Plátano amarillo, ¡splash, splash!\nPera verde, ¡splash, splash!\n[Outro]\n¡Limpias y ricas! ¡Mmm!",
+        "shots": [
+            ("F1", "Medium shot: the baby elephant stands next to the big tub of bubbly water with a GIANT red apple, a GIANT yellow banana and a GIANT green pear floating in it, he gasps with a huge surprised smile, ears raised.",
+             "Soft bubbles float up from the tub, the giant fruits bob gently in the water, the baby elephant's ears lift in surprise. Static camera."),
+            ("F2", "Medium shot: the baby elephant sprays water from his trunk onto the GIANT red apple floating in the bubbly tub, water drops sparkle.",
+             "A gentle stream of water sprays from the baby elephant's trunk onto the red apple, droplets sparkle. Static camera."),
+            ("F3", "Medium shot: the GIANT yellow banana floats in the bubbly water, the baby elephant laughs next to the tub, soap bubbles around.",
+             "The banana bobs gently in the water, soap bubbles drift up, the baby elephant laughs. Static camera."),
+            ("F4", "Medium shot: the GIANT green pear floats in the bubbly tub, the baby elephant sprays a little water on it from his trunk.",
+             "A gentle stream of water from the trunk splashes the pear, bubbles drift up. Static camera."),
+            ("F5", "Wide shot: the three GIANT clean shiny fruits, a red apple, a yellow banana and a green pear, stand in a row on the rug, sparkling, the baby elephant claps next to them.",
+             "Little sparkles twinkle on the clean fruits, the baby elephant claps happily. Static camera."),
+            ("F6", "Medium shot: the baby elephant hugs the GIANT shiny red apple with both arms, eyes closed, blissful 'mmm' smile.",
+             "The baby elephant hugs the giant apple and sways gently with a happy smile. Static camera."),
+            ("F7", "Medium shot: the baby elephant dances happily next to the tub of bubbly water, soap bubbles floating around him.",
+             "The baby elephant dances gently side to side, bubbles float around. Static camera."),
+        ],
+    },
 ]
 
 
 def tasks_for(s):
     sid = s["id"]
-    out = [{"id": f"{sid}_room", "model_type": "flux2_klein_4b", "resolution": "720x1280", "num_inference_steps": 4, "seed": 7,
+    out = [{"id": f"{sid}_room", "model_type": "flux2_klein_4b", "resolution": "720x1280", "num_inference_steps": 4, "seed": s.get("room_seed", 7),
             "prompt": STYLE + s["room"]}]
     for k in range(1, 6):
         out.append({"id": f"{sid}_song_s{k}", "model_type": "ace_step_v1_5_turbo_lm_1_7b", "prompt": s["lyrics"],
@@ -110,7 +136,7 @@ def tasks_for(s):
                     "seed": 101, "video_prompt_type": "KI",
                     "prompt": STYLE + "The baby elephant from the second reference image, exactly the same character design, same "
                               "colors and same features: " + LOCK + " Setting: the room from the first reference image. " + frame +
-                              " Only one elephant in the picture. Vertical 9:16 frame.",
+                              " Only one elephant in the picture." + (" The food has no faces and no eyes." if s.get("food") else "") + " Vertical 9:16 frame.",
                     "after": {"image_refs": [f"{sid}_room"]}, "inputs": {"image_refs_extra": "tito_master.jpg"}})
     for shot, frame, motion in s["shots"]:
         for seed in (7, 19):
@@ -131,6 +157,11 @@ def main():
     (ROOT / "production/jobs/jobS4_sprint_a.json").write_text(json.dumps(a, ensure_ascii=False, indent=1))
     (ROOT / "production/jobs/jobS4_sprint_b.json").write_text(json.dumps(b, ensure_ascii=False, indent=1))
     print("job a:", len(a), "tasks; job b:", len(b), "tasks")
+    # round 2 (after keyframe review): helado re-render (keep its songs) + frutas (habit+food+giant)
+    by = {x["id"]: x for x in SHORTS}
+    r2 = [t for t in tasks_for(by["tito_s4_helado"]) if "_song_" not in t["id"]] + tasks_for(by["tito_s4_frutas"])
+    (ROOT / "production/jobs/jobS5_helado_fix_frutas.json").write_text(json.dumps(r2, ensure_ascii=False, indent=1))
+    print("round 2:", len(r2), "tasks")
 
 
 if __name__ == "__main__":

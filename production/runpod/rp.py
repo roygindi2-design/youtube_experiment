@@ -77,10 +77,10 @@ def up(name, gpu=None):
     for i in range(90):  # up to ~15 min for image pull + start
         try:
             r = requests.get(url + "/status", headers=hdr, timeout=20)
-            if r.ok:
+            if r.ok and r.headers.get("Content-Type", "").startswith("application/json") and "gpu" in r.json():
                 print("agent ready:", r.json()["gpu"], "disk", r.json()["disk_free_gb"], "GB", flush=True)
                 return
-        except requests.RequestException:
+        except (requests.RequestException, ValueError):  # the proxy serves a placeholder page until the agent is up
             pass
         time.sleep(10)
     sys.exit("agent did not come up; run `down` to stop billing")
@@ -88,8 +88,12 @@ def up(name, gpu=None):
 
 def upload(name, local, remote):
     url, hdr = agent(name)
-    with open(local, "rb") as f:
-        r = requests.put(f"{url}/upload/{remote}", headers=hdr, data=f, timeout=600)
+    for attempt in range(8):  # RunPod's proxy returns sporadic 404/502 while a pod settles
+        with open(local, "rb") as f:
+            r = requests.put(f"{url}/upload/{remote}", headers=hdr, data=f, timeout=600)
+        if r.ok:
+            return
+        time.sleep(10)
     r.raise_for_status()
 
 
@@ -102,8 +106,27 @@ def run(name, tasks_file, *inputs):
     for f in inputs:
         upload(name, f, f"input/{Path(f).name}")
     url, hdr = agent(name)
+    # git clone of Wan2GP was very slow on one pod (~50 KB/s) while plain HTTPS ran at 100+ MB/s: fetch the zip instead
+    prep = ("mkdir -p /workspace/temp && cd /workspace/temp && [ -d Wan2GP ] || (curl -sL -o w.zip "
+            "https://codeload.github.com/deepbeepmeep/Wan2GP/zip/refs/heads/main && python3 -c \"import zipfile;"
+            "zipfile.ZipFile('w.zip').extractall('.')\" && mv WanGP-main Wan2GP && rm w.zip)")
+    for attempt in range(8):
+        if requests.post(url + "/run", headers=hdr, json={"name": "prep", "cmd": ["bash", "-c", prep]}, timeout=60).ok:
+            break
+        time.sleep(10)
+    for _ in range(60):
+        time.sleep(5)
+        try:
+            if requests.get(url + "/status", headers=hdr, timeout=60).json()["jobs"]["prep"]["returncode"] is not None:
+                break
+        except (requests.RequestException, ValueError, KeyError):
+            pass
     env = {"RUNNER_WORK": "/workspace/work", "RUNNER_TEMP": "/workspace/temp", "RUNNER_INPUT": "/workspace/input"}
-    r = requests.post(url + "/run", headers=hdr, json={"name": "job", "cmd": ["python3", "/workspace/runner.py"], "env": env}, timeout=60)
+    for attempt in range(8):
+        r = requests.post(url + "/run", headers=hdr, json={"name": "job", "cmd": ["python3", "/workspace/runner.py"], "env": env}, timeout=60)
+        if r.ok:
+            break
+        time.sleep(10)
     r.raise_for_status()
     print("started", r.json(), "tasks", len(tasks))
 
