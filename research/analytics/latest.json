@@ -1,5 +1,5 @@
 {
- "taken": "2026-10-20 16:47 UTC",
+ "taken": "2026-10-20 17:24 UTC",
  "channel": {
   "title": "CantilandiaTV",
   "id": "UCDwph5nbCbbl97Pu4gTyZUA",
@@ -17,7 +17,7 @@
    "views": 3,
    "likes": 0,
    "comments": 0,
-   "retention_curve": []
+   "analytics_error": "500: b'{\\n  \"error\": {\\n    \"code\": 500,\\n    \"message\": \"Internal error encountered.\",\\n    \"errors\": [\\n      {\\n        \"message\": \"Internal error encountered.\",\\"
   },
   {
    "id": "DxxmhZrbspY",
