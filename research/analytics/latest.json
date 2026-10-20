@@ -1,5 +1,5 @@
 {
- "taken": "2026-10-20 00:57 UTC",
+ "taken": "2026-10-20 06:59 UTC",
  "channel": {
   "title": "Cantilandia",
   "id": "UCDwph5nbCbbl97Pu4gTyZUA",
@@ -14,7 +14,7 @@
    "published": "2026-10-19",
    "privacy": "public",
    "duration_s": 39,
-   "views": 6,
+   "views": 7,
    "likes": 0,
    "comments": 0,
    "retention_curve": []
@@ -25,7 +25,7 @@
    "published": "2026-10-19",
    "privacy": "public",
    "duration_s": 128,
-   "views": 3,
+   "views": 4,
    "likes": 1,
    "comments": 0,
    "retention_curve": []
@@ -36,7 +36,7 @@
    "published": "2026-10-19",
    "privacy": "public",
    "duration_s": 38,
-   "views": 2,
+   "views": 3,
    "likes": 1,
    "comments": 0,
    "retention_curve": []
