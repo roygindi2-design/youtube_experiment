@@ -111,5 +111,11 @@
    2
   ]
  ],
- "director": true
+ "director": true,
+ "pattern": "guess_interactive",
+ "opening": "wheels_pop_off_side_view",
+ "twist": "three wrong wheels (square, tiny, giant) — the kids shout NO each time; the right ones are the round red ones in the garage",
+ "moral": "¡Las ruedas redondas ruedan mejor!",
+ "experiment": "redo of an Unlisted video in director mode (explicit angles) — compare against the old version's 0 views",
+ "continuity": "no wheels (R1 end-R2) -> square yellow blocks (R3) -> tiny blue (R4) -> giant black (R5) -> round red (R6-R8)"
 }

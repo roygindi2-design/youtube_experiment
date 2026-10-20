@@ -27,7 +27,8 @@
   "id": "tito_s4_color",
   "youtube_id": "HxAYv-GieDM",
   "date": "2026-10-20",
-  "world": "playroom (pink rug, window)"
+  "world": "playroom (pink rug, window)",
+  "opening": "closeup_zoom"
  },
  {
   "id": "tito_bano",
@@ -37,7 +38,8 @@
   "series": [
    "tito",
    "habitos"
-  ]
+  ],
+  "opening": "mud_face_closeup_zoom"
  },
  {
   "id": "tito_manos",
@@ -49,7 +51,8 @@
    "habitos"
   ],
   "title_card": true,
-  "uploaded_utc": "15:32"
+  "uploaded_utc": "15:32",
+  "opening": "title_card_dirty_hands"
  },
  {
   "id": "rojito_ruedas",
@@ -60,6 +63,7 @@
    "rojito"
   ],
   "uploaded_utc": "18:50",
-  "status": "unlisted 20.10 (Roy: weak, nothing happens; redo in director mode)"
+  "status": "unlisted 20.10 (Roy: weak, nothing happens; redo in director mode)",
+  "opening": "closeup_zoom_old"
  }
 ]

@@ -96,7 +96,7 @@ def main():
         segs.append([segs[-1][1], segs[-1][1] + dur, sh])
     cuts = [round(sg[0], 3) for sg in segs] + [round(segs[-1][1], 3)]
 
-    shots = []
+    shots, frozen = [], []
     for i, (a, b, tok) in enumerate(segs):
         sid, seed = (tok.split("@") + [None])[:2]
         seed = int(seed) if seed else seeds.get(sid, 7)
@@ -109,10 +109,14 @@ def main():
              "speed": speed, "src_len": round(min(usable, dur * speed), 3), "shot": f"{sid}@{seed}"}
         if usable / speed < dur:
             s["hold"] = round(dur - usable / speed + 0.1, 3)
-        if i == 0:
+            if s["hold"] > 0.25:  # a visible freeze (bubbles stop mid-air): split the slot into two shots instead
+                frozen.append(f"{sid}@{seed} needs {s['hold']:.2f} s more motion -> split the line (5a/5b) or use --extra in/until")
+        if i == 0 and "--punch" in args:  # opt-in only (Roy 20.10: every video opened with the same zoom-in)
             s["punch"] = {"to": 1.25, "dur": 0.45, "cx": 0.5, "cy": 0.32, "settle": 1.15, "shake": 10}
         s.update({k: v for k, v in x.items() if k in ("punch", "frame", "reverse")})
         shots.append(s)
+    if frozen:
+        sys.exit("refused: visible freeze frames (Roy 20.10: animation must never stop mid-motion):\n  " + "\n  ".join(frozen))
     lines = []
     for li, l in enumerate(lyric_lines):
         nxt = starts[li + 1] - 0.05 if li + 1 < len(lyric_lines) else cuts[-1]

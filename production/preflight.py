@@ -114,6 +114,16 @@ def produce(specs):
             fail(f"{vid}: lyrics ({len(lines)} lines) don't cover the story beats ({len(story)})")
         else:
             ok(f"{vid}: story-first ({len(story)} beats, {len(lines)} lyric lines)")
+        # story rules (research/09-story-patterns.md, Roy 20.10: plot + punchline, a new experiment every video)
+        patterns = ("trick_why", "lesson_consequence", "guess_interactive", "rescue_mission", "mystery", "overcome_fear")
+        if s.get("pattern") not in patterns:
+            fail(f"{vid}: 'pattern' must be one of {patterns}")
+        for k in ("moral", "twist", "opening", "experiment", "continuity"):
+            if not s.get(k):
+                fail(f"{vid}: missing '{k}' (research/09-story-patterns.md)")
+        recent_open = [r.get("opening") for r in registry()[-3:]]
+        if s.get("opening") and s["opening"] in recent_open:
+            fail(f"{vid}: opening '{s['opening']}' was used in the last 3 videos — try something new")
         frames = [(x[1] if isinstance(x, (list, tuple)) else x.get("frame", "")).lower() for x in s.get("shots", [])]
         close = sum(("close-up" in f or "close up" in f) for f in frames)
         wide = sum("wide" in f for f in frames)

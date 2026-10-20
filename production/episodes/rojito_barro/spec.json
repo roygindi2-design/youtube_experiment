@@ -111,5 +111,11 @@
  "song_takes": 12,
  "style": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. ",
  "lock": "ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door.",
- "director": true
+ "director": true,
+ "pattern": "overcome_fear",
+ "opening": "cold_open_mid_action_side_splash",
+ "twist": "nobody comes to help — Rojito remembers he IS a fire truck and uses his own hose",
+ "moral": "¡Tú también puedes! Usa lo que tienes.",
+ "experiment": "self-solve twist (hero solves with his own ability) + low side-view opening instead of front close-up",
+ "continuity": "mud: none (B1 start) -> mud on wheels and sides (B2-B6) -> spotless (B7) -> clean facing new puddle (B8); rainbow sky in all road shots"
 }
