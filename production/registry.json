@@ -119,5 +119,19 @@
   "pattern": "guess_interactive",
   "experiment": "redo of an Unlisted video in director mode (explicit angles) — compare against the old version's 0 views",
   "replaces": "gCaM5FcbPpY (unlisted)"
+ },
+ {
+  "id": "rojito_ciudad",
+  "youtube_id": "8nOHHIv1pCM",
+  "date": "2026-10-21",
+  "world": "toy city morning: a bus-stop street with a zebra crossing and a traffic light + a sandy construction pit beside a little railroad crossing",
+  "series": [
+   "rojito"
+  ],
+  "uploaded_utc": "05:13",
+  "opening": "sound_first_bus_honk",
+  "pattern": "guess_interactive",
+  "experiment": "NuNu 'X hace Y' sound song (NuNu ×95, Singaroo ×665): every lyric line is a DIFFERENT one-off vehicle friend doing exactly its sound on the beat; first multi-character sound song on the channel",
+  "script_by": "research agent"
  }
 ]

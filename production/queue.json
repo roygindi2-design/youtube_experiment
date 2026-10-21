@@ -21,9 +21,10 @@
   },
   {
    "id": "rojito_ciudad",
-   "status": "qc",
+   "status": "published",
    "owner": "producer",
-   "note": "NuNu 'X hace Y' vehicle-sound song; guess_interactive; city + construction pit. spec+SCRIPT+dossier+upload draft, preflight OK 20.10 23:00. NOTE producer: hero.one adapted so a friend vehicle can share the frame with Rojito; check Rojito stays red in storyboard."
+   "note": "NuNu 'X hace Y' vehicle-sound song; guess_interactive; city + construction pit. spec+SCRIPT+dossier+upload draft, preflight OK 20.10 23:00. NOTE producer: hero.one adapted so a friend vehicle can share the frame with Rojito; check Rojito stays red in storyboard.",
+   "youtube_id": "8nOHHIv1pCM"
   },
   {
    "id": "tito_dormir",
