@@ -1,0 +1,244 @@
+[
+ {
+  "id": "ep3v3_K2_kf111",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 111,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from the front in warm lamp light: the baby elephant sits in his bed under the navy starry blanket and hugs a small soft plush toy giraffe, mint-green fabric with white round spots, two tiny round black button eyes sewn on, a simple stitched smile, two little soft knob horns against his cheek, his eyes gently closed, a soft sweet smile with his mouth closed. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Two round glossy dark-brown eyes on the front of his face, his short trunk in the middle. Only one elephant in the picture. Setting, exactly the bedroom from the first reference image at night: navy-blue walls with small painted golden stars, the round window with the big moon, the small wooden bed with the navy blanket with little yellow stars, the warm bedside lamp. The main action is in the CENTER of the frame. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "loc_ep3_cuarto.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3v3_clip_K2_k111_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He hugs the plush giraffe and sways gently from side to side; his eyes stay gently closed the whole time; a soft sweet smile with his mouth closed; he stays sitting in bed. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "after": {
+   "image_start": "ep3v3_K2_kf111"
+  }
+ },
+ {
+  "id": "ep3v3_clip_K2_k111_s19",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He hugs the plush giraffe and sways gently from side to side; his eyes stay gently closed the whole time; a soft sweet smile with his mouth closed; he stays sitting in bed. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "after": {
+   "image_start": "ep3v3_K2_kf111"
+  }
+ },
+ {
+  "id": "ep3v3_K2_kf222",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 222,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from the front in warm lamp light: the baby elephant sits in his bed under the navy starry blanket and hugs a small soft plush toy giraffe, mint-green fabric with white round spots, two tiny round black button eyes sewn on, a simple stitched smile, two little soft knob horns against his cheek, his eyes gently closed, a soft sweet smile with his mouth closed. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Two round glossy dark-brown eyes on the front of his face, his short trunk in the middle. Only one elephant in the picture. Setting, exactly the bedroom from the first reference image at night: navy-blue walls with small painted golden stars, the round window with the big moon, the small wooden bed with the navy blanket with little yellow stars, the warm bedside lamp. The main action is in the CENTER of the frame. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "loc_ep3_cuarto.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3v3_clip_K2_k222_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He hugs the plush giraffe and sways gently from side to side; his eyes stay gently closed the whole time; a soft sweet smile with his mouth closed; he stays sitting in bed. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "after": {
+   "image_start": "ep3v3_K2_kf222"
+  }
+ },
+ {
+  "id": "ep3v3_clip_K2_k222_s19",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He hugs the plush giraffe and sways gently from side to side; his eyes stay gently closed the whole time; a soft sweet smile with his mouth closed; he stays sitting in bed. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "after": {
+   "image_start": "ep3v3_K2_kf222"
+  }
+ },
+ {
+  "id": "ep3v3_N07_kf111",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 111,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up of a round wooden bedroom window from inside at night: the dark silhouette of a leafy tree branch outside touches the glass, only the big round glowing moon behind it, cool blue light, an empty calm scene with only the window, the branch and the moon. The main action is in the CENTER of the frame. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "loc_ep3_ventana.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3v3_clip_N07_k111_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The dark leafy branch sways in the breeze and taps the glass three times, tap, tap, tap; the leaves rustle; the moon glows softly; the camera stays still. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "after": {
+   "image_start": "ep3v3_N07_kf111"
+  }
+ },
+ {
+  "id": "ep3v3_clip_N07_k111_s19",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The dark leafy branch sways in the breeze and taps the glass three times, tap, tap, tap; the leaves rustle; the moon glows softly; the camera stays still. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "after": {
+   "image_start": "ep3v3_N07_kf111"
+  }
+ },
+ {
+  "id": "ep3v3_N07_kf222",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 222,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up of a round wooden bedroom window from inside at night: the dark silhouette of a leafy tree branch outside touches the glass, only the big round glowing moon behind it, cool blue light, an empty calm scene with only the window, the branch and the moon. The main action is in the CENTER of the frame. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "loc_ep3_ventana.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3v3_clip_N07_k222_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The dark leafy branch sways in the breeze and taps the glass three times, tap, tap, tap; the leaves rustle; the moon glows softly; the camera stays still. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "after": {
+   "image_start": "ep3v3_N07_kf222"
+  }
+ },
+ {
+  "id": "ep3v3_clip_N07_k222_s19",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The dark leafy branch sways in the breeze and taps the glass three times, tap, tap, tap; the leaves rustle; the moon glows softly; the camera stays still. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "after": {
+   "image_start": "ep3v3_N07_kf222"
+  }
+ },
+ {
+  "id": "ep3v3_N02_kf111",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 111,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Extreme close-up of a small round plain white bedside lamp with a smooth glass globe and a round button on its wooden base, on a wooden nightstand at night; the soft rounded tip of a small powder-blue elephant trunk reaches in from the right edge of the frame toward the button; navy-blue wall with small painted golden stars behind. An empty quiet scene with only the lamp and the trunk tip. The main action is in the CENTER of the frame. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3v3_clip_N02_k111_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The trunk tip presses the round button, click, and the warm glow of the lamp slowly fades out, the room turning soft moonlit blue; the trunk tip pulls back; the camera stays still. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "after": {
+   "image_start": "ep3v3_N02_kf111"
+  }
+ },
+ {
+  "id": "ep3v3_clip_N02_k111_s19",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The trunk tip presses the round button, click, and the warm glow of the lamp slowly fades out, the room turning soft moonlit blue; the trunk tip pulls back; the camera stays still. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "after": {
+   "image_start": "ep3v3_N02_kf111"
+  }
+ },
+ {
+  "id": "ep3v3_N02_kf222",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 222,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Extreme close-up of a small round plain white bedside lamp with a smooth glass globe and a round button on its wooden base, on a wooden nightstand at night; the soft rounded tip of a small powder-blue elephant trunk reaches in from the right edge of the frame toward the button; navy-blue wall with small painted golden stars behind. An empty quiet scene with only the lamp and the trunk tip. The main action is in the CENTER of the frame. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3v3_clip_N02_k222_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The trunk tip presses the round button, click, and the warm glow of the lamp slowly fades out, the room turning soft moonlit blue; the trunk tip pulls back; the camera stays still. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "after": {
+   "image_start": "ep3v3_N02_kf222"
+  }
+ },
+ {
+  "id": "ep3v3_clip_N02_k222_s19",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The trunk tip presses the round button, click, and the warm glow of the lamp slowly fades out, the room turning soft moonlit blue; the trunk tip pulls back; the camera stays still. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "after": {
+   "image_start": "ep3v3_N02_kf222"
+  }
+ }
+]

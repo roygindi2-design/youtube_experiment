@@ -69,3 +69,10 @@
 ## Square frames in a 16:9 episode (21.10, ep3)
 - Klein 4B with character references (KI) ignores `resolution` and returns 960x960 → the clip comes out 736x736, and the 16:9 crop cuts 44% of the height (in ep3 the giraffe's head and Tito disappeared from the Hook).
 - **Mandatory check after keyframes:** `ffprobe` on every pick; if it's not 1280x720, choose per shot `crop_y` (crop window) or `fit` (whole frame + blurred sides) in the cut list. Same check for ep2 (it was square too).
+
+## Eyes and faces (Roy 21.10 at night: "eyes that jump, a giraffe with odd eyes, Tito's eye visible through the trunk")
+- **Mandatory before QC sign-off:** `python3 research/glitch_scan.py <edit.json> <out> 24` + review of the top 18 events. A one-frame blink/wink in a close-up = cut before it or use a different take.
+- When choosing a take: run glitch_scan on all candidates (fake edit.json with every clip), pick the lowest max(rel), then eye review.
+- Prompts: front-on face, small movements, "his eyes stay closed the whole time" for sleep, "a soft sweet smile with his mouth closed" (no open laughing), no big head turns (the trunk crosses the eye).
+- Toys: a plush toy = "two tiny round black button eyes sewn on" (stable). A toy vehicle that isn't a character = "no face". A lamp keeps coming out with eyes in Klein — accept it as a cute object, or use a different seed.
+- Character in a 16:9 frame: the 16:9 location image as the first ref → Klein returns 1280x720 (without it, it returns a square).
