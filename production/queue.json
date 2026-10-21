@@ -40,15 +40,17 @@
   },
   {
    "id": "tito_basura",
-   "status": "qc",
+   "status": "published",
    "owner": "producer",
-   "note": "littering lesson at a duck pond; Tito lifts the box out with his trunk, smiling bin ñam. Milo Kids x3604, NursyTots x1382. preflight OK. | ready, upload HELD by Roy's pause"
+   "note": "uploaded manually by Roy (YouTube app, location Mexico)",
+   "youtube_id": "G-gSjH36CLA"
   },
   {
    "id": "rojito_rescate",
-   "status": "qc",
+   "status": "published",
    "owner": "producer",
-   "note": "rescue_mission: kitten high in an apple tree, the ladder becomes a resbaladilla (slide). Farm orchard world. KORIRI x450, PequeGenios x1027. preflight OK. | ready, upload HELD by Roy's pause"
+   "note": "uploaded manually by Roy (YouTube app, location Mexico)",
+   "youtube_id": "vMMAiXfyiOg"
   },
   {
    "id": "tito_mesa",
@@ -75,7 +77,7 @@
    "id": "tito_ep2",
    "status": "qc",
    "owner": "producer",
-   "note": "long-form 'Un día con Tito'; song s8 picked | ready, upload HELD by Roy's pause"
+   "note": "QC PASS — prepared for MANUAL upload by Roy (no API upload)"
   },
   {
    "id": "rojito_barro",

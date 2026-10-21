@@ -148,5 +148,36 @@
   "pattern": "lesson_consequence",
   "experiment": "first table-manners/mealtime video, riding the fastest-growing topic of 21.10 (El Tren Ñam-Ñam manners +7.1M and VocaVoca mealtime +6.9M since the 20.10 scan); one location only (all-patio) to test whether a single bright world + many angles is enough",
   "script_by": "research agent"
+ },
+ {
+  "id": "tito_basura",
+  "youtube_id": "G-gSjH36CLA",
+  "date": "2026-10-21",
+  "world": "sunny duck-pond park: green lawn, wooden bench, weeping willow, lily pads, a family of yellow ducklings + a park path with a smiling green trash bin",
+  "series": [
+   "tito",
+   "habitos"
+  ],
+  "uploaded_utc": "12:27",
+  "opening": "cold_open_toss_midair",
+  "pattern": "lesson_consequence",
+  "experiment": "first littering/environment lesson (Milo Kids ×3,604, NursyTots ×1,382, VocaVoca 21.1M) with a visible consequence for a friend (sad duckling) and a talking trash bin as the fun fix",
+  "script_by": "research agent",
+  "upload": "uploaded manually by Roy (YouTube app, location Mexico)"
+ },
+ {
+  "id": "rojito_rescate",
+  "youtube_id": "vMMAiXfyiOg",
+  "date": "2026-10-21",
+  "world": "sunny farm orchard: a very tall apple tree with red apples, a red barn and round golden hay bales + a dirt farm road between golden wheat fields",
+  "series": [
+   "rojito"
+  ],
+  "uploaded_utc": "12:42",
+  "opening": "kitten_cry_high_branch",
+  "pattern": "rescue_mission",
+  "experiment": "first rescue_mission (KORIRI rescue vehicles 4.2M ×450, PequeGenios rescue ×1,027) + first animal friend for Rojito; the extending ladder is the hero's 'power'",
+  "script_by": "research agent",
+  "upload": "uploaded manually by Roy (YouTube app, location Mexico)"
  }
 ]
