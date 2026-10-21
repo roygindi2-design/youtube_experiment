@@ -52,3 +52,8 @@ night in every shot (blue moonlight + warm amber lamp from D3 on); Tito always i
 ## Risks
 
 See production/dossiers/tito_dormir.md (risks + how we measure).
+
+## Rewrite 21.10 06:20 — D1 only (producer feedback/tito_dormir.md)
+- **Problem:** both D1 keyframes showed the bedroom with no scary shadow — no conflict at second 0.
+- **Cause:** D1 started with 'Wide shot', so in director mode it got the location image (an empty room) as reference and copied it; D4 (no location ref) drew a big clear giraffe shadow.
+- **Fix:** D1 now starts 'Low angle from the foot of the bed…' (no location ref), the HUGE dark-purple long-neck shadow is the main subject covering most of the wall, Tito tiny in the bottom corner peeking over the starry blanket. Same lyric line, same continuity.
