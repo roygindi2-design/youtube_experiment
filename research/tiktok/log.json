@@ -1,6 +1,20 @@
 {
  "_doc": "TikTok packages the researcher sends Roy (2 per day, ~15:00 and ~21:00 Israel). Only videos that passed the researcher's review (glitch_scan + frame sheet). Roy uploads manually.",
- "uploaded_by_roy": ["tito_basura"],
- "sent": [],
- "queue": ["tito_mesa", "tito_halloween", "rojito_ciudad", "rojito_barro", "rojito_colores", "rojito_ruedas"]
+ "uploaded_by_roy": [
+  "tito_basura"
+ ],
+ "sent": [
+  {
+   "id": "tito_mesa",
+   "sent_utc": "2026-10-21 23:05",
+   "youtube": "https://youtube.com/shorts/l5anda4GTTI"
+  }
+ ],
+ "queue": [
+  "tito_halloween",
+  "rojito_ciudad",
+  "rojito_barro",
+  "rojito_colores",
+  "rojito_ruedas"
+ ]
 }
