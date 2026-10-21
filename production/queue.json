@@ -27,9 +27,9 @@
   },
   {
    "id": "tito_dormir",
-   "status": "in_production",
+   "status": "needs_rewrite",
    "owner": "producer",
-   "note": "bedtime / fear of the shadow; first trick_why (Mamá shows the shadow is the plush giraffe). Gracioso Bebé x1715, Biper 34.8M x928. preflight OK."
+   "note": "D1 hook frame shows no scary shadow — see production/feedback/tito_dormir.md (only D1)"
   },
   {
    "id": "tito_basura",
