@@ -1,0 +1,118 @@
+{
+ "id": "tito_mesa",
+ "series": "tito",
+ "title": "¡Tito come espagueti con la trompa! 🍝🐘 | #shorts",
+ "world": "sunny garden patio for lunch: a little round table with a red-and-white checkered tablecloth under a yellow striped umbrella, lemon trees in big terracotta pots, a white wall with climbing flowers",
+ "hook": "spaghetti_slurped_up_the_trunk",
+ "bpm": 120,
+ "song_takes": 12,
+ "reuse_mama": true,
+ "story": [
+  "Tito sucks a long spaghetti strand up his trunk like a straw, slurp! Red sauce flies everywhere (funny problem, second 0)",
+  "Extreme close-up: sauce on his face, his ears and his overalls, spaghetti on his head (consequence)",
+  "Mamá Elefanta gently wipes his face with a napkin (mentor, no scolding)",
+  "Top-down on the plate: Mamá's trick, the little fork turns and turns and makes a neat spaghetti ball (the trick)",
+  "Close-up: Tito takes a neat bite from the fork, mouth closed, he smiles (he learns)",
+  "Tito proudly holds up his clean empty plate (reward)",
+  "Tito and Mamá eat together neatly at the checkered table, both with forks (moral)",
+  "One last spaghetti strand on the plate: Tito looks around, winks, and slurps it up his trunk (loop gag)"
+ ],
+ "lyrics": "[Intro]\n¡Slurp, slurp! ¡Espagueti con la trompa!\n[Verse]\n¡Uy! ¡Salsa por todos lados!\nMamá le limpia la carita.\nGira y gira el tenedor.\n¡Ñam! Un bocado limpiecito.\n[Chorus]\n¡Plato limpio! ¡Gracias, mamá!\n¡En la mesa, con tenedor!\n[Outro]\n¿Uno más? ¡Slurp!",
+ "locations": {
+  "patio": "A sunny garden patio at lunchtime, outdoors, vertical 9:16 composition, camera at child eye level: a little round table with a red-and-white checkered tablecloth under a big yellow-and-white striped umbrella, two small wooden chairs, lemon trees with bright yellow lemons in big terracotta pots, a white garden wall with climbing pink flowers, warm sunlight and a wide open blue sky. Nobody is on the patio."
+ },
+ "shots": [
+  [
+   "M1",
+   "Wide shot of the sunny garden patio: the baby elephant sits at the little round table with the red-and-white checkered tablecloth and sucks one long spaghetti strand up into his trunk like a straw, little drops of red tomato sauce flying in the air around the plate of spaghetti.",
+   "He slurps the long spaghetti strand up his trunk and little sauce drops fly around.",
+   "patio",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "M2",
+   "Extreme close-up of the baby elephant's face at the table: his cheeks, his trunk and his big ears now COVERED IN RED TOMATO SAUCE spots, two spaghetti strands draped over his head, his eyes wide with a surprised grin, red sauce spots on his yellow overalls.",
+   "A spaghetti strand slides slowly off his head and he blinks in surprise.",
+   "patio",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "M3",
+   "Medium shot, side view at the checkered table: Mamá Elefanta smiling leans over and gently wipes the baby elephant's sauce-covered cheek with a white cloth napkin held in her trunk, the baby elephant closing his eyes and giggling.",
+   "Mamá gently wipes his cheek with the napkin and he giggles.",
+   "patio",
+   [
+    "tito",
+    "mama"
+   ],
+   3
+  ],
+  [
+   "M4",
+   "Top-down view from above the white plate of spaghetti with red tomato sauce on the checkered tablecloth: a small rounded children's fork stands in the middle of the spaghetti, turning and wrapping the strands into a neat round spaghetti ball, the baby elephant's trunk tip holding the fork handle.",
+   "The little fork turns round and round and the spaghetti wraps into a neat ball.",
+   "patio",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "M5",
+   "Close-up three-quarter view at the table: the baby elephant, his face now CLEAN and shiny, takes a neat bite of a small spaghetti ball from the little fork held in his trunk, his mouth closed, eyes happy, lemon trees blurred behind.",
+   "He takes the neat bite from the fork and chews happily with his mouth closed.",
+   "patio",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "M6",
+   "Low front view from the tabletop: the baby elephant with a clean face proudly holds up his EMPTY clean white plate with both hands above the checkered tablecloth, a big proud smile, sunshine sparkles around the plate.",
+   "He lifts the empty plate up proudly and his smile grows.",
+   "patio",
+   [
+    "tito"
+   ],
+   2
+  ],
+  [
+   "M7",
+   "Over-the-shoulder view from behind Mamá Elefanta at the checkered table: across the table the baby elephant and Mamá both eat spaghetti neatly with little forks, the big yellow striped umbrella above them, lemon trees around.",
+   "Both lift their forks with neat spaghetti balls and smile at each other.",
+   "patio",
+   [
+    "tito",
+    "mama"
+   ],
+   2
+  ],
+  [
+   "M8",
+   "Close-up, low angle at the edge of the table: one last long spaghetti strand lies on the empty plate, the baby elephant looks sideways with a cheeky wink and his trunk tip reaches toward the strand.",
+   "He winks and his trunk sneaks toward the last spaghetti strand.",
+   "patio",
+   [
+    "tito"
+   ],
+   2
+  ]
+ ],
+ "style": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. ",
+ "lock": "TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail.",
+ "mama_lock": "MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear.",
+ "director": true,
+ "pattern": "lesson_consequence",
+ "opening": "spaghetti_slurped_up_the_trunk",
+ "twist": "only an elephant can eat spaghetti like a straw — the trunk-slurp is the funny mistake, and Mamá's fork-twirl trick turns the mess into a neat spaghetti ball you see from above",
+ "moral": "¡En la mesa, con tenedor!",
+ "experiment": "first table-manners/mealtime video, riding the fastest-growing topic of 21.10 (El Tren Ñam-Ñam manners +7.1M and VocaVoca mealtime +6.9M since the 20.10 scan); one location only (all-patio) to test whether a single bright world + many angles is enough",
+ "continuity": "sunny lunchtime in every shot; checkered tablecloth + yellow striped umbrella in every shot; sauce on Tito's face/ears/overalls M1-M3 (COVERED in M2), face CLEAN from M5 on (overall spots may stay); plate full M1-M4, EMPTY M6 and M8 (one strand in M8); small rounded fork from M4 on; napkin only M3; Mamá only in M3 and M7"
+}

@@ -26,6 +26,12 @@
    "note": "rescue_mission: kitten high in an apple tree, the ladder becomes a resbaladilla (slide). Farm orchard world. KORIRI x450, PequeGenios x1027. preflight OK."
   },
   {
+   "id": "tito_mesa",
+   "status": "script_ready",
+   "owner": "research",
+   "note": "table manners: Tito slurps spaghetti up his trunk, Mamá's fork-twirl trick. Fastest-growing topic 21.10 (+7.1M / +6.9M). One location (patio). preflight OK."
+  },
+  {
    "id": "tito_halloween",
    "status": "script_ready",
    "owner": "producer",
