@@ -144,6 +144,11 @@ def upload(name, local, remote):
     r.raise_for_status()
 
 
+# Pinned WanGP: main 06106f6+ (21.10 vllm rewrite) breaks ACE-Step songs with 'unhashable type: list' in mmgp/cuda_graphs.
+# 6f1ebc8 (20.10) works. Move forward only after a song + clip test.
+WANGP_REV = "6f1ebc85a0626ea1c35e4b3a4feb12b78a0c0ef6"
+
+
 def run(name, tasks_file, *inputs):
     # research gate: every video in the job must pass production/preflight.py (dossier, fresh market data, world, story, shots)
     if "--specs" not in inputs:
@@ -162,8 +167,8 @@ def run(name, tasks_file, *inputs):
     url, hdr = agent(name)
     # git clone of Wan2GP was very slow on one pod (~50 KB/s) while plain HTTPS ran at 100+ MB/s: fetch the zip instead
     prep = ("mkdir -p /workspace/temp && cd /workspace/temp && [ -d Wan2GP ] || (curl -sL -o w.zip "
-            "https://codeload.github.com/deepbeepmeep/Wan2GP/zip/refs/heads/main && python3 -c \"import zipfile;"
-            "zipfile.ZipFile('w.zip').extractall('.')\" && mv WanGP-main Wan2GP && rm w.zip)")
+            f"https://codeload.github.com/deepbeepmeep/Wan2GP/zip/{WANGP_REV} && python3 -c \"import zipfile;"
+            f"zipfile.ZipFile('w.zip').extractall('.')\" && mv WanGP-{WANGP_REV} Wan2GP && rm w.zip)")
     for attempt in range(8):
         if requests.post(url + "/run", headers=hdr, json={"name": "prep", "cmd": ["bash", "-c", prep]}, timeout=60).ok:
             break

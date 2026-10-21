@@ -1,0 +1,77 @@
+[
+ {
+  "id": "songtest_a_bas32",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! Tito tiró su jugo.\n[Verse]\n¡Splash! ¡Cuac! ¿Qué es eso?\nEl patito está triste.\nTito, ¿dónde va la basura?\n¡Con mi trompa la saco!\n[Chorus]\n¡Al bote! ¡Ñam, ñam, ñam!\n¡Cuac, cuac! ¡Gracias, Tito!\n[Outro]\n¡La basura, a su lugar!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "songtest_b_ep3_32",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\nBuenas noches, Tito. ¡A la cama!\nSe apaga la luz… ¡clic!\n[Verse 1]\n¡Uy! Una sombra en la pared…\n¿Qué es eso? ¿Qué es eso?\nMamá prende la luz… ¡clic!\n¡Es la jirafa! ¡Hola, jirafa!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos…\ny a dormir, chiquitito.\n[Verse 2]\n¡Toc, toc, toc! ¿Quién está en la ventana?\n¿Qué es eso? ¿Qué es eso?\nMamá abre la ventana…\n¡Es un búho! ¡Uh-uh, uh-uh!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos…\ny a dormir, chiquitito.\n[Verse 3]\nDos lucecitas bajo la cama…\n¿Qué es eso? ¿Qué es eso?\nTito prende la linterna… ¡clic!\n¡Es su camioncito! ¡Nii-noo!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos…\ny a dormir, chiquitito.\n[Outro]\nBuenas noches, jirafa. Buenas noches, búho.\nBuenas noches, luna… ¡Shhh!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 108 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 108,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "songtest_c_ep3clean150",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\nBuenas noches, Tito. ¡A la cama!\nSe apaga la luz... ¡clic!\n[Verse]\n¡Uy! Una sombra en la pared...\n¿Qué es eso? ¿Qué es eso?\nMamá prende la luz... ¡clic!\n¡Es la jirafa! ¡Hola, jirafa!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos...\ny a dormir, chiquitito.\n[Verse]\n¡Toc, toc, toc! ¿Quién está en la ventana?\n¿Qué es eso? ¿Qué es eso?\nMamá abre la ventana...\n¡Es un búho! ¡Uh-uh, uh-uh!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos...\ny a dormir, chiquitito.\n[Verse]\nDos lucecitas bajo la cama...\n¿Qué es eso? ¿Qué es eso?\nTito prende la linterna... ¡clic!\n¡Es su camioncito! ¡Nii-noo!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos...\ny a dormir, chiquitito.\n[Outro]\nBuenas noches, jirafa. Buenas noches, búho.\nBuenas noches, luna... ¡Shhh!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 108 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 150,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 108,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "songtest_d_bas150",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! Tito tiró su jugo.\n[Verse]\n¡Splash! ¡Cuac! ¿Qué es eso?\nEl patito está triste.\nTito, ¿dónde va la basura?\n¡Con mi trompa la saco!\n[Chorus]\n¡Al bote! ¡Ñam, ñam, ñam!\n¡Cuac, cuac! ¡Gracias, Tito!\n[Outro]\n¡La basura, a su lugar!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 150,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "songtest_e_ep3clean60",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\nBuenas noches, Tito. ¡A la cama!\nSe apaga la luz... ¡clic!\n[Verse]\n¡Uy! Una sombra en la pared...\n¿Qué es eso? ¿Qué es eso?\nMamá prende la luz... ¡clic!\n¡Es la jirafa! ¡Hola, jirafa!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos...\ny a dormir, chiquitito.\n[Verse]\n¡Toc, toc, toc! ¿Quién está en la ventana?\n¿Qué es eso? ¿Qué es eso?\nMamá abre la ventana...\n¡Es un búho! ¡Uh-uh, uh-uh!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos...\ny a dormir, chiquitito.\n[Verse]\nDos lucecitas bajo la cama...\n¿Qué es eso? ¿Qué es eso?\nTito prende la linterna... ¡clic!\n¡Es su camioncito! ¡Nii-noo!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos...\ny a dormir, chiquitito.\n[Outro]\nBuenas noches, jirafa. Buenas noches, búho.\nBuenas noches, luna... ¡Shhh!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 108 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 60,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 108,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ }
+]
