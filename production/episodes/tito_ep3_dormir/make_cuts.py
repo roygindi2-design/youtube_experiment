@@ -17,6 +17,9 @@ plan = [(0.0, "N01"), (9.25, "N02"), (11.85, "N03"), (15.15, "N04"), (17.65, "N0
         (143.75, "N16"), (150.0, None)]
 # QC 21.10 (frame review): usable length of a take, where the clip breaks after that point
 LIMIT = {"N11": 2.4, "N12": 2.0}
+# square (736x736) clips in 16:9: where to put the crop window, or show the whole frame (fit)
+FRAMING = {"N03": {"fit": True}, "K1": {"crop_y": 0.25}, "N04": {"crop_y": 0.4}, "N05": {"crop_y": 0.4}, "N06": {"crop_y": 0.3},
+           "N12": {"crop_y": 0.45}, "N15": {"crop_y": 0.45}}
 cuts, use = [], {}
 for (a, sh), (b, _) in zip(plan, plan[1:]):
     n = use[sh] = use.get(sh, 0) + 1
@@ -37,5 +40,11 @@ for (a, sh), (b, _) in zip(plan, plan[1:]):
         cuts.append([m, b, tok, {"reverse": True, "in": round(4.0 - (b - m) * 1.0, 2) if b - m < 3.9 else 0.06}])
 out = {"out": str(D / "build" / "tito_ep3_song.mp4"), "song": str(D / "assets" / "song.wav"), "size": [1920, 1080],
        "clips": str(D / "shots" / "clipF_"), "cuts": cuts}
+for c in cuts:
+    fr = FRAMING.get(c[2].split("@")[0])
+    if fr:
+        if len(c) == 3:
+            c.append({})
+        c[3].update(fr)
 (D / "cuts.json").write_text(json.dumps(out, indent=1))
 print(len(cuts), "cuts")

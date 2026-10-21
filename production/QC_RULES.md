@@ -65,3 +65,7 @@
   4. **Bath** — no clothes.
   5. **Mirror / reflection** — the reflection is the same character.
 - Found in the review of 21.10 (already-published Shorts): bano (bath in overalls), manos (foam with no water), mesa (Mamá without a trunk, pasta column to the floor), halloween (Mamá without a trunk, trunk merged into the pumpkin, different reflection), torre (floating block).
+
+## Square frames in a 16:9 episode (21.10, ep3)
+- Klein 4B with character references (KI) ignores `resolution` and returns 960x960 → the clip comes out 736x736, and the 16:9 crop cuts 44% of the height (in ep3 the giraffe's head and Tito disappeared from the Hook).
+- **Mandatory check after keyframes:** `ffprobe` on every pick; if it's not 1280x720, choose per shot `crop_y` (crop window) or `fit` (whole frame + blurred sides) in the cut list. Same check for ep2 (it was square too).
