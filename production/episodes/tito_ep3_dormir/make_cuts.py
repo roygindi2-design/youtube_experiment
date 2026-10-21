@@ -16,7 +16,7 @@ plan = [(0.0, "N01"), (9.25, "N02"), (11.85, "N03"), (15.15, "N04"), (17.65, "N0
         (124.65, "K1"), (129.05, "K2"), (134.05, "K3"), (139.35, "K4"),
         (143.75, "N16"), (150.0, None)]
 # QC 21.10 (frame review): usable length of a take, where the clip breaks after that point
-LIMIT = {"N03": 3.3, "N11": 2.4, "N12": 2.0}
+LIMIT = {"N11": 2.4, "N12": 2.0}
 cuts, use = [], {}
 for (a, sh), (b, _) in zip(plan, plan[1:]):
     n = use[sh] = use.get(sh, 0) + 1
