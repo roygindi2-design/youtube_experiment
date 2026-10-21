@@ -55,3 +55,13 @@
 - **Bath = no clothes.** In bath shots replace the overalls from the lock with "bare powder-blue skin, his overalls hang on a hook on the wall".
 - **A static closing shot (sleeping) needs life:** breathing blanket, head turning, moon blinking, stars twinkling.
 - **New QC check:** after QC, look at 4 frames (0.2/1.2/2.2/3.2 s) of every water/foam/mud shot — if the liquid has the same shape in all 4, that's FAIL.
+
+## Physics/trunk review sheet (Roy 21.10: "check trunk, water, liquids and physics thoroughly")
+- Tool: `python production/qc_physics_sheet.py <video> <out_prefix> 0.5 10` → a frame every 0.5 s with a timestamp. Mandatory for every final video and every video that goes into a compilation.
+- Check every frame for:
+  1. **Trunk** — Tito AND Mamá: the trunk is present and keeps its length (Mamá has a long trunk; a "human" face = FAIL).
+  2. **Liquids** — moving (drops fall, ripples, foam wobbles), with a visible source (tap / carton), not a frozen column.
+  3. **Gravity** — nothing floats without support (a block above the head, a carton beside the bin).
+  4. **Bath** — no clothes.
+  5. **Mirror / reflection** — the reflection is the same character.
+- Found in the review of 21.10 (already-published Shorts): bano (bath in overalls), manos (foam with no water), mesa (Mamá without a trunk, pasta column to the floor), halloween (Mamá without a trunk, trunk merged into the pumpkin, different reflection), torre (floating block).
