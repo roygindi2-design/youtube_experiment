@@ -1,0 +1,58 @@
+[
+ {
+  "id": "rojito_ciudad_Q5_kfB",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 1101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. View from behind the little red fire truck character at a railroad crossing in the toy city: the barrier is down and a chubby round GREEN toy steam train passes from left to right on the tracks — its cab has two big friendly cartoon eyes painted on the cab windows and bright RED round wheels, a tall yellow chimney puffing a little white cloud, a long flat front with a yellow bumper. The train is clearly green with red wheels, a toddler toy design. The little red fire truck character from the first reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Rojito is the only red fire truck in the picture; every other vehicle is a different friendly toy vehicle character with its own colors and its own big glossy cartoon eyes on the windshield. Setting: A sunny toy construction site outdoors, a big pit of soft golden sand with orange and white traffic cones, a little red-and-white railroad crossing with a wooden barrier and a curved toy train track behind the pit, green rounded hills and a wide open blue sky with white clouds. No vehicles in the pit.. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_ciudad_Q5_kfB202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 1202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. View from behind the little red fire truck character at a railroad crossing in the toy city: the barrier is down and a chubby round GREEN toy steam train passes from left to right on the tracks — its cab has two big friendly cartoon eyes painted on the cab windows and bright RED round wheels, a tall yellow chimney puffing a little white cloud, a long flat front with a yellow bumper. The train is clearly green with red wheels, a toddler toy design. The little red fire truck character from the first reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Rojito is the only red fire truck in the picture; every other vehicle is a different friendly toy vehicle character with its own colors and its own big glossy cartoon eyes on the windshield. Setting: A sunny toy construction site outdoors, a big pit of soft golden sand with orange and white traffic cones, a little red-and-white railroad crossing with a wooden barrier and a curved toy train track behind the pit, green rounded hills and a wide open blue sky with white clouds. No vehicles in the pit.. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_mesa_M2_kfB",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 1101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Extreme close-up of the baby elephant's happy laughing face at the table: three small round orange tomato sauce dots on his cheeks, one long yellow spaghetti strand hanging from the curled tip of his trunk like a funny mustache, his eyes squeezed shut with laughter, the yellow umbrella blurred behind. The baby elephant from the first reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: A sunny garden patio at lunchtime, outdoors, a little round table with a red-and-white checkered tablecloth under a big yellow-and-white striped umbrella, two small wooden chairs, lemon trees with bright yellow lemons in big terracotta pots, a white garden wall with climbing pink flowers, warm sunlight and a wide open blue sky. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_mesa_M2_kfB202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 1202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Extreme close-up of the baby elephant's happy laughing face at the table: three small round orange tomato sauce dots on his cheeks, one long yellow spaghetti strand hanging from the curled tip of his trunk like a funny mustache, his eyes squeezed shut with laughter, the yellow umbrella blurred behind. The baby elephant from the first reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: A sunny garden patio at lunchtime, outdoors, a little round table with a red-and-white checkered tablecloth under a big yellow-and-white striped umbrella, two small wooden chairs, lemon trees with bright yellow lemons in big terracotta pots, a white garden wall with climbing pink flowers, warm sunlight and a wide open blue sky. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg"
+   ]
+  }
+ }
+]
