@@ -1,5 +1,5 @@
 {
- "taken": "2026-10-21 00:46 UTC",
+ "taken": "2026-10-21 00:57 UTC",
  "channel": {
   "title": "Cantilandia",
   "id": "UCDwph5nbCbbl97Pu4gTyZUA",
@@ -34,9 +34,9 @@
    "id": "gCaM5FcbPpY",
    "title": "¡Rojito perdió sus ruedas! 🚒😱 | Canciones Infantiles #Shorts",
    "published": "2026-10-20",
-   "privacy": "public",
+   "privacy": "unlisted",
    "duration_s": 29,
-   "views": 4,
+   "views": 8,
    "likes": 0,
    "comments": 0,
    "retention_curve": []
@@ -47,7 +47,7 @@
    "published": "2026-10-20",
    "privacy": "public",
    "duration_s": 27,
-   "views": 11,
+   "views": 13,
    "likes": 0,
    "comments": 0,
    "retention_curve": []
@@ -72,7 +72,7 @@
    "views": 4,
    "likes": 0,
    "comments": 0,
-   "analytics_error": "500: b'{\\n  \"error\": {\\n    \"code\": 500,\\n    \"message\": \"Internal error encountered.\",\\n    \"errors\": [\\n      {\\n        \"message\": \"Internal error encountered.\",\\"
+   "retention_curve": []
   },
   {
    "id": "gxH1p0Sp59g",
@@ -91,7 +91,7 @@
    "published": "2026-10-19",
    "privacy": "public",
    "duration_s": 128,
-   "views": 5,
+   "views": 6,
    "likes": 2,
    "comments": 0,
    "retention_curve": []
