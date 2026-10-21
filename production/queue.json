@@ -21,7 +21,7 @@
   },
   {
    "id": "rojito_ciudad",
-   "status": "in_production",
+   "status": "qc",
    "owner": "producer",
    "note": "NuNu 'X hace Y' vehicle-sound song; guess_interactive; city + construction pit. spec+SCRIPT+dossier+upload draft, preflight OK 20.10 23:00. NOTE producer: hero.one adapted so a friend vehicle can share the frame with Rojito; check Rojito stays red in storyboard."
   },
@@ -45,7 +45,7 @@
   },
   {
    "id": "tito_mesa",
-   "status": "in_production",
+   "status": "qc",
    "owner": "producer",
    "note": "table manners: Tito slurps spaghetti up his trunk, Mamá's fork-twirl trick. Fastest-growing topic 21.10 (+7.1M / +6.9M). One location (patio). preflight OK."
   },

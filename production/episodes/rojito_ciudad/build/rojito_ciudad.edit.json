@@ -1,0 +1,91 @@
+{
+ "out": "production/episodes/rojito_ciudad/build/rojito_ciudad.mp4",
+ "fps": 30,
+ "size": [
+  1080,
+  1920
+ ],
+ "burn_captions": false,
+ "song": {
+  "file": "production/episodes/rojito_ciudad/assets/song.wav",
+  "start": 0.0,
+  "gain_db": 0
+ },
+ "shots": [
+  {
+   "file": "production/episodes/rojito_ciudad/shots_v2/rojito_ciudad_clip2_Q1_s7.mp4",
+   "in": 0.06,
+   "dur": 4.1,
+   "speed": 0.971,
+   "src_len": 3.981,
+   "shot": "Q1@7"
+  },
+  {
+   "file": "production/episodes/rojito_ciudad/shots_v2/rojito_ciudad_clip2_Q2_s19.mp4",
+   "in": 0.06,
+   "dur": 4.3,
+   "speed": 0.926,
+   "src_len": 3.982,
+   "shot": "Q2@19"
+  },
+  {
+   "file": "production/episodes/rojito_ciudad/shots_v2/rojito_ciudad_clip2_Q3_s31.mp4",
+   "in": 0.06,
+   "dur": 3.8,
+   "speed": 1.0,
+   "src_len": 3.8,
+   "shot": "Q3@31"
+  },
+  {
+   "file": "production/episodes/rojito_ciudad/shots_v2/rojito_ciudad_clip2_Q4_s19.mp4",
+   "in": 0.06,
+   "dur": 4.4,
+   "speed": 0.905,
+   "src_len": 3.982,
+   "shot": "Q4@19"
+  },
+  {
+   "file": "production/episodes/rojito_ciudad/shots_v2/rojito_ciudad_clip2_Q5_s19.mp4",
+   "in": 0.06,
+   "dur": 2.8,
+   "speed": 1.0,
+   "src_len": 2.8,
+   "shot": "Q5@19"
+  },
+  {
+   "file": "production/episodes/rojito_ciudad/shots_v2/rojito_ciudad_clip2_Q6_s19.mp4",
+   "in": 0.06,
+   "dur": 2.9,
+   "speed": 1.0,
+   "src_len": 2.9,
+   "shot": "Q6@19"
+  },
+  {
+   "file": "production/episodes/rojito_ciudad/shots_v2/rojito_ciudad_clip2_Q7_s7.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "Q7@7"
+  },
+  {
+   "file": "production/episodes/rojito_ciudad/shots_v2/rojito_ciudad_clip2_Q8_s7.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "Q8@7"
+  },
+  {
+   "file": "production/episodes/rojito_ciudad/shots_v2/rojito_ciudad_clip2_Q8_s7.mp4",
+   "in": 0.06,
+   "dur": 3.7,
+   "speed": 1.0,
+   "src_len": 3.7,
+   "shot": "Q8@7",
+   "reverse": true
+  }
+ ],
+ "sfx": [],
+ "lines": []
+}

@@ -1,0 +1,90 @@
+{
+ "out": "production/episodes/tito_mesa/build/tito_mesa.mp4",
+ "fps": 30,
+ "size": [
+  1080,
+  1920
+ ],
+ "burn_captions": false,
+ "song": {
+  "file": "production/episodes/tito_mesa/assets/song.wav",
+  "start": 0.0,
+  "gain_db": 0
+ },
+ "shots": [
+  {
+   "file": "production/episodes/tito_mesa/shots_v2/tito_mesa_clip2_M2_s7.mp4",
+   "in": 0.06,
+   "dur": 3.8,
+   "speed": 1.0,
+   "src_len": 3.8,
+   "shot": "M2@7"
+  },
+  {
+   "file": "production/episodes/tito_mesa/shots_v2/tito_mesa_clip2_M1_s19.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "M1@19"
+  },
+  {
+   "file": "production/episodes/tito_mesa/shots_v2/tito_mesa_clip2_M2_s19.mp4",
+   "in": 0.06,
+   "dur": 3.8,
+   "speed": 1.0,
+   "src_len": 3.8,
+   "shot": "M2@19"
+  },
+  {
+   "file": "production/episodes/tito_mesa/shots_v2/tito_mesa_clip2_M3_s19.mp4",
+   "in": 0.06,
+   "dur": 3.9,
+   "speed": 1.0,
+   "src_len": 3.9,
+   "shot": "M3@19"
+  },
+  {
+   "file": "production/episodes/tito_mesa/shots_v2/tito_mesa_clip2_M4_s7.mp4",
+   "in": 0.06,
+   "dur": 3.0,
+   "speed": 1.0,
+   "src_len": 3.0,
+   "shot": "M4@7"
+  },
+  {
+   "file": "production/episodes/tito_mesa/shots_v2/tito_mesa_clip2_M5_s7.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "M5@7"
+  },
+  {
+   "file": "production/episodes/tito_mesa/shots_v2/tito_mesa_clip2_M7_s19.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "M7@19"
+  },
+  {
+   "file": "production/episodes/tito_mesa/shots_v2/tito_mesa_clip2_M4_s19.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "M4@19"
+  },
+  {
+   "file": "production/episodes/tito_mesa/shots_v2/tito_mesa_clip2_M8_s19.mp4",
+   "in": 0.06,
+   "dur": 3.5,
+   "speed": 1.0,
+   "src_len": 3.5,
+   "shot": "M8@19"
+  }
+ ],
+ "sfx": [],
+ "lines": []
+}

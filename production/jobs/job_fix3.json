@@ -1,0 +1,38 @@
+[
+ {
+  "id": "rojito_ciudad_Q5_kfD",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 3101,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, cute and friendly, clean composition, high quality render. Low side view at ground level at a railroad crossing in the toy city: a row of small WOODEN TOY TRAIN WAGONS painted red, yellow and blue, made of smooth painted wooden blocks with round wooden wheels, rolls past from left to right on wooden tracks, a soft white puff of steam drifting over them, the red-and-white crossing barrier down in the foreground, sunny toy city houses behind. Only the wagons are visible, the front of the train is already out of the picture. Vertical 9:16 frame."
+ },
+ {
+  "id": "rojito_ciudad_clip2_Q5_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, cute and friendly, clean composition, high quality render. The wooden wagons roll past from left to right and a white puff of steam drifts across. Smooth natural motion with a clear purposeful action; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "rojito_ciudad_Q5_kfD"
+  }
+ },
+ {
+  "id": "rojito_ciudad_clip2_Q5_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, cute and friendly, clean composition, high quality render. The wooden wagons roll past from left to right and a white puff of steam drifts across. Smooth natural motion with a clear purposeful action; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "rojito_ciudad_Q5_kfD"
+  }
+ }
+]

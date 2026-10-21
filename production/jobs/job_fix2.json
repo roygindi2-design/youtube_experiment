@@ -1,0 +1,72 @@
+[
+ {
+  "id": "rojito_ciudad_Q5_kfC",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 2101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. View from behind the little red fire truck character at a railroad crossing in the toy city: the barrier is down and a classic WOODEN TOY TRAIN made of smooth painted wooden blocks passes from left to right on wooden tracks — a simple wooden block locomotive painted bright green with a yellow block chimney and round red wooden wheels, pulling three small wooden wagons painted red, yellow and blue, like a child's wooden railway toy. The little red fire truck character from the first reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Rojito is the only red fire truck in the picture; every other vehicle is a different friendly toy vehicle character with its own colors and its own big glossy cartoon eyes on the windshield. Setting: A sunny toy construction site outdoors, a big pit of soft golden sand with orange and white traffic cones, a little red-and-white railroad crossing with a wooden barrier and a curved toy train track behind the pit, green rounded hills and a wide open blue sky with white clouds. No vehicles in the pit.. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_ciudad_Q5_kfC202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 2202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. View from behind the little red fire truck character at a railroad crossing in the toy city: the barrier is down and a classic WOODEN TOY TRAIN made of smooth painted wooden blocks passes from left to right on wooden tracks — a simple wooden block locomotive painted bright green with a yellow block chimney and round red wooden wheels, pulling three small wooden wagons painted red, yellow and blue, like a child's wooden railway toy. The little red fire truck character from the first reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Rojito is the only red fire truck in the picture; every other vehicle is a different friendly toy vehicle character with its own colors and its own big glossy cartoon eyes on the windshield. Setting: A sunny toy construction site outdoors, a big pit of soft golden sand with orange and white traffic cones, a little red-and-white railroad crossing with a wooden barrier and a curved toy train track behind the pit, green rounded hills and a wide open blue sky with white clouds. No vehicles in the pit.. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_mesa_clip2_M2_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He giggles and the spaghetti strand wiggles on his trunk. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_tito_mesa_M2.jpg"
+  }
+ },
+ {
+  "id": "tito_mesa_clip2_M2_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He giggles and the spaghetti strand wiggles on his trunk. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_tito_mesa_M2.jpg"
+  }
+ },
+ {
+  "id": "tito_mesa_clip2_M2_s31",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He giggles and the spaghetti strand wiggles on his trunk. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "544x960",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 31,
+  "inputs": {
+   "image_start": "pick_tito_mesa_M2.jpg"
+  }
+ }
+]
