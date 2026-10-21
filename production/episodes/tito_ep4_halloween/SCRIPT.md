@@ -8,7 +8,7 @@
 **Twist (visible):** every closed door hides a sweet surprise (kitten, bat) — and the third 'surprise' is a little mouse with nothing: Tito chooses to share, so the chorus line 'un dulce para ti, un dulce para mí' comes true
 
 ## ⏰ Deadline
-Halloween = 31.10. Upload the episode by **27.10** (searches rise in the last days); Shorts 28, 29, 30.10. If time is short: the song + 3 Shorts are enough, the compilation can come later.
+Halloween = 31.10. **Roy 22.10: the finished episode goes to Roy by 24.10, 18:00 Israel (15:00 UTC).** Shorts 25, 26, 27.10. This is the ONLY episode in work now. If time is short: the song + 3 Shorts are enough, the compilation can come later.
 
 ## Why (evidence — longform_2026-10-21_halloween + earlier scans)
 - Halloween long-form now: 'Wheels on the Halloween Bus' 284K views/day ×275; Babanana '¡Aventura de Dulces de Halloween!' 167K/day ×114 (13 min); Pinkfong 'Monstruos de Sombras' 141K/day.

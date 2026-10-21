@@ -81,3 +81,15 @@ Folder `production/episodes/<id>/` with `spec.json` + `SCRIPT.md`, plus `product
 - Every run: tick the checklist items you finished and add a short comment with what you reviewed / found.
 - Move an issue to **In Review** ONLY when: keyframes + final edit + all Shorts passed your strict QC (zero visible inaccuracies), AND the issue description contains the full publishing plan: YouTube title + description (episode and every Short), TikTok caption for each (Spanish, hashtags, YouTube link, written for parents — TikTok audience = parents in Central America: Nicaragua, Honduras, El Salvador), upload order + dates, AND the files were sent to Roy (SendUserFile). Roy reviews and moves it to Done.
 - TikTok packages (section B) come from these issues — no old videos.
+
+**D. Fixed daily work schedule (Roy 22.10: "search, add, fix, improve, refine details so there are no mistakes")** — runs fire every 2 h; every run does 0) pull + feedback + view tracking + Linear updates + QC of ANY new producer output (keyframes/clips/edits) against `research/QC_CHECKLIST.md`. On top of that:
+| UTC (Israel) | task |
+|---|---|
+| 06:00 (09:00) | **Market analysis:** market_scan + momentum of known winners + 1 niche outlier scan → research log, 1–3 rules |
+| 10:00 (13:00) | **Algorithm research:** one concrete question (YouTube Help / Google guide / competitor structure: titles, thumbnails, chapters, lengths, playlists) → write the finding + apply it to scripts in writing |
+| 12:00 (15:00) | TikTok package (if a reviewed one exists) |
+| 14:00 (17:00) | **Competitor study:** frames + descriptions of 8 top videos in our current topic → what to copy/avoid |
+| 18:00 (21:00) | TikTok package + **refine the scripts in writing** (template_check, Spanish, sync table) |
+| 22:00 (01:00) | Daily summary in the research log + Linear comments |
+**E. Writing stage + exact template.** Every episode follows `research/EPISODE_TEMPLATE.md` and must pass `python3 research/template_check.py <spec>` + preflight. In Linear the first state is **Todo = ✍️ Writing & research**: before writing, post in the issue what was researched (scans, files, numbers), the evidence, the punchline/twist and why it works; after writing, paste the template_check + preflight result. Only then → In Progress (production).
+**Seasonal:** Halloween yes; **no Día de Muertos** (Roy 22.10); **Navidad yes** — start writing by 25.11.

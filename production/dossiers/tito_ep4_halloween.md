@@ -1,5 +1,5 @@
 # תיק: tito_ep4_halloween — "¡Toc, toc! ¿Quién es? 🎃 Tito en Halloween" (פרק ארוך עונתי)
-**Hook:** דפיקה על דלת סגורה בליל Halloween + "¿Quién es?" · **אורך:** שיר ~2:30 + "más canciones" → 8–12 דק' · **עולם + פלטה:** רחוב כפר קטן בליל Halloween (כתום, סגול, מנטה, ירח) — שונה מהמרפסת של tito_halloween · **נכתב:** 22.10.2026 · **דדליין:** פרק עד 27.10, Shorts 28–30.10
+**Hook:** דפיקה על דלת סגורה בליל Halloween + "¿Quién es?" · **אורך:** שיר ~2:30 + "más canciones" → 8–12 דק' · **עולם + פלטה:** רחוב כפר קטן בליל Halloween (כתום, סגול, מנטה, ירח) — שונה מהמרפסת של tito_halloween · **נכתב:** 22.10.2026 · **דדליין (Roy):** פרק מוכן ל-Roy עד 24.10 18:00 שעון ישראל; Shorts 25–27.10
 
 ## 3 סיבות שיש לו סיכוי להתפוצץ
 1. **Halloween בסרטונים ארוכים בוער עכשיו (סריקה של 21.10, 45 יום):** "Wheels on the Halloween Bus" — 283,869 צפיות ליום, ×275; Babanana "¡Aventura de Dulces de Halloween!" — 166,723 ליום, ×114 (13 דק'); Pinkfong "Tenebrosos Monstruos de Sombras" — 140,557 ליום. ועוד 9 ימים לחג — החיפושים רק יעלו.
