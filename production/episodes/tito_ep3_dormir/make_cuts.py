@@ -15,12 +15,18 @@ plan = [(0.0, "N01"), (9.25, "N02"), (11.85, "N03"), (15.15, "N04"), (17.65, "N0
         (107.85, "N15"), (111.95, "N10"), (115.55, "N16"),
         (124.65, "K1"), (129.05, "K2"), (134.05, "K3"), (139.35, "K4"),
         (143.75, "N16"), (150.0, None)]
+# QC 21.10 (frame review): usable length of a take, where the clip breaks after that point
+LIMIT = {"N03": 3.3, "N11": 2.4, "N12": 2.0}
 cuts, use = [], {}
 for (a, sh), (b, _) in zip(plan, plan[1:]):
     n = use[sh] = use.get(sh, 0) + 1
     seed = seeds.get(f"{sh}#{n}", seeds.get(sh, 7))
     tok = f"{sh}@{seed}"
-    if b - a <= 4.6:
+    lim = LIMIT.get(sh)
+    if lim and b - a > lim + 0.01:  # forward up to the limit, then back (boomerang)
+        m = round(a + lim, 2)
+        cuts += [[a, m, tok, {"until": lim + 0.06}], [m, b, tok, {"reverse": True, "in": round(lim + 0.06 - (b - m), 2), "until": lim + 0.06}]]
+    elif b - a <= 4.6:
         cuts.append([a, b, tok])
     elif b - a > 7.8:  # forward, backward, forward again
         m1, m2 = round(a + 3.9, 2), round(a + 7.8, 2)

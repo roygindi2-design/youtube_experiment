@@ -1,0 +1,44 @@
+[
+ {
+  "id": "tito_ep3_dormir_clipF_N09_s31",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá Elefanta pushes the round window with her trunk and the round glass window swings slowly outward on its hinge; cool moonlight comes in, the leaves of the tree branch outside sway gently in the breeze; the baby elephant watches from his bed and smiles. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "inputs": {
+   "image_start": "pick_ep3_N09.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_N09_s43",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá Elefanta pushes the round window with her trunk and the round glass window swings slowly outward on its hinge; cool moonlight comes in, the leaves of the tree branch outside sway gently in the breeze; the baby elephant watches from his bed and smiles. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 43,
+  "inputs": {
+   "image_start": "pick_ep3_N09.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_N09_s55",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá Elefanta pushes the round window with her trunk and the round glass window swings slowly outward on its hinge; cool moonlight comes in, the leaves of the tree branch outside sway gently in the breeze; the baby elephant watches from his bed and smiles. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 55,
+  "inputs": {
+   "image_start": "pick_ep3_N09.jpg"
+  }
+ }
+]
