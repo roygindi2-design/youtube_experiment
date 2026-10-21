@@ -103,3 +103,8 @@
 - The old ones are flat (bath 16, handwashing 13, tower 10).
 - Analytics API (days 15–21): returns no rows — probably a 48h lag for a small channel.
 - **Working hypothesis:** this is not a counter problem. The new videos are barely being offered in the feed. Possible causes: (1) 6 uploads in ~9 hours on a channel with no audience = the algorithm tests each one with a tiny group; (2) the new series (Rojito) has no viewing history; (3) Made for Kids limits Shorts discovery for new channels.
+
+## +12h — colors / mud / Halloween — 21.10 11:41 UTC
+- colors 1, mud 0, Halloween 0. **spaghetti 2** (+4.5h — the first of the new ones to start). City 0, Rojito 1 v2 0.
+- Technical status of all of them: processed, public, Made for Kids, embeddable, no regional restriction, no content rating, no licensed content (= no copyright claim).
+- **Conclusion:** no technical problem. Exposure is very low. Spaghetti (hottest topic, researcher-agent script) is the first to get views.
