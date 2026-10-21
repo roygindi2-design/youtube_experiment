@@ -108,5 +108,21 @@
    "youtube_id": "0WpO8lYXsEU"
   }
  ],
- "_paused": "21.10 ~12:00 IL — Roy: production PAUSED, analysis only. No GPU, no uploads. Ready but held: tito_ep2, tito_basura, rojito_rescate. Researcher: focus on analysis (why new videos get 0 views); no need for new scripts until Roy resumes."
+ "_paused": "21.10 ~12:00 IL — Roy: production PAUSED, analysis only. No GPU, no uploads. Ready but held: tito_ep2, tito_basura, rojito_rescate. Researcher: focus on analysis (why new videos get 0 views); no need for new scripts until Roy resumes.",
+ "now": {
+  "id": "tito_ep4_halloween",
+  "deadline": "2026-10-24 15:00 UTC (18:00 Israel)",
+  "why": "Halloween 31.10 — the only episode in work (Roy 22.10)"
+ },
+ "next": [
+  {
+   "id": "tito_ep3_dormir",
+   "why": "finish v2 clips + edit after Halloween is delivered"
+  },
+  {
+   "id": "tito_ep2",
+   "why": "fixes from researcher QC (E20 eye over trunk, E14, blinks)"
+  }
+ ],
+ "_workflow": "See production/agents/STUDIO_WORKFLOW.md. 'now'/'next' are set by the researcher every run; the producer works on 'now' first."
 }
