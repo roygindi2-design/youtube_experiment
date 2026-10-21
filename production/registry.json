@@ -133,5 +133,20 @@
   "pattern": "guess_interactive",
   "experiment": "NuNu 'X hace Y' sound song (NuNu ×95, Singaroo ×665): every lyric line is a DIFFERENT one-off vehicle friend doing exactly its sound on the beat; first multi-character sound song on the channel",
   "script_by": "research agent"
+ },
+ {
+  "id": "tito_mesa",
+  "youtube_id": "l5anda4GTTI",
+  "date": "2026-10-21",
+  "world": "sunny garden patio for lunch: a little round table with a red-and-white checkered tablecloth under a yellow striped umbrella, lemon trees in big terracotta pots, a white wall with climbing flowers",
+  "series": [
+   "tito",
+   "habitos"
+  ],
+  "uploaded_utc": "07:13",
+  "opening": "spaghetti_slurped_up_the_trunk",
+  "pattern": "lesson_consequence",
+  "experiment": "first table-manners/mealtime video, riding the fastest-growing topic of 21.10 (El Tren Ñam-Ñam manners +7.1M and VocaVoca mealtime +6.9M since the 20.10 scan); one location only (all-patio) to test whether a single bright world + many angles is enough",
+  "script_by": "research agent"
  }
 ]
