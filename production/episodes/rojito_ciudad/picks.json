@@ -1,0 +1,7 @@
+{
+ "hero": "rojito_master.jpg",
+ "locations": {
+  "calle": "loc_ciudad_calle.jpg",
+  "obra": "loc_ciudad_obra.jpg"
+ }
+}
