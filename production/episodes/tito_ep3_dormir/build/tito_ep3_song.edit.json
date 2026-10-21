@@ -263,20 +263,10 @@
   {
    "file": "/home/user/youtube_experiment/production/episodes/tito_ep3_dormir/shots/clipF_N12_s19.mp4",
    "in": 0.06,
-   "dur": 2.0,
-   "speed": 1.0,
+   "dur": 2.3,
+   "speed": 0.87,
    "src_len": 2.0,
    "shot": "N12@19",
-   "crop_y": 0.45
-  },
-  {
-   "file": "/home/user/youtube_experiment/production/episodes/tito_ep3_dormir/shots/clipF_N12_s19.mp4",
-   "in": 1.76,
-   "dur": 0.3,
-   "speed": 1.0,
-   "src_len": 0.3,
-   "shot": "N12@19",
-   "reverse": true,
    "crop_y": 0.45
   },
   {
