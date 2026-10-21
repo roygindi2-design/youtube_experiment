@@ -3,27 +3,27 @@
  "items": [
   {
    "id": "rojito_arena",
-   "status": "in_production",
+   "status": "script_ready",
    "owner": "research",
-   "note": "mystery: eyes blinking in a sand mound, Rojito washes it clue by clue -> sea turtle. Beach. Diente Gigante +3.9M, Huella Mágica x1150. One vehicle per frame only. | revised 04:20: song_seconds 32 + IP check (arena turtle peach-orange, not Crush-green; paraguas chick -> bunny, not Pollito Pío)."
+   "note": "mystery: eyes blinking in a sand mound, Rojito washes it clue by clue -> sea turtle. Beach. Diente Gigante +3.9M, Huella Mágica x1150. One vehicle per frame only. | revised 04:20: song_seconds 32 + IP check (arena turtle peach-orange, not Crush-green; paraguas chick -> bunny, not Pollito Pío). | paused before production"
   },
   {
    "id": "tito_brocoli",
-   "status": "in_production",
+   "status": "script_ready",
    "owner": "research",
-   "note": "refusal -> 'they are little trees' -> Tito a giant in a broccoli forest (pretend location). Jungle picnic. preflight OK. | revised 04:20: song_seconds 32 + IP check (arena turtle peach-orange, not Crush-green; paraguas chick -> bunny, not Pollito Pío)."
+   "note": "refusal -> 'they are little trees' -> Tito a giant in a broccoli forest (pretend location). Jungle picnic. preflight OK. | revised 04:20: song_seconds 32 + IP check (arena turtle peach-orange, not Crush-green; paraguas chick -> bunny, not Pollito Pío). | paused before production"
   },
   {
    "id": "tito_paraguas",
-   "status": "in_production",
+   "status": "script_ready",
    "owner": "research",
-   "note": "sharing in the rain: Tito's ears become a second umbrella for a wet chick; rain -> rainbow. preflight OK. | revised 04:20: song_seconds 32 + IP check (arena turtle peach-orange, not Crush-green; paraguas chick -> bunny, not Pollito Pío)."
+   "note": "sharing in the rain: Tito's ears become a second umbrella for a wet chick; rain -> rainbow. preflight OK. | revised 04:20: song_seconds 32 + IP check (arena turtle peach-orange, not Crush-green; paraguas chick -> bunny, not Pollito Pío). | paused before production"
   },
   {
    "id": "tito_frio_calor",
-   "status": "in_production",
+   "status": "script_ready",
    "owner": "research",
-   "note": "Cold VS Hot: frozen (frost, icicle) in the snow without a jacket -> Mamá dresses him -> overheats in the sun in the jacket -> trunk shower. Yes! Neo 43.5M x143. song_seconds 32. preflight OK."
+   "note": "Cold VS Hot: frozen (frost, icicle) in the snow without a jacket -> Mamá dresses him -> overheats in the sun in the jacket -> trunk shower. Yes! Neo 43.5M x143. song_seconds 32. preflight OK. | paused before production"
   },
   {
    "id": "rojito_ciudad",
@@ -34,21 +34,21 @@
   },
   {
    "id": "tito_dormir",
-   "status": "in_production",
+   "status": "script_ready",
    "owner": "research",
-   "note": "D1 hook frame shows no scary shadow — see production/feedback/tito_dormir.md (only D1) | 06:20 D1 rewritten: low angle (no location ref), HUGE dark-purple long-neck shadow as the subject, Tito tiny in the corner. Only D1 needs a new keyframe."
+   "note": "D1 hook frame shows no scary shadow — see production/feedback/tito_dormir.md (only D1) | 06:20 D1 rewritten: low angle (no location ref), HUGE dark-purple long-neck shadow as the subject, Tito tiny in the corner. Only D1 needs a new keyframe. | paused before production"
   },
   {
    "id": "tito_basura",
    "status": "qc",
    "owner": "producer",
-   "note": "littering lesson at a duck pond; Tito lifts the box out with his trunk, smiling bin ñam. Milo Kids x3604, NursyTots x1382. preflight OK."
+   "note": "littering lesson at a duck pond; Tito lifts the box out with his trunk, smiling bin ñam. Milo Kids x3604, NursyTots x1382. preflight OK. | ready, upload HELD by Roy's pause"
   },
   {
    "id": "rojito_rescate",
    "status": "qc",
    "owner": "producer",
-   "note": "rescue_mission: kitten high in an apple tree, the ladder becomes a resbaladilla (slide). Farm orchard world. KORIRI x450, PequeGenios x1027. preflight OK."
+   "note": "rescue_mission: kitten high in an apple tree, the ladder becomes a resbaladilla (slide). Farm orchard world. KORIRI x450, PequeGenios x1027. preflight OK. | ready, upload HELD by Roy's pause"
   },
   {
    "id": "tito_mesa",
@@ -75,7 +75,7 @@
    "id": "tito_ep2",
    "status": "qc",
    "owner": "producer",
-   "note": "long-form 'Un día con Tito'; song s8 picked"
+   "note": "long-form 'Un día con Tito'; song s8 picked | ready, upload HELD by Roy's pause"
   },
   {
    "id": "rojito_barro",
@@ -90,5 +90,6 @@
    "owner": "producer",
    "youtube_id": "0WpO8lYXsEU"
   }
- ]
+ ],
+ "_paused": "21.10 ~12:00 IL — Roy: production PAUSED, analysis only. No GPU, no uploads. Ready but held: tito_ep2, tito_basura, rojito_rescate. Researcher: focus on analysis (why new videos get 0 views); no need for new scripts until Roy resumes."
 }

@@ -134,3 +134,7 @@
 **מהחוקר:** ריצה 6 — סריקות צבע+הרגל, VS, שינה; outliers: Bibiberry "Where Is My Color" (רכבים) ×2,367, Gracioso Bebé שינה ×1,750 (מאמת את tito_dormir), Yes! Neo "Cold VS Hot" 43.5M. תסריט חדש tito_frio_calor; dormir D1 תוקן.
 **החלטות:** GPU: D1 חדש ל-dormir + עיצוב ל-arena/brocoli/paraguas/frio_calor; קליפים ל-dormir אחרי סטוריבורד → מחר (סלוט רביעי). מחר: פרק ארוך 03:20, basura 05:30, rescate 07:30, dormir.
 **צריך את Roy:** מסך Realtime מהסטודיו.
+
+### ⏸ החלטת Roy — 21.10.2026 ~12:00 ישראל: עוצרים הפקה, רק ניתוח
+- GPU כובה (g6 בוטל לפני שעשה משהו). 3 העלאות מתוזמנות (ארוך, basura, rescate) הושבתו — לא נמחקו, אפשר להפעיל מחדש.
+- ישיבת 4 השעות → ישיבת ניתוח בלבד. משיכת נתונים כל 6 שעות ממשיכה.
