@@ -60,3 +60,8 @@ See production/dossiers/tito_paraguas.md.
 
 ## Update 21.10 14:20 — liquid & life rules (producer _general.md)
 - No frozen splash in a keyframe: frames show the moment BEFORE; the splash/flow happens in `motion`. Sleeping/static shots get life (breathing blanket, twinkling stars).
+
+## Update 21.10 22:10 — face rules (researcher QC review)
+- Close-up/medium motions end with: "Both eyes stay open and calm with the same gentle expression the whole time." (one-frame blinks/winks looked like popping eyes in ep2).
+- 'laughing / big grin' → 'smiling sweetly with his mouth closed' (open laughs produced teeth and warped faces).
+- Question shots show only the clue, never the answer.

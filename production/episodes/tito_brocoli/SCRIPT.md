@@ -56,3 +56,8 @@ See production/dossiers/tito_brocoli.md.
 
 ## Changes 21.10 04:20
 - `song_seconds: 32`; the twist (giant in the broccoli forest) lands at ~6–9 s. Watermelon held ABOVE the head (objects in front of the face merge with it).
+
+## Update 21.10 22:10 — face rules (researcher QC review)
+- Close-up/medium motions end with: "Both eyes stay open and calm with the same gentle expression the whole time." (one-frame blinks/winks looked like popping eyes in ep2).
+- 'laughing / big grin' → 'smiling sweetly with his mouth closed' (open laughs produced teeth and warped faces).
+- Question shots show only the clue, never the answer.
