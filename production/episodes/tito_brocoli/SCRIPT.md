@@ -61,3 +61,7 @@ See production/dossiers/tito_brocoli.md.
 - Close-up/medium motions end with: "Both eyes stay open and calm with the same gentle expression the whole time." (one-frame blinks/winks looked like popping eyes in ep2).
 - 'laughing / big grin' → 'smiling sweetly with his mouth closed' (open laughs produced teeth and warped faces).
 - Question shots show only the clue, never the answer.
+
+## Update 21.10 23:40 — objects held by hand OR trunk, eating in two shots (Roy: hand fused to trunk, plate disappearing)
+- B4: broccoli tree in both hands, trunk curled away; the bite happens between B4 and B5 (no shrinking object in a shot).
+- B5/B6/B7: floret / plate / watermelon handled by hands only, trunk away.
