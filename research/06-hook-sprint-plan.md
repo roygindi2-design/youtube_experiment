@@ -97,3 +97,9 @@
 
 ## +3h — Rojito ciudad (8nOHHIv1pCM) — 21.10 08:16 UTC
 - ראה שורת הצפיות ב-snapshot 08:16. (תסריט ראשון של סוכן החוקר, מבנה NuNu.)
+
+## +3h — spaghetti (l5anda4GTTI) — 21.10 10:15 UTC
+- spaghetti: 0. **colors (0WpO8lYXsEU) got its first view** after ~11.5h → the public counter does update; the new videos are simply getting almost no exposure.
+- The old ones are flat (bath 16, handwashing 13, tower 10).
+- Analytics API (days 15–21): returns no rows — probably a 48h lag for a small channel.
+- **Working hypothesis:** this is not a counter problem. The new videos are barely being offered in the feed. Possible causes: (1) 6 uploads in ~9 hours on a channel with no audience = the algorithm tests each one with a tiny group; (2) the new series (Rojito) has no viewing history; (3) Made for Kids limits Shorts discovery for new channels.
