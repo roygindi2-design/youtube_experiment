@@ -1,0 +1,154 @@
+[
+ {
+  "id": "tito_frio_calor_loc_nieve_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A snowy hill on a bright winter day outdoors, vertical 9:16 composition, camera at child eye level: soft deep white snow, round snowy pine trees, a small friendly snowman with a carrot nose and a red scarf, gentle snowflakes falling, a pale ice-blue sky. Nobody is on the hill."
+ },
+ {
+  "id": "tito_frio_calor_loc_nieve_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A snowy hill on a bright winter day outdoors, vertical 9:16 composition, camera at child eye level: soft deep white snow, round snowy pine trees, a small friendly snowman with a carrot nose and a red scarf, gentle snowflakes falling, a pale ice-blue sky. Nobody is on the hill."
+ },
+ {
+  "id": "tito_frio_calor_loc_sabana_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A hot sunny savanna outdoors, vertical 9:16 composition, camera at child eye level: golden dry grass, one wide flat-topped acacia tree giving a round patch of shade, a small sparkling blue watering hole, a big bright yellow sun in a clear orange-blue sky, soft heat shimmer. Nobody is in the savanna."
+ },
+ {
+  "id": "tito_frio_calor_loc_sabana_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A hot sunny savanna outdoors, vertical 9:16 composition, camera at child eye level: golden dry grass, one wide flat-topped acacia tree giving a round patch of shade, a small sparkling blue watering hole, a big bright yellow sun in a clear orange-blue sky, soft heat shimmer. Nobody is in the savanna."
+ },
+ {
+  "id": "tito_frio_calor_song_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Brrr! ¡Tito está congelado!\n[Verse]\n¡Achú! ¡Qué frío, qué frío!\n¡Gorro, bufanda y chamarra!\n¡Ahora sí, calientito!\n¡Uf! ¿Chamarra en el sol?\n[Chorus]\n¡Qué calor, qué calor!\n¡Agua y sombrero! ¡Splash!\n[Outro]\n¿Frío o calor? ¡Ya sé!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_frio_calor_song_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Brrr! ¡Tito está congelado!\n[Verse]\n¡Achú! ¡Qué frío, qué frío!\n¡Gorro, bufanda y chamarra!\n¡Ahora sí, calientito!\n¡Uf! ¿Chamarra en el sol?\n[Chorus]\n¡Qué calor, qué calor!\n¡Agua y sombrero! ¡Splash!\n[Outro]\n¿Frío o calor? ¡Ya sé!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_frio_calor_song_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Brrr! ¡Tito está congelado!\n[Verse]\n¡Achú! ¡Qué frío, qué frío!\n¡Gorro, bufanda y chamarra!\n¡Ahora sí, calientito!\n¡Uf! ¿Chamarra en el sol?\n[Chorus]\n¡Qué calor, qué calor!\n¡Agua y sombrero! ¡Splash!\n[Outro]\n¿Frío o calor? ¡Ya sé!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_frio_calor_song_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Brrr! ¡Tito está congelado!\n[Verse]\n¡Achú! ¡Qué frío, qué frío!\n¡Gorro, bufanda y chamarra!\n¡Ahora sí, calientito!\n¡Uf! ¿Chamarra en el sol?\n[Chorus]\n¡Qué calor, qué calor!\n¡Agua y sombrero! ¡Splash!\n[Outro]\n¿Frío o calor? ¡Ya sé!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_frio_calor_song_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Brrr! ¡Tito está congelado!\n[Verse]\n¡Achú! ¡Qué frío, qué frío!\n¡Gorro, bufanda y chamarra!\n¡Ahora sí, calientito!\n¡Uf! ¿Chamarra en el sol?\n[Chorus]\n¡Qué calor, qué calor!\n¡Agua y sombrero! ¡Splash!\n[Outro]\n¿Frío o calor? ¡Ya sé!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_frio_calor_song_s6",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Brrr! ¡Tito está congelado!\n[Verse]\n¡Achú! ¡Qué frío, qué frío!\n¡Gorro, bufanda y chamarra!\n¡Ahora sí, calientito!\n¡Uf! ¿Chamarra en el sol?\n[Chorus]\n¡Qué calor, qué calor!\n¡Agua y sombrero! ¡Splash!\n[Outro]\n¿Frío o calor? ¡Ya sé!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 6,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_frio_calor_song_s7",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Brrr! ¡Tito está congelado!\n[Verse]\n¡Achú! ¡Qué frío, qué frío!\n¡Gorro, bufanda y chamarra!\n¡Ahora sí, calientito!\n¡Uf! ¿Chamarra en el sol?\n[Chorus]\n¡Qué calor, qué calor!\n¡Agua y sombrero! ¡Splash!\n[Outro]\n¿Frío o calor? ¡Ya sé!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 7,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_frio_calor_song_s8",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Brrr! ¡Tito está congelado!\n[Verse]\n¡Achú! ¡Qué frío, qué frío!\n¡Gorro, bufanda y chamarra!\n¡Ahora sí, calientito!\n¡Uf! ¿Chamarra en el sol?\n[Chorus]\n¡Qué calor, qué calor!\n¡Agua y sombrero! ¡Splash!\n[Outro]\n¿Frío o calor? ¡Ya sé!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 8,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ }
+]

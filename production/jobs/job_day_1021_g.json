@@ -1,0 +1,638 @@
+[
+ {
+  "id": "tito_dormir_D1_kfR",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 3101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle from the foot of the small wooden bed looking up at the navy-blue bedroom wall at night: a HUGE soft dark-purple shadow with a very long neck, a round head and two small round horns covers most of the wall above the bed, stretching up to the ceiling between the little golden painted stars; the baby elephant is tiny in the bottom corner of the picture, peeking over the edge of his blanket with yellow stars, only his big eyes and the tips of his ears showing, looking up at the giant shadow; a warm amber night-light glows low on the shelf. The baby elephant from the first reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: A cozy child's bedroom at night, navy-blue walls with small painted golden stars, a small wooden bed with a soft blanket covered in yellow stars and a round pillow, a little wooden shelf with a soft yellow plush giraffe toy, a round window showing a big friendly glowing moon, a small warm night-light glowing amber on the shelf, soft blue moonlight and warm amber light. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_dormir_D1_kfR202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 3202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle from the foot of the small wooden bed looking up at the navy-blue bedroom wall at night: a HUGE soft dark-purple shadow with a very long neck, a round head and two small round horns covers most of the wall above the bed, stretching up to the ceiling between the little golden painted stars; the baby elephant is tiny in the bottom corner of the picture, peeking over the edge of his blanket with yellow stars, only his big eyes and the tips of his ears showing, looking up at the giant shadow; a warm amber night-light glows low on the shelf. The baby elephant from the first reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: A cozy child's bedroom at night, navy-blue walls with small painted golden stars, a small wooden bed with a soft blanket covered in yellow stars and a round pillow, a little wooden shelf with a soft yellow plush giraffe toy, a round window showing a big friendly glowing moon, a small warm night-light glowing amber on the shelf, soft blue moonlight and warm amber light. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_arena_loc_playa_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny beach outdoors, vertical 9:16 composition, camera low at toy level: soft smooth golden sand with one huge round sand mound in the middle, gentle turquoise waves with white foam, two leaning palm trees, a small red-and-white striped lighthouse far away, a wide open blue sky with white clouds. No vehicles on the beach."
+ },
+ {
+  "id": "rojito_arena_loc_playa_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny beach outdoors, vertical 9:16 composition, camera low at toy level: soft smooth golden sand with one huge round sand mound in the middle, gentle turquoise waves with white foam, two leaning palm trees, a small red-and-white striped lighthouse far away, a wide open blue sky with white clouds. No vehicles on the beach."
+ },
+ {
+  "id": "rojito_arena_loc_orilla_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The wet shoreline of a sunny beach outdoors, vertical 9:16 composition, camera low at toy level: shiny wet golden sand, small turquoise waves rolling in with white foam, little shells, a wide open blue sky. No vehicles on the shore."
+ },
+ {
+  "id": "rojito_arena_loc_orilla_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The wet shoreline of a sunny beach outdoors, vertical 9:16 composition, camera low at toy level: shiny wet golden sand, small turquoise waves rolling in with white foam, little shells, a wide open blue sky. No vehicles on the shore."
+ },
+ {
+  "id": "rojito_arena_song_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Dos ojitos en la arena!\n[Verse]\n¿De quién son? ¡Nii-noo!\n¡Splash! ¡Agua, fuera arena!\n¿Una patita? ¡Sí, sí!\n¿Una colita? ¡Sí, sí!\n[Chorus]\n¡Es una tortuga! ¡Hola, hola!\n¡Al mar, tortuga! ¡Adiós!\n[Outro]\n¿Y ahora quién? ¡Uy!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_arena_song_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Dos ojitos en la arena!\n[Verse]\n¿De quién son? ¡Nii-noo!\n¡Splash! ¡Agua, fuera arena!\n¿Una patita? ¡Sí, sí!\n¿Una colita? ¡Sí, sí!\n[Chorus]\n¡Es una tortuga! ¡Hola, hola!\n¡Al mar, tortuga! ¡Adiós!\n[Outro]\n¿Y ahora quién? ¡Uy!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_arena_song_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Dos ojitos en la arena!\n[Verse]\n¿De quién son? ¡Nii-noo!\n¡Splash! ¡Agua, fuera arena!\n¿Una patita? ¡Sí, sí!\n¿Una colita? ¡Sí, sí!\n[Chorus]\n¡Es una tortuga! ¡Hola, hola!\n¡Al mar, tortuga! ¡Adiós!\n[Outro]\n¿Y ahora quién? ¡Uy!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_arena_song_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Dos ojitos en la arena!\n[Verse]\n¿De quién son? ¡Nii-noo!\n¡Splash! ¡Agua, fuera arena!\n¿Una patita? ¡Sí, sí!\n¿Una colita? ¡Sí, sí!\n[Chorus]\n¡Es una tortuga! ¡Hola, hola!\n¡Al mar, tortuga! ¡Adiós!\n[Outro]\n¿Y ahora quién? ¡Uy!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_arena_song_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Dos ojitos en la arena!\n[Verse]\n¿De quién son? ¡Nii-noo!\n¡Splash! ¡Agua, fuera arena!\n¿Una patita? ¡Sí, sí!\n¿Una colita? ¡Sí, sí!\n[Chorus]\n¡Es una tortuga! ¡Hola, hola!\n¡Al mar, tortuga! ¡Adiós!\n[Outro]\n¿Y ahora quién? ¡Uy!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_arena_song_s6",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Dos ojitos en la arena!\n[Verse]\n¿De quién son? ¡Nii-noo!\n¡Splash! ¡Agua, fuera arena!\n¿Una patita? ¡Sí, sí!\n¿Una colita? ¡Sí, sí!\n[Chorus]\n¡Es una tortuga! ¡Hola, hola!\n¡Al mar, tortuga! ¡Adiós!\n[Outro]\n¿Y ahora quién? ¡Uy!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 6,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_arena_song_s7",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Dos ojitos en la arena!\n[Verse]\n¿De quién son? ¡Nii-noo!\n¡Splash! ¡Agua, fuera arena!\n¿Una patita? ¡Sí, sí!\n¿Una colita? ¡Sí, sí!\n[Chorus]\n¡Es una tortuga! ¡Hola, hola!\n¡Al mar, tortuga! ¡Adiós!\n[Outro]\n¿Y ahora quién? ¡Uy!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 7,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_arena_song_s8",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Dos ojitos en la arena!\n[Verse]\n¿De quién son? ¡Nii-noo!\n¡Splash! ¡Agua, fuera arena!\n¿Una patita? ¡Sí, sí!\n¿Una colita? ¡Sí, sí!\n[Chorus]\n¡Es una tortuga! ¡Hola, hola!\n¡Al mar, tortuga! ¡Adiós!\n[Outro]\n¿Y ahora quién? ¡Uy!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 8,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_brocoli_loc_picnic_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny jungle clearing outdoors, vertical 9:16 composition, camera at child eye level: a soft blue-and-white checkered picnic blanket on green grass, a little wooden basket, big glossy tropical leaves, bright orange jungle flowers, a small sparkling waterfall in the background, warm sunlight through the leaves. Nobody is in the clearing."
+ },
+ {
+  "id": "tito_brocoli_loc_picnic_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny jungle clearing outdoors, vertical 9:16 composition, camera at child eye level: a soft blue-and-white checkered picnic blanket on green grass, a little wooden basket, big glossy tropical leaves, bright orange jungle flowers, a small sparkling waterfall in the background, warm sunlight through the leaves. Nobody is in the clearing."
+ },
+ {
+  "id": "tito_brocoli_loc_bosque_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A playful pretend forest outdoors, vertical 9:16 composition, camera at child eye level: a forest of giant broccoli trees with thick pale-green stalks and round fluffy dark-green tops, soft green grass, a few giant orange carrot plants, a bright blue sky with white clouds. Nobody is in the forest."
+ },
+ {
+  "id": "tito_brocoli_loc_bosque_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A playful pretend forest outdoors, vertical 9:16 composition, camera at child eye level: a forest of giant broccoli trees with thick pale-green stalks and round fluffy dark-green tops, soft green grass, a few giant orange carrot plants, a bright blue sky with white clouds. Nobody is in the forest."
+ },
+ {
+  "id": "tito_brocoli_song_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡No, no, no! ¡Brócoli no!\n[Verse]\nMamá dice: ¡son arbolitos!\n¡Y Tito es un gigante!\n¡Ñam! ¡Un arbolito!\n¡Crunch, crunch! ¡Qué rico!\n[Chorus]\n¡Más arbolitos, por favor!\n¡Fuerte, fuerte como un elefante!\n[Outro]\n¿Y zanahorias? ¡Uy!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_brocoli_song_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡No, no, no! ¡Brócoli no!\n[Verse]\nMamá dice: ¡son arbolitos!\n¡Y Tito es un gigante!\n¡Ñam! ¡Un arbolito!\n¡Crunch, crunch! ¡Qué rico!\n[Chorus]\n¡Más arbolitos, por favor!\n¡Fuerte, fuerte como un elefante!\n[Outro]\n¿Y zanahorias? ¡Uy!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_brocoli_song_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡No, no, no! ¡Brócoli no!\n[Verse]\nMamá dice: ¡son arbolitos!\n¡Y Tito es un gigante!\n¡Ñam! ¡Un arbolito!\n¡Crunch, crunch! ¡Qué rico!\n[Chorus]\n¡Más arbolitos, por favor!\n¡Fuerte, fuerte como un elefante!\n[Outro]\n¿Y zanahorias? ¡Uy!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_brocoli_song_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡No, no, no! ¡Brócoli no!\n[Verse]\nMamá dice: ¡son arbolitos!\n¡Y Tito es un gigante!\n¡Ñam! ¡Un arbolito!\n¡Crunch, crunch! ¡Qué rico!\n[Chorus]\n¡Más arbolitos, por favor!\n¡Fuerte, fuerte como un elefante!\n[Outro]\n¿Y zanahorias? ¡Uy!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_brocoli_song_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡No, no, no! ¡Brócoli no!\n[Verse]\nMamá dice: ¡son arbolitos!\n¡Y Tito es un gigante!\n¡Ñam! ¡Un arbolito!\n¡Crunch, crunch! ¡Qué rico!\n[Chorus]\n¡Más arbolitos, por favor!\n¡Fuerte, fuerte como un elefante!\n[Outro]\n¿Y zanahorias? ¡Uy!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_brocoli_song_s6",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡No, no, no! ¡Brócoli no!\n[Verse]\nMamá dice: ¡son arbolitos!\n¡Y Tito es un gigante!\n¡Ñam! ¡Un arbolito!\n¡Crunch, crunch! ¡Qué rico!\n[Chorus]\n¡Más arbolitos, por favor!\n¡Fuerte, fuerte como un elefante!\n[Outro]\n¿Y zanahorias? ¡Uy!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 6,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_brocoli_song_s7",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡No, no, no! ¡Brócoli no!\n[Verse]\nMamá dice: ¡son arbolitos!\n¡Y Tito es un gigante!\n¡Ñam! ¡Un arbolito!\n¡Crunch, crunch! ¡Qué rico!\n[Chorus]\n¡Más arbolitos, por favor!\n¡Fuerte, fuerte como un elefante!\n[Outro]\n¿Y zanahorias? ¡Uy!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 7,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_brocoli_song_s8",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡No, no, no! ¡Brócoli no!\n[Verse]\nMamá dice: ¡son arbolitos!\n¡Y Tito es un gigante!\n¡Ñam! ¡Un arbolito!\n¡Crunch, crunch! ¡Qué rico!\n[Chorus]\n¡Más arbolitos, por favor!\n¡Fuerte, fuerte como un elefante!\n[Outro]\n¿Y zanahorias? ¡Uy!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 8,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_paraguas_loc_lluvia_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A park on a rainy day outdoors, vertical 9:16 composition, camera at child eye level: a curving light-grey path with shiny puddles reflecting the sky, colorful flower beds with red and yellow tulips, a green wooden bench, soft round trees, gentle rain falling in thin silver lines from a soft grey-blue sky. Nobody is in the park."
+ },
+ {
+  "id": "tito_paraguas_loc_lluvia_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A park on a rainy day outdoors, vertical 9:16 composition, camera at child eye level: a curving light-grey path with shiny puddles reflecting the sky, colorful flower beds with red and yellow tulips, a green wooden bench, soft round trees, gentle rain falling in thin silver lines from a soft grey-blue sky. Nobody is in the park."
+ },
+ {
+  "id": "tito_paraguas_loc_arcoiris_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The same park after the rain outdoors, vertical 9:16 composition, camera at child eye level: a curving path with shiny puddles, wet sparkling grass and tulips, a big bright rainbow arching across a clearing blue sky, soft white clouds, warm sunshine. Nobody is in the park."
+ },
+ {
+  "id": "tito_paraguas_loc_arcoiris_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The same park after the rain outdoors, vertical 9:16 composition, camera at child eye level: a curving path with shiny puddles, wet sparkling grass and tulips, a big bright rainbow arching across a clearing blue sky, soft white clouds, warm sunshine. Nobody is in the park."
+ },
+ {
+  "id": "tito_paraguas_song_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Plic, plic! ¡Está lloviendo!\n[Verse]\n¡Mi paraguas amarillo!\n¡Ay, ay! El conejito se moja.\n¿Compartimos? ¡Ven aquí!\n¡Y mis orejas, otro paraguas!\n[Chorus]\n¡Sale el sol! ¡Un arcoíris!\n¡Splash, splash! ¡En el charco!\n[Outro]\n¡Compartir es más bonito!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_paraguas_song_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Plic, plic! ¡Está lloviendo!\n[Verse]\n¡Mi paraguas amarillo!\n¡Ay, ay! El conejito se moja.\n¿Compartimos? ¡Ven aquí!\n¡Y mis orejas, otro paraguas!\n[Chorus]\n¡Sale el sol! ¡Un arcoíris!\n¡Splash, splash! ¡En el charco!\n[Outro]\n¡Compartir es más bonito!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_paraguas_song_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Plic, plic! ¡Está lloviendo!\n[Verse]\n¡Mi paraguas amarillo!\n¡Ay, ay! El conejito se moja.\n¿Compartimos? ¡Ven aquí!\n¡Y mis orejas, otro paraguas!\n[Chorus]\n¡Sale el sol! ¡Un arcoíris!\n¡Splash, splash! ¡En el charco!\n[Outro]\n¡Compartir es más bonito!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_paraguas_song_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Plic, plic! ¡Está lloviendo!\n[Verse]\n¡Mi paraguas amarillo!\n¡Ay, ay! El conejito se moja.\n¿Compartimos? ¡Ven aquí!\n¡Y mis orejas, otro paraguas!\n[Chorus]\n¡Sale el sol! ¡Un arcoíris!\n¡Splash, splash! ¡En el charco!\n[Outro]\n¡Compartir es más bonito!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_paraguas_song_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Plic, plic! ¡Está lloviendo!\n[Verse]\n¡Mi paraguas amarillo!\n¡Ay, ay! El conejito se moja.\n¿Compartimos? ¡Ven aquí!\n¡Y mis orejas, otro paraguas!\n[Chorus]\n¡Sale el sol! ¡Un arcoíris!\n¡Splash, splash! ¡En el charco!\n[Outro]\n¡Compartir es más bonito!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_paraguas_song_s6",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Plic, plic! ¡Está lloviendo!\n[Verse]\n¡Mi paraguas amarillo!\n¡Ay, ay! El conejito se moja.\n¿Compartimos? ¡Ven aquí!\n¡Y mis orejas, otro paraguas!\n[Chorus]\n¡Sale el sol! ¡Un arcoíris!\n¡Splash, splash! ¡En el charco!\n[Outro]\n¡Compartir es más bonito!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 6,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_paraguas_song_s7",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Plic, plic! ¡Está lloviendo!\n[Verse]\n¡Mi paraguas amarillo!\n¡Ay, ay! El conejito se moja.\n¿Compartimos? ¡Ven aquí!\n¡Y mis orejas, otro paraguas!\n[Chorus]\n¡Sale el sol! ¡Un arcoíris!\n¡Splash, splash! ¡En el charco!\n[Outro]\n¡Compartir es más bonito!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 7,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_paraguas_song_s8",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Plic, plic! ¡Está lloviendo!\n[Verse]\n¡Mi paraguas amarillo!\n¡Ay, ay! El conejito se moja.\n¿Compartimos? ¡Ven aquí!\n¡Y mis orejas, otro paraguas!\n[Chorus]\n¡Sale el sol! ¡Un arcoíris!\n¡Splash, splash! ¡En el charco!\n[Outro]\n¡Compartir es más bonito!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 8,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_frio_calor_loc_nieve_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A snowy hill on a bright winter day outdoors, vertical 9:16 composition, camera at child eye level: soft deep white snow, round snowy pine trees, a small friendly snowman with a carrot nose and a red scarf, gentle snowflakes falling, a pale ice-blue sky. Nobody is on the hill."
+ },
+ {
+  "id": "tito_frio_calor_loc_nieve_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A snowy hill on a bright winter day outdoors, vertical 9:16 composition, camera at child eye level: soft deep white snow, round snowy pine trees, a small friendly snowman with a carrot nose and a red scarf, gentle snowflakes falling, a pale ice-blue sky. Nobody is on the hill."
+ },
+ {
+  "id": "tito_frio_calor_loc_sabana_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A hot sunny savanna outdoors, vertical 9:16 composition, camera at child eye level: golden dry grass, one wide flat-topped acacia tree giving a round patch of shade, a small sparkling blue watering hole, a big bright yellow sun in a clear orange-blue sky, soft heat shimmer. Nobody is in the savanna."
+ },
+ {
+  "id": "tito_frio_calor_loc_sabana_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A hot sunny savanna outdoors, vertical 9:16 composition, camera at child eye level: golden dry grass, one wide flat-topped acacia tree giving a round patch of shade, a small sparkling blue watering hole, a big bright yellow sun in a clear orange-blue sky, soft heat shimmer. Nobody is in the savanna."
+ },
+ {
+  "id": "tito_frio_calor_song_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Brrr! ¡Tito está congelado!\n[Verse]\n¡Achú! ¡Qué frío, qué frío!\n¡Gorro, bufanda y chamarra!\n¡Ahora sí, calientito!\n¡Uf! ¿Chamarra en el sol?\n[Chorus]\n¡Qué calor, qué calor!\n¡Agua y sombrero! ¡Splash!\n[Outro]\n¿Frío o calor? ¡Ya sé!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_frio_calor_song_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Brrr! ¡Tito está congelado!\n[Verse]\n¡Achú! ¡Qué frío, qué frío!\n¡Gorro, bufanda y chamarra!\n¡Ahora sí, calientito!\n¡Uf! ¿Chamarra en el sol?\n[Chorus]\n¡Qué calor, qué calor!\n¡Agua y sombrero! ¡Splash!\n[Outro]\n¿Frío o calor? ¡Ya sé!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_frio_calor_song_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Brrr! ¡Tito está congelado!\n[Verse]\n¡Achú! ¡Qué frío, qué frío!\n¡Gorro, bufanda y chamarra!\n¡Ahora sí, calientito!\n¡Uf! ¿Chamarra en el sol?\n[Chorus]\n¡Qué calor, qué calor!\n¡Agua y sombrero! ¡Splash!\n[Outro]\n¿Frío o calor? ¡Ya sé!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_frio_calor_song_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Brrr! ¡Tito está congelado!\n[Verse]\n¡Achú! ¡Qué frío, qué frío!\n¡Gorro, bufanda y chamarra!\n¡Ahora sí, calientito!\n¡Uf! ¿Chamarra en el sol?\n[Chorus]\n¡Qué calor, qué calor!\n¡Agua y sombrero! ¡Splash!\n[Outro]\n¿Frío o calor? ¡Ya sé!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_frio_calor_song_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Brrr! ¡Tito está congelado!\n[Verse]\n¡Achú! ¡Qué frío, qué frío!\n¡Gorro, bufanda y chamarra!\n¡Ahora sí, calientito!\n¡Uf! ¿Chamarra en el sol?\n[Chorus]\n¡Qué calor, qué calor!\n¡Agua y sombrero! ¡Splash!\n[Outro]\n¿Frío o calor? ¡Ya sé!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_frio_calor_song_s6",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Brrr! ¡Tito está congelado!\n[Verse]\n¡Achú! ¡Qué frío, qué frío!\n¡Gorro, bufanda y chamarra!\n¡Ahora sí, calientito!\n¡Uf! ¿Chamarra en el sol?\n[Chorus]\n¡Qué calor, qué calor!\n¡Agua y sombrero! ¡Splash!\n[Outro]\n¿Frío o calor? ¡Ya sé!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 6,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_frio_calor_song_s7",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Brrr! ¡Tito está congelado!\n[Verse]\n¡Achú! ¡Qué frío, qué frío!\n¡Gorro, bufanda y chamarra!\n¡Ahora sí, calientito!\n¡Uf! ¿Chamarra en el sol?\n[Chorus]\n¡Qué calor, qué calor!\n¡Agua y sombrero! ¡Splash!\n[Outro]\n¿Frío o calor? ¡Ya sé!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 7,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_frio_calor_song_s8",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Brrr! ¡Tito está congelado!\n[Verse]\n¡Achú! ¡Qué frío, qué frío!\n¡Gorro, bufanda y chamarra!\n¡Ahora sí, calientito!\n¡Uf! ¿Chamarra en el sol?\n[Chorus]\n¡Qué calor, qué calor!\n¡Agua y sombrero! ¡Splash!\n[Outro]\n¿Frío o calor? ¡Ya sé!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 8,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ }
+]

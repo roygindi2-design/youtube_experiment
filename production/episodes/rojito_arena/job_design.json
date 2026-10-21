@@ -1,0 +1,154 @@
+[
+ {
+  "id": "rojito_arena_loc_playa_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny beach outdoors, vertical 9:16 composition, camera low at toy level: soft smooth golden sand with one huge round sand mound in the middle, gentle turquoise waves with white foam, two leaning palm trees, a small red-and-white striped lighthouse far away, a wide open blue sky with white clouds. No vehicles on the beach."
+ },
+ {
+  "id": "rojito_arena_loc_playa_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny beach outdoors, vertical 9:16 composition, camera low at toy level: soft smooth golden sand with one huge round sand mound in the middle, gentle turquoise waves with white foam, two leaning palm trees, a small red-and-white striped lighthouse far away, a wide open blue sky with white clouds. No vehicles on the beach."
+ },
+ {
+  "id": "rojito_arena_loc_orilla_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The wet shoreline of a sunny beach outdoors, vertical 9:16 composition, camera low at toy level: shiny wet golden sand, small turquoise waves rolling in with white foam, little shells, a wide open blue sky. No vehicles on the shore."
+ },
+ {
+  "id": "rojito_arena_loc_orilla_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The wet shoreline of a sunny beach outdoors, vertical 9:16 composition, camera low at toy level: shiny wet golden sand, small turquoise waves rolling in with white foam, little shells, a wide open blue sky. No vehicles on the shore."
+ },
+ {
+  "id": "rojito_arena_song_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Dos ojitos en la arena!\n[Verse]\n¿De quién son? ¡Nii-noo!\n¡Splash! ¡Agua, fuera arena!\n¿Una patita? ¡Sí, sí!\n¿Una colita? ¡Sí, sí!\n[Chorus]\n¡Es una tortuga! ¡Hola, hola!\n¡Al mar, tortuga! ¡Adiós!\n[Outro]\n¿Y ahora quién? ¡Uy!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_arena_song_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Dos ojitos en la arena!\n[Verse]\n¿De quién son? ¡Nii-noo!\n¡Splash! ¡Agua, fuera arena!\n¿Una patita? ¡Sí, sí!\n¿Una colita? ¡Sí, sí!\n[Chorus]\n¡Es una tortuga! ¡Hola, hola!\n¡Al mar, tortuga! ¡Adiós!\n[Outro]\n¿Y ahora quién? ¡Uy!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_arena_song_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Dos ojitos en la arena!\n[Verse]\n¿De quién son? ¡Nii-noo!\n¡Splash! ¡Agua, fuera arena!\n¿Una patita? ¡Sí, sí!\n¿Una colita? ¡Sí, sí!\n[Chorus]\n¡Es una tortuga! ¡Hola, hola!\n¡Al mar, tortuga! ¡Adiós!\n[Outro]\n¿Y ahora quién? ¡Uy!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_arena_song_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Dos ojitos en la arena!\n[Verse]\n¿De quién son? ¡Nii-noo!\n¡Splash! ¡Agua, fuera arena!\n¿Una patita? ¡Sí, sí!\n¿Una colita? ¡Sí, sí!\n[Chorus]\n¡Es una tortuga! ¡Hola, hola!\n¡Al mar, tortuga! ¡Adiós!\n[Outro]\n¿Y ahora quién? ¡Uy!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_arena_song_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Dos ojitos en la arena!\n[Verse]\n¿De quién son? ¡Nii-noo!\n¡Splash! ¡Agua, fuera arena!\n¿Una patita? ¡Sí, sí!\n¿Una colita? ¡Sí, sí!\n[Chorus]\n¡Es una tortuga! ¡Hola, hola!\n¡Al mar, tortuga! ¡Adiós!\n[Outro]\n¿Y ahora quién? ¡Uy!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_arena_song_s6",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Dos ojitos en la arena!\n[Verse]\n¿De quién son? ¡Nii-noo!\n¡Splash! ¡Agua, fuera arena!\n¿Una patita? ¡Sí, sí!\n¿Una colita? ¡Sí, sí!\n[Chorus]\n¡Es una tortuga! ¡Hola, hola!\n¡Al mar, tortuga! ¡Adiós!\n[Outro]\n¿Y ahora quién? ¡Uy!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 6,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_arena_song_s7",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Dos ojitos en la arena!\n[Verse]\n¿De quién son? ¡Nii-noo!\n¡Splash! ¡Agua, fuera arena!\n¿Una patita? ¡Sí, sí!\n¿Una colita? ¡Sí, sí!\n[Chorus]\n¡Es una tortuga! ¡Hola, hola!\n¡Al mar, tortuga! ¡Adiós!\n[Outro]\n¿Y ahora quién? ¡Uy!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 7,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_arena_song_s8",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¡Dos ojitos en la arena!\n[Verse]\n¿De quién son? ¡Nii-noo!\n¡Splash! ¡Agua, fuera arena!\n¿Una patita? ¡Sí, sí!\n¿Una colita? ¡Sí, sí!\n[Chorus]\n¡Es una tortuga! ¡Hola, hola!\n¡Al mar, tortuga! ¡Adiós!\n[Outro]\n¿Y ahora quién? ¡Uy!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 32,
+  "seed": 8,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ }
+]

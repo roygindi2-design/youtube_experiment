@@ -3,25 +3,25 @@
  "items": [
   {
    "id": "rojito_arena",
-   "status": "script_ready",
+   "status": "in_production",
    "owner": "research",
    "note": "mystery: eyes blinking in a sand mound, Rojito washes it clue by clue -> sea turtle. Beach. Diente Gigante +3.9M, Huella Mágica x1150. One vehicle per frame only. | revised 04:20: song_seconds 32 + IP check (arena turtle peach-orange, not Crush-green; paraguas chick -> bunny, not Pollito Pío)."
   },
   {
    "id": "tito_brocoli",
-   "status": "script_ready",
+   "status": "in_production",
    "owner": "research",
    "note": "refusal -> 'they are little trees' -> Tito a giant in a broccoli forest (pretend location). Jungle picnic. preflight OK. | revised 04:20: song_seconds 32 + IP check (arena turtle peach-orange, not Crush-green; paraguas chick -> bunny, not Pollito Pío)."
   },
   {
    "id": "tito_paraguas",
-   "status": "script_ready",
+   "status": "in_production",
    "owner": "research",
    "note": "sharing in the rain: Tito's ears become a second umbrella for a wet chick; rain -> rainbow. preflight OK. | revised 04:20: song_seconds 32 + IP check (arena turtle peach-orange, not Crush-green; paraguas chick -> bunny, not Pollito Pío)."
   },
   {
    "id": "tito_frio_calor",
-   "status": "script_ready",
+   "status": "in_production",
    "owner": "research",
    "note": "Cold VS Hot: frozen (frost, icicle) in the snow without a jacket -> Mamá dresses him -> overheats in the sun in the jacket -> trunk shower. Yes! Neo 43.5M x143. song_seconds 32. preflight OK."
   },
@@ -34,7 +34,7 @@
   },
   {
    "id": "tito_dormir",
-   "status": "script_revised",
+   "status": "in_production",
    "owner": "research",
    "note": "D1 hook frame shows no scary shadow — see production/feedback/tito_dormir.md (only D1) | 06:20 D1 rewritten: low angle (no location ref), HUGE dark-purple long-neck shadow as the subject, Tito tiny in the corner. Only D1 needs a new keyframe."
   },
