@@ -2,6 +2,14 @@
  "_doc": "Shared work queue. Research agent (scriptwriter) owns status 'researching'/'script_ready'/'script_revised'. Producer agent owns 'in_production'/'qc'/'published'/'needs_rewrite'. Each agent only edits its own statuses. Producer feedback: production/feedback/<id>.md.",
  "items": [
   {
+   "id": "tito_ep4_halloween",
+   "status": "script_ready",
+   "owner": "research",
+   "priority": 1,
+   "deadline": "2026-10-27 (episode upload), Shorts 28–30.10",
+   "note": "TIME-CRITICAL Halloween long episode (Roy loves the seasonal focus). 'Toc, toc, ¿quién es?' x3 doors (kitten, bat, mouse with empty bucket -> Tito shares). 18 unique shots, all used. See SCRIPT.md. preflight OK."
+  },
+  {
    "id": "tito_ep3_dormir",
    "status": "script_ready",
    "owner": "research",

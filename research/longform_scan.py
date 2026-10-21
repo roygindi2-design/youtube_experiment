@@ -71,7 +71,7 @@ for v in vids:
     rows.append({"id": v["id"], "title": s["title"], "channel": s["channelTitle"], "lang": s.get("defaultAudioLanguage"),
                  "subs": int(chans.get(s["channelId"], {}).get("statistics", {}).get("subscriberCount", 0) or 0),
                  "views": views, "views_per_day": round(views / age), "age_days": round(age, 1),
-                 "outlier": round(views / m, 1) if m else None, "duration_s": secs(v["contentDetails"]["duration"]),
+                 "outlier": round(views / m, 1) if m else None, "duration_s": secs(v.get("contentDetails", {}).get("duration")),
                  "mfk": v["status"].get("madeForKids"), "chapters": ch, "n_chapters": len(ch),
                  "desc": s.get("description", "")[:600]})
 rows = [r for r in rows if r["views"] >= 20000]

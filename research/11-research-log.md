@@ -202,3 +202,8 @@
 ### 22.10.2026 ~00:30 UTC — מחקר "רגע מסקרן" (בקשת Roy)
 - Bebefinn ES: 19 מתוך 50 העלאות הם Shorts (חציון 2.5 מיליון מול 759 אלף לסרטון ארוך). כל Short הוא קטע של פרק ~3:20, ובתיאור: שאלה + קישור לפרק. Monito, Diana y Roma ו-TimoBoy — בלי Shorts.
 - השיטה שלנו: "פותרים אחד, פותחים את הבא". תוכנית Shorts v2 ל-ep3 נכתבה ב-SCRIPT.md. פירוט: `research/15-teaser-strategy.md`.
+
+### 22.10.2026 ~01:00 UTC — פרק Halloween (Roy: "מאוד אהבתי להתמקד בליל כל הקדושים")
+- סריקה `longform_2026-10-21_halloween`: Wheels on the Halloween Bus 284K/day ×275; Babanana Dulces de Halloween 167K/day ×114; Pinkfong Sombras 141K/day.
+- **tito_ep4_halloween** — "¡Toc, toc! ¿Quién es? 🎃" — 3 דלתות (חתלתול, עטלף, עכבר בלי סוכריות ← טיטו משתף). עדיפות 1, דדליין: פרק עד 27.10. preflight עבר; כל 18 השוטים בשימוש.
+- תוקן באג ב-longform_scan.py (סרטון בלי duration).
