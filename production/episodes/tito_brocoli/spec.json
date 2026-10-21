@@ -1,0 +1,120 @@
+{
+ "id": "tito_brocoli",
+ "series": "tito",
+ "title": "¡Tito no quiere brócoli! 🥦🐘 | #shorts",
+ "world": "jungle picnic: a picnic blanket in a sunny jungle clearing with big tropical leaves, orange flowers and a little waterfall + a pretend forest of giant broccoli trees",
+ "hook": "refusal_face_turned_away",
+ "bpm": 120,
+ "song_takes": 8,
+ "reuse_mama": true,
+ "story": [
+  "Extreme close-up: Tito turns his face away from a broccoli floret, trunk curled, pouting: no, no, no! (refusal in second 0)",
+  "Mamá holds up the broccoli floret next to a real tree behind her: it looks like a little tree (the trick)",
+  "Wide: in pretend play Tito is a GIANT walking through a forest of broccoli trees (twist: imagination)",
+  "Low angle: giant Tito picks a broccoli tree with his trunk and takes a bite, crunch (he tries)",
+  "Back at the picnic: Tito chews with big delighted eyes (he likes it)",
+  "Top-down: Tito's trunk reaches for more broccoli on the plate (more, please)",
+  "Tito lifts a big round watermelon over his head with his trunk, proud and strong (reward + moral)",
+  "Mamá holds up an orange carrot; Tito's eyes go wide (loop gag: what now?)"
+ ],
+ "lyrics": "[Intro]\n¡No, no, no! ¡Brócoli no!\n[Verse]\nMamá dice: ¡son arbolitos!\n¡Y Tito es un gigante!\n¡Ñam! ¡Un arbolito!\n¡Crunch, crunch! ¡Qué rico!\n[Chorus]\n¡Más arbolitos, por favor!\n¡Fuerte, fuerte como un elefante!\n[Outro]\n¿Y zanahorias? ¡Uy!",
+ "locations": {
+  "picnic": "A sunny jungle clearing outdoors, vertical 9:16 composition, camera at child eye level: a soft blue-and-white checkered picnic blanket on green grass, a little wooden basket, big glossy tropical leaves, bright orange jungle flowers, a small sparkling waterfall in the background, warm sunlight through the leaves. Nobody is in the clearing.",
+  "bosque": "A playful pretend forest outdoors, vertical 9:16 composition, camera at child eye level: a forest of giant broccoli trees with thick pale-green stalks and round fluffy dark-green tops, soft green grass, a few giant orange carrot plants, a bright blue sky with white clouds. Nobody is in the forest."
+ },
+ "shots": [
+  [
+   "B1",
+   "Extreme close-up of the baby elephant's face at the jungle picnic: he turns his face away from a small green broccoli floret held near him, his eyes squeezed shut, his trunk curled up tightly, pouting, big tropical leaves blurred behind.",
+   "He turns his head further away from the broccoli and shakes it slowly.",
+   "picnic",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "B2",
+   "Over-the-shoulder view from behind the baby elephant on the picnic blanket: Mamá Elefanta smiling holds up one small broccoli floret in her trunk right next to a real green jungle tree behind her, the floret looking exactly like a tiny tree.",
+   "Mamá lifts the broccoli floret beside the tree and smiles; the baby elephant tilts his head.",
+   "picnic",
+   [
+    "tito",
+    "mama"
+   ],
+   3
+  ],
+  [
+   "B3",
+   "Wide shot of the pretend broccoli forest: the baby elephant now GIANT-sized, as tall as the giant broccoli trees, walks happily between the round fluffy dark-green broccoli treetops, giant orange carrot plants around his feet.",
+   "The giant baby elephant walks slowly between the broccoli trees, happy.",
+   "bosque",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "B4",
+   "Low angle from the grass looking up: the GIANT baby elephant holds one broccoli tree in his trunk and takes a big bite of its round fluffy green top, little green crumbs falling, blue sky behind.",
+   "He takes a big bite of the broccoli treetop and little green crumbs fall.",
+   "bosque",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "B5",
+   "Close-up three-quarter view at the jungle picnic: the baby elephant, normal size again, chews with his mouth closed and his eyes wide open with delight, a small broccoli floret in his trunk, orange flowers blurred behind.",
+   "He chews happily and his eyes grow wide with delight.",
+   "picnic",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "B6",
+   "Top-down view from above the picnic blanket: a white plate with small broccoli florets on the blue-and-white checkered blanket, and the baby elephant's trunk reaching in to take one more floret.",
+   "His trunk reaches in and picks up one more broccoli floret.",
+   "picnic",
+   [
+    "tito"
+   ],
+   2
+  ],
+  [
+   "B7",
+   "Medium shot, side view on the picnic blanket: the baby elephant proudly lifts a big round green watermelon high above his head with his trunk, standing tall and strong, Mamá Elefanta clapping beside him.",
+   "He lifts the watermelon up high and Mamá claps happily.",
+   "picnic",
+   [
+    "tito",
+    "mama"
+   ],
+   2
+  ],
+  [
+   "B8",
+   "Close-up from the front at the picnic: Mamá Elefanta's trunk holds up a bright orange carrot in front of the baby elephant, whose eyes go wide in surprise, his trunk tip curling into a question mark.",
+   "The carrot wiggles in front of him and his eyes go wide.",
+   "picnic",
+   [
+    "tito",
+    "mama"
+   ],
+   2
+  ]
+ ],
+ "style": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. ",
+ "lock": "TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail.",
+ "mama_lock": "MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear.",
+ "director": true,
+ "pattern": "overcome_fear",
+ "opening": "refusal_face_turned_away",
+ "twist": "Mamá's idea 'they are little trees' turns into a pretend world where Tito is a GIANT eating a broccoli forest — the refusal becomes play",
+ "moral": "¡Las verduras te hacen fuerte, fuerte como un elefante!",
+ "experiment": "first pretend/imagination location (a giant in a broccoli forest) — the location change IS the twist; healthy-food refusal topic (Doctora Sophia veggie videos ×29–×209)",
+ "continuity": "sunny daytime in every shot; Tito normal size at the picnic (B1-B2, B5-B8), GIANT only in the broccoli forest (B3-B4); yellow overalls always; checkered blanket in every picnic shot; Mamá in B2, B7, B8; broccoli floret B1-B2, B5-B6; watermelon only B7; carrot only B8"
+}

@@ -1,0 +1,115 @@
+{
+ "id": "tito_paraguas",
+ "series": "tito",
+ "title": "¡Tito comparte su paraguas! ☔🐣 | #shorts",
+ "world": "rainy park: grey-blue rain, shiny puddles, a curving path with colorful flower beds, a green bench + the same park when the sun comes out with a big rainbow",
+ "hook": "first_raindrop_on_trunk",
+ "bpm": 120,
+ "song_takes": 8,
+ "story": [
+  "A big raindrop lands on the tip of Tito's trunk, plic! It starts to rain (second 0)",
+  "Tito opens his bright yellow umbrella and walks proudly through the rainy park",
+  "Under a small leaf, a tiny yellow chick is soaking wet and shivering, pío, pío (someone needs help)",
+  "Tito holds his umbrella over the chick: come here! (he shares)",
+  "The umbrella is small, so Tito spreads his BIG EARS over the chick like a second umbrella (twist: only an elephant)",
+  "The sun comes out and a big rainbow appears over the park (reward)",
+  "Tito and the chick splash together in a shiny puddle, splash! (fun)",
+  "Top-down: both under the yellow umbrella, the chick snuggled at Tito's foot (moral + loop: a new drop falls)"
+ ],
+ "lyrics": "[Intro]\n¡Plic, plic! ¡Está lloviendo!\n[Verse]\n¡Mi paraguas amarillo!\n¡Pío, pío! El pollito se moja.\n¿Compartimos? ¡Ven aquí!\n¡Y mis orejas, otro paraguas!\n[Chorus]\n¡Sale el sol! ¡Un arcoíris!\n¡Splash, splash! ¡En el charco!\n[Outro]\n¡Compartir es más bonito!",
+ "locations": {
+  "lluvia": "A park on a rainy day outdoors, vertical 9:16 composition, camera at child eye level: a curving light-grey path with shiny puddles reflecting the sky, colorful flower beds with red and yellow tulips, a green wooden bench, soft round trees, gentle rain falling in thin silver lines from a soft grey-blue sky. Nobody is in the park.",
+  "arcoiris": "The same park after the rain outdoors, vertical 9:16 composition, camera at child eye level: a curving path with shiny puddles, wet sparkling grass and tulips, a big bright rainbow arching across a clearing blue sky, soft white clouds, warm sunshine. Nobody is in the park."
+ },
+ "shots": [
+  [
+   "U1",
+   "Extreme close-up of the tip of the baby elephant's trunk in the park: one big shiny raindrop lands on it and splashes into tiny droplets, his big eyes looking cross-eyed up at the drop, soft grey-blue rainy sky blurred behind.",
+   "The raindrop splashes on his trunk tip and he looks at it cross-eyed.",
+   "lluvia",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "U2",
+   "Wide shot of the rainy park: the baby elephant walks proudly along the curving path holding a bright yellow umbrella over his head, rain falling in thin silver lines, shiny puddles and tulips around.",
+   "He walks along the path under his yellow umbrella, rain falling around him.",
+   "lluvia",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "U3",
+   "Low side view at ground level by a tulip bed: a tiny fluffy yellow chick is SOAKING WET and shivering under one small green leaf, raindrops dripping off the leaf, the baby elephant's feet and the edge of his yellow umbrella stepping into the picture.",
+   "The wet chick shivers under the leaf and drops drip off the leaf.",
+   "lluvia",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "U4",
+   "Medium shot, front view on the path: the baby elephant crouches and holds his yellow umbrella over the tiny wet chick, the chick looking up at him, rain bouncing off the umbrella.",
+   "He lowers the umbrella over the chick and smiles at it.",
+   "lluvia",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "U5",
+   "Close-up three-quarter view: the baby elephant spreads his BIG round ears wide like a second umbrella over the tiny chick snuggled against his chest, raindrops rolling off his ears, the chick dry, fluffy and smiling.",
+   "He spreads his big ears wide and raindrops roll off them, the chick snuggles in.",
+   "lluvia",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "U6",
+   "View from behind the baby elephant and the tiny chick on the path: the rain has stopped, the sun comes out and a big bright rainbow arches across the clearing blue sky over the park.",
+   "Sunbeams spread and the rainbow glows brighter over the park.",
+   "arcoiris",
+   [
+    "tito"
+   ],
+   2
+  ],
+  [
+   "U7",
+   "Low angle at puddle level: the baby elephant and the tiny chick splash together in a big shiny puddle, water drops flying up around them, both laughing, the rainbow reflected in the puddle.",
+   "They stomp in the puddle together and water drops fly up.",
+   "arcoiris",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "U8",
+   "Top-down view from above the yellow umbrella on the wet path: the baby elephant holds the umbrella and the tiny chick sits snuggled at his foot, both looking up and smiling, one new raindrop falling toward the umbrella.",
+   "They look up and smile as one new raindrop falls toward the umbrella.",
+   "arcoiris",
+   [
+    "tito"
+   ],
+   2
+  ]
+ ],
+ "style": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. ",
+ "lock": "TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail.",
+ "director": true,
+ "pattern": "rescue_mission",
+ "opening": "first_raindrop_on_trunk",
+ "twist": "the umbrella is too small for two, so Tito spreads his BIG EARS over the chick like a second umbrella — an act of sharing only an elephant can do",
+ "moral": "¡Compartir es más bonito!",
+ "experiment": "first sharing/kindness topic (RoboSquad 'Compartir es cuidar' 24.4M ×478) + first weather change inside a video (rain → sun + rainbow)",
+ "continuity": "rain falling U1-U5, stopped from U6 (sun + rainbow U6-U8, puddles stay); yellow umbrella from U2 on; chick SOAKING WET in U3-U4, dry and fluffy from U5; Tito's ears spread only in U5; lluvia = U1-U5, arcoiris = U6-U8"
+}

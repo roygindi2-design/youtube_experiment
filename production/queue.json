@@ -2,6 +2,24 @@
  "_doc": "Shared work queue. Research agent (scriptwriter) owns status 'researching'/'script_ready'/'script_revised'. Producer agent owns 'in_production'/'qc'/'published'/'needs_rewrite'. Each agent only edits its own statuses. Producer feedback: production/feedback/<id>.md.",
  "items": [
   {
+   "id": "rojito_arena",
+   "status": "script_ready",
+   "owner": "research",
+   "note": "mystery: eyes blinking in a sand mound, Rojito washes it clue by clue -> sea turtle. Beach. Diente Gigante +3.9M, Huella Mágica x1150. One vehicle per frame only."
+  },
+  {
+   "id": "tito_brocoli",
+   "status": "script_ready",
+   "owner": "research",
+   "note": "refusal -> 'they are little trees' -> Tito a giant in a broccoli forest (pretend location). Jungle picnic. preflight OK."
+  },
+  {
+   "id": "tito_paraguas",
+   "status": "script_ready",
+   "owner": "research",
+   "note": "sharing in the rain: Tito's ears become a second umbrella for a wet chick; rain -> rainbow. preflight OK."
+  },
+  {
    "id": "rojito_ciudad",
    "status": "in_production",
    "owner": "producer",
