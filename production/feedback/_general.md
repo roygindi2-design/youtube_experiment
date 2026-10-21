@@ -12,3 +12,9 @@
 - **תוצאות +3h (21.10):** צבעים ובוץ (שיטת הבמאי) — 0 צפיות ב-3h; עדיין מוקדם. הישנים עם סיפור (רחצה 16, ידיים 13) מובילים.
 - **21.10 06:52:** 5 סרטונים חדשים (שיטת במאי + מטא-דאטה NuNu) על 0 צפיות 3–8h; הישנים קפואים. לא לשנות כיוון לפני נתוני +12h/+24h.
 - **21.10 10:15:** צבעים קיבל צפייה ראשונה אחרי 11.5h (המונה כן מתעדכן). השערה: מעט מאוד חשיפה לחדשים, אולי בגלל קצב העלאה גבוה בערוץ בלי קהל.
+
+## 21.10 — physics of liquids (from Roy's review of tito_ep2)
+- Don't write a frame with a splash already in the air ("a huge splash flying up around him") — write the moment before, and put the splash in `motion`.
+- Bath scenes: write that the character is in the bath without clothes (the clothes hang on a hook).
+- Hand washing: at the sink with running water from the tap.
+- Liquid in every shot must move: drops falling, ripples, foam wobbling.

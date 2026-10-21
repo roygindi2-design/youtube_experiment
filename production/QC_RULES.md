@@ -48,3 +48,10 @@
 - **"מצב במאי" (`"director": true` ב-spec):** ref של המיקום רק לשוט רחב פותח; בשאר השוטים זווית מצלמה מפורשת בטקסט (מהצד, מלמעלה, מאחור, תקריב קיצוני על פרט). התיאור של השוט ראשון בפרומפט. 2 seeds ל-keyframe.
 - **שלב חובה — סטוריבורד:** לפני קליפים מסתכלים על כל ה-keyframes בשורה. כל פריים חייב להראות שינוי מצב שרואים בלי סאונד (צבע אחר, בוץ↔נקי, מים, חפץ חדש), ואין שני פריימים רצופים באותה זווית+גודל. אם אין — כותבים מחדש לפני שמוציאים כסף על קליפים.
 - **מצב משתנה כתוב בפריים עצמו בהדגשה:** "now completely BRIGHT BLUE all over" — עבד (בגרסה 1 הרכב נשאר אדום).
+
+## Liquids and physics (Roy 21.10: "the bath and the puddle look like a still picture")
+- **Never put a splash in the keyframe.** A frozen splash in the start image stays frozen like a sculpture for the whole clip. The keyframe shows the moment BEFORE (in the air above a calm puddle / hands raised over the water); the motion prompt makes the splash happen: "splashes up in droplets that arc and fall back down", "ripple rings spread across the surface", "foam wobbles and sloshes".
+- **Water must flow from a source:** hand washing = at the sink with a stream of water from the tap, not a pile of foam on a table.
+- **Bath = no clothes.** In bath shots replace the overalls from the lock with "bare powder-blue skin, his overalls hang on a hook on the wall".
+- **A static closing shot (sleeping) needs life:** breathing blanket, head turning, moon blinking, stars twinkling.
+- **New QC check:** after QC, look at 4 frames (0.2/1.2/2.2/3.2 s) of every water/foam/mud shot — if the liquid has the same shape in all 4, that's FAIL.
