@@ -1,13 +1,24 @@
 {
- "taken": "2026-10-21 00:57 UTC",
+ "taken": "2026-10-21 02:41 UTC",
  "channel": {
   "title": "Cantilandia",
   "id": "UCDwph5nbCbbl97Pu4gTyZUA",
   "subscribers": 0,
   "views": 0,
-  "videos": 9
+  "videos": 10
  },
  "videos": [
+  {
+   "id": "ciFVmSg0KBw",
+   "title": "¡Tito se disfraza de calabaza! 🎃🦷 | #shorts | Canciones Para Niños | Cantilandia",
+   "published": "2026-10-21",
+   "privacy": "public",
+   "duration_s": 30,
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "retention_curve": []
+  },
   {
    "id": "AOZCCuEFUK4",
    "title": "¡Rojito atascado en el barro! 🚒💦 | #shorts | Canciones Para Niños | Cantilandia",
@@ -58,7 +69,7 @@
    "published": "2026-10-20",
    "privacy": "public",
    "duration_s": 29,
-   "views": 13,
+   "views": 16,
    "likes": 1,
    "comments": 0,
    "retention_curve": []
