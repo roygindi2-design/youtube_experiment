@@ -1,0 +1,184 @@
+[
+ {
+  "id": "tito_ep2_E09_kfC101",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Exactly the same picture as the reference image, same bathroom, same bathtub, same pose and same camera, but bath time: the baby elephant has bare smooth powder-blue skin on his chest and shoulders, covered by white foam up to his chest, his yellow overalls hang neatly on the hook next to the yellow towel. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "tito_ep2_E09_kfB202.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_E09_kfC202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Exactly the same picture as the reference image, same bathroom, same bathtub, same pose and same camera, but bath time: the baby elephant has bare smooth powder-blue skin on his chest and shoulders, covered by white foam up to his chest, his yellow overalls hang neatly on the hook next to the yellow towel. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "tito_ep2_E09_kfB202.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_E09_kfC303",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 303,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Exactly the same picture as the reference image, same bathroom, same bathtub, same pose and same camera, but bath time: the baby elephant has bare smooth powder-blue skin on his chest and shoulders, covered by white foam up to his chest, his yellow overalls hang neatly on the hook next to the yellow towel. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "tito_ep2_E09_kfB202.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_clip4_E09_101_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He slaps the bath water with both hands: water splashes up in shiny droplets that arc and fall back down into the tub, the foam wobbles and sloshes from side to side, bubbles drift up and pop, he laughs. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_ep2_E09_kfC101"
+  }
+ },
+ {
+  "id": "tito_ep2_clip4_E09_101_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He slaps the bath water with both hands: water splashes up in shiny droplets that arc and fall back down into the tub, the foam wobbles and sloshes from side to side, bubbles drift up and pop, he laughs. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_ep2_E09_kfC101"
+  }
+ },
+ {
+  "id": "tito_ep2_clip4full_E09_101_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He slaps the bath water with both hands: water splashes up in shiny droplets that arc and fall back down into the tub, the foam wobbles and sloshes from side to side, bubbles drift up and pop, he laughs. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_ep2_E09_kfC101"
+  }
+ },
+ {
+  "id": "tito_ep2_clip4_E09_202_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He slaps the bath water with both hands: water splashes up in shiny droplets that arc and fall back down into the tub, the foam wobbles and sloshes from side to side, bubbles drift up and pop, he laughs. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_ep2_E09_kfC202"
+  }
+ },
+ {
+  "id": "tito_ep2_clip4_E09_202_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He slaps the bath water with both hands: water splashes up in shiny droplets that arc and fall back down into the tub, the foam wobbles and sloshes from side to side, bubbles drift up and pop, he laughs. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "after": {
+   "image_start": "tito_ep2_E09_kfC202"
+  }
+ },
+ {
+  "id": "tito_ep2_clip4full_E09_202_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He slaps the bath water with both hands: water splashes up in shiny droplets that arc and fall back down into the tub, the foam wobbles and sloshes from side to side, bubbles drift up and pop, he laughs. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "after": {
+   "image_start": "tito_ep2_E09_kfC202"
+  }
+ },
+ {
+  "id": "tito_ep2_clip4_E18_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Calm quiet night, the camera stays still: the big moon in the window slowly closes and opens its eyes and smiles, the little stars in the windows twinkle and sparkle, the lamp glows softly. The baby elephant stays lying down asleep with his head on the pillow, only his blanket gently rises and falls with his slow breathing. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E18.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip4_E18_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Calm quiet night, the camera stays still: the big moon in the window slowly closes and opens its eyes and smiles, the little stars in the windows twinkle and sparkle, the lamp glows softly. The baby elephant stays lying down asleep with his head on the pillow, only his blanket gently rises and falls with his slow breathing. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E18.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip4_E18_s31",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Calm quiet night, the camera stays still: the big moon in the window slowly closes and opens its eyes and smiles, the little stars in the windows twinkle and sparkle, the lamp glows softly. The baby elephant stays lying down asleep with his head on the pillow, only his blanket gently rises and falls with his slow breathing. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 31,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E18.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip4full_E18_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Calm quiet night, the camera stays still: the big moon in the window slowly closes and opens its eyes and smiles, the little stars in the windows twinkle and sparkle, the lamp glows softly. The baby elephant stays lying down asleep with his head on the pillow, only his blanket gently rises and falls with his slow breathing. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E18.jpg"
+  }
+ }
+]
