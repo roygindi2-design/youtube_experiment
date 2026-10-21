@@ -3,43 +3,43 @@
  "items": [
   {
    "id": "rojito_ciudad",
-   "status": "script_ready",
-   "owner": "research",
+   "status": "in_production",
+   "owner": "producer",
    "note": "NuNu 'X hace Y' vehicle-sound song; guess_interactive; city + construction pit. spec+SCRIPT+dossier+upload draft, preflight OK 20.10 23:00. NOTE producer: hero.one adapted so a friend vehicle can share the frame with Rojito; check Rojito stays red in storyboard."
   },
   {
    "id": "tito_dormir",
-   "status": "script_ready",
-   "owner": "research",
+   "status": "in_production",
+   "owner": "producer",
    "note": "bedtime / fear of the shadow; first trick_why (Mamá shows the shadow is the plush giraffe). Gracioso Bebé x1715, Biper 34.8M x928. preflight OK."
   },
   {
    "id": "tito_basura",
-   "status": "script_ready",
-   "owner": "research",
+   "status": "in_production",
+   "owner": "producer",
    "note": "littering lesson at a duck pond; Tito lifts the box out with his trunk, smiling bin ñam. Milo Kids x3604, NursyTots x1382. preflight OK."
   },
   {
    "id": "rojito_rescate",
-   "status": "script_ready",
-   "owner": "research",
+   "status": "in_production",
+   "owner": "producer",
    "note": "rescue_mission: kitten high in an apple tree, the ladder becomes a resbaladilla (slide). Farm orchard world. KORIRI x450, PequeGenios x1027. preflight OK."
   },
   {
    "id": "tito_mesa",
-   "status": "script_ready",
-   "owner": "research",
+   "status": "in_production",
+   "owner": "producer",
    "note": "table manners: Tito slurps spaghetti up his trunk, Mamá's fork-twirl trick. Fastest-growing topic 21.10 (+7.1M / +6.9M). One location (patio). preflight OK."
   },
   {
    "id": "tito_halloween",
-   "status": "script_ready",
+   "status": "in_production",
    "owner": "producer",
    "note": "director mode rewrite done; keyframes next"
   },
   {
    "id": "rojito_ruedas",
-   "status": "script_ready",
+   "status": "in_production",
    "owner": "producer",
    "note": "redo of unlisted ep1 in director mode"
   },

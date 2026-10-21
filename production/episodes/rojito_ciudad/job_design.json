@@ -1,0 +1,154 @@
+[
+ {
+  "id": "rojito_ciudad_loc_calle_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cheerful toy city street on a sunny morning, outdoors, vertical 9:16 composition, camera low at toy level: a smooth grey play road with a white zebra crossing, a small bus stop with a blue roof and a bench, a friendly traffic light showing green, colorful rounded toy houses and shops in pastel orange, mint and yellow, little round trees, a wide open blue sky with white clouds. No vehicles on the road."
+ },
+ {
+  "id": "rojito_ciudad_loc_calle_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cheerful toy city street on a sunny morning, outdoors, vertical 9:16 composition, camera low at toy level: a smooth grey play road with a white zebra crossing, a small bus stop with a blue roof and a bench, a friendly traffic light showing green, colorful rounded toy houses and shops in pastel orange, mint and yellow, little round trees, a wide open blue sky with white clouds. No vehicles on the road."
+ },
+ {
+  "id": "rojito_ciudad_loc_obra_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny toy construction site outdoors, vertical 9:16 composition, camera low at toy level: a big pit of soft golden sand with orange and white traffic cones, a little red-and-white railroad crossing with a wooden barrier and a curved toy train track behind the pit, green rounded hills and a wide open blue sky with white clouds. No vehicles in the pit."
+ },
+ {
+  "id": "rojito_ciudad_loc_obra_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny toy construction site outdoors, vertical 9:16 composition, camera low at toy level: a big pit of soft golden sand with orange and white traffic cones, a little red-and-white railroad crossing with a wooden barrier and a curved toy train track behind the pit, green rounded hills and a wide open blue sky with white clouds. No vehicles in the pit."
+ },
+ {
+  "id": "rojito_ciudad_song_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Pi, pi! ¿Quién hace así?\n[Verse]\nEl autobús hace ¡pi, pi, pi!\nEl camión de basura, ¡ñam, ñam, ñam!\nLa excavadora, ¡ras, ras, ras!\nEl tren hace ¡chu, chu, chu!\nLa ambulancia, ¡ui, ui, ui!\n[Chorus]\n¿Y quién hace nii-noo? ¡Soy yo!\n[Outro]\n¡Rojito hace nii-noo, nii-noo!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_ciudad_song_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Pi, pi! ¿Quién hace así?\n[Verse]\nEl autobús hace ¡pi, pi, pi!\nEl camión de basura, ¡ñam, ñam, ñam!\nLa excavadora, ¡ras, ras, ras!\nEl tren hace ¡chu, chu, chu!\nLa ambulancia, ¡ui, ui, ui!\n[Chorus]\n¿Y quién hace nii-noo? ¡Soy yo!\n[Outro]\n¡Rojito hace nii-noo, nii-noo!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_ciudad_song_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Pi, pi! ¿Quién hace así?\n[Verse]\nEl autobús hace ¡pi, pi, pi!\nEl camión de basura, ¡ñam, ñam, ñam!\nLa excavadora, ¡ras, ras, ras!\nEl tren hace ¡chu, chu, chu!\nLa ambulancia, ¡ui, ui, ui!\n[Chorus]\n¿Y quién hace nii-noo? ¡Soy yo!\n[Outro]\n¡Rojito hace nii-noo, nii-noo!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_ciudad_song_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Pi, pi! ¿Quién hace así?\n[Verse]\nEl autobús hace ¡pi, pi, pi!\nEl camión de basura, ¡ñam, ñam, ñam!\nLa excavadora, ¡ras, ras, ras!\nEl tren hace ¡chu, chu, chu!\nLa ambulancia, ¡ui, ui, ui!\n[Chorus]\n¿Y quién hace nii-noo? ¡Soy yo!\n[Outro]\n¡Rojito hace nii-noo, nii-noo!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_ciudad_song_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Pi, pi! ¿Quién hace así?\n[Verse]\nEl autobús hace ¡pi, pi, pi!\nEl camión de basura, ¡ñam, ñam, ñam!\nLa excavadora, ¡ras, ras, ras!\nEl tren hace ¡chu, chu, chu!\nLa ambulancia, ¡ui, ui, ui!\n[Chorus]\n¿Y quién hace nii-noo? ¡Soy yo!\n[Outro]\n¡Rojito hace nii-noo, nii-noo!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_ciudad_song_s6",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Pi, pi! ¿Quién hace así?\n[Verse]\nEl autobús hace ¡pi, pi, pi!\nEl camión de basura, ¡ñam, ñam, ñam!\nLa excavadora, ¡ras, ras, ras!\nEl tren hace ¡chu, chu, chu!\nLa ambulancia, ¡ui, ui, ui!\n[Chorus]\n¿Y quién hace nii-noo? ¡Soy yo!\n[Outro]\n¡Rojito hace nii-noo, nii-noo!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 6,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_ciudad_song_s7",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Pi, pi! ¿Quién hace así?\n[Verse]\nEl autobús hace ¡pi, pi, pi!\nEl camión de basura, ¡ñam, ñam, ñam!\nLa excavadora, ¡ras, ras, ras!\nEl tren hace ¡chu, chu, chu!\nLa ambulancia, ¡ui, ui, ui!\n[Chorus]\n¿Y quién hace nii-noo? ¡Soy yo!\n[Outro]\n¡Rojito hace nii-noo, nii-noo!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 7,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_ciudad_song_s8",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Pi, pi! ¿Quién hace así?\n[Verse]\nEl autobús hace ¡pi, pi, pi!\nEl camión de basura, ¡ñam, ñam, ñam!\nLa excavadora, ¡ras, ras, ras!\nEl tren hace ¡chu, chu, chu!\nLa ambulancia, ¡ui, ui, ui!\n[Chorus]\n¿Y quién hace nii-noo? ¡Soy yo!\n[Outro]\n¡Rojito hace nii-noo, nii-noo!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 8,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ }
+]

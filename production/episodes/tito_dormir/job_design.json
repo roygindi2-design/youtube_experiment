@@ -1,0 +1,154 @@
+[
+ {
+  "id": "tito_dormir_loc_cuarto_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cozy child's bedroom at night, vertical 9:16 composition, camera at child eye level: navy-blue walls with small painted golden stars, a small wooden bed with a soft blanket covered in yellow stars and a round pillow, a little wooden shelf with a soft yellow plush giraffe toy, a round window showing a big friendly glowing moon, a small warm night-light glowing amber on the shelf, soft blue moonlight and warm amber light. Nobody is in the bedroom."
+ },
+ {
+  "id": "tito_dormir_loc_cuarto_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cozy child's bedroom at night, vertical 9:16 composition, camera at child eye level: navy-blue walls with small painted golden stars, a small wooden bed with a soft blanket covered in yellow stars and a round pillow, a little wooden shelf with a soft yellow plush giraffe toy, a round window showing a big friendly glowing moon, a small warm night-light glowing amber on the shelf, soft blue moonlight and warm amber light. Nobody is in the bedroom."
+ },
+ {
+  "id": "tito_dormir_loc_ventana_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A round wooden window seen from outside at night, vertical 9:16 composition, camera at child eye level: a big friendly glowing full moon above sleepy rounded blue hills, twinkling stars in a deep navy sky, a few glowing fireflies near the window, warm amber light inside the round window. Nobody is at the window."
+ },
+ {
+  "id": "tito_dormir_loc_ventana_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A round wooden window seen from outside at night, vertical 9:16 composition, camera at child eye level: a big friendly glowing full moon above sleepy rounded blue hills, twinkling stars in a deep navy sky, a few glowing fireflies near the window, warm amber light inside the round window. Nobody is at the window."
+ },
+ {
+  "id": "tito_dormir_song_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¿Qué es eso en la pared?\n[Verse]\n¡Mamá, mamá, una sombra!\nMamá llega con su luz.\n¡Mira! ¡Es tu jirafa!\nUn conejito, ¡hop, hop, hop!\n[Chorus]\nY Tito hace ¡tuuu, tuuu!\nAbrazo, besito, ¡a dormir!\n[Outro]\nBuenas noches, luna. ¡Shhh!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_dormir_song_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¿Qué es eso en la pared?\n[Verse]\n¡Mamá, mamá, una sombra!\nMamá llega con su luz.\n¡Mira! ¡Es tu jirafa!\nUn conejito, ¡hop, hop, hop!\n[Chorus]\nY Tito hace ¡tuuu, tuuu!\nAbrazo, besito, ¡a dormir!\n[Outro]\nBuenas noches, luna. ¡Shhh!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_dormir_song_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¿Qué es eso en la pared?\n[Verse]\n¡Mamá, mamá, una sombra!\nMamá llega con su luz.\n¡Mira! ¡Es tu jirafa!\nUn conejito, ¡hop, hop, hop!\n[Chorus]\nY Tito hace ¡tuuu, tuuu!\nAbrazo, besito, ¡a dormir!\n[Outro]\nBuenas noches, luna. ¡Shhh!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_dormir_song_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¿Qué es eso en la pared?\n[Verse]\n¡Mamá, mamá, una sombra!\nMamá llega con su luz.\n¡Mira! ¡Es tu jirafa!\nUn conejito, ¡hop, hop, hop!\n[Chorus]\nY Tito hace ¡tuuu, tuuu!\nAbrazo, besito, ¡a dormir!\n[Outro]\nBuenas noches, luna. ¡Shhh!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_dormir_song_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¿Qué es eso en la pared?\n[Verse]\n¡Mamá, mamá, una sombra!\nMamá llega con su luz.\n¡Mira! ¡Es tu jirafa!\nUn conejito, ¡hop, hop, hop!\n[Chorus]\nY Tito hace ¡tuuu, tuuu!\nAbrazo, besito, ¡a dormir!\n[Outro]\nBuenas noches, luna. ¡Shhh!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_dormir_song_s6",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¿Qué es eso en la pared?\n[Verse]\n¡Mamá, mamá, una sombra!\nMamá llega con su luz.\n¡Mira! ¡Es tu jirafa!\nUn conejito, ¡hop, hop, hop!\n[Chorus]\nY Tito hace ¡tuuu, tuuu!\nAbrazo, besito, ¡a dormir!\n[Outro]\nBuenas noches, luna. ¡Shhh!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 6,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_dormir_song_s7",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¿Qué es eso en la pared?\n[Verse]\n¡Mamá, mamá, una sombra!\nMamá llega con su luz.\n¡Mira! ¡Es tu jirafa!\nUn conejito, ¡hop, hop, hop!\n[Chorus]\nY Tito hace ¡tuuu, tuuu!\nAbrazo, besito, ¡a dormir!\n[Outro]\nBuenas noches, luna. ¡Shhh!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 7,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_dormir_song_s8",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¿Qué es eso en la pared?\n[Verse]\n¡Mamá, mamá, una sombra!\nMamá llega con su luz.\n¡Mira! ¡Es tu jirafa!\nUn conejito, ¡hop, hop, hop!\n[Chorus]\nY Tito hace ¡tuuu, tuuu!\nAbrazo, besito, ¡a dormir!\n[Outro]\nBuenas noches, luna. ¡Shhh!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 8,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ }
+]

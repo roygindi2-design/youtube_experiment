@@ -1,0 +1,1204 @@
+[
+ {
+  "id": "rojito_ciudad_loc_calle_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cheerful toy city street on a sunny morning, outdoors, vertical 9:16 composition, camera low at toy level: a smooth grey play road with a white zebra crossing, a small bus stop with a blue roof and a bench, a friendly traffic light showing green, colorful rounded toy houses and shops in pastel orange, mint and yellow, little round trees, a wide open blue sky with white clouds. No vehicles on the road."
+ },
+ {
+  "id": "rojito_ciudad_loc_calle_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cheerful toy city street on a sunny morning, outdoors, vertical 9:16 composition, camera low at toy level: a smooth grey play road with a white zebra crossing, a small bus stop with a blue roof and a bench, a friendly traffic light showing green, colorful rounded toy houses and shops in pastel orange, mint and yellow, little round trees, a wide open blue sky with white clouds. No vehicles on the road."
+ },
+ {
+  "id": "rojito_ciudad_loc_obra_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny toy construction site outdoors, vertical 9:16 composition, camera low at toy level: a big pit of soft golden sand with orange and white traffic cones, a little red-and-white railroad crossing with a wooden barrier and a curved toy train track behind the pit, green rounded hills and a wide open blue sky with white clouds. No vehicles in the pit."
+ },
+ {
+  "id": "rojito_ciudad_loc_obra_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny toy construction site outdoors, vertical 9:16 composition, camera low at toy level: a big pit of soft golden sand with orange and white traffic cones, a little red-and-white railroad crossing with a wooden barrier and a curved toy train track behind the pit, green rounded hills and a wide open blue sky with white clouds. No vehicles in the pit."
+ },
+ {
+  "id": "rojito_ciudad_song_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Pi, pi! ¿Quién hace así?\n[Verse]\nEl autobús hace ¡pi, pi, pi!\nEl camión de basura, ¡ñam, ñam, ñam!\nLa excavadora, ¡ras, ras, ras!\nEl tren hace ¡chu, chu, chu!\nLa ambulancia, ¡ui, ui, ui!\n[Chorus]\n¿Y quién hace nii-noo? ¡Soy yo!\n[Outro]\n¡Rojito hace nii-noo, nii-noo!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_ciudad_song_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Pi, pi! ¿Quién hace así?\n[Verse]\nEl autobús hace ¡pi, pi, pi!\nEl camión de basura, ¡ñam, ñam, ñam!\nLa excavadora, ¡ras, ras, ras!\nEl tren hace ¡chu, chu, chu!\nLa ambulancia, ¡ui, ui, ui!\n[Chorus]\n¿Y quién hace nii-noo? ¡Soy yo!\n[Outro]\n¡Rojito hace nii-noo, nii-noo!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_ciudad_song_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Pi, pi! ¿Quién hace así?\n[Verse]\nEl autobús hace ¡pi, pi, pi!\nEl camión de basura, ¡ñam, ñam, ñam!\nLa excavadora, ¡ras, ras, ras!\nEl tren hace ¡chu, chu, chu!\nLa ambulancia, ¡ui, ui, ui!\n[Chorus]\n¿Y quién hace nii-noo? ¡Soy yo!\n[Outro]\n¡Rojito hace nii-noo, nii-noo!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_ciudad_song_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Pi, pi! ¿Quién hace así?\n[Verse]\nEl autobús hace ¡pi, pi, pi!\nEl camión de basura, ¡ñam, ñam, ñam!\nLa excavadora, ¡ras, ras, ras!\nEl tren hace ¡chu, chu, chu!\nLa ambulancia, ¡ui, ui, ui!\n[Chorus]\n¿Y quién hace nii-noo? ¡Soy yo!\n[Outro]\n¡Rojito hace nii-noo, nii-noo!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_ciudad_song_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Pi, pi! ¿Quién hace así?\n[Verse]\nEl autobús hace ¡pi, pi, pi!\nEl camión de basura, ¡ñam, ñam, ñam!\nLa excavadora, ¡ras, ras, ras!\nEl tren hace ¡chu, chu, chu!\nLa ambulancia, ¡ui, ui, ui!\n[Chorus]\n¿Y quién hace nii-noo? ¡Soy yo!\n[Outro]\n¡Rojito hace nii-noo, nii-noo!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_ciudad_song_s6",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Pi, pi! ¿Quién hace así?\n[Verse]\nEl autobús hace ¡pi, pi, pi!\nEl camión de basura, ¡ñam, ñam, ñam!\nLa excavadora, ¡ras, ras, ras!\nEl tren hace ¡chu, chu, chu!\nLa ambulancia, ¡ui, ui, ui!\n[Chorus]\n¿Y quién hace nii-noo? ¡Soy yo!\n[Outro]\n¡Rojito hace nii-noo, nii-noo!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 6,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_ciudad_song_s7",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Pi, pi! ¿Quién hace así?\n[Verse]\nEl autobús hace ¡pi, pi, pi!\nEl camión de basura, ¡ñam, ñam, ñam!\nLa excavadora, ¡ras, ras, ras!\nEl tren hace ¡chu, chu, chu!\nLa ambulancia, ¡ui, ui, ui!\n[Chorus]\n¿Y quién hace nii-noo? ¡Soy yo!\n[Outro]\n¡Rojito hace nii-noo, nii-noo!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 7,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_ciudad_song_s8",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Pi, pi! ¿Quién hace así?\n[Verse]\nEl autobús hace ¡pi, pi, pi!\nEl camión de basura, ¡ñam, ñam, ñam!\nLa excavadora, ¡ras, ras, ras!\nEl tren hace ¡chu, chu, chu!\nLa ambulancia, ¡ui, ui, ui!\n[Chorus]\n¿Y quién hace nii-noo? ¡Soy yo!\n[Outro]\n¡Rojito hace nii-noo, nii-noo!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 8,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_mesa_loc_patio_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny garden patio at lunchtime, outdoors, vertical 9:16 composition, camera at child eye level: a little round table with a red-and-white checkered tablecloth under a big yellow-and-white striped umbrella, two small wooden chairs, lemon trees with bright yellow lemons in big terracotta pots, a white garden wall with climbing pink flowers, warm sunlight and a wide open blue sky. Nobody is on the patio."
+ },
+ {
+  "id": "tito_mesa_loc_patio_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny garden patio at lunchtime, outdoors, vertical 9:16 composition, camera at child eye level: a little round table with a red-and-white checkered tablecloth under a big yellow-and-white striped umbrella, two small wooden chairs, lemon trees with bright yellow lemons in big terracotta pots, a white garden wall with climbing pink flowers, warm sunlight and a wide open blue sky. Nobody is on the patio."
+ },
+ {
+  "id": "tito_mesa_song_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Slurp, slurp! ¡Espagueti con la trompa!\n[Verse]\n¡Uy! ¡Salsa por todos lados!\nMamá le limpia la carita.\nGira y gira el tenedor.\n¡Ñam! Un bocado limpiecito.\n[Chorus]\n¡Plato limpio! ¡Gracias, mamá!\n¡En la mesa, con tenedor!\n[Outro]\n¿Uno más? ¡Slurp!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_mesa_song_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Slurp, slurp! ¡Espagueti con la trompa!\n[Verse]\n¡Uy! ¡Salsa por todos lados!\nMamá le limpia la carita.\nGira y gira el tenedor.\n¡Ñam! Un bocado limpiecito.\n[Chorus]\n¡Plato limpio! ¡Gracias, mamá!\n¡En la mesa, con tenedor!\n[Outro]\n¿Uno más? ¡Slurp!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_mesa_song_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Slurp, slurp! ¡Espagueti con la trompa!\n[Verse]\n¡Uy! ¡Salsa por todos lados!\nMamá le limpia la carita.\nGira y gira el tenedor.\n¡Ñam! Un bocado limpiecito.\n[Chorus]\n¡Plato limpio! ¡Gracias, mamá!\n¡En la mesa, con tenedor!\n[Outro]\n¿Uno más? ¡Slurp!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_mesa_song_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Slurp, slurp! ¡Espagueti con la trompa!\n[Verse]\n¡Uy! ¡Salsa por todos lados!\nMamá le limpia la carita.\nGira y gira el tenedor.\n¡Ñam! Un bocado limpiecito.\n[Chorus]\n¡Plato limpio! ¡Gracias, mamá!\n¡En la mesa, con tenedor!\n[Outro]\n¿Uno más? ¡Slurp!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_mesa_song_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Slurp, slurp! ¡Espagueti con la trompa!\n[Verse]\n¡Uy! ¡Salsa por todos lados!\nMamá le limpia la carita.\nGira y gira el tenedor.\n¡Ñam! Un bocado limpiecito.\n[Chorus]\n¡Plato limpio! ¡Gracias, mamá!\n¡En la mesa, con tenedor!\n[Outro]\n¿Uno más? ¡Slurp!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_mesa_song_s6",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Slurp, slurp! ¡Espagueti con la trompa!\n[Verse]\n¡Uy! ¡Salsa por todos lados!\nMamá le limpia la carita.\nGira y gira el tenedor.\n¡Ñam! Un bocado limpiecito.\n[Chorus]\n¡Plato limpio! ¡Gracias, mamá!\n¡En la mesa, con tenedor!\n[Outro]\n¿Uno más? ¡Slurp!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 6,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_mesa_song_s7",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Slurp, slurp! ¡Espagueti con la trompa!\n[Verse]\n¡Uy! ¡Salsa por todos lados!\nMamá le limpia la carita.\nGira y gira el tenedor.\n¡Ñam! Un bocado limpiecito.\n[Chorus]\n¡Plato limpio! ¡Gracias, mamá!\n¡En la mesa, con tenedor!\n[Outro]\n¿Uno más? ¡Slurp!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 7,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_mesa_song_s8",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Slurp, slurp! ¡Espagueti con la trompa!\n[Verse]\n¡Uy! ¡Salsa por todos lados!\nMamá le limpia la carita.\nGira y gira el tenedor.\n¡Ñam! Un bocado limpiecito.\n[Chorus]\n¡Plato limpio! ¡Gracias, mamá!\n¡En la mesa, con tenedor!\n[Outro]\n¿Uno más? ¡Slurp!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 8,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_basura_loc_estanque_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny park with a small duck pond, outdoors, vertical 9:16 composition, camera at child eye level: a round pond of clear blue water with green lily pads and a few pink water lilies, soft green lawn around it, a weeping willow tree, a small wooden bench by the water, a wide open blue sky with white clouds. Nobody is in the park."
+ },
+ {
+  "id": "tito_basura_loc_estanque_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny park with a small duck pond, outdoors, vertical 9:16 composition, camera at child eye level: a round pond of clear blue water with green lily pads and a few pink water lilies, soft green lawn around it, a weeping willow tree, a small wooden bench by the water, a wide open blue sky with white clouds. Nobody is in the park."
+ },
+ {
+  "id": "tito_basura_loc_sendero_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny park path outdoors, vertical 9:16 composition, camera at child eye level: a light sandy path through soft green grass with little yellow flowers, a round green trash bin with a rounded lid standing beside the path, the blue duck pond glittering in the background, a wide open blue sky. Nobody is on the path."
+ },
+ {
+  "id": "tito_basura_loc_sendero_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny park path outdoors, vertical 9:16 composition, camera at child eye level: a light sandy path through soft green grass with little yellow flowers, a round green trash bin with a rounded lid standing beside the path, the blue duck pond glittering in the background, a wide open blue sky. Nobody is on the path."
+ },
+ {
+  "id": "tito_basura_song_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! Tito tiró su jugo.\n[Verse]\n¡Splash! ¡Cuac! ¿Qué es eso?\nEl patito está triste.\nTito, ¿dónde va la basura?\n¡Con mi trompa la saco!\n[Chorus]\n¡Al bote! ¡Ñam, ñam, ñam!\n¡Cuac, cuac! ¡Gracias, Tito!\n[Outro]\n¡La basura, a su lugar!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_basura_song_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! Tito tiró su jugo.\n[Verse]\n¡Splash! ¡Cuac! ¿Qué es eso?\nEl patito está triste.\nTito, ¿dónde va la basura?\n¡Con mi trompa la saco!\n[Chorus]\n¡Al bote! ¡Ñam, ñam, ñam!\n¡Cuac, cuac! ¡Gracias, Tito!\n[Outro]\n¡La basura, a su lugar!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_basura_song_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! Tito tiró su jugo.\n[Verse]\n¡Splash! ¡Cuac! ¿Qué es eso?\nEl patito está triste.\nTito, ¿dónde va la basura?\n¡Con mi trompa la saco!\n[Chorus]\n¡Al bote! ¡Ñam, ñam, ñam!\n¡Cuac, cuac! ¡Gracias, Tito!\n[Outro]\n¡La basura, a su lugar!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_basura_song_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! Tito tiró su jugo.\n[Verse]\n¡Splash! ¡Cuac! ¿Qué es eso?\nEl patito está triste.\nTito, ¿dónde va la basura?\n¡Con mi trompa la saco!\n[Chorus]\n¡Al bote! ¡Ñam, ñam, ñam!\n¡Cuac, cuac! ¡Gracias, Tito!\n[Outro]\n¡La basura, a su lugar!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_basura_song_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! Tito tiró su jugo.\n[Verse]\n¡Splash! ¡Cuac! ¿Qué es eso?\nEl patito está triste.\nTito, ¿dónde va la basura?\n¡Con mi trompa la saco!\n[Chorus]\n¡Al bote! ¡Ñam, ñam, ñam!\n¡Cuac, cuac! ¡Gracias, Tito!\n[Outro]\n¡La basura, a su lugar!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_basura_song_s6",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! Tito tiró su jugo.\n[Verse]\n¡Splash! ¡Cuac! ¿Qué es eso?\nEl patito está triste.\nTito, ¿dónde va la basura?\n¡Con mi trompa la saco!\n[Chorus]\n¡Al bote! ¡Ñam, ñam, ñam!\n¡Cuac, cuac! ¡Gracias, Tito!\n[Outro]\n¡La basura, a su lugar!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 6,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_basura_song_s7",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! Tito tiró su jugo.\n[Verse]\n¡Splash! ¡Cuac! ¿Qué es eso?\nEl patito está triste.\nTito, ¿dónde va la basura?\n¡Con mi trompa la saco!\n[Chorus]\n¡Al bote! ¡Ñam, ñam, ñam!\n¡Cuac, cuac! ¡Gracias, Tito!\n[Outro]\n¡La basura, a su lugar!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 7,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_basura_song_s8",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! Tito tiró su jugo.\n[Verse]\n¡Splash! ¡Cuac! ¿Qué es eso?\nEl patito está triste.\nTito, ¿dónde va la basura?\n¡Con mi trompa la saco!\n[Chorus]\n¡Al bote! ¡Ñam, ñam, ñam!\n¡Cuac, cuac! ¡Gracias, Tito!\n[Outro]\n¡La basura, a su lugar!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 8,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_dormir_loc_cuarto_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cozy child's bedroom at night, vertical 9:16 composition, camera at child eye level: navy-blue walls with small painted golden stars, a small wooden bed with a soft blanket covered in yellow stars and a round pillow, a little wooden shelf with a soft yellow plush giraffe toy, a round window showing a big friendly glowing moon, a small warm night-light glowing amber on the shelf, soft blue moonlight and warm amber light. Nobody is in the bedroom."
+ },
+ {
+  "id": "tito_dormir_loc_cuarto_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cozy child's bedroom at night, vertical 9:16 composition, camera at child eye level: navy-blue walls with small painted golden stars, a small wooden bed with a soft blanket covered in yellow stars and a round pillow, a little wooden shelf with a soft yellow plush giraffe toy, a round window showing a big friendly glowing moon, a small warm night-light glowing amber on the shelf, soft blue moonlight and warm amber light. Nobody is in the bedroom."
+ },
+ {
+  "id": "tito_dormir_loc_ventana_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A round wooden window seen from outside at night, vertical 9:16 composition, camera at child eye level: a big friendly glowing full moon above sleepy rounded blue hills, twinkling stars in a deep navy sky, a few glowing fireflies near the window, warm amber light inside the round window. Nobody is at the window."
+ },
+ {
+  "id": "tito_dormir_loc_ventana_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A round wooden window seen from outside at night, vertical 9:16 composition, camera at child eye level: a big friendly glowing full moon above sleepy rounded blue hills, twinkling stars in a deep navy sky, a few glowing fireflies near the window, warm amber light inside the round window. Nobody is at the window."
+ },
+ {
+  "id": "tito_dormir_song_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¿Qué es eso en la pared?\n[Verse]\n¡Mamá, mamá, una sombra!\nMamá llega con su luz.\n¡Mira! ¡Es tu jirafa!\nUn conejito, ¡hop, hop, hop!\n[Chorus]\nY Tito hace ¡tuuu, tuuu!\nAbrazo, besito, ¡a dormir!\n[Outro]\nBuenas noches, luna. ¡Shhh!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_dormir_song_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¿Qué es eso en la pared?\n[Verse]\n¡Mamá, mamá, una sombra!\nMamá llega con su luz.\n¡Mira! ¡Es tu jirafa!\nUn conejito, ¡hop, hop, hop!\n[Chorus]\nY Tito hace ¡tuuu, tuuu!\nAbrazo, besito, ¡a dormir!\n[Outro]\nBuenas noches, luna. ¡Shhh!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_dormir_song_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¿Qué es eso en la pared?\n[Verse]\n¡Mamá, mamá, una sombra!\nMamá llega con su luz.\n¡Mira! ¡Es tu jirafa!\nUn conejito, ¡hop, hop, hop!\n[Chorus]\nY Tito hace ¡tuuu, tuuu!\nAbrazo, besito, ¡a dormir!\n[Outro]\nBuenas noches, luna. ¡Shhh!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_dormir_song_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¿Qué es eso en la pared?\n[Verse]\n¡Mamá, mamá, una sombra!\nMamá llega con su luz.\n¡Mira! ¡Es tu jirafa!\nUn conejito, ¡hop, hop, hop!\n[Chorus]\nY Tito hace ¡tuuu, tuuu!\nAbrazo, besito, ¡a dormir!\n[Outro]\nBuenas noches, luna. ¡Shhh!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_dormir_song_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¿Qué es eso en la pared?\n[Verse]\n¡Mamá, mamá, una sombra!\nMamá llega con su luz.\n¡Mira! ¡Es tu jirafa!\nUn conejito, ¡hop, hop, hop!\n[Chorus]\nY Tito hace ¡tuuu, tuuu!\nAbrazo, besito, ¡a dormir!\n[Outro]\nBuenas noches, luna. ¡Shhh!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_dormir_song_s6",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¿Qué es eso en la pared?\n[Verse]\n¡Mamá, mamá, una sombra!\nMamá llega con su luz.\n¡Mira! ¡Es tu jirafa!\nUn conejito, ¡hop, hop, hop!\n[Chorus]\nY Tito hace ¡tuuu, tuuu!\nAbrazo, besito, ¡a dormir!\n[Outro]\nBuenas noches, luna. ¡Shhh!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 6,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_dormir_song_s7",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¿Qué es eso en la pared?\n[Verse]\n¡Mamá, mamá, una sombra!\nMamá llega con su luz.\n¡Mira! ¡Es tu jirafa!\nUn conejito, ¡hop, hop, hop!\n[Chorus]\nY Tito hace ¡tuuu, tuuu!\nAbrazo, besito, ¡a dormir!\n[Outro]\nBuenas noches, luna. ¡Shhh!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 7,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_dormir_song_s8",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! ¿Qué es eso en la pared?\n[Verse]\n¡Mamá, mamá, una sombra!\nMamá llega con su luz.\n¡Mira! ¡Es tu jirafa!\nUn conejito, ¡hop, hop, hop!\n[Chorus]\nY Tito hace ¡tuuu, tuuu!\nAbrazo, besito, ¡a dormir!\n[Outro]\nBuenas noches, luna. ¡Shhh!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 8,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_rescate_loc_huerto_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny farm orchard outdoors, vertical 9:16 composition, camera low at toy level: one very tall rounded apple tree full of green leaves and shiny red apples in the middle, soft green grass, a few round golden hay bales and a soft pile of loose golden hay under the tree, a cheerful red barn with white trim in the background, a wide open blue sky with white clouds. No vehicles in the orchard."
+ },
+ {
+  "id": "rojito_rescate_loc_huerto_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny farm orchard outdoors, vertical 9:16 composition, camera low at toy level: one very tall rounded apple tree full of green leaves and shiny red apples in the middle, soft green grass, a few round golden hay bales and a soft pile of loose golden hay under the tree, a cheerful red barn with white trim in the background, a wide open blue sky with white clouds. No vehicles in the orchard."
+ },
+ {
+  "id": "rojito_rescate_loc_camino_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny dirt farm road outdoors, vertical 9:16 composition, camera low at toy level: a smooth light-brown dirt road curving between golden wheat fields, a wooden fence along one side, a red barn far away on a soft green hill, a wide open blue sky with white clouds. No vehicles on the road."
+ },
+ {
+  "id": "rojito_rescate_loc_camino_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny dirt farm road outdoors, vertical 9:16 composition, camera low at toy level: a smooth light-brown dirt road curving between golden wheat fields, a wooden fence along one side, a red barn far away on a soft green hill, a wide open blue sky with white clouds. No vehicles on the road."
+ },
+ {
+  "id": "rojito_rescate_song_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Miau, miau! ¡Ayuda, ayuda!\n[Verse]\n¡Nii-noo! ¡Rojito ya va!\n¡Uy! ¡El gatito está muy arriba!\n¡Sube y sube la escalera!\n¡Miau! No se quiere bajar.\n[Chorus]\n¡Wiii! ¡Es una resbaladilla!\n¡Con su mamá! ¡Gracias, Rojito!\n[Outro]\n¿Otra vez? ¡Miau, miau!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_rescate_song_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Miau, miau! ¡Ayuda, ayuda!\n[Verse]\n¡Nii-noo! ¡Rojito ya va!\n¡Uy! ¡El gatito está muy arriba!\n¡Sube y sube la escalera!\n¡Miau! No se quiere bajar.\n[Chorus]\n¡Wiii! ¡Es una resbaladilla!\n¡Con su mamá! ¡Gracias, Rojito!\n[Outro]\n¿Otra vez? ¡Miau, miau!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_rescate_song_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Miau, miau! ¡Ayuda, ayuda!\n[Verse]\n¡Nii-noo! ¡Rojito ya va!\n¡Uy! ¡El gatito está muy arriba!\n¡Sube y sube la escalera!\n¡Miau! No se quiere bajar.\n[Chorus]\n¡Wiii! ¡Es una resbaladilla!\n¡Con su mamá! ¡Gracias, Rojito!\n[Outro]\n¿Otra vez? ¡Miau, miau!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_rescate_song_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Miau, miau! ¡Ayuda, ayuda!\n[Verse]\n¡Nii-noo! ¡Rojito ya va!\n¡Uy! ¡El gatito está muy arriba!\n¡Sube y sube la escalera!\n¡Miau! No se quiere bajar.\n[Chorus]\n¡Wiii! ¡Es una resbaladilla!\n¡Con su mamá! ¡Gracias, Rojito!\n[Outro]\n¿Otra vez? ¡Miau, miau!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_rescate_song_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Miau, miau! ¡Ayuda, ayuda!\n[Verse]\n¡Nii-noo! ¡Rojito ya va!\n¡Uy! ¡El gatito está muy arriba!\n¡Sube y sube la escalera!\n¡Miau! No se quiere bajar.\n[Chorus]\n¡Wiii! ¡Es una resbaladilla!\n¡Con su mamá! ¡Gracias, Rojito!\n[Outro]\n¿Otra vez? ¡Miau, miau!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_rescate_song_s6",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Miau, miau! ¡Ayuda, ayuda!\n[Verse]\n¡Nii-noo! ¡Rojito ya va!\n¡Uy! ¡El gatito está muy arriba!\n¡Sube y sube la escalera!\n¡Miau! No se quiere bajar.\n[Chorus]\n¡Wiii! ¡Es una resbaladilla!\n¡Con su mamá! ¡Gracias, Rojito!\n[Outro]\n¿Otra vez? ¡Miau, miau!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 6,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_rescate_song_s7",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Miau, miau! ¡Ayuda, ayuda!\n[Verse]\n¡Nii-noo! ¡Rojito ya va!\n¡Uy! ¡El gatito está muy arriba!\n¡Sube y sube la escalera!\n¡Miau! No se quiere bajar.\n[Chorus]\n¡Wiii! ¡Es una resbaladilla!\n¡Con su mamá! ¡Gracias, Rojito!\n[Outro]\n¿Otra vez? ¡Miau, miau!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 7,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_rescate_song_s8",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Miau, miau! ¡Ayuda, ayuda!\n[Verse]\n¡Nii-noo! ¡Rojito ya va!\n¡Uy! ¡El gatito está muy arriba!\n¡Sube y sube la escalera!\n¡Miau! No se quiere bajar.\n[Chorus]\n¡Wiii! ¡Es una resbaladilla!\n¡Con su mamá! ¡Gracias, Rojito!\n[Outro]\n¿Otra vez? ¡Miau, miau!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 8,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_halloween_H1_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Extreme close-up from the front on the porch at night: a round orange pumpkin costume on the baby elephant worn BACKWARDS, so only the round orange back of the pumpkin is visible with the tip of a little blue trunk poking out of a small hole and wiggling, glowing jack-o-lanterns blurred behind. The baby elephant from the first reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: A cozy wooden house porch on an autumn evening, three big glowing orange jack-o-lanterns with friendly smiling carved faces on the steps, strings of warm orange and purple fairy lights, fallen orange and yellow leaves, a soft purple evening sky with a big friendly round moon, a small wooden front door with a wreath of autumn leaves. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_halloween_H1_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Extreme close-up from the front on the porch at night: a round orange pumpkin costume on the baby elephant worn BACKWARDS, so only the round orange back of the pumpkin is visible with the tip of a little blue trunk poking out of a small hole and wiggling, glowing jack-o-lanterns blurred behind. The baby elephant from the first reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: A cozy wooden house porch on an autumn evening, three big glowing orange jack-o-lanterns with friendly smiling carved faces on the steps, strings of warm orange and purple fairy lights, fallen orange and yellow leaves, a soft purple evening sky with a big friendly round moon, a small wooden front door with a wreath of autumn leaves. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_halloween_H2_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot, side view on the porch: Mamá Elefanta laughing turns the round pumpkin costume around on the baby elephant with both hands; now the baby elephant's happy face pops out of the round opening, wearing a round orange pumpkin costume with a short green stem on top, his face and ears sticking out of the round opening, his yellow overalls hidden. The baby elephant from the first reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Mamá Elefanta from the second reference image, exactly the same character design: MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear. Exactly two elephants in the picture: the small baby and his taller mother. Setting: A cozy wooden house porch on an autumn evening, three big glowing orange jack-o-lanterns with friendly smiling carved faces on the steps, strings of warm orange and purple fairy lights, fallen orange and yellow leaves, a soft purple evening sky with a big friendly round moon, a small wooden front door with a wreath of autumn leaves. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_halloween_H2_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot, side view on the porch: Mamá Elefanta laughing turns the round pumpkin costume around on the baby elephant with both hands; now the baby elephant's happy face pops out of the round opening, wearing a round orange pumpkin costume with a short green stem on top, his face and ears sticking out of the round opening, his yellow overalls hidden. The baby elephant from the first reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Mamá Elefanta from the second reference image, exactly the same character design: MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear. Exactly two elephants in the picture: the small baby and his taller mother. Setting: A cozy wooden house porch on an autumn evening, three big glowing orange jack-o-lanterns with friendly smiling carved faces on the steps, strings of warm orange and purple fairy lights, fallen orange and yellow leaves, a soft purple evening sky with a big friendly round moon, a small wooden front door with a wreath of autumn leaves. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_halloween_H3_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle from behind the baby elephant wearing a round orange pumpkin costume with a short green stem on top, his face and ears sticking out of the round opening, his yellow overalls hidden: he runs toward the glowing front door holding a small orange candy bucket; at the door Mamá Elefanta holds up a small blue toothbrush with a smile. The baby elephant from the first reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Mamá Elefanta from the second reference image, exactly the same character design: MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear. Exactly two elephants in the picture: the small baby and his taller mother. Setting: A cozy wooden house porch on an autumn evening, three big glowing orange jack-o-lanterns with friendly smiling carved faces on the steps, strings of warm orange and purple fairy lights, fallen orange and yellow leaves, a soft purple evening sky with a big friendly round moon, a small wooden front door with a wreath of autumn leaves. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_halloween_H3_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle from behind the baby elephant wearing a round orange pumpkin costume with a short green stem on top, his face and ears sticking out of the round opening, his yellow overalls hidden: he runs toward the glowing front door holding a small orange candy bucket; at the door Mamá Elefanta holds up a small blue toothbrush with a smile. The baby elephant from the first reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Mamá Elefanta from the second reference image, exactly the same character design: MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear. Exactly two elephants in the picture: the small baby and his taller mother. Setting: A cozy wooden house porch on an autumn evening, three big glowing orange jack-o-lanterns with friendly smiling carved faces on the steps, strings of warm orange and purple fairy lights, fallen orange and yellow leaves, a soft purple evening sky with a big friendly round moon, a small wooden front door with a wreath of autumn leaves. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_halloween_H4_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from the side in front of the bathroom mirror: the baby elephant wearing a round orange pumpkin costume with a short green stem on top, his face and ears sticking out of the round opening, his yellow overalls hidden brushes his teeth with a small blue toothbrush, white foam bubbles around his mouth, his reflection smiling in the round mirror. The baby elephant from the first reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: A warm cozy bathroom corner in the evening, a round mirror above a small white sink, a cup with a small blue toothbrush and a tube of toothpaste, a little wooden step stool, soft warm lamp light, purple and orange tiles, a tiny pumpkin decoration on the shelf. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_halloween_H4_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from the side in front of the bathroom mirror: the baby elephant wearing a round orange pumpkin costume with a short green stem on top, his face and ears sticking out of the round opening, his yellow overalls hidden brushes his teeth with a small blue toothbrush, white foam bubbles around his mouth, his reflection smiling in the round mirror. The baby elephant from the first reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: A warm cozy bathroom corner in the evening, a round mirror above a small white sink, a cup with a small blue toothbrush and a tube of toothpaste, a little wooden step stool, soft warm lamp light, purple and orange tiles, a tiny pumpkin decoration on the shelf. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_halloween_H5_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Wide shot of the autumn porch at night: three big glowing jack-o-lanterns with friendly smiling faces light up in a row, orange and purple fairy lights, the big smiling moon, the baby elephant wearing a round orange pumpkin costume with a short green stem on top, his face and ears sticking out of the round opening, his yellow overalls hidden stands small in front of them looking up with wonder. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting, exactly the place from the first reference image: A cozy wooden house porch on an autumn evening, vertical 9:16 composition, camera at child eye level: three big glowing orange jack-o-lanterns with friendly smiling carved faces on the steps, strings of warm orange and purple fairy lights, fallen orange and yellow leaves, a soft purple evening sky with a big friendly round moon, a small wooden front door with a wreath of autumn leaves. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_halloween_porche.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_halloween_H5_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Wide shot of the autumn porch at night: three big glowing jack-o-lanterns with friendly smiling faces light up in a row, orange and purple fairy lights, the big smiling moon, the baby elephant wearing a round orange pumpkin costume with a short green stem on top, his face and ears sticking out of the round opening, his yellow overalls hidden stands small in front of them looking up with wonder. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting, exactly the place from the first reference image: A cozy wooden house porch on an autumn evening, vertical 9:16 composition, camera at child eye level: three big glowing orange jack-o-lanterns with friendly smiling carved faces on the steps, strings of warm orange and purple fairy lights, fallen orange and yellow leaves, a soft purple evening sky with a big friendly round moon, a small wooden front door with a wreath of autumn leaves. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_halloween_porche.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_halloween_H6_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up, over-the-shoulder from behind the baby elephant in the pumpkin costume: a tiny cute white sheet ghost toy with two big round friendly eyes and a little smile floats in front of him and waves a small hand; the baby elephant waves back. The baby elephant from the first reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: A cozy wooden house porch on an autumn evening, three big glowing orange jack-o-lanterns with friendly smiling carved faces on the steps, strings of warm orange and purple fairy lights, fallen orange and yellow leaves, a soft purple evening sky with a big friendly round moon, a small wooden front door with a wreath of autumn leaves. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_halloween_H6_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up, over-the-shoulder from behind the baby elephant in the pumpkin costume: a tiny cute white sheet ghost toy with two big round friendly eyes and a little smile floats in front of him and waves a small hand; the baby elephant waves back. The baby elephant from the first reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: A cozy wooden house porch on an autumn evening, three big glowing orange jack-o-lanterns with friendly smiling carved faces on the steps, strings of warm orange and purple fairy lights, fallen orange and yellow leaves, a soft purple evening sky with a big friendly round moon, a small wooden front door with a wreath of autumn leaves. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_halloween_H7_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot, side view on the porch steps under orange fairy lights: the baby elephant wearing a round orange pumpkin costume with a short green stem on top, his face and ears sticking out of the round opening, his yellow overalls hidden and Mamá Elefanta sit side by side and share a wrapped candy from the orange bucket, smiling at each other. The baby elephant from the first reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Mamá Elefanta from the second reference image, exactly the same character design: MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear. Exactly two elephants in the picture: the small baby and his taller mother. Setting: A cozy wooden house porch on an autumn evening, three big glowing orange jack-o-lanterns with friendly smiling carved faces on the steps, strings of warm orange and purple fairy lights, fallen orange and yellow leaves, a soft purple evening sky with a big friendly round moon, a small wooden front door with a wreath of autumn leaves. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_halloween_H7_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot, side view on the porch steps under orange fairy lights: the baby elephant wearing a round orange pumpkin costume with a short green stem on top, his face and ears sticking out of the round opening, his yellow overalls hidden and Mamá Elefanta sit side by side and share a wrapped candy from the orange bucket, smiling at each other. The baby elephant from the first reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Mamá Elefanta from the second reference image, exactly the same character design: MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear. Exactly two elephants in the picture: the small baby and his taller mother. Setting: A cozy wooden house porch on an autumn evening, three big glowing orange jack-o-lanterns with friendly smiling carved faces on the steps, strings of warm orange and purple fairy lights, fallen orange and yellow leaves, a soft purple evening sky with a big friendly round moon, a small wooden front door with a wreath of autumn leaves. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_halloween_H8_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from the front: the baby elephant playfully pulls the round orange pumpkin costume down over his head the wrong way again, only the tip of his little blue trunk poking out of a small hole, wiggling. The baby elephant from the first reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: A cozy wooden house porch on an autumn evening, three big glowing orange jack-o-lanterns with friendly smiling carved faces on the steps, strings of warm orange and purple fairy lights, fallen orange and yellow leaves, a soft purple evening sky with a big friendly round moon, a small wooden front door with a wreath of autumn leaves. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_halloween_H8_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from the front: the baby elephant playfully pulls the round orange pumpkin costume down over his head the wrong way again, only the tip of his little blue trunk poking out of a small hole, wiggling. The baby elephant from the first reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: A cozy wooden house porch on an autumn evening, three big glowing orange jack-o-lanterns with friendly smiling carved faces on the steps, strings of warm orange and purple fairy lights, fallen orange and yellow leaves, a soft purple evening sky with a big friendly round moon, a small wooden front door with a wreath of autumn leaves. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_ruedas_R1_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low side view at ground level on the sandy play road: the little red fire truck character bounces and all four of his black wheels pop off at once and fly away in different directions in a puff of sand, his body dropping to the ground, his eyes wide with shock. The little red fire truck character from the first reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one vehicle character in the picture. Setting: A bright toy town sandbox park, a smooth sandy play road curving between soft green rounded hills, small colorful toy traffic cones, a little wooden toy bridge, round cartoon trees, a bright blue sky with fluffy white clouds. No vehicles on the road.. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_ruedas_R1_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low side view at ground level on the sandy play road: the little red fire truck character bounces and all four of his black wheels pop off at once and fly away in different directions in a puff of sand, his body dropping to the ground, his eyes wide with shock. The little red fire truck character from the first reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one vehicle character in the picture. Setting: A bright toy town sandbox park, a smooth sandy play road curving between soft green rounded hills, small colorful toy traffic cones, a little wooden toy bridge, round cartoon trees, a bright blue sky with fluffy white clouds. No vehicles on the road.. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_ruedas_R2_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from the front: the little red fire truck character sitting flat on the sand with NO wheels at all, empty wheel arches, looking sad with big teary eyes, one black wheel rolling away in the background. The little red fire truck character from the first reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one vehicle character in the picture. Setting: A bright toy town sandbox park, a smooth sandy play road curving between soft green rounded hills, small colorful toy traffic cones, a little wooden toy bridge, round cartoon trees, a bright blue sky with fluffy white clouds. No vehicles on the road.. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_ruedas_R2_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from the front: the little red fire truck character sitting flat on the sand with NO wheels at all, empty wheel arches, looking sad with big teary eyes, one black wheel rolling away in the background. The little red fire truck character from the first reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one vehicle character in the picture. Setting: A bright toy town sandbox park, a smooth sandy play road curving between soft green rounded hills, small colorful toy traffic cones, a little wooden toy bridge, round cartoon trees, a bright blue sky with fluffy white clouds. No vehicles on the road.. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_ruedas_R3_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Side view: the little red fire truck character standing on four big yellow SQUARE blocks with corners instead of wheels, tilted and bumping, a funny determined face. The little red fire truck character from the first reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one vehicle character in the picture. Setting: A bright toy town sandbox park, a smooth sandy play road curving between soft green rounded hills, small colorful toy traffic cones, a little wooden toy bridge, round cartoon trees, a bright blue sky with fluffy white clouds. No vehicles on the road.. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_ruedas_R3_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Side view: the little red fire truck character standing on four big yellow SQUARE blocks with corners instead of wheels, tilted and bumping, a funny determined face. The little red fire truck character from the first reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one vehicle character in the picture. Setting: A bright toy town sandbox park, a smooth sandy play road curving between soft green rounded hills, small colorful toy traffic cones, a little wooden toy bridge, round cartoon trees, a bright blue sky with fluffy white clouds. No vehicles on the road.. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_ruedas_R4_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up three-quarter view from the front: the little red fire truck character standing on four TINY blue wheels as small as buttons, his body almost touching the ground, wobbling, with a nervous wobbly smile. The little red fire truck character from the first reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one vehicle character in the picture. Setting: A bright toy town sandbox park, a smooth sandy play road curving between soft green rounded hills, small colorful toy traffic cones, a little wooden toy bridge, round cartoon trees, a bright blue sky with fluffy white clouds. No vehicles on the road.. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_ruedas_R4_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up three-quarter view from the front: the little red fire truck character standing on four TINY blue wheels as small as buttons, his body almost touching the ground, wobbling, with a nervous wobbly smile. The little red fire truck character from the first reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one vehicle character in the picture. Setting: A bright toy town sandbox park, a smooth sandy play road curving between soft green rounded hills, small colorful toy traffic cones, a little wooden toy bridge, round cartoon trees, a bright blue sky with fluffy white clouds. No vehicles on the road.. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_ruedas_R5_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Very low angle from the ground looking up: the little red fire truck character lifted very high on four GIANT black monster truck wheels taller than him, swaying, looking down dizzy, blue sky behind. The little red fire truck character from the first reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one vehicle character in the picture. Setting: A bright toy town sandbox park, a smooth sandy play road curving between soft green rounded hills, small colorful toy traffic cones, a little wooden toy bridge, round cartoon trees, a bright blue sky with fluffy white clouds. No vehicles on the road.. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_ruedas_R5_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Very low angle from the ground looking up: the little red fire truck character lifted very high on four GIANT black monster truck wheels taller than him, swaying, looking down dizzy, blue sky behind. The little red fire truck character from the first reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one vehicle character in the picture. Setting: A bright toy town sandbox park, a smooth sandy play road curving between soft green rounded hills, small colorful toy traffic cones, a little wooden toy bridge, round cartoon trees, a bright blue sky with fluffy white clouds. No vehicles on the road.. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_ruedas_R6_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Wide shot of the toy garage workshop: the little red fire truck character rolls toward a wall full of different wheels and looks up; four round shiny red wheels hang on a hook at the center, a sparkle on them. The little red fire truck character from the second reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one vehicle character in the picture. Setting, exactly the place from the first reference image: A cheerful toy garage workshop, vertical 9:16 composition, camera low at toy level: a wall with hooks holding many different wheels (square wheels, tiny wheels, giant black monster truck wheels, and round red wheels), a red toolbox, a small car lift, warm light from a big open garage door showing green hills outside. No vehicles in the garage.. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_taller.jpg",
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_ruedas_R6_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Wide shot of the toy garage workshop: the little red fire truck character rolls toward a wall full of different wheels and looks up; four round shiny red wheels hang on a hook at the center, a sparkle on them. The little red fire truck character from the second reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one vehicle character in the picture. Setting, exactly the place from the first reference image: A cheerful toy garage workshop, vertical 9:16 composition, camera low at toy level: a wall with hooks holding many different wheels (square wheels, tiny wheels, giant black monster truck wheels, and round red wheels), a red toolbox, a small car lift, warm light from a big open garage door showing green hills outside. No vehicles in the garage.. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_taller.jpg",
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_ruedas_R7_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Tracking side view on the sandy play road: the little red fire truck character with four round shiny red wheels zooms fast from left to right, motion lines of sand dust behind, cones flying past, laughing. The little red fire truck character from the first reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one vehicle character in the picture. Setting: A bright toy town sandbox park, a smooth sandy play road curving between soft green rounded hills, small colorful toy traffic cones, a little wooden toy bridge, round cartoon trees, a bright blue sky with fluffy white clouds. No vehicles on the road.. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_ruedas_R7_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Tracking side view on the sandy play road: the little red fire truck character with four round shiny red wheels zooms fast from left to right, motion lines of sand dust behind, cones flying past, laughing. The little red fire truck character from the first reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one vehicle character in the picture. Setting: A bright toy town sandbox park, a smooth sandy play road curving between soft green rounded hills, small colorful toy traffic cones, a little wooden toy bridge, round cartoon trees, a bright blue sky with fluffy white clouds. No vehicles on the road.. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_ruedas_R8_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot from the front: the happy little red fire truck character with round red wheels sprays a big arc of water from the hose on his roof into the sky, making a bright rainbow, his blue siren light glowing. The little red fire truck character from the first reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one vehicle character in the picture. Setting: A bright toy town sandbox park, a smooth sandy play road curving between soft green rounded hills, small colorful toy traffic cones, a little wooden toy bridge, round cartoon trees, a bright blue sky with fluffy white clouds. No vehicles on the road.. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "rojito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "rojito_ruedas_R8_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot from the front: the happy little red fire truck character with round red wheels sprays a big arc of water from the hose on his roof into the sky, making a bright rainbow, his blue siren light glowing. The little red fire truck character from the first reference image, exactly the same character design: ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door. Only one vehicle character in the picture. Setting: A bright toy town sandbox park, a smooth sandy play road curving between soft green rounded hills, small colorful toy traffic cones, a little wooden toy bridge, round cartoon trees, a bright blue sky with fluffy white clouds. No vehicles on the road.. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "rojito_master.jpg"
+   ]
+  }
+ }
+]

@@ -1,0 +1,154 @@
+[
+ {
+  "id": "tito_basura_loc_estanque_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny park with a small duck pond, outdoors, vertical 9:16 composition, camera at child eye level: a round pond of clear blue water with green lily pads and a few pink water lilies, soft green lawn around it, a weeping willow tree, a small wooden bench by the water, a wide open blue sky with white clouds. Nobody is in the park."
+ },
+ {
+  "id": "tito_basura_loc_estanque_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny park with a small duck pond, outdoors, vertical 9:16 composition, camera at child eye level: a round pond of clear blue water with green lily pads and a few pink water lilies, soft green lawn around it, a weeping willow tree, a small wooden bench by the water, a wide open blue sky with white clouds. Nobody is in the park."
+ },
+ {
+  "id": "tito_basura_loc_sendero_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny park path outdoors, vertical 9:16 composition, camera at child eye level: a light sandy path through soft green grass with little yellow flowers, a round green trash bin with a rounded lid standing beside the path, the blue duck pond glittering in the background, a wide open blue sky. Nobody is on the path."
+ },
+ {
+  "id": "tito_basura_loc_sendero_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny park path outdoors, vertical 9:16 composition, camera at child eye level: a light sandy path through soft green grass with little yellow flowers, a round green trash bin with a rounded lid standing beside the path, the blue duck pond glittering in the background, a wide open blue sky. Nobody is on the path."
+ },
+ {
+  "id": "tito_basura_song_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! Tito tiró su jugo.\n[Verse]\n¡Splash! ¡Cuac! ¿Qué es eso?\nEl patito está triste.\nTito, ¿dónde va la basura?\n¡Con mi trompa la saco!\n[Chorus]\n¡Al bote! ¡Ñam, ñam, ñam!\n¡Cuac, cuac! ¡Gracias, Tito!\n[Outro]\n¡La basura, a su lugar!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_basura_song_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! Tito tiró su jugo.\n[Verse]\n¡Splash! ¡Cuac! ¿Qué es eso?\nEl patito está triste.\nTito, ¿dónde va la basura?\n¡Con mi trompa la saco!\n[Chorus]\n¡Al bote! ¡Ñam, ñam, ñam!\n¡Cuac, cuac! ¡Gracias, Tito!\n[Outro]\n¡La basura, a su lugar!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_basura_song_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! Tito tiró su jugo.\n[Verse]\n¡Splash! ¡Cuac! ¿Qué es eso?\nEl patito está triste.\nTito, ¿dónde va la basura?\n¡Con mi trompa la saco!\n[Chorus]\n¡Al bote! ¡Ñam, ñam, ñam!\n¡Cuac, cuac! ¡Gracias, Tito!\n[Outro]\n¡La basura, a su lugar!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_basura_song_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! Tito tiró su jugo.\n[Verse]\n¡Splash! ¡Cuac! ¿Qué es eso?\nEl patito está triste.\nTito, ¿dónde va la basura?\n¡Con mi trompa la saco!\n[Chorus]\n¡Al bote! ¡Ñam, ñam, ñam!\n¡Cuac, cuac! ¡Gracias, Tito!\n[Outro]\n¡La basura, a su lugar!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_basura_song_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! Tito tiró su jugo.\n[Verse]\n¡Splash! ¡Cuac! ¿Qué es eso?\nEl patito está triste.\nTito, ¿dónde va la basura?\n¡Con mi trompa la saco!\n[Chorus]\n¡Al bote! ¡Ñam, ñam, ñam!\n¡Cuac, cuac! ¡Gracias, Tito!\n[Outro]\n¡La basura, a su lugar!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_basura_song_s6",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! Tito tiró su jugo.\n[Verse]\n¡Splash! ¡Cuac! ¿Qué es eso?\nEl patito está triste.\nTito, ¿dónde va la basura?\n¡Con mi trompa la saco!\n[Chorus]\n¡Al bote! ¡Ñam, ñam, ñam!\n¡Cuac, cuac! ¡Gracias, Tito!\n[Outro]\n¡La basura, a su lugar!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 6,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_basura_song_s7",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! Tito tiró su jugo.\n[Verse]\n¡Splash! ¡Cuac! ¿Qué es eso?\nEl patito está triste.\nTito, ¿dónde va la basura?\n¡Con mi trompa la saco!\n[Chorus]\n¡Al bote! ¡Ñam, ñam, ñam!\n¡Cuac, cuac! ¡Gracias, Tito!\n[Outro]\n¡La basura, a su lugar!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 7,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_basura_song_s8",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Uy! Tito tiró su jugo.\n[Verse]\n¡Splash! ¡Cuac! ¿Qué es eso?\nEl patito está triste.\nTito, ¿dónde va la basura?\n¡Con mi trompa la saco!\n[Chorus]\n¡Al bote! ¡Ñam, ñam, ñam!\n¡Cuac, cuac! ¡Gracias, Tito!\n[Outro]\n¡La basura, a su lugar!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 8,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ }
+]

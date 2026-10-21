@@ -1,11 +1,11 @@
 {
- "taken": "2026-10-20 23:36 UTC",
+ "taken": "2026-10-21 00:46 UTC",
  "channel": {
   "title": "Cantilandia",
   "id": "UCDwph5nbCbbl97Pu4gTyZUA",
   "subscribers": 0,
   "views": 0,
-  "videos": 8
+  "videos": 9
  },
  "videos": [
   {
@@ -72,7 +72,7 @@
    "views": 4,
    "likes": 0,
    "comments": 0,
-   "retention_curve": []
+   "analytics_error": "500: b'{\\n  \"error\": {\\n    \"code\": 500,\\n    \"message\": \"Internal error encountered.\",\\n    \"errors\": [\\n      {\\n        \"message\": \"Internal error encountered.\",\\"
   },
   {
    "id": "gxH1p0Sp59g",
@@ -102,7 +102,7 @@
    "published": "2026-10-19",
    "privacy": "public",
    "duration_s": 38,
-   "views": 4,
+   "views": 5,
    "likes": 1,
    "comments": 0,
    "retention_curve": []

@@ -1,0 +1,138 @@
+[
+ {
+  "id": "tito_mesa_loc_patio_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny garden patio at lunchtime, outdoors, vertical 9:16 composition, camera at child eye level: a little round table with a red-and-white checkered tablecloth under a big yellow-and-white striped umbrella, two small wooden chairs, lemon trees with bright yellow lemons in big terracotta pots, a white garden wall with climbing pink flowers, warm sunlight and a wide open blue sky. Nobody is on the patio."
+ },
+ {
+  "id": "tito_mesa_loc_patio_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny garden patio at lunchtime, outdoors, vertical 9:16 composition, camera at child eye level: a little round table with a red-and-white checkered tablecloth under a big yellow-and-white striped umbrella, two small wooden chairs, lemon trees with bright yellow lemons in big terracotta pots, a white garden wall with climbing pink flowers, warm sunlight and a wide open blue sky. Nobody is on the patio."
+ },
+ {
+  "id": "tito_mesa_song_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Slurp, slurp! ¡Espagueti con la trompa!\n[Verse]\n¡Uy! ¡Salsa por todos lados!\nMamá le limpia la carita.\nGira y gira el tenedor.\n¡Ñam! Un bocado limpiecito.\n[Chorus]\n¡Plato limpio! ¡Gracias, mamá!\n¡En la mesa, con tenedor!\n[Outro]\n¿Uno más? ¡Slurp!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_mesa_song_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Slurp, slurp! ¡Espagueti con la trompa!\n[Verse]\n¡Uy! ¡Salsa por todos lados!\nMamá le limpia la carita.\nGira y gira el tenedor.\n¡Ñam! Un bocado limpiecito.\n[Chorus]\n¡Plato limpio! ¡Gracias, mamá!\n¡En la mesa, con tenedor!\n[Outro]\n¿Uno más? ¡Slurp!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_mesa_song_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Slurp, slurp! ¡Espagueti con la trompa!\n[Verse]\n¡Uy! ¡Salsa por todos lados!\nMamá le limpia la carita.\nGira y gira el tenedor.\n¡Ñam! Un bocado limpiecito.\n[Chorus]\n¡Plato limpio! ¡Gracias, mamá!\n¡En la mesa, con tenedor!\n[Outro]\n¿Uno más? ¡Slurp!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_mesa_song_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Slurp, slurp! ¡Espagueti con la trompa!\n[Verse]\n¡Uy! ¡Salsa por todos lados!\nMamá le limpia la carita.\nGira y gira el tenedor.\n¡Ñam! Un bocado limpiecito.\n[Chorus]\n¡Plato limpio! ¡Gracias, mamá!\n¡En la mesa, con tenedor!\n[Outro]\n¿Uno más? ¡Slurp!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_mesa_song_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Slurp, slurp! ¡Espagueti con la trompa!\n[Verse]\n¡Uy! ¡Salsa por todos lados!\nMamá le limpia la carita.\nGira y gira el tenedor.\n¡Ñam! Un bocado limpiecito.\n[Chorus]\n¡Plato limpio! ¡Gracias, mamá!\n¡En la mesa, con tenedor!\n[Outro]\n¿Uno más? ¡Slurp!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_mesa_song_s6",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Slurp, slurp! ¡Espagueti con la trompa!\n[Verse]\n¡Uy! ¡Salsa por todos lados!\nMamá le limpia la carita.\nGira y gira el tenedor.\n¡Ñam! Un bocado limpiecito.\n[Chorus]\n¡Plato limpio! ¡Gracias, mamá!\n¡En la mesa, con tenedor!\n[Outro]\n¿Uno más? ¡Slurp!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 6,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_mesa_song_s7",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Slurp, slurp! ¡Espagueti con la trompa!\n[Verse]\n¡Uy! ¡Salsa por todos lados!\nMamá le limpia la carita.\nGira y gira el tenedor.\n¡Ñam! Un bocado limpiecito.\n[Chorus]\n¡Plato limpio! ¡Gracias, mamá!\n¡En la mesa, con tenedor!\n[Outro]\n¿Uno más? ¡Slurp!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 7,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_mesa_song_s8",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Slurp, slurp! ¡Espagueti con la trompa!\n[Verse]\n¡Uy! ¡Salsa por todos lados!\nMamá le limpia la carita.\nGira y gira el tenedor.\n¡Ñam! Un bocado limpiecito.\n[Chorus]\n¡Plato limpio! ¡Gracias, mamá!\n¡En la mesa, con tenedor!\n[Outro]\n¿Uno más? ¡Slurp!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 26,
+  "seed": 8,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ }
+]
