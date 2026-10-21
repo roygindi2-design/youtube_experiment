@@ -57,3 +57,6 @@ See production/dossiers/tito_paraguas.md.
 ## Changes 21.10 04:20 (producer feedback _general.md)
 - The yellow chick saying "pío, pío" was replaced by a little grey bunny ("¡Ay, ay! El conejito se moja") — a yellow chick + "pío" is too close to the well-known character El Pollito Pío (IP rule).
 - `song_seconds: 32` (8 lines); the twist (ears as umbrella) lands at ~12–15 s.
+
+## Update 21.10 14:20 — liquid & life rules (producer _general.md)
+- No frozen splash in a keyframe: frames show the moment BEFORE; the splash/flow happens in `motion`. Sleeping/static shots get life (breathing blanket, twinkling stars).

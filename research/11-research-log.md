@@ -159,3 +159,7 @@
 ### 21.10.2026 ~15:00 UTC — Roy אישר: פרק ארוך ראשון
 - **tito_ep3_dormir** — "¿Qué es eso? ¡Tito no puede dormir! + Más Canciones Infantiles". 16:9, שיר ~2:30 (3 בתים + אותו פזמון ×3), 20 שוטים ייחודיים, ואחריו קומפילציה (8–10 דק'). 3 Shorts ייגזרו ממנו. preflight עבר → script_ready (עדיפות 1).
 - tito_dormir (Short) הוחלף על ידי הפרק הזה.
+
+### ריצה 9 — 21.10.2026 14:08 UTC
+- **ניסוי העלאה ידנית — סימן ראשון חיובי:** rescate (vMMAiXfyiOg) 4 צפיות ו-basura (G-gSjH36CLA) 2 צפיות, כשעה וחצי אחרי ההעלאה (Roy לא צופה). ההעלאות דרך ה-API מאתמול בלילה: 0–1. ספגטי עלה ל-7 (+5). עדיין מדגם קטן — ממשיכים לעקוב.
+- **יושמו כללי נוזלים חדשים** (`_general.md`): בלי splash קפוא ב-keyframe (paraguas U1/U7, frio_calor F7, arena A3), ושוטי שינה עם תנועה (ep3 K4/N16). preflight עבר.

@@ -57,3 +57,6 @@ See production/dossiers/rojito_arena.md.
 ## Changes 21.10 04:20 (producer feedback _general.md)
 - The sea turtle is PEACH-ORANGE with yellow hexagon spots and pale-yellow skin, not green — a smiling green sea turtle looks like Crush (Finding Nemo) (IP rule).
 - `song_seconds: 32`; the reveal lands at ~15–18 s.
+
+## Update 21.10 14:20 — liquid & life rules (producer _general.md)
+- No frozen splash in a keyframe: frames show the moment BEFORE; the splash/flow happens in `motion`. Sleeping/static shots get life (breathing blanket, twinkling stars).

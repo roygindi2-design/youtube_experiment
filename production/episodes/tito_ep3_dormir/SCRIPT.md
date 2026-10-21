@@ -127,3 +127,6 @@ night in every shot; lamp OFF (blue moonlight) at the start of each verse (N02-N
 ## Risks
 
 See production/dossiers/tito_ep3_dormir.md.
+
+## Update 21.10 14:20 — liquid & life rules (producer _general.md)
+- No frozen splash in a keyframe: frames show the moment BEFORE; the splash/flow happens in `motion`. Sleeping/static shots get life (breathing blanket, twinkling stars).
