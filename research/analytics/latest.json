@@ -1,20 +1,42 @@
 {
- "taken": "2026-10-21 11:41 UTC",
+ "taken": "2026-10-21 12:49 UTC",
  "channel": {
   "title": "Cantilandia",
   "id": "UCDwph5nbCbbl97Pu4gTyZUA",
   "subscribers": 0,
   "views": 5,
-  "videos": 13
+  "videos": 15
  },
  "videos": [
+  {
+   "id": "vMMAiXfyiOg",
+   "title": "¡Rojito al rescate del gatito! 🚒🐱 | #shorts | Canciones Para Niños | Cantilandia",
+   "published": "2026-10-21",
+   "privacy": "public",
+   "duration_s": 33,
+   "views": 2,
+   "likes": 0,
+   "comments": 0,
+   "retention_curve": []
+  },
+  {
+   "id": "G-gSjH36CLA",
+   "title": "¡Tito, la basura no va ahí! 🦆🗑️ | #shorts | Canciones Para Niños | Cantilandia",
+   "published": "2026-10-21",
+   "privacy": "public",
+   "duration_s": 33,
+   "views": 1,
+   "likes": 0,
+   "comments": 0,
+   "retention_curve": []
+  },
   {
    "id": "l5anda4GTTI",
    "title": "¡Tito come espagueti con la trompa! 🍝🐘 | #shorts | Canciones Para Niños | Cantilandia",
    "published": "2026-10-21",
    "privacy": "public",
    "duration_s": 35,
-   "views": 2,
+   "views": 4,
    "likes": 0,
    "comments": 0,
    "retention_curve": []
@@ -135,7 +157,7 @@
    "published": "2026-10-19",
    "privacy": "public",
    "duration_s": 128,
-   "views": 6,
+   "views": 8,
    "likes": 2,
    "comments": 0,
    "retention_curve": []
