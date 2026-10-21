@@ -1,0 +1,154 @@
+[
+ {
+  "id": "tito_ep4_halloween_loc_calle_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cozy little village street on Halloween night, wide 16:9 composition, camera at child eye level: three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Nobody is on the street."
+ },
+ {
+  "id": "tito_ep4_halloween_loc_calle_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cozy little village street on Halloween night, wide 16:9 composition, camera at child eye level: three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Nobody is on the street."
+ },
+ {
+  "id": "tito_ep4_halloween_loc_casa_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The round orange front door of a cozy little house on Halloween night, wide 16:9 composition, camera at child eye level: a warm lit doorway, a small glowing jack-o-lantern on the step, a wreath of autumn leaves, paper lanterns. Nobody is at the door."
+ },
+ {
+  "id": "tito_ep4_halloween_loc_casa_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The round orange front door of a cozy little house on Halloween night, wide 16:9 composition, camera at child eye level: a warm lit doorway, a small glowing jack-o-lantern on the step, a wreath of autumn leaves, paper lanterns. Nobody is at the door."
+ },
+ {
+  "id": "tito_ep4_halloween_song_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Es Halloween! ¡Tito es calabaza!\nCon su cubeta… ¡a pedir dulces!\n[Verse 1]\n¡Toc, toc, toc! ¿Quién abrirá?\n¿Quién es? ¿Quién es?\n¡Un gatito con sombrero! ¡Miau!\n¡Dulce o truco! ¡Un dulce!\n[Chorus]\n¡Dulce, dulce, Halloween!\n¡Gracias, gracias, qué feliz!\nUn dulce para ti, un dulce para mí…\n¡calabaza, a seguir!\n[Verse 2]\n¡Toc, toc, toc! ¿Quién abrirá?\n¿Quién es? ¿Quién es?\n¡Un murcielaguito! ¡Flap, flap!\n¡Dulce o truco! ¡Un dulce!\n[Chorus]\n¡Dulce, dulce, Halloween!\n¡Gracias, gracias, qué feliz!\nUn dulce para ti, un dulce para mí…\n¡calabaza, a seguir!\n[Verse 3]\nUn ratoncito sin dulces…\n¿Qué hará Tito? ¿Qué hará?\n¡Comparte su dulce! ¡Toma!\n¡Ahora los dos están felices!\n[Chorus]\n¡Dulce, dulce, Halloween!\n¡Gracias, gracias, qué feliz!\nUn dulce para ti, un dulce para mí…\n¡calabaza, a seguir!\n[Outro]\nEn casa… ¡a cepillar los dientes!\n¡Feliz Halloween! ¡Buuu!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 110 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 150,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 110,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_song_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Es Halloween! ¡Tito es calabaza!\nCon su cubeta… ¡a pedir dulces!\n[Verse 1]\n¡Toc, toc, toc! ¿Quién abrirá?\n¿Quién es? ¿Quién es?\n¡Un gatito con sombrero! ¡Miau!\n¡Dulce o truco! ¡Un dulce!\n[Chorus]\n¡Dulce, dulce, Halloween!\n¡Gracias, gracias, qué feliz!\nUn dulce para ti, un dulce para mí…\n¡calabaza, a seguir!\n[Verse 2]\n¡Toc, toc, toc! ¿Quién abrirá?\n¿Quién es? ¿Quién es?\n¡Un murcielaguito! ¡Flap, flap!\n¡Dulce o truco! ¡Un dulce!\n[Chorus]\n¡Dulce, dulce, Halloween!\n¡Gracias, gracias, qué feliz!\nUn dulce para ti, un dulce para mí…\n¡calabaza, a seguir!\n[Verse 3]\nUn ratoncito sin dulces…\n¿Qué hará Tito? ¿Qué hará?\n¡Comparte su dulce! ¡Toma!\n¡Ahora los dos están felices!\n[Chorus]\n¡Dulce, dulce, Halloween!\n¡Gracias, gracias, qué feliz!\nUn dulce para ti, un dulce para mí…\n¡calabaza, a seguir!\n[Outro]\nEn casa… ¡a cepillar los dientes!\n¡Feliz Halloween! ¡Buuu!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 110 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 150,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 110,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_song_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Es Halloween! ¡Tito es calabaza!\nCon su cubeta… ¡a pedir dulces!\n[Verse 1]\n¡Toc, toc, toc! ¿Quién abrirá?\n¿Quién es? ¿Quién es?\n¡Un gatito con sombrero! ¡Miau!\n¡Dulce o truco! ¡Un dulce!\n[Chorus]\n¡Dulce, dulce, Halloween!\n¡Gracias, gracias, qué feliz!\nUn dulce para ti, un dulce para mí…\n¡calabaza, a seguir!\n[Verse 2]\n¡Toc, toc, toc! ¿Quién abrirá?\n¿Quién es? ¿Quién es?\n¡Un murcielaguito! ¡Flap, flap!\n¡Dulce o truco! ¡Un dulce!\n[Chorus]\n¡Dulce, dulce, Halloween!\n¡Gracias, gracias, qué feliz!\nUn dulce para ti, un dulce para mí…\n¡calabaza, a seguir!\n[Verse 3]\nUn ratoncito sin dulces…\n¿Qué hará Tito? ¿Qué hará?\n¡Comparte su dulce! ¡Toma!\n¡Ahora los dos están felices!\n[Chorus]\n¡Dulce, dulce, Halloween!\n¡Gracias, gracias, qué feliz!\nUn dulce para ti, un dulce para mí…\n¡calabaza, a seguir!\n[Outro]\nEn casa… ¡a cepillar los dientes!\n¡Feliz Halloween! ¡Buuu!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 110 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 150,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 110,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_song_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Es Halloween! ¡Tito es calabaza!\nCon su cubeta… ¡a pedir dulces!\n[Verse 1]\n¡Toc, toc, toc! ¿Quién abrirá?\n¿Quién es? ¿Quién es?\n¡Un gatito con sombrero! ¡Miau!\n¡Dulce o truco! ¡Un dulce!\n[Chorus]\n¡Dulce, dulce, Halloween!\n¡Gracias, gracias, qué feliz!\nUn dulce para ti, un dulce para mí…\n¡calabaza, a seguir!\n[Verse 2]\n¡Toc, toc, toc! ¿Quién abrirá?\n¿Quién es? ¿Quién es?\n¡Un murcielaguito! ¡Flap, flap!\n¡Dulce o truco! ¡Un dulce!\n[Chorus]\n¡Dulce, dulce, Halloween!\n¡Gracias, gracias, qué feliz!\nUn dulce para ti, un dulce para mí…\n¡calabaza, a seguir!\n[Verse 3]\nUn ratoncito sin dulces…\n¿Qué hará Tito? ¿Qué hará?\n¡Comparte su dulce! ¡Toma!\n¡Ahora los dos están felices!\n[Chorus]\n¡Dulce, dulce, Halloween!\n¡Gracias, gracias, qué feliz!\nUn dulce para ti, un dulce para mí…\n¡calabaza, a seguir!\n[Outro]\nEn casa… ¡a cepillar los dientes!\n¡Feliz Halloween! ¡Buuu!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 110 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 150,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 110,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_song_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Es Halloween! ¡Tito es calabaza!\nCon su cubeta… ¡a pedir dulces!\n[Verse 1]\n¡Toc, toc, toc! ¿Quién abrirá?\n¿Quién es? ¿Quién es?\n¡Un gatito con sombrero! ¡Miau!\n¡Dulce o truco! ¡Un dulce!\n[Chorus]\n¡Dulce, dulce, Halloween!\n¡Gracias, gracias, qué feliz!\nUn dulce para ti, un dulce para mí…\n¡calabaza, a seguir!\n[Verse 2]\n¡Toc, toc, toc! ¿Quién abrirá?\n¿Quién es? ¿Quién es?\n¡Un murcielaguito! ¡Flap, flap!\n¡Dulce o truco! ¡Un dulce!\n[Chorus]\n¡Dulce, dulce, Halloween!\n¡Gracias, gracias, qué feliz!\nUn dulce para ti, un dulce para mí…\n¡calabaza, a seguir!\n[Verse 3]\nUn ratoncito sin dulces…\n¿Qué hará Tito? ¿Qué hará?\n¡Comparte su dulce! ¡Toma!\n¡Ahora los dos están felices!\n[Chorus]\n¡Dulce, dulce, Halloween!\n¡Gracias, gracias, qué feliz!\nUn dulce para ti, un dulce para mí…\n¡calabaza, a seguir!\n[Outro]\nEn casa… ¡a cepillar los dientes!\n¡Feliz Halloween! ¡Buuu!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 110 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 150,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 110,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_song_s6",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Es Halloween! ¡Tito es calabaza!\nCon su cubeta… ¡a pedir dulces!\n[Verse 1]\n¡Toc, toc, toc! ¿Quién abrirá?\n¿Quién es? ¿Quién es?\n¡Un gatito con sombrero! ¡Miau!\n¡Dulce o truco! ¡Un dulce!\n[Chorus]\n¡Dulce, dulce, Halloween!\n¡Gracias, gracias, qué feliz!\nUn dulce para ti, un dulce para mí…\n¡calabaza, a seguir!\n[Verse 2]\n¡Toc, toc, toc! ¿Quién abrirá?\n¿Quién es? ¿Quién es?\n¡Un murcielaguito! ¡Flap, flap!\n¡Dulce o truco! ¡Un dulce!\n[Chorus]\n¡Dulce, dulce, Halloween!\n¡Gracias, gracias, qué feliz!\nUn dulce para ti, un dulce para mí…\n¡calabaza, a seguir!\n[Verse 3]\nUn ratoncito sin dulces…\n¿Qué hará Tito? ¿Qué hará?\n¡Comparte su dulce! ¡Toma!\n¡Ahora los dos están felices!\n[Chorus]\n¡Dulce, dulce, Halloween!\n¡Gracias, gracias, qué feliz!\nUn dulce para ti, un dulce para mí…\n¡calabaza, a seguir!\n[Outro]\nEn casa… ¡a cepillar los dientes!\n¡Feliz Halloween! ¡Buuu!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 110 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 150,
+  "seed": 6,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 110,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_song_s7",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Es Halloween! ¡Tito es calabaza!\nCon su cubeta… ¡a pedir dulces!\n[Verse 1]\n¡Toc, toc, toc! ¿Quién abrirá?\n¿Quién es? ¿Quién es?\n¡Un gatito con sombrero! ¡Miau!\n¡Dulce o truco! ¡Un dulce!\n[Chorus]\n¡Dulce, dulce, Halloween!\n¡Gracias, gracias, qué feliz!\nUn dulce para ti, un dulce para mí…\n¡calabaza, a seguir!\n[Verse 2]\n¡Toc, toc, toc! ¿Quién abrirá?\n¿Quién es? ¿Quién es?\n¡Un murcielaguito! ¡Flap, flap!\n¡Dulce o truco! ¡Un dulce!\n[Chorus]\n¡Dulce, dulce, Halloween!\n¡Gracias, gracias, qué feliz!\nUn dulce para ti, un dulce para mí…\n¡calabaza, a seguir!\n[Verse 3]\nUn ratoncito sin dulces…\n¿Qué hará Tito? ¿Qué hará?\n¡Comparte su dulce! ¡Toma!\n¡Ahora los dos están felices!\n[Chorus]\n¡Dulce, dulce, Halloween!\n¡Gracias, gracias, qué feliz!\nUn dulce para ti, un dulce para mí…\n¡calabaza, a seguir!\n[Outro]\nEn casa… ¡a cepillar los dientes!\n¡Feliz Halloween! ¡Buuu!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 110 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 150,
+  "seed": 7,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 110,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_song_s8",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Es Halloween! ¡Tito es calabaza!\nCon su cubeta… ¡a pedir dulces!\n[Verse 1]\n¡Toc, toc, toc! ¿Quién abrirá?\n¿Quién es? ¿Quién es?\n¡Un gatito con sombrero! ¡Miau!\n¡Dulce o truco! ¡Un dulce!\n[Chorus]\n¡Dulce, dulce, Halloween!\n¡Gracias, gracias, qué feliz!\nUn dulce para ti, un dulce para mí…\n¡calabaza, a seguir!\n[Verse 2]\n¡Toc, toc, toc! ¿Quién abrirá?\n¿Quién es? ¿Quién es?\n¡Un murcielaguito! ¡Flap, flap!\n¡Dulce o truco! ¡Un dulce!\n[Chorus]\n¡Dulce, dulce, Halloween!\n¡Gracias, gracias, qué feliz!\nUn dulce para ti, un dulce para mí…\n¡calabaza, a seguir!\n[Verse 3]\nUn ratoncito sin dulces…\n¿Qué hará Tito? ¿Qué hará?\n¡Comparte su dulce! ¡Toma!\n¡Ahora los dos están felices!\n[Chorus]\n¡Dulce, dulce, Halloween!\n¡Gracias, gracias, qué feliz!\nUn dulce para ti, un dulce para mí…\n¡calabaza, a seguir!\n[Outro]\nEn casa… ¡a cepillar los dientes!\n¡Feliz Halloween! ¡Buuu!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 110 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 150,
+  "seed": 8,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 110,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ }
+]
