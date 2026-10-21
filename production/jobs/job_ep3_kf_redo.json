@@ -1,0 +1,221 @@
+[
+ {
+  "id": "tito_ep3_dormir_N03_kfR303",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 303,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle from the foot of the bed looking up at the navy-blue wall at night: a HUGE plain flat dark-purple silhouette on the wall above the bed, shaped exactly like a toy giraffe: a very long thin neck, a small round head and two tiny knob horns, smooth and featureless like a paper cut-out shadow. The baby elephant is small at the bottom of the frame, peeking over the edge of his starry blanket and looking up at the silhouette. The main action is in the CENTER of the frame. The bedside lamp is switched off and the room is lit only by soft cool blue moonlight from the window. The baby elephant from the first reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: A cozy child's bedroom at night, navy-blue walls with small painted golden stars, a small wooden bed in the center with a navy blanket covered in little yellow stars, a wooden nightstand with a small round warm lamp, a low shelf with toys, a round window on the right showing a big friendly glowing moon and a leafy tree branch, soft blue moonlight. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_N03_kfR404",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 404,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle from the foot of the bed looking up at the navy-blue wall at night: a HUGE plain flat dark-purple silhouette on the wall above the bed, shaped exactly like a toy giraffe: a very long thin neck, a small round head and two tiny knob horns, smooth and featureless like a paper cut-out shadow. The baby elephant is small at the bottom of the frame, peeking over the edge of his starry blanket and looking up at the silhouette. The main action is in the CENTER of the frame. The bedside lamp is switched off and the room is lit only by soft cool blue moonlight from the window. The baby elephant from the first reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: A cozy child's bedroom at night, navy-blue walls with small painted golden stars, a small wooden bed in the center with a navy blanket covered in little yellow stars, a wooden nightstand with a small round warm lamp, a low shelf with toys, a round window on the right showing a big friendly glowing moon and a leafy tree branch, soft blue moonlight. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_N03_kfR505",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 505,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle from the foot of the bed looking up at the navy-blue wall at night: a HUGE plain flat dark-purple silhouette on the wall above the bed, shaped exactly like a toy giraffe: a very long thin neck, a small round head and two tiny knob horns, smooth and featureless like a paper cut-out shadow. The baby elephant is small at the bottom of the frame, peeking over the edge of his starry blanket and looking up at the silhouette. The main action is in the CENTER of the frame. The bedside lamp is switched off and the room is lit only by soft cool blue moonlight from the window. The baby elephant from the first reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: A cozy child's bedroom at night, navy-blue walls with small painted golden stars, a small wooden bed in the center with a navy blanket covered in little yellow stars, a wooden nightstand with a small round warm lamp, a low shelf with toys, a round window on the right showing a big friendly glowing moon and a leafy tree branch, soft blue moonlight. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_N04_kfR303",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 303,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Extreme close-up of the baby elephant's face in bed at night: only his big glossy eyes and the tips of his ears peek over the edge of the navy blanket with yellow stars, his eyes wide, looking up, soft blue moonlight on him. The main action is in the CENTER of the frame. The bedside lamp is switched off and the room is lit only by soft cool blue moonlight from the window. The baby elephant from the first reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: A cozy child's bedroom at night, navy-blue walls with small painted golden stars, a small wooden bed in the center with a navy blanket covered in little yellow stars, a wooden nightstand with a small round warm lamp, a low shelf with toys, a round window on the right showing a big friendly glowing moon and a leafy tree branch, soft blue moonlight. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_N04_kfR404",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 404,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Extreme close-up of the baby elephant's face in bed at night: only his big glossy eyes and the tips of his ears peek over the edge of the navy blanket with yellow stars, his eyes wide, looking up, soft blue moonlight on him. The main action is in the CENTER of the frame. The bedside lamp is switched off and the room is lit only by soft cool blue moonlight from the window. The baby elephant from the first reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: A cozy child's bedroom at night, navy-blue walls with small painted golden stars, a small wooden bed in the center with a navy blanket covered in little yellow stars, a wooden nightstand with a small round warm lamp, a low shelf with toys, a round window on the right showing a big friendly glowing moon and a leafy tree branch, soft blue moonlight. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_N04_kfR505",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 505,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Extreme close-up of the baby elephant's face in bed at night: only his big glossy eyes and the tips of his ears peek over the edge of the navy blanket with yellow stars, his eyes wide, looking up, soft blue moonlight on him. The main action is in the CENTER of the frame. The bedside lamp is switched off and the room is lit only by soft cool blue moonlight from the window. The baby elephant from the first reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: A cozy child's bedroom at night, navy-blue walls with small painted golden stars, a small wooden bed in the center with a navy blanket covered in little yellow stars, a wooden nightstand with a small round warm lamp, a low shelf with toys, a round window on the right showing a big friendly glowing moon and a leafy tree branch, soft blue moonlight. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_N02_kfR303",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 303,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Extreme close-up of a small round bedside lamp on a wooden nightstand at night, its round button at the base; the soft rounded tip of a small powder-blue elephant trunk reaches in from the right edge of the frame and presses the button; the lamp glow is dimming and the background is a navy-blue wall with small painted golden stars. An empty quiet scene with only the lamp and the trunk tip. The main action is in the CENTER of the frame. Wide 16:9 frame."
+ },
+ {
+  "id": "tito_ep3_dormir_N02_kfR404",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 404,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Extreme close-up of a small round bedside lamp on a wooden nightstand at night, its round button at the base; the soft rounded tip of a small powder-blue elephant trunk reaches in from the right edge of the frame and presses the button; the lamp glow is dimming and the background is a navy-blue wall with small painted golden stars. An empty quiet scene with only the lamp and the trunk tip. The main action is in the CENTER of the frame. Wide 16:9 frame."
+ },
+ {
+  "id": "tito_ep3_dormir_N02_kfR505",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 505,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Extreme close-up of a small round bedside lamp on a wooden nightstand at night, its round button at the base; the soft rounded tip of a small powder-blue elephant trunk reaches in from the right edge of the frame and presses the button; the lamp glow is dimming and the background is a navy-blue wall with small painted golden stars. An empty quiet scene with only the lamp and the trunk tip. The main action is in the CENTER of the frame. Wide 16:9 frame."
+ },
+ {
+  "id": "tito_ep3_dormir_N07_kfR303",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 303,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up of a round wooden bedroom window from inside at night: a leafy tree branch outside taps against the glass, and a small round fluffy owl silhouette sits on the branch, softly backlit by the big friendly glowing moon, cool blue light. A calm quiet scene with only the window, the branch and the small owl silhouette. The main action is in the CENTER of the frame. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep3_ventana.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_N07_kfR404",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 404,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up of a round wooden bedroom window from inside at night: a leafy tree branch outside taps against the glass, and a small round fluffy owl silhouette sits on the branch, softly backlit by the big friendly glowing moon, cool blue light. A calm quiet scene with only the window, the branch and the small owl silhouette. The main action is in the CENTER of the frame. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep3_ventana.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_N07_kfR505",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 505,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up of a round wooden bedroom window from inside at night: a leafy tree branch outside taps against the glass, and a small round fluffy owl silhouette sits on the branch, softly backlit by the big friendly glowing moon, cool blue light. A calm quiet scene with only the window, the branch and the small owl silhouette. The main action is in the CENTER of the frame. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep3_ventana.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_N09_kfR303",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 303,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot inside the bedroom at night: Mamá Elefanta stands at the one big round window of the bedroom and pushes it open with her trunk, the round window swinging outward, cool moonlight and a soft breeze coming in, a leafy tree branch right outside; the baby elephant sits in his bed beside her and watches. The main action is in the CENTER of the frame. The baby elephant from the first reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Mamá Elefanta from the second reference image, exactly the same character design: MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear. Exactly two elephants in the picture: the small baby and his taller mother. Setting: A cozy child's bedroom at night, navy-blue walls with small painted golden stars, a small wooden bed in the center with a navy blanket covered in little yellow stars, a wooden nightstand with a small round warm lamp, a low shelf with toys, a round window on the right showing a big friendly glowing moon and a leafy tree branch, soft blue moonlight. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_N09_kfR404",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 404,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot inside the bedroom at night: Mamá Elefanta stands at the one big round window of the bedroom and pushes it open with her trunk, the round window swinging outward, cool moonlight and a soft breeze coming in, a leafy tree branch right outside; the baby elephant sits in his bed beside her and watches. The main action is in the CENTER of the frame. The baby elephant from the first reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Mamá Elefanta from the second reference image, exactly the same character design: MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear. Exactly two elephants in the picture: the small baby and his taller mother. Setting: A cozy child's bedroom at night, navy-blue walls with small painted golden stars, a small wooden bed in the center with a navy blanket covered in little yellow stars, a wooden nightstand with a small round warm lamp, a low shelf with toys, a round window on the right showing a big friendly glowing moon and a leafy tree branch, soft blue moonlight. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_N09_kfR505",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 505,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot inside the bedroom at night: Mamá Elefanta stands at the one big round window of the bedroom and pushes it open with her trunk, the round window swinging outward, cool moonlight and a soft breeze coming in, a leafy tree branch right outside; the baby elephant sits in his bed beside her and watches. The main action is in the CENTER of the frame. The baby elephant from the first reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Mamá Elefanta from the second reference image, exactly the same character design: MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear. Exactly two elephants in the picture: the small baby and his taller mother. Setting: A cozy child's bedroom at night, navy-blue walls with small painted golden stars, a small wooden bed in the center with a navy blanket covered in little yellow stars, a wooden nightstand with a small round warm lamp, a low shelf with toys, a round window on the right showing a big friendly glowing moon and a leafy tree branch, soft blue moonlight. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_N14_kfR303",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 303,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle on the wooden floor under a small bed at night, lit by a bright yellow flashlight beam from the left: a small simple shiny red toy fire truck with a little white ladder lies on the floor, a plain toy with a smooth front, a grille and two round headlights glowing yellow, a few dust bunnies around it. An empty quiet scene with only objects. The main action is in the CENTER of the frame. Wide 16:9 frame."
+ },
+ {
+  "id": "tito_ep3_dormir_N14_kfR404",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 404,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle on the wooden floor under a small bed at night, lit by a bright yellow flashlight beam from the left: a small simple shiny red toy fire truck with a little white ladder lies on the floor, a plain toy with a smooth front, a grille and two round headlights glowing yellow, a few dust bunnies around it. An empty quiet scene with only objects. The main action is in the CENTER of the frame. Wide 16:9 frame."
+ },
+ {
+  "id": "tito_ep3_dormir_N14_kfR505",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 505,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle on the wooden floor under a small bed at night, lit by a bright yellow flashlight beam from the left: a small simple shiny red toy fire truck with a little white ladder lies on the floor, a plain toy with a smooth front, a grille and two round headlights glowing yellow, a few dust bunnies around it. An empty quiet scene with only objects. The main action is in the CENTER of the frame. Wide 16:9 frame."
+ }
+]

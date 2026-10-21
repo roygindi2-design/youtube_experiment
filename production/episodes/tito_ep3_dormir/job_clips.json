@@ -1,0 +1,534 @@
+[
+ {
+  "id": "tito_ep3_dormir_clipF_N01_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá pulls the starry blanket up gently and strokes his head; he smiles sleepily. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_ep3_N01.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_N01_s19",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá pulls the starry blanket up gently and strokes his head; he smiles sleepily. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_ep3_N01.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_N02_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The trunk tip presses the button and the warm glow fades to soft blue. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_ep3_N02.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_N02_s19",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The trunk tip presses the button and the warm glow fades to soft blue. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_ep3_N02.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_N03_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The huge long-neck shadow sways slowly on the wall; the baby elephant blinks. The huge flat shadow on the wall sways slowly left and right like a gentle giraffe; the baby elephant blinks and slowly pulls the blanket up. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_ep3_N03.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_N03_s19",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The huge long-neck shadow sways slowly on the wall; the baby elephant blinks. The huge flat shadow on the wall sways slowly left and right like a gentle giraffe; the baby elephant blinks and slowly pulls the blanket up. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_ep3_N03.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_N04_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His eyes dart left and right, then he pulls the blanket up to his nose. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_ep3_N04.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_N04_s19",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His eyes dart left and right, then he pulls the blanket up to his nose. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_ep3_N04.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_N05_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá switches on the lamp and warm golden light spreads over the room. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_ep3_N05.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_N05_s19",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá switches on the lamp and warm golden light spreads over the room. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_ep3_N05.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_N06_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá wiggles the plush giraffe and the giraffe shadow on the wall wiggles the same way. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_ep3_N06.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_N06_s19",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá wiggles the plush giraffe and the giraffe shadow on the wall wiggles the same way. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_ep3_N06.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_K1_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He lifts his trunk high and trumpets, bouncing a little with joy. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_ep3_K1.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_K1_s19",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He lifts his trunk high and trumpets, bouncing a little with joy. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_ep3_K1.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_K2_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He squeezes the plush giraffe in a cozy hug and sways gently. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_ep3_K2.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_K2_s19",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He squeezes the plush giraffe in a cozy hug and sways gently. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_ep3_K2.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_K3_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He breathes in slowly, his tummy rises, then he breathes out and relaxes. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_ep3_K3.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_K3_s19",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He breathes in slowly, his tummy rises, then he breathes out and relaxes. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_ep3_K3.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_K4_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His eyes slowly close, the blanket rises and falls with his slow breathing and he snuggles deeper. His blanket rises and falls gently with his slow breathing. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_ep3_K4.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_K4_s19",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His eyes slowly close, the blanket rises and falls with his slow breathing and he snuggles deeper. His blanket rises and falls gently with his slow breathing. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_ep3_K4.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_N07_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The dark shape taps on the glass, tap, tap, tap. The leafy branch taps the glass three times, tap, tap, tap; the leaves sway in the breeze; the moon glows. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_ep3_N07.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_N07_s19",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The dark shape taps on the glass, tap, tap, tap. The leafy branch taps the glass three times, tap, tap, tap; the leaves sway in the breeze; the moon glows. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_ep3_N07.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_N09_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá swings the round window open and the curtain flutters in the breeze. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_ep3_N09.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_N09_s19",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá swings the round window open and the curtain flutters in the breeze. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_ep3_N09.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_N10_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The owl blinks its big orange eyes, hoots and fluffs its feathers. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_ep3_N10.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_N10_s19",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The owl blinks its big orange eyes, hoots and fluffs its feathers. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_ep3_N10.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_N11_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The two little lights glow softly under the bed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_ep3_N11.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_N11_s19",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The two little lights glow softly under the bed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_ep3_N11.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_N12_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He leans over the edge slowly and looks down, brave. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_ep3_N12.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_N12_s19",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He leans over the edge slowly and looks down, brave. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_ep3_N12.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_N13_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The flashlight clicks on and a bright beam shines forward. A bright cone of light shines out from the small flashlight in his trunk and sweeps forward. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_ep3_N13.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_N13_s19",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The flashlight clicks on and a bright beam shines forward. A bright cone of light shines out from the small flashlight in his trunk and sweeps forward. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_ep3_N13.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_N14_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The flashlight beam lands on the toy fire truck and its headlights glint. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_ep3_N14.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_N14_s19",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The flashlight beam lands on the toy fire truck and its headlights glint. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_ep3_N14.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_N15_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He waves goodnight with his trunk and yawns a big sleepy yawn. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_ep3_N15.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_N15_s19",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He waves goodnight with his trunk and yawns a big sleepy yawn. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_ep3_N15.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_N16_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The stars twinkle, the moon's glow pulses softly, the owl blinks slowly and the sleeping baby elephant's blanket rises and falls with his breathing. The moon glows softly and slowly blinks, the stars twinkle, the owl tucks its head, the baby elephant slowly closes his eyes. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_ep3_N16.jpg"
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_clipF_N16_s19",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The stars twinkle, the moon's glow pulses softly, the owl blinks slowly and the sleeping baby elephant's blanket rises and falls with his breathing. The moon glows softly and slowly blinks, the stars twinkle, the owl tucks its head, the baby elephant slowly closes his eyes. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_ep3_N16.jpg"
+  }
+ }
+]
