@@ -1,0 +1,91 @@
+{
+ "out": "production/episodes/tito_halloween/build/tito_halloween.mp4",
+ "fps": 30,
+ "size": [
+  1080,
+  1920
+ ],
+ "burn_captions": false,
+ "song": {
+  "file": "production/episodes/tito_halloween/assets/song.wav",
+  "start": 0.0,
+  "gain_db": 0
+ },
+ "shots": [
+  {
+   "file": "production/episodes/tito_halloween/shots_v2/tito_halloween_clip2_H1_s7.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "H1@7"
+  },
+  {
+   "file": "production/episodes/tito_halloween/shots_v2/tito_halloween_clip2_H2_s31.mp4",
+   "in": 0.06,
+   "dur": 4.3,
+   "speed": 0.926,
+   "src_len": 3.982,
+   "shot": "H2@31"
+  },
+  {
+   "file": "production/episodes/tito_halloween/shots_v2/tito_halloween_clip2_H3_s31.mp4",
+   "in": 0.06,
+   "dur": 3.4,
+   "speed": 1.0,
+   "src_len": 3.4,
+   "shot": "H3@31"
+  },
+  {
+   "file": "production/episodes/tito_halloween/shots_v2/tito_halloween_clip2_H4_s19.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "H4@19"
+  },
+  {
+   "file": "production/episodes/tito_halloween/shots_v2/tito_halloween_clip2_H4_s19.mp4",
+   "in": 2.2,
+   "dur": 1.8,
+   "speed": 1.0,
+   "src_len": 1.8,
+   "shot": "H4@19",
+   "reverse": true
+  },
+  {
+   "file": "production/episodes/tito_halloween/shots_v2/tito_halloween_clip2_H5_s19.mp4",
+   "in": 0.06,
+   "dur": 2.9,
+   "speed": 1.0,
+   "src_len": 2.9,
+   "shot": "H5@19"
+  },
+  {
+   "file": "production/episodes/tito_halloween/shots_v2/tito_halloween_clip2_H6_s31.mp4",
+   "in": 0.06,
+   "dur": 3.1,
+   "speed": 1.0,
+   "src_len": 3.1,
+   "shot": "H6@31"
+  },
+  {
+   "file": "production/episodes/tito_halloween/shots_v2/tito_halloween_clip2_H7_s19.mp4",
+   "in": 0.06,
+   "dur": 2.8,
+   "speed": 1.0,
+   "src_len": 2.8,
+   "shot": "H7@19"
+  },
+  {
+   "file": "production/episodes/tito_halloween/shots_v2/tito_halloween_clip2_H8_s19.mp4",
+   "in": 0.06,
+   "dur": 2.7,
+   "speed": 1.0,
+   "src_len": 2.7,
+   "shot": "H8@19"
+  }
+ ],
+ "sfx": [],
+ "lines": []
+}

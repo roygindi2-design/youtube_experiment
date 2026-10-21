@@ -91,5 +91,19 @@
   "opening": "cold_open_mid_action_side_splash",
   "pattern": "overcome_fear",
   "experiment": "self-solve twist (hero solves with his own ability) + low side-view opening instead of front close-up"
+ },
+ {
+  "id": "tito_halloween",
+  "youtube_id": "ciFVmSg0KBw",
+  "date": "2026-10-21",
+  "world": "cozy autumn night: porch with glowing smiling jack-o-lanterns, orange and purple fairy lights + warm bathroom-mirror corner",
+  "series": [
+   "tito",
+   "habitos"
+  ],
+  "uploaded_utc": "02:50",
+  "opening": "costume_backwards_gag",
+  "pattern": "lesson_consequence",
+  "experiment": "seasonal topic (Halloween) + costume gag opening; first video with a third character (the friendly ghost)"
  }
 ]

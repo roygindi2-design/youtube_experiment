@@ -33,13 +33,14 @@
   },
   {
    "id": "tito_halloween",
-   "status": "in_production",
+   "status": "published",
    "owner": "producer",
-   "note": "director mode rewrite done; keyframes next"
+   "note": "director mode rewrite done; keyframes next",
+   "youtube_id": "ciFVmSg0KBw"
   },
   {
    "id": "rojito_ruedas",
-   "status": "in_production",
+   "status": "qc",
    "owner": "producer",
    "note": "redo of unlisted ep1 in director mode"
   },
