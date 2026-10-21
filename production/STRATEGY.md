@@ -166,3 +166,10 @@
 **השערות:** (1) ערוץ חדש = חשיפה נמוכה — **נתמכת** (כל סרטון נעצר אחרי הצפיות הראשונות). (2) ידני > API — תמיכה חלשה, צריך 24h. (3) סיפור > ישן — תמיכה חלשה. (4) שער כותרת — לא עוזר. (5) Rojito — חלש מ-Tito.
 **מה יצדיק חידוש הפקה:** basura מגיע ל-10+ צפיות עד 22.10 13:00 UTC (+24h) בלי צפיות של Roy, או ש-Analytics מראה תנועה מ-Shorts feed / Browse. אז: **ראשון tito_ep2** (מוכן, Roy מעלה ידנית), אחריו הפקת tito_ep3_dormir.
 **פתוח ל-Roy:** למה rescate הפך ל-private?
+
+### Analysis meeting 9 — 21.10.2026 20:47 UTC (23:47 Israel) — analysis only
+**Data (vs meeting 8, 16:48 UTC):** basura 4 (=), rescate 4 (still private), spaghetti 7 (=), bath 16, hands 14. **Counts went down:** episode 1 11→4, tower 10→7, socks 5→3 — YouTube removed views it doesn't count (most likely Roy's/ours). The real organic baseline is lower than we thought.
+**Analytics API:** still empty; a `video` + averageViewPercentage query without a filter is refused — needs `filters=video==ID` per video (fix for the next pull).
+**Hypotheses:** (1) manual vs API — no change in 4 hours, still not proven. (2) Story > old style — still holds (16/14 vs 2–7). (3) Low exposure for a new channel — supported; the view deduction strengthens it.
+**Production (Roy approved ep3):** tito_ep3_dormir is in final assembly; physics/trunk QC found and fixed: the Hook shadow, a curtain at the window, square frames that were being cropped. bano/mesa/basura/halloween/torre are out of "más canciones" (trunk/physics). The researcher's note (an N12 segment of 0.3 s) — being fixed.
+**Resume condition:** unchanged. Roy uploads ep3 manually; we measure 24 hours.

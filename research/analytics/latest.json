@@ -1,5 +1,5 @@
 {
- "taken": "2026-10-21 18:57 UTC",
+ "taken": "2026-10-21 20:46 UTC",
  "channel": {
   "title": "Cantilandia",
   "id": "UCDwph5nbCbbl97Pu4gTyZUA",
@@ -146,9 +146,12 @@
    "published": "2026-10-19",
    "privacy": "public",
    "duration_s": 39,
-   "views": 10,
+   "views": 7,
    "likes": 0,
    "comments": 0,
+   "estimatedMinutesWatched": 3,
+   "averageViewDuration": 65,
+   "averageViewPercentage": 167.74,
    "retention_curve": []
   },
   {
@@ -157,9 +160,12 @@
    "published": "2026-10-19",
    "privacy": "public",
    "duration_s": 128,
-   "views": 11,
+   "views": 4,
    "likes": 2,
    "comments": 0,
+   "estimatedMinutesWatched": 1,
+   "averageViewDuration": 15,
+   "averageViewPercentage": 12.5,
    "retention_curve": []
   },
   {
@@ -168,9 +174,12 @@
    "published": "2026-10-19",
    "privacy": "public",
    "duration_s": 38,
-   "views": 5,
+   "views": 3,
    "likes": 1,
    "comments": 0,
+   "estimatedMinutesWatched": 0,
+   "averageViewDuration": 9,
+   "averageViewPercentage": 23.82,
    "retention_curve": []
   },
   {
@@ -182,6 +191,9 @@
    "views": 2,
    "likes": 0,
    "comments": 0,
+   "estimatedMinutesWatched": 0,
+   "averageViewDuration": 4,
+   "averageViewPercentage": 15,
    "retention_curve": []
   },
   {
@@ -190,9 +202,12 @@
    "published": "2026-10-19",
    "privacy": "unlisted",
    "duration_s": 33,
-   "views": 7,
+   "views": 8,
    "likes": 1,
    "comments": 0,
+   "estimatedMinutesWatched": 2,
+   "averageViewDuration": 19,
+   "averageViewPercentage": 58.85,
    "retention_curve": []
   },
   {
@@ -204,6 +219,9 @@
    "views": 4,
    "likes": 1,
    "comments": 0,
+   "estimatedMinutesWatched": 0,
+   "averageViewDuration": 13,
+   "averageViewPercentage": 40.52,
    "retention_curve": []
   }
  ],
