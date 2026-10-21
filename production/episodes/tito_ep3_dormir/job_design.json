@@ -1,0 +1,154 @@
+[
+ {
+  "id": "tito_ep3_dormir_loc_cuarto_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cozy child's bedroom at night, wide 16:9 composition, camera at child eye level: navy-blue walls with small painted golden stars, a small wooden bed in the center with a navy blanket covered in little yellow stars, a wooden nightstand with a small round warm lamp, a low shelf with toys, a round window on the right showing a big friendly glowing moon and a leafy tree branch, soft blue moonlight. Nobody is in the bedroom."
+ },
+ {
+  "id": "tito_ep3_dormir_loc_cuarto_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cozy child's bedroom at night, wide 16:9 composition, camera at child eye level: navy-blue walls with small painted golden stars, a small wooden bed in the center with a navy blanket covered in little yellow stars, a wooden nightstand with a small round warm lamp, a low shelf with toys, a round window on the right showing a big friendly glowing moon and a leafy tree branch, soft blue moonlight. Nobody is in the bedroom."
+ },
+ {
+  "id": "tito_ep3_dormir_loc_ventana_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 401,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A round wooden bedroom window seen from outside at night, wide 16:9 composition, camera at child eye level: a big friendly glowing full moon above sleepy rounded blue hills, a leafy tree branch beside the window, twinkling stars in a deep navy sky, warm amber light glowing inside the round window. Nobody is at the window."
+ },
+ {
+  "id": "tito_ep3_dormir_loc_ventana_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 402,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A round wooden bedroom window seen from outside at night, wide 16:9 composition, camera at child eye level: a big friendly glowing full moon above sleepy rounded blue hills, a leafy tree branch beside the window, twinkling stars in a deep navy sky, warm amber light glowing inside the round window. Nobody is at the window."
+ },
+ {
+  "id": "tito_ep3_dormir_song_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\nBuenas noches, Tito. ¡A la cama!\nSe apaga la luz… ¡clic!\n[Verse 1]\n¡Uy! Una sombra en la pared…\n¿Qué es eso? ¿Qué es eso?\nMamá prende la luz… ¡clic!\n¡Es la jirafa! ¡Hola, jirafa!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos…\ny a dormir, chiquitito.\n[Verse 2]\n¡Toc, toc, toc! ¿Quién está en la ventana?\n¿Qué es eso? ¿Qué es eso?\nMamá abre la ventana…\n¡Es un búho! ¡Uh-uh, uh-uh!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos…\ny a dormir, chiquitito.\n[Verse 3]\nDos lucecitas bajo la cama…\n¿Qué es eso? ¿Qué es eso?\nTito prende la linterna… ¡clic!\n¡Es su camioncito! ¡Nii-noo!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos…\ny a dormir, chiquitito.\n[Outro]\nBuenas noches, jirafa. Buenas noches, búho.\nBuenas noches, luna… ¡Shhh!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 108 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 150,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 108,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_song_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\nBuenas noches, Tito. ¡A la cama!\nSe apaga la luz… ¡clic!\n[Verse 1]\n¡Uy! Una sombra en la pared…\n¿Qué es eso? ¿Qué es eso?\nMamá prende la luz… ¡clic!\n¡Es la jirafa! ¡Hola, jirafa!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos…\ny a dormir, chiquitito.\n[Verse 2]\n¡Toc, toc, toc! ¿Quién está en la ventana?\n¿Qué es eso? ¿Qué es eso?\nMamá abre la ventana…\n¡Es un búho! ¡Uh-uh, uh-uh!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos…\ny a dormir, chiquitito.\n[Verse 3]\nDos lucecitas bajo la cama…\n¿Qué es eso? ¿Qué es eso?\nTito prende la linterna… ¡clic!\n¡Es su camioncito! ¡Nii-noo!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos…\ny a dormir, chiquitito.\n[Outro]\nBuenas noches, jirafa. Buenas noches, búho.\nBuenas noches, luna… ¡Shhh!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 108 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 150,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 108,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_song_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\nBuenas noches, Tito. ¡A la cama!\nSe apaga la luz… ¡clic!\n[Verse 1]\n¡Uy! Una sombra en la pared…\n¿Qué es eso? ¿Qué es eso?\nMamá prende la luz… ¡clic!\n¡Es la jirafa! ¡Hola, jirafa!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos…\ny a dormir, chiquitito.\n[Verse 2]\n¡Toc, toc, toc! ¿Quién está en la ventana?\n¿Qué es eso? ¿Qué es eso?\nMamá abre la ventana…\n¡Es un búho! ¡Uh-uh, uh-uh!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos…\ny a dormir, chiquitito.\n[Verse 3]\nDos lucecitas bajo la cama…\n¿Qué es eso? ¿Qué es eso?\nTito prende la linterna… ¡clic!\n¡Es su camioncito! ¡Nii-noo!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos…\ny a dormir, chiquitito.\n[Outro]\nBuenas noches, jirafa. Buenas noches, búho.\nBuenas noches, luna… ¡Shhh!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 108 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 150,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 108,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_song_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\nBuenas noches, Tito. ¡A la cama!\nSe apaga la luz… ¡clic!\n[Verse 1]\n¡Uy! Una sombra en la pared…\n¿Qué es eso? ¿Qué es eso?\nMamá prende la luz… ¡clic!\n¡Es la jirafa! ¡Hola, jirafa!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos…\ny a dormir, chiquitito.\n[Verse 2]\n¡Toc, toc, toc! ¿Quién está en la ventana?\n¿Qué es eso? ¿Qué es eso?\nMamá abre la ventana…\n¡Es un búho! ¡Uh-uh, uh-uh!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos…\ny a dormir, chiquitito.\n[Verse 3]\nDos lucecitas bajo la cama…\n¿Qué es eso? ¿Qué es eso?\nTito prende la linterna… ¡clic!\n¡Es su camioncito! ¡Nii-noo!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos…\ny a dormir, chiquitito.\n[Outro]\nBuenas noches, jirafa. Buenas noches, búho.\nBuenas noches, luna… ¡Shhh!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 108 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 150,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 108,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_song_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\nBuenas noches, Tito. ¡A la cama!\nSe apaga la luz… ¡clic!\n[Verse 1]\n¡Uy! Una sombra en la pared…\n¿Qué es eso? ¿Qué es eso?\nMamá prende la luz… ¡clic!\n¡Es la jirafa! ¡Hola, jirafa!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos…\ny a dormir, chiquitito.\n[Verse 2]\n¡Toc, toc, toc! ¿Quién está en la ventana?\n¿Qué es eso? ¿Qué es eso?\nMamá abre la ventana…\n¡Es un búho! ¡Uh-uh, uh-uh!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos…\ny a dormir, chiquitito.\n[Verse 3]\nDos lucecitas bajo la cama…\n¿Qué es eso? ¿Qué es eso?\nTito prende la linterna… ¡clic!\n¡Es su camioncito! ¡Nii-noo!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos…\ny a dormir, chiquitito.\n[Outro]\nBuenas noches, jirafa. Buenas noches, búho.\nBuenas noches, luna… ¡Shhh!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 108 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 150,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 108,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_song_s6",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\nBuenas noches, Tito. ¡A la cama!\nSe apaga la luz… ¡clic!\n[Verse 1]\n¡Uy! Una sombra en la pared…\n¿Qué es eso? ¿Qué es eso?\nMamá prende la luz… ¡clic!\n¡Es la jirafa! ¡Hola, jirafa!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos…\ny a dormir, chiquitito.\n[Verse 2]\n¡Toc, toc, toc! ¿Quién está en la ventana?\n¿Qué es eso? ¿Qué es eso?\nMamá abre la ventana…\n¡Es un búho! ¡Uh-uh, uh-uh!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos…\ny a dormir, chiquitito.\n[Verse 3]\nDos lucecitas bajo la cama…\n¿Qué es eso? ¿Qué es eso?\nTito prende la linterna… ¡clic!\n¡Es su camioncito! ¡Nii-noo!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos…\ny a dormir, chiquitito.\n[Outro]\nBuenas noches, jirafa. Buenas noches, búho.\nBuenas noches, luna… ¡Shhh!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 108 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 150,
+  "seed": 6,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 108,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_song_s7",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\nBuenas noches, Tito. ¡A la cama!\nSe apaga la luz… ¡clic!\n[Verse 1]\n¡Uy! Una sombra en la pared…\n¿Qué es eso? ¿Qué es eso?\nMamá prende la luz… ¡clic!\n¡Es la jirafa! ¡Hola, jirafa!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos…\ny a dormir, chiquitito.\n[Verse 2]\n¡Toc, toc, toc! ¿Quién está en la ventana?\n¿Qué es eso? ¿Qué es eso?\nMamá abre la ventana…\n¡Es un búho! ¡Uh-uh, uh-uh!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos…\ny a dormir, chiquitito.\n[Verse 3]\nDos lucecitas bajo la cama…\n¿Qué es eso? ¿Qué es eso?\nTito prende la linterna… ¡clic!\n¡Es su camioncito! ¡Nii-noo!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos…\ny a dormir, chiquitito.\n[Outro]\nBuenas noches, jirafa. Buenas noches, búho.\nBuenas noches, luna… ¡Shhh!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 108 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 150,
+  "seed": 7,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 108,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_ep3_dormir_song_s8",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\nBuenas noches, Tito. ¡A la cama!\nSe apaga la luz… ¡clic!\n[Verse 1]\n¡Uy! Una sombra en la pared…\n¿Qué es eso? ¿Qué es eso?\nMamá prende la luz… ¡clic!\n¡Es la jirafa! ¡Hola, jirafa!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos…\ny a dormir, chiquitito.\n[Verse 2]\n¡Toc, toc, toc! ¿Quién está en la ventana?\n¿Qué es eso? ¿Qué es eso?\nMamá abre la ventana…\n¡Es un búho! ¡Uh-uh, uh-uh!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos…\ny a dormir, chiquitito.\n[Verse 3]\nDos lucecitas bajo la cama…\n¿Qué es eso? ¿Qué es eso?\nTito prende la linterna… ¡clic!\n¡Es su camioncito! ¡Nii-noo!\n[Chorus]\n¡Tuuu, tuuu! ¡Ya no tengo miedo!\nCon la luz, todo es amigo.\nRespiro despacito, uno, dos…\ny a dormir, chiquitito.\n[Outro]\nBuenas noches, jirafa. Buenas noches, búho.\nBuenas noches, luna… ¡Shhh!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 108 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 150,
+  "seed": 8,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 108,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ }
+]
