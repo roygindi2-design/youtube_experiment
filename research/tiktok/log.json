@@ -7,14 +7,10 @@
   {
    "id": "tito_mesa",
    "sent_utc": "2026-10-21 23:05",
-   "youtube": "https://youtube.com/shorts/l5anda4GTTI"
+   "youtube": "https://youtube.com/shorts/l5anda4GTTI",
+   "roy": "rejected 21.10: too many inaccuracies — not for TikTok"
   }
  ],
- "queue": [
-  "tito_halloween",
-  "rojito_ciudad",
-  "rojito_barro",
-  "rojito_colores",
-  "rojito_ruedas"
- ]
+ "queue": [],
+ "_rule": "Roy 21.10: only NEW videos made after the review process (keyframes + final reviewed, fixes applied). No old videos. Strict: any visible inaccuracy = FAIL, not 'minor note'."
 }
