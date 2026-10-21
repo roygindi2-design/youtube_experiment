@@ -105,5 +105,19 @@
   "opening": "costume_backwards_gag",
   "pattern": "lesson_consequence",
   "experiment": "seasonal topic (Halloween) + costume gag opening; first video with a third character (the friendly ghost)"
+ },
+ {
+  "id": "rojito_ruedas_v2",
+  "youtube_id": "C55q68WPT2o",
+  "date": "2026-10-21",
+  "world": "bright toy town sandbox park (green hills, sandy play road, blue sky) + toy garage workshop with wheels on the wall",
+  "series": [
+   "rojito"
+  ],
+  "uploaded_utc": "03:47",
+  "opening": "wheels_pop_off_side_view",
+  "pattern": "guess_interactive",
+  "experiment": "redo of an Unlisted video in director mode (explicit angles) — compare against the old version's 0 views",
+  "replaces": "gCaM5FcbPpY (unlisted)"
  }
 ]
