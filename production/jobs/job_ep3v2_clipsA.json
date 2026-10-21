@@ -1,0 +1,212 @@
+[
+ {
+  "id": "ep3v2_clip_N01_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá gently smooths the blanket with her trunk and softly pats it; the baby elephant smiles and slowly blinks; the camera stays still. Both faces stay exactly the same, calm small movements. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; eyes stay on the front of the face; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "inputs": {
+   "image_start": "v2_N01.jpg"
+  }
+ },
+ {
+  "id": "ep3v2_clip_N01_s19",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá gently smooths the blanket with her trunk and softly pats it; the baby elephant smiles and slowly blinks; the camera stays still. Both faces stay exactly the same, calm small movements. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; eyes stay on the front of the face; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "inputs": {
+   "image_start": "v2_N01.jpg"
+  }
+ },
+ {
+  "id": "ep3v2_clip_N01_s31",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá gently smooths the blanket with her trunk and softly pats it; the baby elephant smiles and slowly blinks; the camera stays still. Both faces stay exactly the same, calm small movements. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; eyes stay on the front of the face; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "inputs": {
+   "image_start": "v2_N01.jpg"
+  }
+ },
+ {
+  "id": "ep3v2_clip_N06_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá gently wiggles the plush giraffe left and right and the big giraffe shadow on the wall wiggles the same way at the same time; the baby elephant smiles; the plush giraffe keeps its small button eyes; the camera stays still. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; eyes stay on the front of the face; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "inputs": {
+   "image_start": "v2_N06.jpg"
+  }
+ },
+ {
+  "id": "ep3v2_clip_N06_s19",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá gently wiggles the plush giraffe left and right and the big giraffe shadow on the wall wiggles the same way at the same time; the baby elephant smiles; the plush giraffe keeps its small button eyes; the camera stays still. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; eyes stay on the front of the face; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "inputs": {
+   "image_start": "v2_N06.jpg"
+  }
+ },
+ {
+  "id": "ep3v2_clip_N06_s31",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá gently wiggles the plush giraffe left and right and the big giraffe shadow on the wall wiggles the same way at the same time; the baby elephant smiles; the plush giraffe keeps its small button eyes; the camera stays still. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; eyes stay on the front of the face; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "inputs": {
+   "image_start": "v2_N06.jpg"
+  }
+ },
+ {
+  "id": "ep3v2_clip_K3_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He breathes in slowly and his tummy and shoulders rise, then he breathes out slowly and relaxes; his eyes stay gently closed the whole time; his head stays facing the camera; the camera stays still. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; eyes stay on the front of the face; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "inputs": {
+   "image_start": "v2_K3.jpg"
+  }
+ },
+ {
+  "id": "ep3v2_clip_K3_s19",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He breathes in slowly and his tummy and shoulders rise, then he breathes out slowly and relaxes; his eyes stay gently closed the whole time; his head stays facing the camera; the camera stays still. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; eyes stay on the front of the face; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "inputs": {
+   "image_start": "v2_K3.jpg"
+  }
+ },
+ {
+  "id": "ep3v2_clip_K3_s31",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He breathes in slowly and his tummy and shoulders rise, then he breathes out slowly and relaxes; his eyes stay gently closed the whole time; his head stays facing the camera; the camera stays still. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; eyes stay on the front of the face; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "inputs": {
+   "image_start": "v2_K3.jpg"
+  }
+ },
+ {
+  "id": "ep3v2_clip_N13_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He presses the button with his thumb and a bright cone of light shines out of the flashlight forward and down onto the floor; he leans forward bravely; his trunk stays curled up and separate from the flashlight; the camera stays still. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; eyes stay on the front of the face; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "inputs": {
+   "image_start": "v2_N13.jpg"
+  }
+ },
+ {
+  "id": "ep3v2_clip_N13_s19",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He presses the button with his thumb and a bright cone of light shines out of the flashlight forward and down onto the floor; he leans forward bravely; his trunk stays curled up and separate from the flashlight; the camera stays still. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; eyes stay on the front of the face; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "inputs": {
+   "image_start": "v2_N13.jpg"
+  }
+ },
+ {
+  "id": "ep3v2_clip_N13_s31",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He presses the button with his thumb and a bright cone of light shines out of the flashlight forward and down onto the floor; he leans forward bravely; his trunk stays curled up and separate from the flashlight; the camera stays still. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; eyes stay on the front of the face; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "inputs": {
+   "image_start": "v2_N13.jpg"
+  }
+ },
+ {
+  "id": "ep3v2_clip_N15_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He waves goodnight slowly with one hand, gives a small soft yawn with his mouth only a little open, and his eyes slowly close; the toys stay still in his arms; the camera stays still. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; eyes stay on the front of the face; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "inputs": {
+   "image_start": "v2_N15.jpg"
+  }
+ },
+ {
+  "id": "ep3v2_clip_N15_s19",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He waves goodnight slowly with one hand, gives a small soft yawn with his mouth only a little open, and his eyes slowly close; the toys stay still in his arms; the camera stays still. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; eyes stay on the front of the face; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "inputs": {
+   "image_start": "v2_N15.jpg"
+  }
+ },
+ {
+  "id": "ep3v2_clip_N15_s31",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He waves goodnight slowly with one hand, gives a small soft yawn with his mouth only a little open, and his eyes slowly close; the toys stay still in his arms; the camera stays still. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; eyes stay on the front of the face; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "inputs": {
+   "image_start": "v2_N15.jpg"
+  }
+ }
+]
