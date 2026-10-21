@@ -130,3 +130,12 @@ See production/dossiers/tito_ep3_dormir.md.
 
 ## Update 21.10 14:20 — liquid & life rules (producer _general.md)
 - No frozen splash in a keyframe: frames show the moment BEFORE; the splash/flow happens in `motion`. Sleeping/static shots get life (breathing blanket, twinkling stars).
+
+## Shorts plan v2 — "resolve one, open the next" (research/15-teaser-strategy.md, Bebefinn method)
+| Short | frame 0 (clue) | middle (reveal) | last 2–3 s (next mystery) | title | description line 1 |
+|---|---|---|---|---|---|
+| A | N03 huge shadow + "¡Uy! Una sombra…" | N05→N06 light on, it's the giraffe; K1–K2 chorus | N07 dark shape taps the window + "¡Toc, toc, toc!" (cut) | ¿Qué es esa sombra? 🌙 #shorts | ¿Qué hay en la pared de Tito? |
+| B | N07 tapping on the window | N09→N10 the owl ¡Uh-uh!; K1–K2 | N11 two little lights under the bed (cut) | ¿Quién toca la ventana? 🦉 #shorts | ¿Quién hace toc, toc? |
+| C | N11 two lights under the bed | N12→N13→N14 Tito turns on the flashlight himself — his toy truck; K1–K4 asleep | N03 shadow again (loop) | ¿Qué brilla bajo la cama? 🔦 #shorts | ¿Qué son esas dos lucecitas? |
+- Description line 2 on every Short: "▶️ Capítulo completo: <link to the long episode>". Make the Shorts from the long video in the YouTube app ("Create → Short", auto link-back) if it works for Made-for-Kids; otherwise set "Related video" in Studio.
+- Episode: 3 s cold open (N03 + "¿Qué es eso?") before the intro.
