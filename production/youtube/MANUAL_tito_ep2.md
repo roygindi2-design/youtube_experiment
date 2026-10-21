@@ -27,7 +27,7 @@ En Cantilandia hacemos canciones infantiles en español con animación 3D: Tito 
 
 ## תגיות (מופרדות בפסיקים)
 ```
-hábitos para niños, rutina para niños, lavarse las manos, cepillarse los dientes, canción para dormir, hora del baño, Un día con Tito 🐘 Manos, dientes, baño y a dormir, canciones infantiles, canciones para niños, canciones infantiles en español, música infantil, videos para niños, videos educativos, preescolar, spanish kids songs, nursery rhymes spanish, kids songs, Cantilandia
+hábitos para niños, rutina para niños, lavarse las manos, cepillarse los dientes, canción para dormir, hora del baño, un día con tito, canciones infantiles, canciones para niños, canciones infantiles en español, música infantil, videos para niños, videos educativos, preescolar, spanish kids songs, nursery rhymes spanish, kids songs, Cantilandia
 ```
 
 ## הגדרות
