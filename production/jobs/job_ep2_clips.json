@@ -1,0 +1,506 @@
+[
+ {
+  "id": "tito_ep2_clip2_E01_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He runs toward the table with a happy bounce. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E01.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E01_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He runs toward the table with a happy bounce. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E01.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E02_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His paint-covered hands reach slowly toward the pancakes. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E02.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E02_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His paint-covered hands reach slowly toward the pancakes. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E02.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E03_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá points to the sink with a smile; the baby elephant looks at his hands and nods. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E03.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E03_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá points to the sink with a smile; the baby elephant looks at his hands and nods. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E03.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E04_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His hands rub round and round in the foam, bubbles float up. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E04.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E04_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His hands rub round and round in the foam, bubbles float up. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E04.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E05_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He holds up his clean hands proudly and wiggles them. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E05.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E05_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He holds up his clean hands proudly and wiggles them. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E05.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E06_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He takes a happy bite and wiggles with joy; Mamá smiles. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E06.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E06_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He takes a happy bite and wiggles with joy; Mamá smiles. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E06.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E07_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He dances, swaying side to side with his arms up. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E07.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E07_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He dances, swaying side to side with his arms up. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E07.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E08_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A drop of mud drips from his ear, he blinks and grins. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E08.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E08_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A drop of mud drips from his ear, he blinks and grins. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E08.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E09_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Water splashes and foam flies, he laughs. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E09.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E09_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Water splashes and foam flies, he laughs. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E09.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E10_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A bubble pops on his nose and he giggles. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E10.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E10_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A bubble pops on his nose and he giggles. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E10.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E11_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. They hug and sway gently, sparkles twinkle. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E11.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E11_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. They hug and sway gently, sparkles twinkle. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E11.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E12_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He dances, swaying side to side. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E12.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E12_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He dances, swaying side to side. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E12.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E13_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He brushes up and down, foam bubbles float up. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E13.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E13_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He brushes up and down, foam bubbles float up. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E13.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E14_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His teeth sparkle and he smiles proudly. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E14.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E14_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His teeth sparkle and he smiles proudly. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E14.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E15_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá claps and the baby elephant raises his toothbrush proudly. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E15.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E15_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá claps and the baby elephant raises his toothbrush proudly. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E15.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E16_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá turns a page and the baby elephant looks at the book with wonder. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E16.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E16_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá turns a page and the baby elephant looks at the book with wonder. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E16.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E17_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá leans in for a gentle kiss, the baby elephant smiles sleepily. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E17.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E17_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá leans in for a gentle kiss, the baby elephant smiles sleepily. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E17.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E18_s7",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The stars twinkle softly and the moon smiles, the baby elephant breathes slowly in his sleep. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 7,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E18.jpg"
+  }
+ },
+ {
+  "id": "tito_ep2_clip2_E18_s19",
+  "model_type": "ti2v_2_2_fastwan",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The stars twinkle softly and the moon smiles, the baby elephant breathes slowly in his sleep. Small, calm, smooth movements with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 3,
+  "guidance_scale": 1,
+  "flow_shift": 3,
+  "seed": 19,
+  "inputs": {
+   "image_start": "pick_tito_ep2_E18.jpg"
+  }
+ }
+]

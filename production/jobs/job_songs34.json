@@ -1,0 +1,242 @@
+[
+ {
+  "id": "rojito_ciudad_song34_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Pi, pi! ¿Quién hace así?\n[Verse]\nEl autobús hace ¡pi, pi, pi!\nEl camión de basura, ¡ñam, ñam, ñam!\nLa excavadora, ¡ras, ras, ras!\nEl tren hace ¡chu, chu, chu!\nLa ambulancia, ¡ui, ui, ui!\n[Chorus]\n¿Y quién hace nii-noo? ¡Soy yo!\n[Outro]\n¡Rojito hace nii-noo, nii-noo!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 34,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_ciudad_song34_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Pi, pi! ¿Quién hace así?\n[Verse]\nEl autobús hace ¡pi, pi, pi!\nEl camión de basura, ¡ñam, ñam, ñam!\nLa excavadora, ¡ras, ras, ras!\nEl tren hace ¡chu, chu, chu!\nLa ambulancia, ¡ui, ui, ui!\n[Chorus]\n¿Y quién hace nii-noo? ¡Soy yo!\n[Outro]\n¡Rojito hace nii-noo, nii-noo!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 34,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_ciudad_song34_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Pi, pi! ¿Quién hace así?\n[Verse]\nEl autobús hace ¡pi, pi, pi!\nEl camión de basura, ¡ñam, ñam, ñam!\nLa excavadora, ¡ras, ras, ras!\nEl tren hace ¡chu, chu, chu!\nLa ambulancia, ¡ui, ui, ui!\n[Chorus]\n¿Y quién hace nii-noo? ¡Soy yo!\n[Outro]\n¡Rojito hace nii-noo, nii-noo!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 34,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_ciudad_song34_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Pi, pi! ¿Quién hace así?\n[Verse]\nEl autobús hace ¡pi, pi, pi!\nEl camión de basura, ¡ñam, ñam, ñam!\nLa excavadora, ¡ras, ras, ras!\nEl tren hace ¡chu, chu, chu!\nLa ambulancia, ¡ui, ui, ui!\n[Chorus]\n¿Y quién hace nii-noo? ¡Soy yo!\n[Outro]\n¡Rojito hace nii-noo, nii-noo!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 34,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_ciudad_song34_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Pi, pi! ¿Quién hace así?\n[Verse]\nEl autobús hace ¡pi, pi, pi!\nEl camión de basura, ¡ñam, ñam, ñam!\nLa excavadora, ¡ras, ras, ras!\nEl tren hace ¡chu, chu, chu!\nLa ambulancia, ¡ui, ui, ui!\n[Chorus]\n¿Y quién hace nii-noo? ¡Soy yo!\n[Outro]\n¡Rojito hace nii-noo, nii-noo!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 34,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_ciudad_song34_s6",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Pi, pi! ¿Quién hace así?\n[Verse]\nEl autobús hace ¡pi, pi, pi!\nEl camión de basura, ¡ñam, ñam, ñam!\nLa excavadora, ¡ras, ras, ras!\nEl tren hace ¡chu, chu, chu!\nLa ambulancia, ¡ui, ui, ui!\n[Chorus]\n¿Y quién hace nii-noo? ¡Soy yo!\n[Outro]\n¡Rojito hace nii-noo, nii-noo!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 34,
+  "seed": 6,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_ciudad_song34_s7",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Pi, pi! ¿Quién hace así?\n[Verse]\nEl autobús hace ¡pi, pi, pi!\nEl camión de basura, ¡ñam, ñam, ñam!\nLa excavadora, ¡ras, ras, ras!\nEl tren hace ¡chu, chu, chu!\nLa ambulancia, ¡ui, ui, ui!\n[Chorus]\n¿Y quién hace nii-noo? ¡Soy yo!\n[Outro]\n¡Rojito hace nii-noo, nii-noo!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 34,
+  "seed": 7,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "rojito_ciudad_song34_s8",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Pi, pi! ¿Quién hace así?\n[Verse]\nEl autobús hace ¡pi, pi, pi!\nEl camión de basura, ¡ñam, ñam, ñam!\nLa excavadora, ¡ras, ras, ras!\nEl tren hace ¡chu, chu, chu!\nLa ambulancia, ¡ui, ui, ui!\n[Chorus]\n¿Y quién hace nii-noo? ¡Soy yo!\n[Outro]\n¡Rojito hace nii-noo, nii-noo!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 34,
+  "seed": 8,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_mesa_song34_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Slurp, slurp! ¡Espagueti con la trompa!\n[Verse]\n¡Uy! ¡Salsa por todos lados!\nMamá le limpia la carita.\nGira y gira el tenedor.\n¡Ñam! Un bocado limpiecito.\n[Chorus]\n¡Plato limpio! ¡Gracias, mamá!\n¡En la mesa, con tenedor!\n[Outro]\n¿Uno más? ¡Slurp!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 34,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_mesa_song34_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Slurp, slurp! ¡Espagueti con la trompa!\n[Verse]\n¡Uy! ¡Salsa por todos lados!\nMamá le limpia la carita.\nGira y gira el tenedor.\n¡Ñam! Un bocado limpiecito.\n[Chorus]\n¡Plato limpio! ¡Gracias, mamá!\n¡En la mesa, con tenedor!\n[Outro]\n¿Uno más? ¡Slurp!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 34,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_mesa_song34_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Slurp, slurp! ¡Espagueti con la trompa!\n[Verse]\n¡Uy! ¡Salsa por todos lados!\nMamá le limpia la carita.\nGira y gira el tenedor.\n¡Ñam! Un bocado limpiecito.\n[Chorus]\n¡Plato limpio! ¡Gracias, mamá!\n¡En la mesa, con tenedor!\n[Outro]\n¿Uno más? ¡Slurp!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 34,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_mesa_song34_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Slurp, slurp! ¡Espagueti con la trompa!\n[Verse]\n¡Uy! ¡Salsa por todos lados!\nMamá le limpia la carita.\nGira y gira el tenedor.\n¡Ñam! Un bocado limpiecito.\n[Chorus]\n¡Plato limpio! ¡Gracias, mamá!\n¡En la mesa, con tenedor!\n[Outro]\n¿Uno más? ¡Slurp!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 34,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_mesa_song34_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Slurp, slurp! ¡Espagueti con la trompa!\n[Verse]\n¡Uy! ¡Salsa por todos lados!\nMamá le limpia la carita.\nGira y gira el tenedor.\n¡Ñam! Un bocado limpiecito.\n[Chorus]\n¡Plato limpio! ¡Gracias, mamá!\n¡En la mesa, con tenedor!\n[Outro]\n¿Uno más? ¡Slurp!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 34,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_mesa_song34_s6",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Slurp, slurp! ¡Espagueti con la trompa!\n[Verse]\n¡Uy! ¡Salsa por todos lados!\nMamá le limpia la carita.\nGira y gira el tenedor.\n¡Ñam! Un bocado limpiecito.\n[Chorus]\n¡Plato limpio! ¡Gracias, mamá!\n¡En la mesa, con tenedor!\n[Outro]\n¿Uno más? ¡Slurp!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 34,
+  "seed": 6,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_mesa_song34_s7",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Slurp, slurp! ¡Espagueti con la trompa!\n[Verse]\n¡Uy! ¡Salsa por todos lados!\nMamá le limpia la carita.\nGira y gira el tenedor.\n¡Ñam! Un bocado limpiecito.\n[Chorus]\n¡Plato limpio! ¡Gracias, mamá!\n¡En la mesa, con tenedor!\n[Outro]\n¿Uno más? ¡Slurp!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 34,
+  "seed": 7,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_mesa_song34_s8",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¡Slurp, slurp! ¡Espagueti con la trompa!\n[Verse]\n¡Uy! ¡Salsa por todos lados!\nMamá le limpia la carita.\nGira y gira el tenedor.\n¡Ñam! Un bocado limpiecito.\n[Chorus]\n¡Plato limpio! ¡Gracias, mamá!\n¡En la mesa, con tenedor!\n[Outro]\n¿Uno más? ¡Slurp!",
+  "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
+  "duration_seconds": 34,
+  "seed": 8,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 120,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ }
+]
