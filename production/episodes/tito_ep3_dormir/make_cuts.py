@@ -16,9 +16,9 @@ plan = [(0.0, "N01"), (9.25, "N02"), (11.85, "N03"), (15.15, "N04"), (17.65, "N0
         (124.65, "K1"), (129.05, "K2"), (134.05, "K3"), (139.35, "K4"),
         (143.75, "N16"), (150.0, None)]
 # QC 21.10 (frame review): usable length of a take, where the clip breaks after that point
-LIMIT = {"N04v2": 2.4, "K4v2": 2.6, "N13v2": 2.0, "N11": 2.4, "N12": 2.0}
+LIMIT = {"N04v2": 2.4, "K4v2": 2.6, "N13v2": 2.0, "N11": 2.4, "N12": 1.9}
 # square (736x736) clips in 16:9: where to put the crop window, or show the whole frame (fit)
-FRAMING = {"N03": {"fit": True}, "K1": {"crop_y": 0.25}, "N04": {"crop_y": 0.4}, "N05": {"crop_y": 0.4}, "N06": {"crop_y": 0.3},
+FRAMING = {"N10": {"in": 0.6}, "N03": {"fit": True}, "K1": {"crop_y": 0.25}, "N04": {"crop_y": 0.4}, "N05": {"crop_y": 0.4}, "N06": {"crop_y": 0.3},
            "N12": {"crop_y": 0.45}, "N15": {"crop_y": 0.45}}
 # v2 (21.10 night, Roy: eyes/faces): re-made shots, 16:9, picked by glitch_scan + eye review
 V2 = {"N01", "N04", "N06", "K1", "K2", "K3", "K4", "N07", "N13", "N14", "N15"}

@@ -1,0 +1,200 @@
+[
+ {
+  "id": "ep3v4_N16_kf111",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 111,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. View from outside the round wooden bedroom window at night, exactly the window, moon and hills from the first reference image: the big round moon has a peaceful sleeping face with both eyes gently closed and a soft smile, a small fluffy brown owl with its eyes closed sleeps on the leafy branch beside the window, and inside the round window the baby elephant from the second reference image sleeps in his bed with his eyes closed, hugging his toys. The baby elephant, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Twinkling stars in the deep navy sky. The main action is in the CENTER of the frame. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep3_ventana.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3v4_clip_N16_k111_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A calm sleepy night: the moon sleeps peacefully with both eyes closed the whole time and glows softly, the stars twinkle, the leaves sway gently in the breeze, the sleeping owl slowly fluffs its feathers, the baby elephant sleeps with his eyes closed and his blanket gently rises and falls; the camera stays still. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "after": {
+   "image_start": "ep3v4_N16_kf111"
+  }
+ },
+ {
+  "id": "ep3v4_clip_N16_k111_s19",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A calm sleepy night: the moon sleeps peacefully with both eyes closed the whole time and glows softly, the stars twinkle, the leaves sway gently in the breeze, the sleeping owl slowly fluffs its feathers, the baby elephant sleeps with his eyes closed and his blanket gently rises and falls; the camera stays still. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "after": {
+   "image_start": "ep3v4_N16_kf111"
+  }
+ },
+ {
+  "id": "ep3v4_N16_kf222",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 222,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. View from outside the round wooden bedroom window at night, exactly the window, moon and hills from the first reference image: the big round moon has a peaceful sleeping face with both eyes gently closed and a soft smile, a small fluffy brown owl with its eyes closed sleeps on the leafy branch beside the window, and inside the round window the baby elephant from the second reference image sleeps in his bed with his eyes closed, hugging his toys. The baby elephant, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Twinkling stars in the deep navy sky. The main action is in the CENTER of the frame. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep3_ventana.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3v4_clip_N16_k222_s7",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A calm sleepy night: the moon sleeps peacefully with both eyes closed the whole time and glows softly, the stars twinkle, the leaves sway gently in the breeze, the sleeping owl slowly fluffs its feathers, the baby elephant sleeps with his eyes closed and his blanket gently rises and falls; the camera stays still. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "after": {
+   "image_start": "ep3v4_N16_kf222"
+  }
+ },
+ {
+  "id": "ep3v4_clip_N16_k222_s19",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A calm sleepy night: the moon sleeps peacefully with both eyes closed the whole time and glows softly, the stars twinkle, the leaves sway gently in the breeze, the sleeping owl slowly fluffs its feathers, the baby elephant sleeps with his eyes closed and his blanket gently rises and falls; the camera stays still. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "after": {
+   "image_start": "ep3v4_N16_kf222"
+  }
+ },
+ {
+  "id": "ep3v4_clip_K3_s43",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He sits still in his bed with his eyes closed the whole time, calm like he is falling asleep; only his round tummy slowly rises as he breathes in and falls as he breathes out; his head and face stay still; the camera stays still. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 43,
+  "inputs": {
+   "image_start": "v2_K3.jpg"
+  }
+ },
+ {
+  "id": "ep3v4_clip_K3_s55",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He sits still in his bed with his eyes closed the whole time, calm like he is falling asleep; only his round tummy slowly rises as he breathes in and falls as he breathes out; his head and face stay still; the camera stays still. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 55,
+  "inputs": {
+   "image_start": "v2_K3.jpg"
+  }
+ },
+ {
+  "id": "ep3v4_clip_K3_s67",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He sits still in his bed with his eyes closed the whole time, calm like he is falling asleep; only his round tummy slowly rises as he breathes in and falls as he breathes out; his head and face stay still; the camera stays still. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 67,
+  "inputs": {
+   "image_start": "v2_K3.jpg"
+  }
+ },
+ {
+  "id": "ep3v4_clip_K3_s79",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He sits still in his bed with his eyes closed the whole time, calm like he is falling asleep; only his round tummy slowly rises as he breathes in and falls as he breathes out; his head and face stay still; the camera stays still. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 79,
+  "inputs": {
+   "image_start": "v2_K3.jpg"
+  }
+ },
+ {
+  "id": "ep3v4_clip_N13_s43",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A soft warm beam of light shines out of the small flashlight forward and down onto the floor and slowly sweeps across the rug; his face stays in the same soft lamp light and keeps the same brave expression; he stays standing; the camera stays still. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 43,
+  "inputs": {
+   "image_start": "v2_N13.jpg"
+  }
+ },
+ {
+  "id": "ep3v4_clip_N13_s55",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A soft warm beam of light shines out of the small flashlight forward and down onto the floor and slowly sweeps across the rug; his face stays in the same soft lamp light and keeps the same brave expression; he stays standing; the camera stays still. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 55,
+  "inputs": {
+   "image_start": "v2_N13.jpg"
+  }
+ },
+ {
+  "id": "ep3v4_clip_N13_s67",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A soft warm beam of light shines out of the small flashlight forward and down onto the floor and slowly sweeps across the rug; his face stays in the same soft lamp light and keeps the same brave expression; he stays standing; the camera stays still. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 67,
+  "inputs": {
+   "image_start": "v2_N13.jpg"
+  }
+ },
+ {
+  "id": "ep3v4_clip_N13_s79",
+  "model_type": "ti2v_2_2",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A soft warm beam of light shines out of the small flashlight forward and down onto the floor and slowly sweeps across the rug; his face stays in the same soft lamp light and keeps the same brave expression; he stays standing; the camera stays still. Smooth gentle natural motion; every character keeps exactly the same face, eyes, body and clothes in every frame; objects keep their shape; no camera zoom, no morphing, nothing floats.",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 79,
+  "inputs": {
+   "image_start": "v2_N13.jpg"
+  }
+ }
+]
