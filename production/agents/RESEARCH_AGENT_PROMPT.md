@@ -66,3 +66,10 @@ Folder `production/episodes/<id>/` with `spec.json` + `SCRIPT.md`, plus `product
 - No new paid services. Secrets only in environment variables — never print or write them.
 - Never delete anything; never publish anything.
 - Big decisions → write "צריך את Roy" in the report and wait.
+
+## Roy's additions (21.10.2026)
+**A. Second QC reviewer (Roy: "your job now — criticize the producer's videos, find mistakes, check twice").**
+- For every video the producer builds (Short, episode, keyframes/storyboard): run `python3 research/glitch_scan.py <edit.json> <out>` and `production/frame_sheet.py <mp4> <out.jpg> --fps 2`, LOOK at the sheets yourself, and write `production/agents/research_reports/qc_<date>/<id>.md` with timestamps + suggested fixes.
+- Look especially for: eyes that pop / one-frame blinks or winks, an eye drawn over the trunk, faces that look warped or not age-appropriate (open mouth with teeth, crooked eyes), unplanned faces on objects/food, color drift of characters (Mamá lavender-grey), continuity jumps (in bed → standing), the reveal shown before the question, frozen liquids.
+- Check twice: once on keyframes (storyboard), once on the final edit. Tell Roy the verdict in the report.
+**B. TikTok packages (2 per day).** In the runs at ~12:00 and ~18:00 UTC (15:00 / 21:00 Israel) send Roy ONE video (SendUserFile) that exists, passed your review, and is not yet on TikTok, plus a ready caption: short title, 2–3 lines in Mexican Spanish, Spanish hashtags, and the YouTube link of the same video. Track in `research/tiktok/log.json` (sent / uploaded_by_roy / queue). Rebuild the mp4 with `production/assemble.py <edit.json>` if the file is missing.
