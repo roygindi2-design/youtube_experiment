@@ -1,0 +1,295 @@
+{
+ "out": "production/episodes/tito_manos/build/tito_manos_v2.mp4",
+ "fps": 30,
+ "size": [
+  1080,
+  1920
+ ],
+ "burn_captions": false,
+ "song": {
+  "file": "production/episodes/tito_manos/design/tito_manos_song_s7.wav",
+  "start": 0.0,
+  "gain_db": 0
+ },
+ "shots": [
+  {
+   "file": "production/episodes/tito_manos/shots/tito_manos_clip_M1_s31.mp4",
+   "in": 0.06,
+   "dur": 1.8,
+   "speed": 1.0,
+   "src_len": 1.8,
+   "shot": "M1@31",
+   "punch": {
+    "to": 1.25,
+    "dur": 0.45,
+    "cx": 0.5,
+    "cy": 0.32,
+    "settle": 1.15,
+    "shake": 10
+   }
+  },
+  {
+   "file": "production/episodes/tito_manos/shots/tito_manos_clip_M2_s7.mp4",
+   "in": 0.06,
+   "dur": 2.3,
+   "speed": 1.0,
+   "src_len": 2.3,
+   "shot": "M2@7"
+  },
+  {
+   "file": "production/episodes/tito_manos/shots/tito_manos_clip_M3_s7.mp4",
+   "in": 0.06,
+   "dur": 3.6,
+   "speed": 1.0,
+   "src_len": 3.6,
+   "shot": "M3@7"
+  },
+  {
+   "file": "production/episodes/tito_manos/shots/tito_manos_clip_M4_s19.mp4",
+   "in": 0.06,
+   "dur": 1.48,
+   "speed": 1.0,
+   "src_len": 1.48,
+   "shot": "M4@19"
+  },
+  {
+   "file": "production/episodes/tito_manos/shots/fix_M5_k101.mp4",
+   "in": 0.06,
+   "dur": 3.72,
+   "speed": 1.0,
+   "src_len": 3.72,
+   "shot": "M5fix@k101"
+  },
+  {
+   "file": "production/episodes/tito_manos/shots/fix_M5_k202.mp4",
+   "in": 0.55,
+   "dur": 4.2,
+   "speed": 0.831,
+   "src_len": 3.49,
+   "shot": "M5fix@k202"
+  },
+  {
+   "file": "production/episodes/tito_manos/shots/tito_manos_clip2_M6_s7.mp4",
+   "in": 0.5,
+   "dur": 1.76,
+   "speed": 1.0,
+   "src_len": 1.76,
+   "shot": "M6R@7"
+  },
+  {
+   "file": "production/episodes/tito_manos/shots/tito_manos_clip2_M7_s19.mp4",
+   "in": 0.5,
+   "dur": 2.54,
+   "speed": 1.0,
+   "src_len": 2.54,
+   "shot": "M7R@19"
+  },
+  {
+   "file": "production/episodes/tito_manos/shots/tito_manos_clip_M8_s19.mp4",
+   "in": 0.06,
+   "dur": 2.3,
+   "speed": 1.0,
+   "src_len": 2.3,
+   "shot": "M8@19"
+  },
+  {
+   "file": "production/episodes/tito_manos/shots/tito_manos_clip_M9_s19.mp4",
+   "in": 0.06,
+   "dur": 2.3,
+   "speed": 1.0,
+   "src_len": 2.3,
+   "shot": "M9@19"
+  }
+ ],
+ "sfx": [],
+ "lines": [
+  {
+   "start": 0,
+   "end": 3.54,
+   "words": [
+    [
+     "\u00a1ALTO,",
+     0.0,
+     3.54
+    ],
+    [
+     "Tito!",
+     0.0,
+     3.54
+    ],
+    [
+     "\u00bfY",
+     0.0,
+     3.54
+    ],
+    [
+     "tus",
+     0.0,
+     3.54
+    ],
+    [
+     "manos?",
+     0.0,
+     3.54
+    ]
+   ]
+  },
+  {
+   "start": 4.12,
+   "end": 7.68,
+   "words": [
+    [
+     "\u00a1Uy!",
+     4.22,
+     7.68
+    ],
+    [
+     "\u00a1Pintura",
+     4.22,
+     7.68
+    ],
+    [
+     "y",
+     4.22,
+     7.68
+    ],
+    [
+     "bichitos!",
+     4.22,
+     7.68
+    ]
+   ]
+  },
+  {
+   "start": 7.72,
+   "end": 11.31,
+   "words": [
+    [
+     "Al",
+     7.82,
+     11.309999999999999
+    ],
+    [
+     "lavabo,",
+     7.82,
+     11.309999999999999
+    ],
+    [
+     "\u00a1vamos",
+     7.82,
+     11.309999999999999
+    ],
+    [
+     "ya!",
+     7.82,
+     11.309999999999999
+    ]
+   ]
+  },
+  {
+   "start": 11.26,
+   "end": 15.14,
+   "words": [
+    [
+     "Agua",
+     11.36,
+     15.139999999999999
+    ],
+    [
+     "y",
+     11.36,
+     15.139999999999999
+    ],
+    [
+     "jab\u00f3n,",
+     11.36,
+     15.139999999999999
+    ],
+    [
+     "\u00a1qu\u00e9",
+     11.36,
+     15.139999999999999
+    ],
+    [
+     "espuma!",
+     11.36,
+     15.139999999999999
+    ]
+   ]
+  },
+  {
+   "start": 15.16,
+   "end": 16.64,
+   "words": [
+    [
+     "\u00a1Frota,",
+     15.26,
+     16.64
+    ],
+    [
+     "frota,",
+     15.26,
+     16.64
+    ],
+    [
+     "frota!",
+     15.26,
+     16.64
+    ]
+   ]
+  },
+  {
+   "start": 17.12,
+   "end": 18.93,
+   "words": [
+    [
+     "\u00a1Splash!",
+     17.22,
+     18.93
+    ],
+    [
+     "\u00a1Se",
+     17.22,
+     18.93
+    ],
+    [
+     "van,",
+     17.22,
+     18.93
+    ],
+    [
+     "se",
+     17.22,
+     18.93
+    ],
+    [
+     "van!",
+     17.22,
+     18.93
+    ]
+   ]
+  },
+  {
+   "start": 18.88,
+   "end": 21.7,
+   "words": [
+    [
+     "\u00a1Manitas",
+     18.98,
+     21.700000000000003
+    ],
+    [
+     "limpias!",
+     18.98,
+     21.700000000000003
+    ]
+   ]
+  }
+ ],
+ "title_card": {
+  "text": "\u00a1ALTO, Tito!|\u00bfY tus manos?",
+  "accent": 2,
+  "dur": 1.6,
+  "y": 0.05
+ }
+}
