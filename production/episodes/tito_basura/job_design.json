@@ -36,7 +36,7 @@
   "model_type": "ace_step_v1_5_turbo_lm_1_7b",
   "prompt": "[Intro]\n¡Uy! Tito tiró su jugo.\n[Verse]\n¡Splash! ¡Cuac! ¿Qué es eso?\nEl patito está triste.\nTito, ¿dónde va la basura?\n¡Con mi trompa la saco!\n[Chorus]\n¡Al bote! ¡Ñam, ñam, ñam!\n¡Cuac, cuac! ¡Gracias, Tito!\n[Outro]\n¡La basura, a su lugar!",
   "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
-  "duration_seconds": 26,
+  "duration_seconds": 32,
   "seed": 1,
   "num_inference_steps": 8,
   "custom_settings": {
@@ -51,7 +51,7 @@
   "model_type": "ace_step_v1_5_turbo_lm_1_7b",
   "prompt": "[Intro]\n¡Uy! Tito tiró su jugo.\n[Verse]\n¡Splash! ¡Cuac! ¿Qué es eso?\nEl patito está triste.\nTito, ¿dónde va la basura?\n¡Con mi trompa la saco!\n[Chorus]\n¡Al bote! ¡Ñam, ñam, ñam!\n¡Cuac, cuac! ¡Gracias, Tito!\n[Outro]\n¡La basura, a su lugar!",
   "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
-  "duration_seconds": 26,
+  "duration_seconds": 32,
   "seed": 2,
   "num_inference_steps": 8,
   "custom_settings": {
@@ -66,7 +66,7 @@
   "model_type": "ace_step_v1_5_turbo_lm_1_7b",
   "prompt": "[Intro]\n¡Uy! Tito tiró su jugo.\n[Verse]\n¡Splash! ¡Cuac! ¿Qué es eso?\nEl patito está triste.\nTito, ¿dónde va la basura?\n¡Con mi trompa la saco!\n[Chorus]\n¡Al bote! ¡Ñam, ñam, ñam!\n¡Cuac, cuac! ¡Gracias, Tito!\n[Outro]\n¡La basura, a su lugar!",
   "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
-  "duration_seconds": 26,
+  "duration_seconds": 32,
   "seed": 3,
   "num_inference_steps": 8,
   "custom_settings": {
@@ -81,7 +81,7 @@
   "model_type": "ace_step_v1_5_turbo_lm_1_7b",
   "prompt": "[Intro]\n¡Uy! Tito tiró su jugo.\n[Verse]\n¡Splash! ¡Cuac! ¿Qué es eso?\nEl patito está triste.\nTito, ¿dónde va la basura?\n¡Con mi trompa la saco!\n[Chorus]\n¡Al bote! ¡Ñam, ñam, ñam!\n¡Cuac, cuac! ¡Gracias, Tito!\n[Outro]\n¡La basura, a su lugar!",
   "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
-  "duration_seconds": 26,
+  "duration_seconds": 32,
   "seed": 4,
   "num_inference_steps": 8,
   "custom_settings": {
@@ -96,7 +96,7 @@
   "model_type": "ace_step_v1_5_turbo_lm_1_7b",
   "prompt": "[Intro]\n¡Uy! Tito tiró su jugo.\n[Verse]\n¡Splash! ¡Cuac! ¿Qué es eso?\nEl patito está triste.\nTito, ¿dónde va la basura?\n¡Con mi trompa la saco!\n[Chorus]\n¡Al bote! ¡Ñam, ñam, ñam!\n¡Cuac, cuac! ¡Gracias, Tito!\n[Outro]\n¡La basura, a su lugar!",
   "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
-  "duration_seconds": 26,
+  "duration_seconds": 32,
   "seed": 5,
   "num_inference_steps": 8,
   "custom_settings": {
@@ -111,7 +111,7 @@
   "model_type": "ace_step_v1_5_turbo_lm_1_7b",
   "prompt": "[Intro]\n¡Uy! Tito tiró su jugo.\n[Verse]\n¡Splash! ¡Cuac! ¿Qué es eso?\nEl patito está triste.\nTito, ¿dónde va la basura?\n¡Con mi trompa la saco!\n[Chorus]\n¡Al bote! ¡Ñam, ñam, ñam!\n¡Cuac, cuac! ¡Gracias, Tito!\n[Outro]\n¡La basura, a su lugar!",
   "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
-  "duration_seconds": 26,
+  "duration_seconds": 32,
   "seed": 6,
   "num_inference_steps": 8,
   "custom_settings": {
@@ -126,7 +126,7 @@
   "model_type": "ace_step_v1_5_turbo_lm_1_7b",
   "prompt": "[Intro]\n¡Uy! Tito tiró su jugo.\n[Verse]\n¡Splash! ¡Cuac! ¿Qué es eso?\nEl patito está triste.\nTito, ¿dónde va la basura?\n¡Con mi trompa la saco!\n[Chorus]\n¡Al bote! ¡Ñam, ñam, ñam!\n¡Cuac, cuac! ¡Gracias, Tito!\n[Outro]\n¡La basura, a su lugar!",
   "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
-  "duration_seconds": 26,
+  "duration_seconds": 32,
   "seed": 7,
   "num_inference_steps": 8,
   "custom_settings": {
@@ -141,7 +141,7 @@
   "model_type": "ace_step_v1_5_turbo_lm_1_7b",
   "prompt": "[Intro]\n¡Uy! Tito tiró su jugo.\n[Verse]\n¡Splash! ¡Cuac! ¿Qué es eso?\nEl patito está triste.\nTito, ¿dónde va la basura?\n¡Con mi trompa la saco!\n[Chorus]\n¡Al bote! ¡Ñam, ñam, ñam!\n¡Cuac, cuac! ¡Gracias, Tito!\n[Outro]\n¡La basura, a su lugar!",
   "alt_prompt": "preschool children's song, cheerful warm female lead vocal singing in Latin American Spanish with Mexican pronunciation, simple sing-along melody, ukulele, xylophone, glockenspiel, soft hand claps, light kick drum, 120 bpm, bright, happy, very clear lyrics, every word sung clearly, starts singing right away",
-  "duration_seconds": 26,
+  "duration_seconds": 32,
   "seed": 8,
   "num_inference_steps": 8,
   "custom_settings": {

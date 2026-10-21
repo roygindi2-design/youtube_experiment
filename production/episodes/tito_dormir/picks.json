@@ -1,0 +1,7 @@
+{
+ "mama": "mama_master.jpg",
+ "locations": {
+  "cuarto": "loc_dormir_cuarto.jpg",
+  "ventana": "loc_dormir_ventana.jpg"
+ }
+}

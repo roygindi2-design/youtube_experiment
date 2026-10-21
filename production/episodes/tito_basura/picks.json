@@ -1,0 +1,7 @@
+{
+ "mama": "mama_master.jpg",
+ "locations": {
+  "estanque": "loc_basura_estanque.jpg",
+  "sendero": "loc_basura_sendero.jpg"
+ }
+}

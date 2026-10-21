@@ -1,0 +1,7 @@
+{
+ "hero": "rojito_master.jpg",
+ "locations": {
+  "camino": "loc_rescate_camino.jpg",
+  "huerto": "loc_rescate_huerto.jpg"
+ }
+}
