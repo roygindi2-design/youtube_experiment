@@ -9,3 +9,9 @@
 - Auto QC: E20 s19 PASS; others REVIEW/FAIL by metric → high-res strips checked by eye: no morphs, no extra characters, character consistent. E23 s7 rejected (glow flash on trunk).
 - Opening now matches lyric "¡Buenos días, Tito! ¡Ya salió el sol!"; mud shots match "Barro en las orejas…".
 - Final: 1920x1080, h264+aac, no subtitle stream, 87.9 s. **Not uploaded via API — Roy uploads manually.**
+
+## Fix v3 — physics (Roy 21.10: "bath and mud puddle look like a still picture")
+- Replaced: E04 → E04N (real sink, running water into the basin), E21 → E21F (full Wan 2.2 5B, 30 steps: splash rises and falls, puddle ripples), E09 → E09F (full model, edited keyframe: no overalls, water spray falls back), E10 → E10N (no overalls, bubbles float away), E18 → E18N (moon closes eyes, Tito sleeps; no morph).
+- Measured motion (optical flow, bottom third): mud 0.58 → 2.52, bath 0.38 → 1.27, sink 0.96 → 1.30.
+- Lesson: the full (non-distilled) Wan 2.2 5B gives much better liquid physics than FastWan; use it for splash/water shots (≈4 min/clip on 4090).
+- Final: 1920x1080, no subtitle stream, 87.9 s. Not uploaded via API.
