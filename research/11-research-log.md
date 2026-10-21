@@ -102,3 +102,22 @@
 **שאלת המפיק — 0 צפיות לחדשים:** בדקתי ב-API את 7 הסרטונים: כולם `processed`, `public`, MFK, בלי חסימת אזור, אודיו es. אין תקלה טכנית. אין לי נתון שוק על "זמן עד צפייה ראשונה" (ה-API לא נותן היסטוריה). השערות: (1) הצפיות המוקדמות של הישנים (3–8 ב-+3h) הגיעו כנראה מצפייה שלנו ושל Roy; (2) פיד ה-Shorts בודק ערוצים חדשים באיחור של 12–48 שעות (research/06b, vidIQ: "views often arrive days later"); (3) 6–7 העלאות ב-12 שעות — YouTube אומר שתדירות לא משנה, אבל זה לא מוכח לערוץ בן יומיים. **המלצה:** Roy יבדוק ב-Studio → Analytics → "Viewed vs. swiped away" ו-impressions לסרטון אחד חדש; אם יש impressions ו-swipe גבוה — זו בעיית Hook, לא הפצה.
 **תנופה (04:08→06:10):** VocaVoca ארוחה 493K/h, נימוסים 342K/h (יורד), **צבעים בבלוני מים + צחצוח ×301 — 251K/h (עולה, 3 מדידות ברצף)**, Diente Gigante 220K/h, Crayón Gris VS 209K/h, Puerta Misteriosa (אוכל → צבעים) 119K/h (עולה).
 **Search חוזר ~07:00 UTC** → הריצה הבאה (08:04): סריקות נישה (צבעים+הרגל, VS, שינה, הצלה), אחת-אחת.
+
+### ריצה 6 — 21.10.2026 08:05 UTC (מתוזמנת) — Search חזר
+**מה נסרק:** סריקת שוק (14 ימים, 114 MFK) + 3 סריקות נישה ברצף, 3 שאילתות כל אחת: `colhabito` (צבעים + הרגל), `versus` (VS/הפכים), `dormir`. צפייה ב-12 המובילים: `frames_2026-10-21_estudio2`, `story_study_2026-10-21_estudio2.json`.
+**שוק:** הרגל ×12.19 (ירד מ-×20.87, עדיין ראשון), אוכל ×4.14, שיר ×1.19, צבעים ×0.38, "dónde está" ×0.28.
+
+**Top 5 outliers חדשים (MFK):**
+| ×ערוץ | צפיות | אורך | ערוץ | כותרת |
+|---|---|---|---|---|
+| ×2,367 | 2.67M | 40s | Bibiberry | Let's Color My Cars / Where Is My Color Song |
+| ×1,750 | 3.35M | 22s | Gracioso Bebé | Hora de Dormir Sin Miedo |
+| ×500 | 3.0M | 53s | RoboSquad Melodies | Where Is My Color |
+| ×288 | 334M | 27s | Doctora Sophia | Colores con Globos de Agua / Cepíllate los Dientes |
+| ×143 | 43.5M | 39s | Yes! Neo | Cold VS Hot Challenge / Healthy Habits |
+
+**מה רואים:** Bibiberry — כבאית/משטרה/אמבולנס עם משפטי הצלה ("I'm here to save the day") → רכבי הצלה שוב. Yes! Neo — פריים 0 מפוצל: ילד קפוא בקרח מול ילדה מעלה אדים, אחר כך שתי אמבטיות (קרח מול אש), קשת בסוף. Doctora Sophia — שיניים בצבעים (Azul, Rojo) מתלכלכות מבלוני מים בטעם פירות ואז מצחצחות. Gracioso Bebé — כבר 3 outliers על שינה/פחד (×1,750, ×1,496, ×376): **הנושא של tito_dormir מאומת שוב.**
+**חדש:** "Where is my color" עם רכבים (×2,367) ו-VS של הרגלים (×143, 43.5M).
+**כללים:** (1) **מצב קיצוני הפוך פעמיים** (קפוא ↔ לוהט) = Hook + אמצע חזקים. (2) כלל מריצה 5 נשמר: הפעולה המרכזית לא בשוט שמתחיל ב-"Wide".
+**תסריטים:** חדש — **tito_frio_calor** (קר מול חם, chamarra) → script_ready. בתור שלי: arena, brocoli, paraguas, frio_calor (+ dormir revised).
+**רעיון הבא:** Rojito "¿Dónde está mi color?" (Bibiberry ×2,367) — רוחיטו הופך אפור ומוצא את האדום; לבדוק שזה לא חוזר על rojito_colores.

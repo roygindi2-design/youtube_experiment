@@ -1,0 +1,119 @@
+{
+ "id": "tito_frio_calor",
+ "series": "tito",
+ "title": "¡Tito, frío o calor! 🥶🥵 | #shorts",
+ "world": "snowy hill with pine trees and a little snowman (white, ice blue) + a hot sunny savanna with an acacia tree and a small watering hole (golden, orange)",
+ "hook": "frosty_face_icicle_trunk",
+ "bpm": 120,
+ "song_takes": 8,
+ "song_seconds": 32,
+ "reuse_mama": true,
+ "story": [
+  "Extreme close-up: Tito's face covered in frost, a little icicle on the tip of his trunk, teeth chattering (funny problem, second 0)",
+  "He went out in the snow in only his overalls: he shivers and sneezes, achoo! (the mistake)",
+  "Mamá Elefanta wraps him in a red knit hat, a scarf and a puffy orange jacket (mentor fixes)",
+  "Now warm, Tito slides down the snowy hill on his tummy, laughing (reward 1)",
+  "Then he walks into the hot sunny savanna STILL in the jacket, hat and scarf (the opposite mistake)",
+  "Close-up: bright pink cheeks, sweat drops, little puffs of steam from his hat (consequence)",
+  "Jacket off, straw sun hat on, he showers himself with water from his trunk, splash! (twist: his trunk is a shower)",
+  "Top-down: Tito rests happily in the acacia shade in his sun hat (moral + loop)"
+ ],
+ "lyrics": "[Intro]\n¡Brrr! ¡Tito está congelado!\n[Verse]\n¡Achú! ¡Qué frío, qué frío!\n¡Gorro, bufanda y chamarra!\n¡Ahora sí, calientito!\n¡Uf! ¿Chamarra en el sol?\n[Chorus]\n¡Qué calor, qué calor!\n¡Agua y sombrero! ¡Splash!\n[Outro]\n¿Frío o calor? ¡Ya sé!",
+ "locations": {
+  "nieve": "A snowy hill on a bright winter day outdoors, vertical 9:16 composition, camera at child eye level: soft deep white snow, round snowy pine trees, a small friendly snowman with a carrot nose and a red scarf, gentle snowflakes falling, a pale ice-blue sky. Nobody is on the hill.",
+  "sabana": "A hot sunny savanna outdoors, vertical 9:16 composition, camera at child eye level: golden dry grass, one wide flat-topped acacia tree giving a round patch of shade, a small sparkling blue watering hole, a big bright yellow sun in a clear orange-blue sky, soft heat shimmer. Nobody is in the savanna."
+ },
+ "shots": [
+  [
+   "F1",
+   "Extreme close-up of the baby elephant's face on the snowy hill: his cheeks, ears and trunk covered in white frost, a little clear icicle hanging from the tip of his trunk, his teeth chattering, his big eyes blinking, snowflakes falling around him.",
+   "His teeth chatter, he blinks, and the little icicle on his trunk wobbles.",
+   "nieve",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "F2",
+   "Low side view in deep snow on the snowy hill: the baby elephant wearing only his yellow overalls stands shivering with his arms hugging himself, sneezing a big sneeze, a little puff of snowflakes flying off his trunk, snowy pine trees behind.",
+   "He shivers and sneezes, a puff of snowflakes flies off his trunk.",
+   "nieve",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "F3",
+   "Medium shot, side view on the snowy hill: Mamá Elefanta in a cozy lilac winter coat wraps a soft red knit scarf around the baby elephant's neck; he is now wearing a RED KNIT HAT with a pompom and a PUFFY ORANGE JACKET over his yellow overalls.",
+   "Mamá wraps the red scarf around his neck and he smiles, warm.",
+   "nieve",
+   [
+    "tito",
+    "mama"
+   ],
+   3
+  ],
+  [
+   "F4",
+   "Low angle from the snow: the baby elephant, WARMLY DRESSED in the red knit hat, red scarf and puffy orange jacket, slides down the snowy hill on his tummy laughing, snow spraying softly to the sides, the little snowman behind.",
+   "He slides down the hill on his tummy, laughing, snow spraying softly.",
+   "nieve",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "F5",
+   "Wide shot of the hot sunny savanna: the baby elephant STILL wearing the red knit hat, red scarf and puffy orange jacket walks slowly through the golden grass under the big bright sun, heat shimmer in the air, the acacia tree ahead.",
+   "He trudges slowly through the hot grass in his winter clothes.",
+   "sabana",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "F6",
+   "Close-up of the baby elephant's face in the hot savanna: bright pink cheeks, little shiny sweat drops on his forehead, small puffs of white steam rising from his red knit hat, his eyes squeezed, fanning himself with his ear.",
+   "He fans himself with one big ear, sweat drops shining, steam puffing from his hat.",
+   "sabana",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "F7",
+   "View from behind the baby elephant at the little blue watering hole: the puffy orange jacket, red hat and scarf lie on a rock beside him, he wears a STRAW SUN HAT and his yellow overalls, and sprays a big fountain of sparkling water over his head from his raised trunk like a shower.",
+   "He sprays water up from his trunk and it showers down over him, sparkling.",
+   "sabana",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "F8",
+   "Top-down view from above the acacia tree's round shade: the baby elephant in his straw sun hat and yellow overalls lies happily on the cool grass in the shade, wet and smiling, little water drops sparkling on him.",
+   "He stretches happily in the shade and wiggles his ears.",
+   "sabana",
+   [
+    "tito"
+   ],
+   2
+  ]
+ ],
+ "style": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. ",
+ "lock": "TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail.",
+ "mama_lock": "MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear.",
+ "director": true,
+ "pattern": "lesson_consequence",
+ "opening": "frosty_face_icicle_trunk",
+ "twist": "two opposite mistakes with visible extreme states (frost + icicle in the snow, steam + sweat in the sun) — and the fix for the heat is Tito's own trunk used as a shower",
+ "moral": "¡Ropa para el frío, ropa para el calor!",
+ "experiment": "first 'VS / opposites' structure (Yes! Neo 'Cold VS Hot Challenge' 43.5M ×143; Hokie Pokie 'Opuestos' ×173): the same mistake twice in opposite worlds inside one Short",
+ "continuity": "snow world F1-F4 (snowflakes falling), savanna F5-F8 (bright sun); Tito: yellow overalls only F1-F2 (frost F1); + red knit hat, red scarf, puffy orange jacket F3-F6 (steam/sweat F6); jacket, hat and scarf on a rock in F7; straw sun hat + overalls F7-F8 (wet in F8); Mamá only F3 (lilac winter coat)"
+}
