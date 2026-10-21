@@ -1,0 +1,99 @@
+{
+ "out": "production/episodes/tito_basura/build/tito_basura.mp4",
+ "fps": 30,
+ "size": [
+  1080,
+  1920
+ ],
+ "burn_captions": false,
+ "song": {
+  "file": "production/episodes/tito_basura/assets/song.wav",
+  "start": 0.0,
+  "gain_db": 0
+ },
+ "shots": [
+  {
+   "file": "production/episodes/tito_basura/shots_v2/tito_basura_clip2_P1_s7.mp4",
+   "in": 1.0,
+   "dur": 1.6,
+   "speed": 1.0,
+   "src_len": 1.6,
+   "shot": "P1@7"
+  },
+  {
+   "file": "production/episodes/tito_basura/shots_v2/tito_basura_clip2_P2_s31.mp4",
+   "in": 0.06,
+   "dur": 3.6,
+   "speed": 1.0,
+   "src_len": 3.6,
+   "shot": "P2@31"
+  },
+  {
+   "file": "production/episodes/tito_basura/shots_v2/tito_basura_clip2_P2_s7.mp4",
+   "in": 0.06,
+   "dur": 2.4,
+   "speed": 1.0,
+   "src_len": 2.4,
+   "shot": "P2@7"
+  },
+  {
+   "file": "production/episodes/tito_basura/shots_v2/tito_basura_clip2_P3_s7.mp4",
+   "in": 0.06,
+   "dur": 4.2,
+   "speed": 0.948,
+   "src_len": 3.982,
+   "shot": "P3@7"
+  },
+  {
+   "file": "production/episodes/tito_basura/shots_v2/tito_basura_clip2_P4_s31.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "P4@31"
+  },
+  {
+   "file": "production/episodes/tito_basura/shots_v2/tito_basura_clip2_P5_s7.mp4",
+   "in": 0.06,
+   "dur": 1.6,
+   "speed": 0.9,
+   "src_len": 1.44,
+   "shot": "P5@7"
+  },
+  {
+   "file": "production/episodes/tito_basura/shots_v2/tito_basura_clip2_P6_s19.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "P6@19"
+  },
+  {
+   "file": "production/episodes/tito_basura/shots_v2/tito_basura_clip2_P7_s19.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "P7@19"
+  },
+  {
+   "file": "production/episodes/tito_basura/shots_v2/tito_basura_clip2_P8_s19.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "P8@19"
+  },
+  {
+   "file": "production/episodes/tito_basura/shots_v2/tito_basura_clip2_P8_s19.mp4",
+   "in": 1.4,
+   "dur": 2.6,
+   "speed": 1.0,
+   "src_len": 2.6,
+   "shot": "P8@19",
+   "reverse": true
+  }
+ ],
+ "sfx": [],
+ "lines": []
+}

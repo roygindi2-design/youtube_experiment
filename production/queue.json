@@ -34,13 +34,13 @@
   },
   {
    "id": "tito_basura",
-   "status": "in_production",
+   "status": "qc",
    "owner": "producer",
    "note": "littering lesson at a duck pond; Tito lifts the box out with his trunk, smiling bin ñam. Milo Kids x3604, NursyTots x1382. preflight OK."
   },
   {
    "id": "rojito_rescate",
-   "status": "in_production",
+   "status": "qc",
    "owner": "producer",
    "note": "rescue_mission: kitten high in an apple tree, the ladder becomes a resbaladilla (slide). Farm orchard world. KORIRI x450, PequeGenios x1027. preflight OK."
   },

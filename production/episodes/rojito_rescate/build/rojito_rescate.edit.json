@@ -1,0 +1,91 @@
+{
+ "out": "production/episodes/rojito_rescate/build/rojito_rescate.mp4",
+ "fps": 30,
+ "size": [
+  1080,
+  1920
+ ],
+ "burn_captions": false,
+ "song": {
+  "file": "production/episodes/rojito_rescate/assets/song.wav",
+  "start": 0.0,
+  "gain_db": 0
+ },
+ "shots": [
+  {
+   "file": "production/episodes/rojito_rescate/shots_v2/rojito_rescate_clip2_R1_s31.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "R1@31"
+  },
+  {
+   "file": "production/episodes/rojito_rescate/shots_v2/rojito_rescate_clip2_R1_s31.mp4",
+   "in": 2.0,
+   "dur": 2.0,
+   "speed": 1.0,
+   "src_len": 2.0,
+   "shot": "R1@31",
+   "reverse": true
+  },
+  {
+   "file": "production/episodes/rojito_rescate/shots_v2/rojito_rescate_clip2_R2_s31.mp4",
+   "in": 0.06,
+   "dur": 3.3,
+   "speed": 1.0,
+   "src_len": 3.3,
+   "shot": "R2@31"
+  },
+  {
+   "file": "production/episodes/rojito_rescate/shots_v2/rojito_rescate_clip2_R3_s7.mp4",
+   "in": 0.06,
+   "dur": 4.3,
+   "speed": 0.926,
+   "src_len": 3.982,
+   "shot": "R3@7"
+  },
+  {
+   "file": "production/episodes/rojito_rescate/shots_v2/rojito_rescate_clip2_R4_s31.mp4",
+   "in": 0.06,
+   "dur": 3.6,
+   "speed": 1.0,
+   "src_len": 3.6,
+   "shot": "R4@31"
+  },
+  {
+   "file": "production/episodes/rojito_rescate/shots_v2/rojito_rescate_clip2_R5_s7.mp4",
+   "in": 0.6,
+   "dur": 3.8,
+   "speed": 0.906,
+   "src_len": 3.442,
+   "shot": "R5@7"
+  },
+  {
+   "file": "production/episodes/rojito_rescate/shots_v2/rojito_rescate_clip2_R6_s31.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "R6@31"
+  },
+  {
+   "file": "production/episodes/rojito_rescate/shots_v2/rojito_rescate_clip2_R7_s7.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "R7@7"
+  },
+  {
+   "file": "production/episodes/rojito_rescate/shots_v2/rojito_rescate_clip2_R8_s19.mp4",
+   "in": 0.06,
+   "dur": 3.0,
+   "speed": 1.0,
+   "src_len": 3.0,
+   "shot": "R8@19"
+  }
+ ],
+ "sfx": [],
+ "lines": []
+}
