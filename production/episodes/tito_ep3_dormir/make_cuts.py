@@ -26,7 +26,9 @@ for (a, sh), (b, _) in zip(plan, plan[1:]):
     seed = seeds.get(f"{sh}#{n}", seeds.get(sh, 7))
     tok = f"{sh}@{seed}"
     lim = LIMIT.get(sh)
-    if lim and b - a > lim + 0.01:  # forward up to the limit, then back (boomerang)
+    if lim and lim + 0.01 < b - a <= lim / 0.86:  # a little slower instead of a tiny backward piece
+        cuts.append([a, b, tok, {"until": lim + 0.06}])
+    elif lim and b - a > lim + 0.01:  # forward up to the limit, then back (boomerang)
         m = round(a + lim, 2)
         cuts += [[a, m, tok, {"until": lim + 0.06}], [m, b, tok, {"reverse": True, "in": round(lim + 0.06 - (b - m), 2), "until": lim + 0.06}]]
     elif b - a <= 4.6:
