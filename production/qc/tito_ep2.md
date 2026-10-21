@@ -15,3 +15,9 @@
 - Measured motion (optical flow, bottom third): mud 0.58 → 2.52, bath 0.38 → 1.27, sink 0.96 → 1.30.
 - Lesson: the full (non-distilled) Wan 2.2 5B gives much better liquid physics than FastWan; use it for splash/water shots (≈4 min/clip on 4090).
 - Final: 1920x1080, no subtitle stream, 87.9 s. Not uploaded via API.
+
+## Fix v4 — trunk (Roy 21.10: "in the towel-dance shot his trunk just disappears")
+- Both old E12 takes (FastWan) shrank the trunk to a small nose for ~2 s. All 3 new FastWan takes did the same.
+- Replaced with E12F (full Wan 2.2 5B, motion prompt says the trunk stays visible and swings) at 38.3–39.8 (in 2.5) and 51.8–55.8. Trunk visible in every frame.
+- Whole episode scanned at 2 fps: no other trunk loss.
+- Lesson: FastWan tends to "lose" the trunk in dance/turn shots; use the full model for character dance shots too.

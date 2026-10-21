@@ -109,12 +109,12 @@
    "shot": "E11@7"
   },
   {
-   "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E12_s7.mp4",
-   "in": 0.06,
+   "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E12F_s7.mp4",
+   "in": 2.5,
    "dur": 1.5,
    "speed": 1.0,
    "src_len": 1.5,
-   "shot": "E12@7"
+   "shot": "E12F@7"
   },
   {
    "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E13_s19.mp4",
@@ -141,12 +141,12 @@
    "shot": "E15@7"
   },
   {
-   "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E12_s19.mp4",
+   "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E12F_s7.mp4",
    "in": 0.06,
    "dur": 4.0,
    "speed": 0.995,
    "src_len": 3.98,
-   "shot": "E12@19"
+   "shot": "E12F@7"
   },
   {
    "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E23_s19.mp4",
