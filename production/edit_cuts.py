@@ -35,7 +35,7 @@ def main():
     for x, y in zip(c["cuts"], c["cuts"][1:]):
         if abs(x[1] - y[0]) > 1e-6:
             sys.exit(f"gap/overlap between {x[2]} and {y[2]}")
-    edit = {"out": c["out"], "fps": 30, "size": [1080, 1920], "burn_captions": False,
+    edit = {"out": c["out"], "fps": 30, "size": c.get("size", [1080, 1920]), "burn_captions": False,
             "song": {"file": c["song"], "start": c.get("song_start", 0.0), "gain_db": 0}, "shots": shots, "sfx": c.get("sfx", []), "lines": []}
     p = Path(c["out"]).with_suffix(".edit.json")
     p.parent.mkdir(parents=True, exist_ok=True)

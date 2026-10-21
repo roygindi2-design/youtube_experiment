@@ -1,0 +1,237 @@
+{
+ "out": "production/episodes/tito_ep2/build/tito_ep2.mp4",
+ "fps": 30,
+ "size": [
+  1920,
+  1080
+ ],
+ "burn_captions": false,
+ "song": {
+  "file": "production/episodes/tito_ep2/assets/song_edit.wav",
+  "start": 0.0,
+  "gain_db": 0
+ },
+ "shots": [
+  {
+   "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E01_s7.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "E01@7"
+  },
+  {
+   "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E01_s7.mp4",
+   "in": 2.7,
+   "dur": 1.3,
+   "speed": 1.0,
+   "src_len": 1.3,
+   "shot": "E01@7",
+   "reverse": true
+  },
+  {
+   "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E02_s19.mp4",
+   "in": 0.06,
+   "dur": 4.3,
+   "speed": 0.926,
+   "src_len": 3.982,
+   "shot": "E02@19"
+  },
+  {
+   "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E03_s19.mp4",
+   "in": 0.06,
+   "dur": 4.2,
+   "speed": 0.948,
+   "src_len": 3.982,
+   "shot": "E03@19"
+  },
+  {
+   "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E04_s19.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "E04@19"
+  },
+  {
+   "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E05_s7.mp4",
+   "in": 0.06,
+   "dur": 2.7,
+   "speed": 1.0,
+   "src_len": 2.7,
+   "shot": "E05@7"
+  },
+  {
+   "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E06_s7.mp4",
+   "in": 0.06,
+   "dur": 1.8,
+   "speed": 1.0,
+   "src_len": 1.8,
+   "shot": "E06@7"
+  },
+  {
+   "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E08_s19.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "E08@19"
+  },
+  {
+   "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E09_s7.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "E09@7"
+  },
+  {
+   "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E10_s19.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "E10@19"
+  },
+  {
+   "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E11_s7.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "E11@7"
+  },
+  {
+   "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E12_s7.mp4",
+   "in": 0.06,
+   "dur": 1.5,
+   "speed": 1.0,
+   "src_len": 1.5,
+   "shot": "E12@7"
+  },
+  {
+   "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E13_s19.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "E13@19"
+  },
+  {
+   "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E14_s19.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "E14@19"
+  },
+  {
+   "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E15_s7.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "E15@7"
+  },
+  {
+   "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E12_s19.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "E12@19"
+  },
+  {
+   "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E18_s19.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "E18@19"
+  },
+  {
+   "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E16_s19.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "E16@19"
+  },
+  {
+   "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E16_s19.mp4",
+   "in": 2.2,
+   "dur": 1.8,
+   "speed": 1.0,
+   "src_len": 1.8,
+   "shot": "E16@19",
+   "reverse": true
+  },
+  {
+   "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E16_s7.mp4",
+   "in": 0.06,
+   "dur": 2.7,
+   "speed": 1.0,
+   "src_len": 2.7,
+   "shot": "E16@7"
+  },
+  {
+   "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E17_s7.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "E17@7"
+  },
+  {
+   "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E18_s7.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "E18@7"
+  },
+  {
+   "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E05_s19.mp4",
+   "in": 0.06,
+   "dur": 2.0,
+   "speed": 1.0,
+   "src_len": 2.0,
+   "shot": "E05@19"
+  },
+  {
+   "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E14_s7.mp4",
+   "in": 0.06,
+   "dur": 2.0,
+   "speed": 1.0,
+   "src_len": 2.0,
+   "shot": "E14@7"
+  },
+  {
+   "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E11_s19.mp4",
+   "in": 0.06,
+   "dur": 2.0,
+   "speed": 1.0,
+   "src_len": 2.0,
+   "shot": "E11@19"
+  },
+  {
+   "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E18_s19.mp4",
+   "in": 0.06,
+   "dur": 4.0,
+   "speed": 0.995,
+   "src_len": 3.98,
+   "shot": "E18@19"
+  },
+  {
+   "file": "production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E18_s19.mp4",
+   "in": 2.4,
+   "dur": 1.6,
+   "speed": 1.0,
+   "src_len": 1.6,
+   "shot": "E18@19",
+   "reverse": true
+  }
+ ],
+ "sfx": [],
+ "lines": []
+}
