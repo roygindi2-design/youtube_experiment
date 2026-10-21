@@ -34,7 +34,7 @@
 
 ## Spanish check (Mexico, ages 1–4)
 
-- Every line 3–6 words, present tense, describes the picture; sound words repeat (¡splash!, ¡ñam!, ¡pío!, ¡plic!).
+- Every line 3–6 words, present tense, describes the picture; sound words repeat (¡splash!, ¡ñam!, ¡plic!).
 - Diminutives for warmth (ojitos, patita, colita, arbolitos, pollito); no Spain-only words.
 
 ## Production notes (from producer feedback 21.10)
@@ -53,3 +53,6 @@ sunny daytime in every shot; Tito normal size at the picnic (B1-B2, B5-B8), GIAN
 ## Risks
 
 See production/dossiers/tito_brocoli.md.
+
+## Changes 21.10 04:20
+- `song_seconds: 32`; the twist (giant in the broccoli forest) lands at ~6–9 s. Watermelon held ABOVE the head (objects in front of the face merge with it).

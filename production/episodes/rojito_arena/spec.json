@@ -10,8 +10,8 @@
   "Two big eyes open and blink inside a huge sand mound on the beach (mystery in second 0)",
   "Rojito races along the shore toward the mound, siren flashing (the call)",
   "He sprays a water arc on the mound and the sand washes away (the try)",
-  "A green flipper pokes out of the wet sand and wiggles (clue 1)",
-  "A little green tail pops out at the back and wiggles (clue 2)",
+  "A pale-yellow flipper pokes out of the wet sand and wiggles (clue 1)",
+  "A little pale-yellow tail pops out at the back and wiggles (clue 2)",
   "Reveal: a big friendly sea turtle, clean and shiny, smiles at Rojito (twist)",
   "The turtle crawls into the waves and waves goodbye with a flipper (reward)",
   "Next to Rojito's wheel, a small new sand mound blinks two tiny eyes (loop: who now?)"
@@ -54,8 +54,8 @@
   ],
   [
    "A4",
-   "Close-up at the bottom of the wet sand mound: one GREEN sea-turtle flipper now pokes out of the wet golden sand and wiggles, water drops sparkling, the little red fire truck character's front wheel at the edge of the picture.",
-   "The green flipper wiggles out of the wet sand, drops falling off it.",
+   "Close-up at the bottom of the wet sand mound: one PALE-YELLOW sea-turtle flipper with little peach spots now pokes out of the wet golden sand and wiggles, water drops sparkling, the little red fire truck character's front wheel at the edge of the picture.",
+   "The pale-yellow flipper wiggles out of the wet sand, drops falling off it.",
    "playa",
    [
     "hero"
@@ -64,8 +64,8 @@
   ],
   [
    "A5",
-   "View from behind the little red fire truck character spraying water: at the back of the wet sand mound a small GREEN tail now pokes out and wiggles, most of the sand washed away, revealing part of a round shell.",
-   "The little green tail wiggles while the water keeps washing the sand away.",
+   "View from behind the little red fire truck character spraying water: at the back of the wet sand mound a small PALE-YELLOW tail now pokes out and wiggles, most of the sand washed away, revealing part of a round peach-orange shell.",
+   "The little pale-yellow tail wiggles while the water keeps washing the sand away.",
    "playa",
    [
     "hero"
@@ -74,7 +74,7 @@
   ],
   [
    "A6",
-   "Medium shot, front three-quarter view on the beach: a big friendly green sea turtle with a shiny clean brown-and-green shell, its head out and a big smile, stands where the sand mound was, the little red fire truck character beside it smiling, a few wet sand grains around.",
+   "Medium shot, front three-quarter view on the beach: a big round friendly sea turtle with a shiny clean PEACH-ORANGE shell covered in soft yellow hexagon spots, pale-yellow skin, round rosy cheeks and big glossy eyes, its head out and a big smile, stands where the sand mound was, the little red fire truck character beside it smiling, a few wet sand grains around.",
    "The sea turtle stretches its head out and smiles, he smiles back.",
    "playa",
    [
@@ -84,7 +84,7 @@
   ],
   [
    "A7",
-   "Top-down view from above the shoreline: the big green sea turtle crawls into the gentle turquoise waves, lifting one flipper to wave goodbye, the little red fire truck character parked on the wet sand at the bottom of the picture.",
+   "Top-down view from above the shoreline: the big peach-orange sea turtle crawls into the gentle turquoise waves, lifting one flipper to wave goodbye, the little red fire truck character parked on the wet sand at the bottom of the picture.",
    "The turtle crawls into the waves and lifts a flipper to wave goodbye.",
    "orilla",
    [
@@ -117,5 +117,6 @@
  "twist": "the 'sand monster' with blinking eyes is a friendly sea turtle — each spray reveals one more clue (flipper, tail, shell) before the full reveal",
  "moral": "¡Rojito ayuda a todos sus amigos, hasta en la playa!",
  "experiment": "first 'mystery' pattern (Huella Mágica ×1,150) as a clue-by-clue reveal with water; giant-thing-to-clean hook (Diente Gigante ×26, +3.9M in 12 h)",
- "continuity": "sunny midday in every shot; Rojito cherry red, siren FLASHING only in A2; water arc in A3 and A5; sand mound: full with eyes A1-A2, washing A3, flipper A4, tail + shell A5, gone A6; turtle clean from A6, in the waves A7; small new mound only A8; playa = A1-A6, orilla = A7-A8"
+ "continuity": "sunny midday in every shot; Rojito cherry red, siren FLASHING only in A2; water arc in A3 and A5; sand mound: full with eyes A1-A2, washing A3, flipper A4, tail + shell A5, gone A6; turtle clean from A6, in the waves A7; small new mound only A8; playa = A1-A6, orilla = A7-A8",
+ "song_seconds": 32
 }
