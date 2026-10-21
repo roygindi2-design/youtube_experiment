@@ -155,3 +155,7 @@
 - סריקות ארוכות חדשות (`research/longform_scan.py`): 20–40 דק' — חציון 38 אלף צפיות ליום (הכי גבוה); כותרת "+ más" פי 1.9.
 - המוביל בספרדית: Monito y Canciones (3D AI, הרגלים) — 79.5 מיליון בשיר החיתול, 903 אלף ליום.
 - הצעת פורמט מלאה: `research/14-longform-format.md`. הפרק הראשון המוצע: "Tito no puede dormir".
+
+### 21.10.2026 ~15:00 UTC — Roy אישר: פרק ארוך ראשון
+- **tito_ep3_dormir** — "¿Qué es eso? ¡Tito no puede dormir! + Más Canciones Infantiles". 16:9, שיר ~2:30 (3 בתים + אותו פזמון ×3), 20 שוטים ייחודיים, ואחריו קומפילציה (8–10 דק'). 3 Shorts ייגזרו ממנו. preflight עבר → script_ready (עדיפות 1).
+- tito_dormir (Short) הוחלף על ידי הפרק הזה.

@@ -2,6 +2,13 @@
  "_doc": "Shared work queue. Research agent (scriptwriter) owns status 'researching'/'script_ready'/'script_revised'. Producer agent owns 'in_production'/'qc'/'published'/'needs_rewrite'. Each agent only edits its own statuses. Producer feedback: production/feedback/<id>.md.",
  "items": [
   {
+   "id": "tito_ep3_dormir",
+   "status": "script_ready",
+   "owner": "research",
+   "priority": 1,
+   "note": "NEW STRATEGY (Roy 21.10): first LONG episode, 16:9. Song ~2:30 (3 verses + same chorus x3, shots K1-K4 reused) + '+ más canciones' compilation (~8-10 min). 3 Shorts cut later (verse+chorus each, 9:16 center crop). See SCRIPT.md. preflight OK."
+  },
+  {
    "id": "rojito_arena",
    "status": "script_ready",
    "owner": "research",
@@ -36,7 +43,7 @@
    "id": "tito_dormir",
    "status": "script_ready",
    "owner": "research",
-   "note": "D1 hook frame shows no scary shadow — see production/feedback/tito_dormir.md (only D1) | 06:20 D1 rewritten: low angle (no location ref), HUGE dark-purple long-neck shadow as the subject, Tito tiny in the corner. Only D1 needs a new keyframe. | paused before production"
+   "note": "D1 hook frame shows no scary shadow — see production/feedback/tito_dormir.md (only D1) | 06:20 D1 rewritten: low angle (no location ref), HUGE dark-purple long-neck shadow as the subject, Tito tiny in the corner. Only D1 needs a new keyframe. | paused before production | 21.10: superseded by tito_ep3_dormir (long episode); its Shorts come from ep3."
   },
   {
    "id": "tito_basura",
