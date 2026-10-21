@@ -3,7 +3,8 @@
  "locations": {
   "cocina": "loc_ep2_cocina.jpg",
   "bano": "loc_ep2_bano.jpg",
-  "cuarto": "loc_ep2_cuarto.jpg"
+  "cuarto": "loc_ep2_cuarto.jpg",
+  "patio": "loc_ep2_patio.jpg"
  },
  "notes": "Visual review 2026-10-20 23:50 IL time: location picks from design contact sheet."
 }

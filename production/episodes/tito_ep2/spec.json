@@ -25,7 +25,8 @@
  "locations": {
   "cocina": "A cozy warm kitchen in the morning, wide 16:9 composition, camera at child eye level: a round wooden table with a plate of fluffy pancakes and a glass of milk, mint-green wall tiles, orange curtains on a sunny window, a white sink with a little wooden step stool and a soap pump, potted plants. Nobody is in the kitchen.",
   "bano": "A cheerful bathroom, wide 16:9 composition, camera at child eye level: turquoise and white tiles, a big white clawfoot bathtub overflowing with fluffy foam and rainbow soap bubbles, a yellow rubber duck toy, a small sink with a round mirror and a cup with a small blue toothbrush, a fluffy yellow towel on a hook. Nobody is in the bathroom.",
-  "cuarto": "A cozy child's bedroom at night, wide 16:9 composition, camera at child eye level: a small wooden bed with a soft blue blanket with star patterns, a big window showing a deep blue night sky with twinkling stars and a big friendly smiling moon, a warm little lamp, a shelf with picture books, a soft rug. Nobody is in the bedroom."
+  "cuarto": "A cozy child's bedroom at night, wide 16:9 composition, camera at child eye level: a small wooden bed with a soft blue blanket with star patterns, a big window showing a deep blue night sky with twinkling stars and a big friendly smiling moon, a warm little lamp, a shelf with picture books, a soft rug. Nobody is in the bedroom.",
+  "patio": "A backyard just after the rain, vertical 9:16 composition, camera at child eye level: wet green grass, big brown mud puddles, a clothesline with white sheets gently moving, a pair of small yellow rain boots, a little wooden fence and a bright sky with soft clouds after the rain. Nobody is in the yard."
  },
  "shots": [
   [
@@ -211,6 +212,57 @@
    "cuarto",
    [
     "tito"
+   ],
+   2
+  ],
+  [
+   "E19",
+   "Close-up from the side in the cozy bedroom in the MORNING: warm golden sunlight streams through the window, the baby elephant sits up in his small wooden bed under the blue blanket with yellow stars, stretching both arms and his trunk high with a big happy yawn.",
+   "He stretches his arms and trunk up high and yawns happily in the morning sun.",
+   "cuarto",
+   [
+    "tito"
+   ],
+   2
+  ],
+  [
+   "E20",
+   "Close-up of the round bedroom window in the early MORNING: a big friendly smiling sun with rosy cheeks rises over soft green hills, golden rays and a few fluffy clouds, the sky turning bright blue.",
+   "The smiling sun rises slowly and its golden rays shine brighter.",
+   "cuarto",
+   [
+    "tito"
+   ],
+   2
+  ],
+  [
+   "E21",
+   "Low side view at ground level in the backyard after the rain: the baby elephant jumps with both feet into a big brown mud puddle, a huge splash of mud flying up around him, laughing with joy.",
+   "He jumps into the puddle and a big splash of mud flies up as he laughs.",
+   "patio",
+   [
+    "tito"
+   ],
+   2
+  ],
+  [
+   "E22",
+   "Extreme close-up of the baby elephant's face covered in a few round brown mud splats on his cheeks, trunk and big ears, a guilty toothy grin, a drop of mud dripping from his ear, the backyard softly blurred behind.",
+   "A drop of mud falls from his ear, he blinks and grins guiltily.",
+   "patio",
+   [
+    "tito"
+   ],
+   2
+  ],
+  [
+   "E23",
+   "Medium shot in the cozy bedroom at night with warm lamp light: the baby elephant pulls a soft blue pajama top with little yellow stars over his head, his trunk and one ear popping out of the collar, Mamá Elefanta helping with a smile.",
+   "He wiggles into the star pajamas and his face pops out; Mamá smiles.",
+   "cuarto",
+   [
+    "tito",
+    "mama"
    ],
    2
   ]
