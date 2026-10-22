@@ -4,8 +4,12 @@ Roy uploads by hand. YouTube: Made for Kids = YES, location = Mexico, Spanish (M
 ## 1. YouTube — the episode (1:28, 16:9 → a normal video, not a Short)
 **Title:** ¡Buenos días, Tito! ☀️ Manos, baño, dientes y a dormir 🐘 | Canciones Infantiles de Rutina
 **Description:** use production/youtube/upload_tito_ep2.json (lyrics, links, hashtags) + chapters:
-00:00 ¡Buenos días! ☀️ · 00:05 Manitas de colores 🧼 · 00:21 ¡Barro! Al baño 🛁 · 00:38 Cepillo los dientes 🦷 · 00:55 Pijama y un cuento 🌙 · 01:11 ¡Buenas noches, Tito!
-(times are checked on the final cut)
+00:00 ¡Buenos días! Manitas de colores ☀️
+00:13 ¡A lavar las manos! 🧼
+00:22 ¡Barro! Al baño con burbujas 🛁
+00:38 Cepillo los dientes 🦷
+00:55 Pijama, cuento y ¡buenas noches! 🌙
+(checked on the final cut 60b6e04)
 **When:** the next free day after Halloween (Halloween episode = 24.10, its Shorts 25–27.10) → ep2 on **Tue 28.10, 18:00 Israel**, or earlier if Roy prefers (1 upload/day).
 
 ## 2. TikTok — 1 cut, ready first (handwashing = our strongest habit hook)
