@@ -14,19 +14,19 @@
  "shots": [
   {
    "file": "/home/user/youtube_experiment/production/episodes/tito_ep2/shots_v3/tito_ep2_clip3_E19_s7.mp4",
-   "in": 0.06,
+   "in": 2.0,
    "dur": 2.9,
    "speed": 1.0,
    "src_len": 2.9,
    "shot": "shots_v3/tito_ep2_clip3_E19@7"
   },
   {
-   "file": "/home/user/youtube_experiment/production/episodes/tito_ep2/shots_v3/tito_ep2_clip3_E20_s7.mp4",
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep2/shots_v3/tito_ep2_clip3_E20m22_s7.mp4",
    "in": 0.06,
    "dur": 2.4,
    "speed": 1.0,
    "src_len": 2.4,
-   "shot": "shots_v3/tito_ep2_clip3_E20@7"
+   "shot": "shots_v3/tito_ep2_clip3_E20m22@7"
   },
   {
    "file": "/home/user/youtube_experiment/production/episodes/tito_ep2/shots_v3/tito_ep2_clip3_E02_s7.mp4",
@@ -71,18 +71,10 @@
   {
    "file": "/home/user/youtube_experiment/production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E21F_s7.mp4",
    "in": 0.06,
-   "dur": 2.3,
-   "speed": 1.0,
-   "src_len": 2.3,
+   "dur": 4.0,
+   "speed": 0.985,
+   "src_len": 3.94,
    "shot": "shots_v2/tito_ep2_clip2_E21F@7"
-  },
-  {
-   "file": "/home/user/youtube_experiment/production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E22_s7.mp4",
-   "in": 0.06,
-   "dur": 1.7,
-   "speed": 1.0,
-   "src_len": 1.7,
-   "shot": "shots_v2/tito_ep2_clip2_E22@7"
   },
   {
    "file": "/home/user/youtube_experiment/production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E09F_s7.mp4",
@@ -133,12 +125,12 @@
    "shot": "shots_v3/tito_ep2_clip3_E14@31"
   },
   {
-   "file": "/home/user/youtube_experiment/production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E15_s7.mp4",
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep2/shots_v3/tito_ep2_clip3_E13_s31.mp4",
    "in": 0.06,
    "dur": 4.0,
-   "speed": 0.985,
-   "src_len": 3.94,
-   "shot": "shots_v2/tito_ep2_clip2_E15@7"
+   "speed": 1.0,
+   "src_len": 4.0,
+   "shot": "shots_v3/tito_ep2_clip3_E13@31"
   },
   {
    "file": "/home/user/youtube_experiment/production/episodes/tito_ep2/shots_v3/tito_ep2_clip3_E12F_s7.mp4",
@@ -157,19 +149,19 @@
    "shot": "shots_v2/tito_ep2_clip2_E23@19"
   },
   {
-   "file": "/home/user/youtube_experiment/production/episodes/tito_ep2/shots_v3/tito_ep2_clip3_E16_s7.mp4",
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep2/shots_v2/tito_ep2_clip2_E16_s19.mp4",
    "in": 0.06,
-   "dur": 4.8,
-   "speed": 1.0,
-   "src_len": 4.8,
-   "shot": "shots_v3/tito_ep2_clip3_E16@7"
+   "dur": 4.0,
+   "speed": 0.985,
+   "src_len": 3.94,
+   "shot": "shots_v2/tito_ep2_clip2_E16@19"
   },
   {
    "file": "/home/user/youtube_experiment/production/episodes/tito_ep2/shots_v3/tito_ep2_clip3_E16_s19.mp4",
    "in": 0.06,
-   "dur": 3.7,
+   "dur": 4.5,
    "speed": 1.0,
-   "src_len": 3.7,
+   "src_len": 4.5,
    "shot": "shots_v3/tito_ep2_clip3_E16@19"
   },
   {
