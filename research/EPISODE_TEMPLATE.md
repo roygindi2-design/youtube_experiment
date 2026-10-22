@@ -31,3 +31,5 @@
 - No ping-pong/boomerang. Lines longer than a clean take → second seed, another angle, or 0.85–0.9x speed.
 - Walking shots: "camera slowly tracking backwards as he walks, houses passing by" or walking across the frame.
 - Holds ≤ 2 s; every shot has gentle motion.
+- Movement choice per line: going somewhere → real walk (tracking camera / crossing the frame); staying → joy action (jump, clap, bounce, dance). Never a walk cycle in place.
+- Every shot description must pass QC_CHECKLIST §7 (logic & physics) before it goes to the producer.

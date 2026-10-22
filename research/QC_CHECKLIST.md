@@ -44,3 +44,23 @@
 - [ ] Walking = really travels: street/houses move, or the character crosses the frame. No walking in place.
 - [ ] Trunk hangs down below the mouth, never curls onto the cheek/face.
 - [ ] Natural slow blink = OK; eye pop/jump/flicker = FAIL.
+
+## 7. Logic & physics — "does this make sense to a 3-year-old?" (Roy 22.10)
+Walking vs. in place
+- [ ] WALKING / RUNNING = the world changes: houses/street pass by (camera tracks), or he crosses the frame and ends somewhere else. Legs moving while the background stays put = FAIL.
+- [ ] Happy/excited on the spot is fine AND preferred for "in place" moments: jumping for joy, clapping, a little dance, bouncing. If the line has no destination, use a joy action, not a walk.
+- [ ] Feet touch the ground; no sliding/skating feet; landing after a jump.
+Cause → effect
+- [ ] Order is logical: knock → (pause) → door opens; door is CLOSED before the knock; candy falls only after it is offered.
+- [ ] Gravity: things fall DOWN and stay where they land (candy stays in the bucket), nothing floats.
+- [ ] What you hold stays in your hand; nothing passes through bodies, doors, or buckets.
+Continuity of state
+- [ ] Amounts only change for a reason: bucket empty → some → full; it only goes down when he shares.
+- [ ] Same place = same look: the door you knock on = the door that opens; same houses, colors, night, moon.
+- [ ] Scale stays the same: mouse smaller than Tito, door sizes fit the characters.
+- [ ] Costumes/props are the same from shot to shot (hat, bucket, stem, colors).
+Story & feeling
+- [ ] What is sung is on screen at that moment (e.g. "toc, toc, toc" = 3 knocks; "¡Flap, flap!" = wings flap).
+- [ ] Characters look at what they react to (eye line), and at each other when they talk.
+- [ ] The face matches the line: sad when the mouse has no candy, happy when sharing. No worried brows in happy moments.
+- [ ] Nobody appears or disappears without a reason (a door, an entrance, a cut to a new place).
