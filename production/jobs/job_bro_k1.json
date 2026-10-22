@@ -1,0 +1,44 @@
+[
+ {
+  "id": "bro_clip1_K1_s31",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Static locked-off camera that does not move or zoom at all. He sits still on the blanket holding the white plate with the broccoli floret, carrot stick and cherry tomato in both hands, sways gently left and right to the music and smiles happily with his mouth closed; the plate and the vegetables stay on the plate. Smooth gentle motion; the same character the whole time; no morphing; no new characters. His short trunk hangs down. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_K1.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_K1_s43",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 43,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Static locked-off camera that does not move or zoom at all. He sits still on the blanket holding the white plate with the broccoli floret, carrot stick and cherry tomato in both hands, sways gently left and right to the music and smiles happily with his mouth closed; the plate and the vegetables stay on the plate. Smooth gentle motion; the same character the whole time; no morphing; no new characters. His short trunk hangs down. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_K1.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_K1_s57",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 57,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Static locked-off camera that does not move or zoom at all. He sits still on the blanket holding the white plate with the broccoli floret, carrot stick and cherry tomato in both hands, sways gently left and right to the music and smiles happily with his mouth closed; the plate and the vegetables stay on the plate. Smooth gentle motion; the same character the whole time; no morphing; no new characters. His short trunk hangs down. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_K1.jpg"
+  }
+ }
+]
