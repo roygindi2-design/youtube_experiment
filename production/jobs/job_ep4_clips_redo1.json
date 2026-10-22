@@ -1,0 +1,170 @@
+[
+ {
+  "id": "tito_ep4_halloween_C3_kfB303",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 303,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot: the baby elephant wearing a round ORANGE PUMPKIN COSTUME with a short green stem cap, his face, big ears and short trunk out of the round opening, his trunk curled down below his mouth, stretches his LEFT arm far out to the side and holds one shiny wrapped candy in his open LEFT hand at arm's length, the candy well away from his face and trunk, as if to share it, his trunk curled down below his mouth, holding ONE small ORANGE plastic candy bucket shaped like a jack-o-lantern in his RIGHT hand. The main action is in the CENTER of the frame. The baby elephant from the first reference image, exactly the same character design: TITO, a baby elephant toddler in his Halloween costume: his powder-blue face, very big round powder-blue ears with peach-pink insides, short soft powder-blue trunk curled up at the tip, big glossy dark-brown eyes, rosy cheeks, powder-blue arms, hands and feet; he wears a round soft ORANGE PUMPKIN COSTUME like a puffy round orange pumpkin around his tummy and chest, with vertical pumpkin ridges, and a small green leafy stem cap on top of his head; short chubby powder-blue legs below the costume, small tail. Only one elephant in the picture. Setting: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "tito_pumpkin_wide.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_C3_kfB404",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 404,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot: the baby elephant wearing a round ORANGE PUMPKIN COSTUME with a short green stem cap, his face, big ears and short trunk out of the round opening, his trunk curled down below his mouth, stretches his LEFT arm far out to the side and holds one shiny wrapped candy in his open LEFT hand at arm's length, the candy well away from his face and trunk, as if to share it, his trunk curled down below his mouth, holding ONE small ORANGE plastic candy bucket shaped like a jack-o-lantern in his RIGHT hand. The main action is in the CENTER of the frame. The baby elephant from the first reference image, exactly the same character design: TITO, a baby elephant toddler in his Halloween costume: his powder-blue face, very big round powder-blue ears with peach-pink insides, short soft powder-blue trunk curled up at the tip, big glossy dark-brown eyes, rosy cheeks, powder-blue arms, hands and feet; he wears a round soft ORANGE PUMPKIN COSTUME like a puffy round orange pumpkin around his tummy and chest, with vertical pumpkin ridges, and a small green leafy stem cap on top of his head; short chubby powder-blue legs below the costume, small tail. Only one elephant in the picture. Setting: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "tito_pumpkin_wide.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_C3B303_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He keeps his arm stretched out to the side holding the candy in his open hand to share it, and smiles warmly; his trunk stays curled down below his mouth and never touches the candy. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "after": {
+   "image_start": "tito_ep4_halloween_C3_kfB303"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_C3B303_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He keeps his arm stretched out to the side holding the candy in his open hand to share it, and smiles warmly; his trunk stays curled down below his mouth and never touches the candy. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "after": {
+   "image_start": "tito_ep4_halloween_C3_kfB303"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_C3B404_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He keeps his arm stretched out to the side holding the candy in his open hand to share it, and smiles warmly; his trunk stays curled down below his mouth and never touches the candy. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "after": {
+   "image_start": "tito_ep4_halloween_C3_kfB404"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_C3B404_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He keeps his arm stretched out to the side holding the candy in his open hand to share it, and smiles warmly; his trunk stays curled down below his mouth and never touches the candy. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "after": {
+   "image_start": "tito_ep4_halloween_C3_kfB404"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_M2_s23",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 23,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Seen from behind, he stays facing away from the camera the whole time; he only tilts his head slightly toward the little mouse and holds his bucket still, thinking. The mouse looks into its empty yellow bucket. He never turns around. Static camera. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_M2.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_M2_s41",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 41,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Seen from behind, he stays facing away from the camera the whole time; he only tilts his head slightly toward the little mouse and holds his bucket still, thinking. The mouse looks into its empty yellow bucket. He never turns around. Static camera. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_M2.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_M2_s57",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 57,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Seen from behind, he stays facing away from the camera the whole time; he only tilts his head slightly toward the little mouse and holds his bucket still, thinking. The mouse looks into its empty yellow bucket. He never turns around. Static camera. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_M2.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_O2_s23",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 23,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Seen from behind, he stays facing away from the camera the whole time and slowly waves one arm at the little mouse, who waves back; the jack-o-lanterns flicker and the moon glows softly. He never turns around. Static camera. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_O2.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_O2_s41",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 41,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Seen from behind, he stays facing away from the camera the whole time and slowly waves one arm at the little mouse, who waves back; the jack-o-lanterns flicker and the moon glows softly. He never turns around. Static camera. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_O2.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_O2_s57",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 57,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Seen from behind, he stays facing away from the camera the whole time and slowly waves one arm at the little mouse, who waves back; the jack-o-lanterns flicker and the moon glows softly. He never turns around. Static camera. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_O2.jpg"
+  }
+ }
+]
