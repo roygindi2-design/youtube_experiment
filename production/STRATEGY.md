@@ -194,3 +194,10 @@
 **Hypotheses:** no change from meeting 10 — new YouTube channel = almost no exposure (supported); content is fine (TikTok 356 views on the same video); manual vs API — no difference.
 **What justifies more effort on YouTube:** the first organic movement on a new upload, or traffic data from the Shorts feed. Until then: finish Halloween, post on TikTok and YouTube together.
 **Order:** Halloween ep4 (clips rendering) → ep3 fixes (research QC 22.10: black first frame, lamp face, dark hook, giraffe shadow, window figure) → ep2 fixes (teeth, overalls in bath, red hand prop).
+
+### Analysis meeting 12 — 22.10.2026 08:47 UTC (11:47 Israel) — analysis only
+**Data (vs meeting 11, 04:46 UTC):** no change at all — bath 16, hands 15, spaghetti 7, tower 7, basura 4, rescate 4 (private), episode 1 4. Channel 80 views, 0 subscribers. Retention unchanged (tower 168%, episode 1 12.5%); daily views/traffic sources still empty.
+**Hypotheses:** unchanged — a new YouTube channel gets almost no exposure (supported: ~36 h with no movement); content works on TikTok (356 views on the same video).
+**Production (Roy's own decision, running):** Halloween ep4. Roy watched v5 and found motion problems (ping-pong loops, frozen holds, walking in place, trunk on the cheek) → v7 is being rebuilt with 5 s takes, no loops, and real walking (camera tracking). Rules added to research/QC_CHECKLIST.md §6–7.
+**Process note:** some pushes were silently rejected (v6 never reached origin); fixed, and every push is now checked with git ls-remote.
+**What would justify more YouTube effort:** first organic movement after the Halloween upload (holiday search demand), or traffic data from the Shorts feed. Order: Halloween ep4 (v7) → ep3 fixes → ep2 fixes.
