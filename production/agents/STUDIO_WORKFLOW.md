@@ -11,7 +11,7 @@
 ## מה עושים עכשיו — סדר העבודה
 **המקור היחיד:** `production/queue.json` → השדות `"now"` ו-`"next"` (החוקר מעדכן בכל ריצה). ב-Linear: "▶ NOW" / "⏭ NEXT" בכותרת המשימה.
 - **NOW:** `tito_ep4_halloween` — דדליין **24.10 18:00 שעון ישראל** (פרק מוכן ל-Roy). זה הפרק היחיד שבעבודה.
-- **NOW:** `tito_ep3_dormir` — rebuild from the upgraded spec (22.10). **NEXT:** tito_brocoli (long format), then Navidad.
+- **NOW:** `tito_brocoli` — long-episode v2 (22.10), keyframes first. **NEXT:** Navidad (ENG-17).
 - אחר כך: תיקונים ל-`tito_ep2` לפי הביקורת; ואז התסריטים שבתור (arena, brocoli, paraguas, frio_calor — יומרו לפרקים ארוכים לפי התבנית).
 
 ## זרימת פרק (כל פרק = משימה אחת ב-Linear)

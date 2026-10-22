@@ -1,67 +1,65 @@
-# SCRIPT — tito_brocoli: ¡Tito no quiere brócoli! 🥦🐘 | #shorts
+# SCRIPT — tito_brocoli (long episode v2, 22.10): ¡Tito no quiere verduras! 🥦🥕🍅
 
-**Pattern:** `overcome_fear` · **Opening:** `refusal_face_turned_away` · **World:** jungle picnic: a picnic blanket in a sunny jungle clearing with big tropical leaves, orange flowers and a little waterfall + a pretend forest of giant broccoli trees
+**Format:** long episode 16:9, song 2:30 (28 lines, bpm 110) + 3 Shorts (one per verse). Template: research/EPISODE_TEMPLATE.md (template_check + preflight OK). The old 32 s Short version is kept in SCRIPT_short_v1.md / spec_short_v1.json.
+**Pattern:** trick_why (Mamá's trick: imagine it!) → growth (verse 3: Tito tries by himself).
+**Moral:** ¡Las verduras de colores te hacen fuerte, fuerte como un elefante! Y siempre: ¡gracias!
 
-**Experiment:** first pretend/imagination location (a giant in a broccoli forest) — the location change IS the twist; healthy-food refusal topic (Doctora Sophia veggie videos ×29–×209)
+## Why (evidence)
+- Mealtime is the hottest topic right now: VocaVoca mealtime 659K views/hour, El Tren Ñam-Ñam manners 517K/h (momentum 22.10).
+- Veggie refusal: Doctora Sophia veggie Shorts ×29–×209; "Dulces vs Comida Saludable" 9.4M (Oct 2026).
+- Imagination/pretend: our own G1 idea ("a giant in a broccoli forest"), + "giant thing" hooks (Diente Gigante +3.9M).
+- Structure = Halloween (3 verses, the same question shot "¿Qué es?" = ritual, the same chorus dance ×3).
 
-**Twist (visible):** Mamá's idea 'they are little trees' turns into a pretend world where Tito is a GIANT eating a broccoli forest — the refusal becomes play
+## Design bible
+**Environment — picnic (main):** blue-and-white checkered blanket, little wooden basket, white plate, big glossy tropical leaves, bright orange flowers, a small sparkling waterfall + a tiny clear stream (for handwashing), butterflies, warm sunlight through the leaves, soft green grass.
+**Environment — pretend worlds:** (1) broccoli forest: giant pale-green stalks with round fluffy dark-green tops, giant carrot plants, blue sky; (2) sky: round white clouds, a gentle sun, sparkles, Tito riding a friendly carrot rocket; (3) bouncy-ball clearing: big shiny red balls bouncing on the grass.
+**Palette & light:** sunny greens, orange, red, sky blue, cream; warm daylight in the real picnic, a little brighter and more saturated in the pretend worlds (so a child feels "this is pretend").
+**Costumes:** Tito = sunny-yellow overalls + a small WHITE BIB with a green leaf (it's mealtime). Mamá = lilac polka-dot dress, white apron, yellow flower.
+**Supporting characters:** none new; the vegetables are the "characters": one broccoli floret, one carrot stick, three cherry tomatoes — always the same size and color.
+**Background life:** leaves sway, the waterfall sparkles, a butterfly passes, clouds drift (sky), the balls keep bouncing (T1).
+**Hero props:** white plate (contents per continuity), small soap bar, woven basket with a green cloth (Q), carrot rocket (C1).
 
-**Moral:** ¡Las verduras te hacen fuerte, fuerte como un elefante!
+## Habit beat
+**Handwashing before eating** (I2): at the stream, with soap and bubbles, then clean hands shown proudly. Handwashing = our strongest habit (ep2), it comes back here 3 episodes later, as research/16 says.
 
-## Beat table (~3 s per line at 120 bpm; each line = what is on screen)
+## Acting
+Every shot in spec.json is written START → ACTION (on the beat) → END. Chorus signature dance: K1 HAPPY BOUNCE with the plate → K2 point verde/naranja/rojo (one per beat) → K3 STRONG POSE (arms up, trunk down) → K4 thank-you hug. Verses: NO-NO head shake (R1/R2) → CURIOUS tilt (Q) → big-body pretend moment (G1 real walk, C1 rocket rise, T1 jump for joy) → delighted chewing with the mouth closed. Verse 3: no head shake (growth).
 
-| # | time | lyric (sung) | shot | framing + action | why it hooks (evidence) |
-|---|---|---|---|---|---|
-| 1 | 0–3s | ¡No, no, no! ¡Brócoli no! | B1 | Extreme close-up of the baby elephant's face at the jungle picnic: He turns his head further away from the broccoli and shakes it slowly. | Refusal in second 0 (research/07: 'no quiere' stories, Gracioso Bebé ×1,715) |
-| 2 | 3–6s | Mamá dice: ¡son arbolitos! | B2 | Over-the-shoulder view from behind the baby elephant on the picnic blanket: Mamá lifts the broccoli floret beside the tree and smiles; the baby elephant tilts his head. | Mentor's trick: show, don't scold (pepper trick ×759) |
-| 3 | 6–9s | ¡Y Tito es un gigante! | B3 | Wide shot of the pretend broccoli forest: The giant baby elephant walks slowly between the broccoli trees, happy. | TWIST: location change into pretend play — a giant (giant thing hook, Diente Gigante +3.9M) |
-| 4 | 9–12s | ¡Ñam! ¡Un arbolito! | B4 | Low angle from the grass looking up: He takes a big bite of the broccoli treetop and little green crumbs fall. | Crunch sound + action |
-| 5 | 12–15s | ¡Crunch, crunch! ¡Qué rico! | B5 | Close-up three-quarter view at the jungle picnic: He chews happily and his eyes grow wide with delight. | He likes it — visible state change |
-| 6 | 15–18s | ¡Más arbolitos, por favor! | B6 | Top-down view from above the picnic blanket: His trunk reaches in and picks up one more broccoli floret. | Asks for more (food ×4.04 median) |
-| 7 | 18–21s | ¡Fuerte, fuerte como un elefante! | B7 | Medium shot, side view on the picnic blanket: He lifts the watermelon up high and Mamá claps happily. | Reward + moral: strong 'like an elephant' joke |
-| 8 | 21–24s | ¿Y zanahorias? ¡Uy! | B8 | Close-up from the front at the picnic: The carrot wiggles in front of him and his eyes go wide. | Loop gag: new vegetable, new refusal? |
+## Timeline (28 lines)
+| # | section | lyric | shot | action |
+|---|---|---|---|---|
+| 1 | Intro | ¡A comer, Tito! ¡Picnic en la selva! | I1 | ACTION: on the first beat he arrives at the blanket and Mamá waves him over |
+| 2 | Intro | Primero, manitas: ¡agua y jabón! | I2 | ACTION: he rubs his hands with the soap twice on the beat, bubbles grow, then rinses |
+| 3 | Verse 1 | ¿Brócoli? ¡No, no, no! | R1 | ACTION: on the beat he shakes his head slowly left-right twice, ears swinging (NO-NO), closed-mouth pout |
+| 4 | Verse 1 | ¿Qué es? ¿Qué es? | Q | ACTION: his head tilts slowly to one side and one ear lifts (CURIOUS) |
+| 5 | Verse 1 | ¡Son arbolitos! ¡Tito es un gigante! | G1 | ACTION: he walks across the frame left to right with big happy steps on the beat, the broccoli trees passing by |
+| 6 | Verse 1 | ¡Crunch, crunch! ¡Un arbolito! ¡Qué rico! | G2 | ACTION: his eyes grow wide with delight and his ears lift on the beat (SURPRISE O then HAPPY SQUINT) |
+| 7 | Chorus | ¡Ñam, ñam, verduras de colores! | K1 | ACTION: he bends his knees and bounces softly on every beat, ears flopping, the plate stays level |
+| 8 | Chorus | ¡Verde, naranja y rojo! | K2 | ACTION: he points to the broccoli, then the carrot, then the tomato, one per beat (verde, naranja, rojo) |
+| 9 | Chorus | ¡Fuerte, fuerte, como un elefante! | K3 | ACTION: on 'fuerte, fuerte' he lifts both arms up and bends them like a strongman twice on the beat, ears lifting |
+| 10 | Chorus | ¡Gracias, Mamá! ¡Qué rico! | K4 | ACTION: on the beat he hugs her and sways once left-right, Mamá pats his head |
+| 11 | Verse 2 | ¿Zanahoria? ¡No, no, no! | R2 | ACTION: he shakes his head slowly left-right twice on the beat, ears swinging, closed-mouth pout |
+| 12 | Verse 2 | ¿Qué es? ¿Qué es? | Q | ACTION: his head tilts slowly to one side and one ear lifts (CURIOUS) |
+| 13 | Verse 2 | ¡Es un cohete! ¡Zuuum al cielo! | C1 | ACTION: it rises smoothly up through the clouds on the beat ('zuuum'), the clouds slide down past them |
+| 14 | Verse 2 | ¡Crunch, crunch! ¡Zanahoria! ¡Qué rica! | C2 | ACTION: his ears lift and he nods twice on the beat, delighted |
+| 15 | Chorus | ¡Ñam, ñam, verduras de colores! | K1 | ACTION: he bends his knees and bounces softly on every beat, ears flopping, the plate stays level |
+| 16 | Chorus | ¡Verde, naranja y rojo! | K2 | ACTION: he points to the broccoli, then the carrot, then the tomato, one per beat (verde, naranja, rojo) |
+| 17 | Chorus | ¡Fuerte, fuerte, como un elefante! | K3 | ACTION: on 'fuerte, fuerte' he lifts both arms up and bends them like a strongman twice on the beat, ears lifting |
+| 18 | Chorus | ¡Gracias, Mamá! ¡Qué rico! | K4 | ACTION: on the beat he hugs her and sways once left-right, Mamá pats his head |
+| 19 | Verse 3 | Tomatitos rojos… ¿y ahora? | R3 | ACTION: he leans in slowly, head tilting (CURIOUS), no head shake this time |
+| 20 | Verse 3 | ¡Pelotitas rojas! ¡Boing, boing! | T1 | ACTION: he jumps up with both arms raised as the red balls bounce around him, one bounce per beat ('boing, boing') |
+| 21 | Verse 3 | Tito los prueba solito… | T2 | ACTION: he picks up ONE tomato and lifts it up to show it, on the beat |
+| 22 | Verse 3 | ¡Mmm! ¡Más, por favor! | T3 | ACTION: he holds the plate out to Mamá on the beat ('¡más, por favor!'), Mamá nods |
+| 23 | Chorus | ¡Ñam, ñam, verduras de colores! | K1 | ACTION: he bends his knees and bounces softly on every beat, ears flopping, the plate stays level |
+| 24 | Chorus | ¡Verde, naranja y rojo! | K2 | ACTION: he points to the broccoli, then the carrot, then the tomato, one per beat (verde, naranja, rojo) |
+| 25 | Chorus | ¡Fuerte, fuerte, como un elefante! | K3 | ACTION: on 'fuerte, fuerte' he lifts both arms up and bends them like a strongman twice on the beat, ears lifting |
+| 26 | Chorus | ¡Gracias, Mamá! ¡Qué rico! | K4 | ACTION: on the beat he hugs her and sways once left-right, Mamá pats his head |
+| 27 | Outro | ¡Plato limpio! ¡Gracias, selva! | O1 | ACTION: he lifts the empty plate up to show it on the beat |
+| 28 | Outro | ¡A jugar! ¡Fuerte como un elefante! ¡Tuuu! | O2 | ACTION: he runs across the frame to the right with small happy steps, the waterfall coming closer |
 
-## Story beats
+## Shorts (9:16, "resolve one, open the next")
+A: R1 → Q → G1 → G2 → chorus → ends on R2 (the carrot refused). B: R2 → Q → C1 → C2 → chorus → ends on R3 (the tomatoes… ¿y ahora?). C: R3 → T1–T3 → chorus → O1–O2.
+TikTok: 12–15 s from verse 1 (refusal → giant broccoli forest), text "Cuando tu peque no quiere verduras 🥦😅".
 
-1. Extreme close-up: Tito turns his face away from a broccoli floret, trunk curled, pouting: no, no, no! (refusal in second 0)
-2. Mamá holds up the broccoli floret next to a real tree behind her: it looks like a little tree (the trick)
-3. Wide: in pretend play Tito is a GIANT walking through a forest of broccoli trees (twist: imagination)
-4. Low angle: giant Tito picks a broccoli tree with his trunk and takes a bite, crunch (he tries)
-5. Back at the picnic: Tito chews with big delighted eyes (he likes it)
-6. Top-down: Tito's trunk reaches for more broccoli on the plate (more, please)
-7. Tito lifts a big round watermelon over his head with his trunk, proud and strong (reward + moral)
-8. Mamá holds up an orange carrot; Tito's eyes go wide (loop gag: what now?)
-
-## Spanish check (Mexico, ages 1–4)
-
-- Every line 3–6 words, present tense, describes the picture; sound words repeat (¡splash!, ¡ñam!, ¡plic!).
-- Diminutives for warmth (ojitos, patita, colita, arbolitos, pollito); no Spain-only words.
-
-## Production notes (from producer feedback 21.10)
-
-- One complex action per shot; one vehicle/animal action per 4 s clip; no jumps for vehicles.
-
-## Worlds
-
-- **picnic:** A sunny jungle clearing outdoors, vertical 9:16 composition, camera at child eye level: a soft blue-and-white checkered picnic blanket on green grass, a little wooden basket, big glossy tropical leaves, bright orange jungle flowers, a small sparkling waterfall in the background, warm sunlight through the leaves. Nobody is in the clearing.
-- **bosque:** A playful pretend forest outdoors, vertical 9:16 composition, camera at child eye level: a forest of giant broccoli trees with thick pale-green stalks and round fluffy dark-green tops, soft green grass, a few giant orange carrot plants, a bright blue sky with white clouds. Nobody is in the forest.
-
-## Continuity
-
-sunny daytime in every shot; Tito normal size at the picnic (B1-B2, B5-B8), GIANT only in the broccoli forest (B3-B4); yellow overalls always; checkered blanket in every picnic shot; Mamá in B2, B7, B8; broccoli floret B1-B2, B5-B6; watermelon only B7; carrot only B8
-
-## Risks
-
-See production/dossiers/tito_brocoli.md.
-
-## Changes 21.10 04:20
-- `song_seconds: 32`; the twist (giant in the broccoli forest) lands at ~6–9 s. Watermelon held ABOVE the head (objects in front of the face merge with it).
-
-## Update 21.10 22:10 — face rules (researcher QC review)
-- Close-up/medium motions end with: "Both eyes stay open and calm with the same gentle expression the whole time." (one-frame blinks/winks looked like popping eyes in ep2).
-- 'laughing / big grin' → 'smiling sweetly with his mouth closed' (open laughs produced teeth and warped faces).
-- Question shots show only the clue, never the answer.
-
-## Update 21.10 23:40 — objects held by hand OR trunk, eating in two shots (Roy: hand fused to trunk, plate disappearing)
-- B4: broccoli tree in both hands, trunk curled away; the bite happens between B4 and B5 (no shrinking object in a shot).
-- B5/B6/B7: floret / plate / watermelon handled by hands only, trunk away.
+## Spanish check (Mexico, 1–4)
+"manitas", "¡Qué rico/rica!", "tomatitos", "pelotitas", "solito", "por favor", "gracias": all common in Mexican toddler speech; short lines, onomatopoeia (crunch, zuuum, boing).

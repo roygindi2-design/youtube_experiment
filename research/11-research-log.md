@@ -257,3 +257,8 @@ Data: research/market/halloween_titles_2026-10-22.json
 - Delivered: ep2 published (nWPm2InSAJo, 1 view after 3 h); Halloween FINAL + 3 Shorts sent to Roy (ENG-14 In Review); TikTok package #1 (ep2 handwashing) sent.
 - ep3 keyframes v3: 3 fixes done → all 19 PASS; the producer is making clips.
 - Organic: total 82 (+5; HxAYv-GieDM 4→8).
+
+## Run 2026-10-22 18:05 UTC (TikTok + refine slot)
+- ep3 FINAL + 3 Shorts + TikTok cut delivered to Roy (ENG-15 In Review).
+- Refined: tito_brocoli → long episode v2 (28 lines, 19 shots, 3 pretend worlds: broccoli forest / carrot rocket / bouncy tomatoes, verse 3 = he tries by himself; habit beat = handwashing; design bible + START→ACTION→END). template_check + preflight OK. → queue NOW.
+- TikTok: packages for ep2 + ep3 are with Roy; Halloween Shorts start 25.10.

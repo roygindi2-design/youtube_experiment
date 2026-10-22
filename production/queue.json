@@ -110,14 +110,10 @@
   ],
   "_paused": "21.10 ~12:00 IL — Roy: production PAUSED, analysis only. No GPU, no uploads. Ready but held: tito_ep2, tito_basura, rojito_rescate. Researcher: focus on analysis (why new videos get 0 views); no need for new scripts until Roy resumes.",
   "now": {
-    "id": "tito_ep3_dormir",
-    "why": "Halloween + ep2 delivered 22.10. Rebuild ep3 from the upgraded spec (moon pajamas, dressed bedroom, START→ACTION→END acting, habit beat), new keyframes → researcher QC → clips (5 s forward takes, no ping-pong, beat-snapped)."
+    "id": "tito_brocoli",
+    "why": "long-episode v2 script ready 22.10 18:30 (template + preflight OK, design bible, acting, handwashing habit beat). Keyframes first → researcher QC."
   },
   "next": [
-    {
-      "id": "tito_brocoli",
-      "why": "convert to long-episode template + design bible (researcher, 22.10 18:00 slot)"
-    },
     {
       "id": "navidad",
       "why": "ENG-17, script by 25.11"
