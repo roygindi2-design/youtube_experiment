@@ -1,0 +1,546 @@
+[
+ {
+  "id": "tito_ep4_halloween_H01_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Wide shot of a cozy little village street on Halloween night: three tiny round houses in orange, purple and mint green with glowing friendly jack-o-lanterns on the steps, paper lanterns, fallen autumn leaves, a big friendly full moon; the baby elephant wearing a round ORANGE PUMPKIN COSTUME with a short green stem cap, his face, big ears and short trunk out of the round opening, his trunk curled down below his mouth, holding a small orange candy bucket in his right hand, walks out of his front door while Mamá Elefanta waves from the doorway. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Mamá Elefanta from the third reference image, exactly the same character design: MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear. Exactly two elephants in the picture: the small baby and his taller mother. Setting, exactly the place from the first reference image: A cozy little village street on Halloween night, wide 16:9 composition, camera at child eye level: three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_H01_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Wide shot of a cozy little village street on Halloween night: three tiny round houses in orange, purple and mint green with glowing friendly jack-o-lanterns on the steps, paper lanterns, fallen autumn leaves, a big friendly full moon; the baby elephant wearing a round ORANGE PUMPKIN COSTUME with a short green stem cap, his face, big ears and short trunk out of the round opening, his trunk curled down below his mouth, holding a small orange candy bucket in his right hand, walks out of his front door while Mamá Elefanta waves from the doorway. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Mamá Elefanta from the third reference image, exactly the same character design: MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear. Exactly two elephants in the picture: the small baby and his taller mother. Setting, exactly the place from the first reference image: A cozy little village street on Halloween night, wide 16:9 composition, camera at child eye level: three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_H02_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from the front: the baby elephant wearing a round ORANGE PUMPKIN COSTUME with a short green stem cap, his face, big ears and short trunk out of the round opening, his trunk curled down below his mouth, holding up his small EMPTY orange candy bucket in his right hand next to his cheek, a soft sweet smile with his mouth closed, lantern light. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: the same place as the first reference image, seen from the camera angle described at the start: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_H02_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from the front: the baby elephant wearing a round ORANGE PUMPKIN COSTUME with a short green stem cap, his face, big ears and short trunk out of the round opening, his trunk curled down below his mouth, holding up his small EMPTY orange candy bucket in his right hand next to his cheek, a soft sweet smile with his mouth closed, lantern light. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: the same place as the first reference image, seen from the camera angle described at the start: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_D1_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up of a round ORANGE front door with a little knocker at night, a glowing jack-o-lantern on the step, and the baby elephant's small hand knocking on it three times, the door still CLOSED. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: the same place as the first reference image, seen from the camera angle described at the start: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_D1_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up of a round ORANGE front door with a little knocker at night, a glowing jack-o-lantern on the step, and the baby elephant's small hand knocking on it three times, the door still CLOSED. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: the same place as the first reference image, seen from the camera angle described at the start: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_Q_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Extreme close-up of the baby elephant's face in his pumpkin costume, looking up at a closed door with big curious eyes, his trunk curled down below his mouth, warm lantern light on his face. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: the same place as the first reference image, seen from the camera angle described at the start: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_Q_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Extreme close-up of the baby elephant's face in his pumpkin costume, looking up at a closed door with big curious eyes, his trunk curled down below his mouth, warm lantern light on his face. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: the same place as the first reference image, seen from the camera angle described at the start: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_V1_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot of the open orange door: a tiny fluffy BLACK KITTEN wearing a small purple witch hat sits on the doorstep beside a little bowl of shiny wrapped candies, meowing with a sweet closed-mouth smile, warm light from inside the house. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: the same place as the first reference image, seen from the camera angle described at the start: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_V1_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot of the open orange door: a tiny fluffy BLACK KITTEN wearing a small purple witch hat sits on the doorstep beside a little bowl of shiny wrapped candies, meowing with a sweet closed-mouth smile, warm light from inside the house. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: the same place as the first reference image, seen from the camera angle described at the start: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_BKT_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Top-down view into the small orange candy bucket held by the baby elephant's hand: one shiny wrapped candy is in the air just above the bucket, a few candies already inside. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: the same place as the first reference image, seen from the camera angle described at the start: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_BKT_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Top-down view into the small orange candy bucket held by the baby elephant's hand: one shiny wrapped candy is in the air just above the bucket, a few candies already inside. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: the same place as the first reference image, seen from the camera angle described at the start: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_C1_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot from the front on the village street: the baby elephant wearing a round ORANGE PUMPKIN COSTUME with a short green stem cap, his face, big ears and short trunk out of the round opening, his trunk curled down below his mouth, dancing happily with his candy bucket held in his right hand, little orange leaves swirling, jack-o-lanterns glowing behind. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: the same place as the first reference image, seen from the camera angle described at the start: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_C1_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot from the front on the village street: the baby elephant wearing a round ORANGE PUMPKIN COSTUME with a short green stem cap, his face, big ears and short trunk out of the round opening, his trunk curled down below his mouth, dancing happily with his candy bucket held in his right hand, little orange leaves swirling, jack-o-lanterns glowing behind. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: the same place as the first reference image, seen from the camera angle described at the start: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_C2_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from the front: the baby elephant wearing a round ORANGE PUMPKIN COSTUME with a short green stem cap, his face, big ears and short trunk out of the round opening, his trunk curled down below his mouth, puts his left hand on his chest and gives a small polite bow, a soft sweet smile with his mouth closed — saying thank you. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: the same place as the first reference image, seen from the camera angle described at the start: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_C2_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from the front: the baby elephant wearing a round ORANGE PUMPKIN COSTUME with a short green stem cap, his face, big ears and short trunk out of the round opening, his trunk curled down below his mouth, puts his left hand on his chest and gives a small polite bow, a soft sweet smile with his mouth closed — saying thank you. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: the same place as the first reference image, seen from the camera angle described at the start: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_C3_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot: the baby elephant wearing a round ORANGE PUMPKIN COSTUME with a short green stem cap, his face, big ears and short trunk out of the round opening, his trunk curled down below his mouth, holds out one shiny wrapped candy in his open left hand toward the viewer as if to share it, his bucket in his right hand. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: the same place as the first reference image, seen from the camera angle described at the start: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_C3_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot: the baby elephant wearing a round ORANGE PUMPKIN COSTUME with a short green stem cap, his face, big ears and short trunk out of the round opening, his trunk curled down below his mouth, holds out one shiny wrapped candy in his open left hand toward the viewer as if to share it, his bucket in his right hand. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: the same place as the first reference image, seen from the camera angle described at the start: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_C4_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle from the path: the baby elephant wearing a round ORANGE PUMPKIN COSTUME with a short green stem cap, his face, big ears and short trunk out of the round opening, his trunk curled down below his mouth, walks on toward the next little house under the big full moon, swinging his bucket, autumn leaves on the path. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: the same place as the first reference image, seen from the camera angle described at the start: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_C4_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle from the path: the baby elephant wearing a round ORANGE PUMPKIN COSTUME with a short green stem cap, his face, big ears and short trunk out of the round opening, his trunk curled down below his mouth, walks on toward the next little house under the big full moon, swinging his bucket, autumn leaves on the path. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: the same place as the first reference image, seen from the camera angle described at the start: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_D2_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up of a round PURPLE front door with a crescent-moon window at night, the baby elephant's small hand knocking on it three times, the door still CLOSED, a paper lantern glowing beside it. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: the same place as the first reference image, seen from the camera angle described at the start: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_D2_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up of a round PURPLE front door with a crescent-moon window at night, the baby elephant's small hand knocking on it three times, the door still CLOSED, a paper lantern glowing beside it. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: the same place as the first reference image, seen from the camera angle described at the start: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_V2_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot of the open purple door: a small round fluffy PURPLE BAT with friendly big eyes sits on the doorstep beside a little bowl of shiny wrapped candies, its soft wings folded, smiling sweetly, warm light inside. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: the same place as the first reference image, seen from the camera angle described at the start: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_V2_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot of the open purple door: a small round fluffy PURPLE BAT with friendly big eyes sits on the doorstep beside a little bowl of shiny wrapped candies, its soft wings folded, smiling sweetly, warm light inside. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: the same place as the first reference image, seen from the camera angle described at the start: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_M1_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot under a paper lantern on the village street: a tiny grey mouse wearing a little yellow star costume holds a small EMPTY candy bucket and looks down at it with a sad face, a fallen leaf beside it. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: the same place as the first reference image, seen from the camera angle described at the start: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_M1_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot under a paper lantern on the village street: a tiny grey mouse wearing a little yellow star costume holds a small EMPTY candy bucket and looks down at it with a sad face, a fallen leaf beside it. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: the same place as the first reference image, seen from the camera angle described at the start: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_M2_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Over-the-shoulder view from behind the baby elephant in his pumpkin costume: he looks from his full candy bucket in his right hand to the little mouse with the empty bucket in front of him, thinking. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: the same place as the first reference image, seen from the camera angle described at the start: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_M2_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Over-the-shoulder view from behind the baby elephant in his pumpkin costume: he looks from his full candy bucket in his right hand to the little mouse with the empty bucket in front of him, thinking. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: the same place as the first reference image, seen from the camera angle described at the start: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_M3_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Top-down view of two candy buckets side by side on the path: the baby elephant's hand holds one shiny wrapped candy just above the mouse's small EMPTY bucket. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: the same place as the first reference image, seen from the camera angle described at the start: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_M3_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Top-down view of two candy buckets side by side on the path: the baby elephant's hand holds one shiny wrapped candy just above the mouse's small EMPTY bucket. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: the same place as the first reference image, seen from the camera angle described at the start: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_M4_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot on the village street: the baby elephant wearing a round ORANGE PUMPKIN COSTUME with a short green stem cap, his face, big ears and short trunk out of the round opening, his trunk curled down below his mouth, and the tiny grey mouse in the yellow star costume stand side by side, each holding a candy bucket with candies inside, both smiling sweetly, jack-o-lanterns glowing. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: the same place as the first reference image, seen from the camera angle described at the start: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_M4_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot on the village street: the baby elephant wearing a round ORANGE PUMPKIN COSTUME with a short green stem cap, his face, big ears and short trunk out of the round opening, his trunk curled down below his mouth, and the tiny grey mouse in the yellow star costume stand side by side, each holding a candy bucket with candies inside, both smiling sweetly, jack-o-lanterns glowing. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: the same place as the first reference image, seen from the camera angle described at the start: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_O1_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot at the orange front door of Tito's house: Mamá Elefanta smiling holds up a small blue toothbrush beside her face, and the baby elephant wearing a round ORANGE PUMPKIN COSTUME with a short green stem cap, his face, big ears and short trunk out of the round opening, his trunk curled down below his mouth, laughs softly with his mouth closed, his candy bucket in his right hand. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Mamá Elefanta from the third reference image, exactly the same character design: MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear. Exactly two elephants in the picture: the small baby and his taller mother. Setting: the same place as the first reference image, seen from the camera angle described at the start: The round orange front door of a cozy little house on Halloween night, a warm lit doorway, a small glowing jack-o-lantern on the step, a wreath of autumn leaves, paper lanterns. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_casa.jpg",
+    "tito_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_O1_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot at the orange front door of Tito's house: Mamá Elefanta smiling holds up a small blue toothbrush beside her face, and the baby elephant wearing a round ORANGE PUMPKIN COSTUME with a short green stem cap, his face, big ears and short trunk out of the round opening, his trunk curled down below his mouth, laughs softly with his mouth closed, his candy bucket in his right hand. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Mamá Elefanta from the third reference image, exactly the same character design: MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear. Exactly two elephants in the picture: the small baby and his taller mother. Setting: the same place as the first reference image, seen from the camera angle described at the start: The round orange front door of a cozy little house on Halloween night, a warm lit doorway, a small glowing jack-o-lantern on the step, a wreath of autumn leaves, paper lanterns. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_casa.jpg",
+    "tito_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_O2_kf",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 101,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. View from behind the baby elephant in his pumpkin costume, his trunk curled down below his mouth, and the tiny mouse in the yellow star costume waving goodbye toward the village street under the big friendly full moon, jack-o-lanterns twinkling. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: the same place as the first reference image, seen from the camera angle described at the start: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_O2_kf202",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 202,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. View from behind the baby elephant in his pumpkin costume, his trunk curled down below his mouth, and the tiny mouse in the yellow star costume waving goodbye toward the village street under the big friendly full moon, jack-o-lanterns twinkling. The main action is in the CENTER of the frame. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail. Only one elephant in the picture. Setting: the same place as the first reference image, seen from the camera angle described at the start: A cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "loc_ep4_calle.jpg",
+    "tito_master.jpg"
+   ]
+  }
+ }
+]

@@ -1,0 +1,34 @@
+[
+ {
+  "id": "tito_ep4_halloween_loc2_calle_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 411,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cozy little village street on Halloween night, wide 16:9 composition, camera at child eye level: three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. each house has a plain wooden door with one small square glass window at the top and a small round brass knob on the side. Nobody is on the street."
+ },
+ {
+  "id": "tito_ep4_halloween_loc2_calle_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 412,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cozy little village street on Halloween night, wide 16:9 composition, camera at child eye level: three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. each house has a plain wooden door with one small square glass window at the top and a small round brass knob on the side. Nobody is on the street."
+ },
+ {
+  "id": "tito_ep4_halloween_loc2_casa_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 411,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The round orange front door of a cozy little house on Halloween night, wide 16:9 composition, camera at child eye level: a warm lit doorway, a small glowing jack-o-lantern on the step, a wreath of autumn leaves, paper lanterns. each house has a plain wooden door with one small square glass window at the top and a small round brass knob on the side. Nobody is at the door."
+ },
+ {
+  "id": "tito_ep4_halloween_loc2_casa_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 412,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The round orange front door of a cozy little house on Halloween night, wide 16:9 composition, camera at child eye level: a warm lit doorway, a small glowing jack-o-lantern on the step, a wreath of autumn leaves, paper lanterns. each house has a plain wooden door with one small square glass window at the top and a small round brass knob on the side. Nobody is at the door."
+ }
+]

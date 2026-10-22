@@ -56,7 +56,8 @@ elif stage in ("shots", "kf"):
         hero = s.get("hero", {"master": "tito_master.jpg", "who": "The baby elephant", "one": "Only one elephant in the picture."})
         # director mode: the location image is a reference ONLY for wide establishing shots; other shots get their own
         # camera angle from the text, so the model does not copy the same composition into every frame (Roy 20.10)
-        use_loc = (not s.get("director")) or frame.lower().startswith("wide")
+        use_loc = (not s.get("director")) or frame.lower().startswith("wide") or LAND
+        # LAND: a 16:9 location ref makes Klein return 1280x720 (without it Klein returns a square, QC 21.10)
         refs = ([picks["locations"][loc]] if use_loc else []) + [picks.get("hero", hero["master"])] + ([picks["mama"]] if "mama" in chars else [])
         nth = (lambda k: ["first", "second", "third"][k - 1 - (0 if use_loc else 1)])
         who = (hero["who"] + f" from the {nth(2)} reference image, exactly the same character design: " + s["lock"])
@@ -66,7 +67,10 @@ elif stage in ("shots", "kf"):
         else:
             who += " " + hero["one"]
         place = s["locations"][loc].split(". Nobody")[0]
-        setting = (f" Setting, exactly the place from the first reference image: {place}. " if use_loc else
+        wide = frame.lower().startswith("wide")
+        setting = (f" Setting, exactly the place from the first reference image: {place}. " if use_loc and wide else
+                   " Setting: the same place as the first reference image, seen from the camera angle described at the start: "
+                   + re.sub(r"vertical 9:16 composition, |wide 16:9 composition, |camera [^:]*: ", "", place) + ". " if use_loc else
                    " Setting: " + re.sub(r"vertical 9:16 composition, |wide 16:9 composition, |camera [^:]*: ", "", place) + ". ")
         for kseed in ((101, 202) if s.get("director") else (101,)):
             tasks.append({"id": f"{sid}_{shot}_kf" + ("" if kseed == 101 else f"{kseed}"), "model_type": "flux2_klein_4b", "resolution": KF_RES,
