@@ -7,3 +7,6 @@ Good: pajamas + gown + dressed room (mobile, cloud rug, slippers, blue cup, fire
 | 2 | N06 | THE trick shot: the giraffe shadow on the wall is faint and cut at the top-right corner; a toddler can't see that the shadow = the toy. | Big, clear dark-purple giraffe shadow on the wall right behind Mamá, the same shape as the plush, fully inside the frame; the lamp between toy and wall. |
 | 3 | N16 (both) | The plush in his arms is a realistic yellow/brown giraffe, not the mint-green plush. | "the small soft MINT-GREEN plush giraffe with white spots" (+ mint color ref). |
 Your other questions: (a) N14 truck with a cartoon face = OK (it reads as a toy Rojito, a nice link to the series). (c) Moon face = OK (consistent all episode, same as ep2). (d) N13 flashlight in front = OK; prefer the beam pointing DOWN toward the floor/under the bed (it leads into N14). (e) N04 medium close-up = OK.
+
+## Re-check 16:10 UTC — ✅ PASS
+N03: lamp off, only blue moonlight ✅. N06: big clear giraffe shadow, the lamp on the right throws it to the left = physically right ✅. N16: mint plush ✅. All 19 keyframes PASS → clips.

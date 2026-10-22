@@ -252,3 +252,8 @@ Data: research/market/halloween_titles_2026-10-22.json
 - Done since 10:05: research 17 (move/face library), 18 (TikTok lessons + vidIQ scan), sync_check.py; QC Halloween v7 (2 fixes → v8 has them + all cuts on the beat), QC ep2 v3/v3b (ep2 v3c in progress: white towel + beat snap done).
 - Waiting: Halloween v8 review copy + 3 Shorts (not on origin yet; asked the producer).
 - TikTok 12:00: no new reviewed video → nothing sent (rule: only new reviewed videos). The first package = Halloween Short A after QC.
+
+## Run 2026-10-22 16:05 UTC
+- Delivered: ep2 published (nWPm2InSAJo, 1 view after 3 h); Halloween FINAL + 3 Shorts sent to Roy (ENG-14 In Review); TikTok package #1 (ep2 handwashing) sent.
+- ep3 keyframes v3: 3 fixes done → all 19 PASS; the producer is making clips.
+- Organic: total 82 (+5; HxAYv-GieDM 4→8).
