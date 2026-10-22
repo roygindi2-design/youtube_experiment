@@ -1,0 +1,128 @@
+[
+ {
+  "id": "ep3_clip3_K1_s31",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Sitting up in bed, he bounces happily to the music and raises his trunk up beside his face in a gentle curve, the tip pointing up and away to the side, his ears lifting; his eyes stay open and happy, the trunk never covers his face, no nostrils visible; then he lowers his trunk and smiles. Smooth gentle continuous motion; every character keeps the same face, body and clothes; exactly the characters already in the picture, NO new characters, no people, no hands, no insects, no butterflies appear; objects keep their shape; no morphing. Eyes stay open and happy unless the shot says closed, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_K1.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_K1_s43",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 43,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Sitting up in bed, he bounces happily to the music and raises his trunk up beside his face in a gentle curve, the tip pointing up and away to the side, his ears lifting; his eyes stay open and happy, the trunk never covers his face, no nostrils visible; then he lowers his trunk and smiles. Smooth gentle continuous motion; every character keeps the same face, body and clothes; exactly the characters already in the picture, NO new characters, no people, no hands, no insects, no butterflies appear; objects keep their shape; no morphing. Eyes stay open and happy unless the shot says closed, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_K1.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_K1_s57",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 57,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Sitting up in bed, he bounces happily to the music and raises his trunk up beside his face in a gentle curve, the tip pointing up and away to the side, his ears lifting; his eyes stay open and happy, the trunk never covers his face, no nostrils visible; then he lowers his trunk and smiles. Smooth gentle continuous motion; every character keeps the same face, body and clothes; exactly the characters already in the picture, NO new characters, no people, no hands, no insects, no butterflies appear; objects keep their shape; no morphing. Eyes stay open and happy unless the shot says closed, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_K1.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N06_s31",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá slowly wiggles the small plush giraffe left and right twice in front of the lamp, and the big giraffe-shaped shadow on the wall (long neck, round head, two small horns) wiggles exactly the same way, keeping its giraffe shape the whole time; the baby elephant watches. Smooth gentle continuous motion; every character keeps the same face, body and clothes; exactly the characters already in the picture, NO new characters, no people, no hands, no insects, no butterflies appear; objects keep their shape; no morphing. Eyes stay open and happy unless the shot says closed, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N06.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N06_s43",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 43,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá slowly wiggles the small plush giraffe left and right twice in front of the lamp, and the big giraffe-shaped shadow on the wall (long neck, round head, two small horns) wiggles exactly the same way, keeping its giraffe shape the whole time; the baby elephant watches. Smooth gentle continuous motion; every character keeps the same face, body and clothes; exactly the characters already in the picture, NO new characters, no people, no hands, no insects, no butterflies appear; objects keep their shape; no morphing. Eyes stay open and happy unless the shot says closed, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N06.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N06_s57",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 57,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá slowly wiggles the small plush giraffe left and right twice in front of the lamp, and the big giraffe-shaped shadow on the wall (long neck, round head, two small horns) wiggles exactly the same way, keeping its giraffe shape the whole time; the baby elephant watches. Smooth gentle continuous motion; every character keeps the same face, body and clothes; exactly the characters already in the picture, NO new characters, no people, no hands, no insects, no butterflies appear; objects keep their shape; no morphing. Eyes stay open and happy unless the shot says closed, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N06.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N16_s31",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Calm night, seen from outside the window: the stars twinkle softly and the moon glows, the owl blinks once slowly, and inside the baby elephant sleeps peacefully, his blanket rising and falling with slow breaths. Nothing flies, no butterflies, no fireflies. Smooth gentle continuous motion; every character keeps the same face, body and clothes; exactly the characters already in the picture, NO new characters, no people, no hands, no insects, no butterflies appear; objects keep their shape; no morphing. Eyes stay open and happy unless the shot says closed, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N16.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N16_s43",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 43,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Calm night, seen from outside the window: the stars twinkle softly and the moon glows, the owl blinks once slowly, and inside the baby elephant sleeps peacefully, his blanket rising and falling with slow breaths. Nothing flies, no butterflies, no fireflies. Smooth gentle continuous motion; every character keeps the same face, body and clothes; exactly the characters already in the picture, NO new characters, no people, no hands, no insects, no butterflies appear; objects keep their shape; no morphing. Eyes stay open and happy unless the shot says closed, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N16.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N16_s57",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 57,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Calm night, seen from outside the window: the stars twinkle softly and the moon glows, the owl blinks once slowly, and inside the baby elephant sleeps peacefully, his blanket rising and falling with slow breaths. Nothing flies, no butterflies, no fireflies. Smooth gentle continuous motion; every character keeps the same face, body and clothes; exactly the characters already in the picture, NO new characters, no people, no hands, no insects, no butterflies appear; objects keep their shape; no morphing. Eyes stay open and happy unless the shot says closed, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N16.jpg"
+  }
+ }
+]
