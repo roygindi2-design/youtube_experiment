@@ -1,0 +1,114 @@
+[
+ {
+  "id": "tito_ep2_E19_kf3_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The same cozy bedroom and the same baby elephant as the reference image, but in the MORNING: bright warm golden sunlight streams through the window, blue morning sky outside, no moon, no stars. The baby elephant sits up in his small wooden bed under the blue blanket with yellow stars, stretching his arms up happily, smiling with his MOUTH CLOSED, eyes open, his trunk hanging down. Only one elephant. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "f0_E19.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_E19_kf3_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The same cozy bedroom and the same baby elephant as the reference image, but in the MORNING: bright warm golden sunlight streams through the window, blue morning sky outside, no moon, no stars. The baby elephant sits up in his small wooden bed under the blue blanket with yellow stars, stretching his arms up happily, smiling with his MOUTH CLOSED, eyes open, his trunk hanging down. Only one elephant. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "f0_E19.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_E19_kf3_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The same cozy bedroom and the same baby elephant as the reference image, but in the MORNING: bright warm golden sunlight streams through the window, blue morning sky outside, no moon, no stars. The baby elephant sits up in his small wooden bed under the blue blanket with yellow stars, stretching his arms up happily, smiling with his MOUTH CLOSED, eyes open, his trunk hanging down. Only one elephant. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "f0_E19.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_E19_kf3_44",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 44,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The same cozy bedroom and the same baby elephant as the reference image, but in the MORNING: bright warm golden sunlight streams through the window, blue morning sky outside, no moon, no stars. The baby elephant sits up in his small wooden bed under the blue blanket with yellow stars, stretching his arms up happily, smiling with his MOUTH CLOSED, eyes open, his trunk hanging down. Only one elephant. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "f0_E19.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_E14_kf3_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up in the same bathroom as the reference image: the baby elephant wrapped in his fluffy white towel looks at the mirror and smiles proudly with his MOUTH CLOSED (no teeth visible), eyes open and happy, tiny sparkling stars twinkle in the air around his face; his yellow overalls hang on the hook behind him. Only one elephant. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "pick_E13.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_E14_kf3_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up in the same bathroom as the reference image: the baby elephant wrapped in his fluffy white towel looks at the mirror and smiles proudly with his MOUTH CLOSED (no teeth visible), eyes open and happy, tiny sparkling stars twinkle in the air around his face; his yellow overalls hang on the hook behind him. Only one elephant. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "pick_E13.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_E14_kf3_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up in the same bathroom as the reference image: the baby elephant wrapped in his fluffy white towel looks at the mirror and smiles proudly with his MOUTH CLOSED (no teeth visible), eyes open and happy, tiny sparkling stars twinkle in the air around his face; his yellow overalls hang on the hook behind him. Only one elephant. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "pick_E13.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_E14_kf3_44",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 44,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up in the same bathroom as the reference image: the baby elephant wrapped in his fluffy white towel looks at the mirror and smiles proudly with his MOUTH CLOSED (no teeth visible), eyes open and happy, tiny sparkling stars twinkle in the air around his face; his yellow overalls hang on the hook behind him. Only one elephant. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "pick_E13.jpg"
+   ]
+  }
+ }
+]

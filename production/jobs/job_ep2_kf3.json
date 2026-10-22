@@ -1,0 +1,170 @@
+[
+ {
+  "id": "tito_ep2_E03_kf3_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Exactly the same kitchen and the same two characters as the reference image. Mamá Elefanta holds up her open empty hand like a gentle stop sign, palm toward the baby, and points to the sink with her other hand, smiling kindly; NOTHING in her hands, no props. The baby elephant sits at the table looking at his paint-covered hands. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "f0_E03.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_E03_kf3_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Exactly the same kitchen and the same two characters as the reference image. Mamá Elefanta holds up her open empty hand like a gentle stop sign, palm toward the baby, and points to the sink with her other hand, smiling kindly; NOTHING in her hands, no props. The baby elephant sits at the table looking at his paint-covered hands. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "f0_E03.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_E03_kf3_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Exactly the same kitchen and the same two characters as the reference image. Mamá Elefanta holds up her open empty hand like a gentle stop sign, palm toward the baby, and points to the sink with her other hand, smiling kindly; NOTHING in her hands, no props. The baby elephant sits at the table looking at his paint-covered hands. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "f0_E03.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_E03_kf3_44",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 44,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Exactly the same kitchen and the same two characters as the reference image. Mamá Elefanta holds up her open empty hand like a gentle stop sign, palm toward the baby, and points to the sink with her other hand, smiling kindly; NOTHING in her hands, no props. The baby elephant sits at the table looking at his paint-covered hands. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "f0_E03.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_E12F_kf3_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Exactly the same bathroom as the reference image, after the bath: the baby elephant (TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, , short chubby arms and legs, small tail.) is wrapped in a big fluffy white towel around his body and a small white towel on his head, NO overalls on him; his small yellow overalls hang on a hook on the wall behind him. He smiles, eyes open, mouth closed. Only one elephant. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "f0_E12F.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_E12F_kf3_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Exactly the same bathroom as the reference image, after the bath: the baby elephant (TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, , short chubby arms and legs, small tail.) is wrapped in a big fluffy white towel around his body and a small white towel on his head, NO overalls on him; his small yellow overalls hang on a hook on the wall behind him. He smiles, eyes open, mouth closed. Only one elephant. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "f0_E12F.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_E12F_kf3_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Exactly the same bathroom as the reference image, after the bath: the baby elephant (TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, , short chubby arms and legs, small tail.) is wrapped in a big fluffy white towel around his body and a small white towel on his head, NO overalls on him; his small yellow overalls hang on a hook on the wall behind him. He smiles, eyes open, mouth closed. Only one elephant. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "f0_E12F.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_E12F_kf3_44",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 44,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Exactly the same bathroom as the reference image, after the bath: the baby elephant (TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, , short chubby arms and legs, small tail.) is wrapped in a big fluffy white towel around his body and a small white towel on his head, NO overalls on him; his small yellow overalls hang on a hook on the wall behind him. He smiles, eyes open, mouth closed. Only one elephant. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "f0_E12F.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_E13_kf3_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Exactly the same bathroom as the reference image: the baby elephant (TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, , short chubby arms and legs, small tail.) stands at the sink wrapped in a big fluffy white towel, NO overalls on him, his small yellow overalls hang on a hook on the wall behind him; he brushes his teeth with a small blue toothbrush, a little white foam at his mouth, eyes open. Only one elephant. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "f0_E13.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_E13_kf3_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Exactly the same bathroom as the reference image: the baby elephant (TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, , short chubby arms and legs, small tail.) stands at the sink wrapped in a big fluffy white towel, NO overalls on him, his small yellow overalls hang on a hook on the wall behind him; he brushes his teeth with a small blue toothbrush, a little white foam at his mouth, eyes open. Only one elephant. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "f0_E13.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_E13_kf3_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Exactly the same bathroom as the reference image: the baby elephant (TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, , short chubby arms and legs, small tail.) stands at the sink wrapped in a big fluffy white towel, NO overalls on him, his small yellow overalls hang on a hook on the wall behind him; he brushes his teeth with a small blue toothbrush, a little white foam at his mouth, eyes open. Only one elephant. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "f0_E13.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_E13_kf3_44",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 44,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Exactly the same bathroom as the reference image: the baby elephant (TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, , short chubby arms and legs, small tail.) stands at the sink wrapped in a big fluffy white towel, NO overalls on him, his small yellow overalls hang on a hook on the wall behind him; he brushes his teeth with a small blue toothbrush, a little white foam at his mouth, eyes open. Only one elephant. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "f0_E13.jpg"
+   ]
+  }
+ }
+]
