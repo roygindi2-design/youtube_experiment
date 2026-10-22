@@ -226,3 +226,9 @@
 - `queue.json`: שדות "now" (Halloween, דדליין 24.10 18:00 ישראל) ו-"next" (ep3, ואז ep2). ב-Linear: "▶ NOW" ו-"⏭ NEXT" בכותרות, ותקציר הפרויקט מראה NOW / NEXT / Ready.
 - כשמשימה עוברת ל-In Review: התראה ל-Roy + קבצים.
 - נשלחה הודעה לסשן של המפיק (priority "later" — לא עוצרת אותו) עם כל ההנחיות.
+
+## Run 2026-10-22 06:05 UTC
+- Momentum (videos.list): VocaVoca mealtime 659K/h, El Tren Ñam-Ñam manners 517K/h, Halloween costume 116K/h → manners/mealtime + Halloween both hot. Data: research/market/momentum_2026-10-22_0630.json
+- QC #2 Halloween final edit (review mp4 v3): FAIL, 4 fixes (H02 squint + full bucket + extra object; 78–84s same; C1 feet smear; ending must be O2). Report: production/agents/research_reports/qc_2026-10-22/tito_ep4_halloween_final.md. Sent to producer.
+- glitch_scan: seek + downscale + scene-cut filter.
+- TikTok: nothing new reviewed → no package.
