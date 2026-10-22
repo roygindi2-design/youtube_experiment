@@ -1,0 +1,599 @@
+[
+ {
+  "id": "bro_Q_kf4_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg",
+    "mama_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from the front: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down) sits on the blanket and looks with big curious eyes, head tilted, at a small woven basket covered with a green cloth; the basket is held out from the right edge of the frame by a lavender-grey ELEPHANT hand in a lilac polka-dot sleeve (only Mamá Elefanta's elephant hand and sleeve are visible, no face, no human). Setting: outdoors in a sunny jungle clearing on a soft BLUE-and-WHITE checkered picnic blanket on green grass; softly blurred tropical leaves and orange flowers behind. Eyes open, mouth closed, no teeth. Wide 16:9 frame."
+ },
+ {
+  "id": "bro_Q_kf4_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg",
+    "mama_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from the front: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down) sits on the blanket and looks with big curious eyes, head tilted, at a small woven basket covered with a green cloth; the basket is held out from the right edge of the frame by a lavender-grey ELEPHANT hand in a lilac polka-dot sleeve (only Mamá Elefanta's elephant hand and sleeve are visible, no face, no human). Setting: outdoors in a sunny jungle clearing on a soft BLUE-and-WHITE checkered picnic blanket on green grass; softly blurred tropical leaves and orange flowers behind. Eyes open, mouth closed, no teeth. Wide 16:9 frame."
+ },
+ {
+  "id": "bro_Q_kf4_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg",
+    "mama_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from the front: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down) sits on the blanket and looks with big curious eyes, head tilted, at a small woven basket covered with a green cloth; the basket is held out from the right edge of the frame by a lavender-grey ELEPHANT hand in a lilac polka-dot sleeve (only Mamá Elefanta's elephant hand and sleeve are visible, no face, no human). Setting: outdoors in a sunny jungle clearing on a soft BLUE-and-WHITE checkered picnic blanket on green grass; softly blurred tropical leaves and orange flowers behind. Eyes open, mouth closed, no teeth. Wide 16:9 frame."
+ },
+ {
+  "id": "bro_K4_kf4_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg",
+    "mama_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down) hugs Mamá Elefanta from the second reference image: an adult ELEPHANT (not a human) with a lavender-grey elephant face, a LONG elephant trunk clearly visible, big round ears, a yellow flower behind her ear, lilac polka-dot dress and white apron around her middle on the blanket; Mamá smiles with her mouth closed, her long trunk curving down beside him, and pats his head with her hand. Setting: outdoors in a sunny jungle clearing on a soft BLUE-and-WHITE checkered picnic blanket on green grass; softly blurred tropical leaves and orange flowers behind. Eyes open, mouth closed, no teeth. Wide 16:9 frame."
+ },
+ {
+  "id": "bro_K4_kf4_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg",
+    "mama_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down) hugs Mamá Elefanta from the second reference image: an adult ELEPHANT (not a human) with a lavender-grey elephant face, a LONG elephant trunk clearly visible, big round ears, a yellow flower behind her ear, lilac polka-dot dress and white apron around her middle on the blanket; Mamá smiles with her mouth closed, her long trunk curving down beside him, and pats his head with her hand. Setting: outdoors in a sunny jungle clearing on a soft BLUE-and-WHITE checkered picnic blanket on green grass; softly blurred tropical leaves and orange flowers behind. Eyes open, mouth closed, no teeth. Wide 16:9 frame."
+ },
+ {
+  "id": "bro_K4_kf4_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg",
+    "mama_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down) hugs Mamá Elefanta from the second reference image: an adult ELEPHANT (not a human) with a lavender-grey elephant face, a LONG elephant trunk clearly visible, big round ears, a yellow flower behind her ear, lilac polka-dot dress and white apron around her middle on the blanket; Mamá smiles with her mouth closed, her long trunk curving down beside him, and pats his head with her hand. Setting: outdoors in a sunny jungle clearing on a soft BLUE-and-WHITE checkered picnic blanket on green grass; softly blurred tropical leaves and orange flowers behind. Eyes open, mouth closed, no teeth. Wide 16:9 frame."
+ },
+ {
+  "id": "bro_T3_kf4_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg",
+    "mama_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down) sits on the blanket chewing with his mouth closed and happily holds a white plate out toward Mamá Elefanta from the second reference image: an adult ELEPHANT (not a human) with a lavender-grey elephant face, a LONG elephant trunk clearly visible, big round ears, a yellow flower behind her ear, lilac polka-dot dress and white apron, who kneels beside him smiling, her long trunk visible. Setting: outdoors in a sunny jungle clearing on a soft BLUE-and-WHITE checkered picnic blanket on green grass; softly blurred tropical leaves and orange flowers behind. Eyes open, mouth closed, no teeth. Wide 16:9 frame."
+ },
+ {
+  "id": "bro_T3_kf4_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg",
+    "mama_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down) sits on the blanket chewing with his mouth closed and happily holds a white plate out toward Mamá Elefanta from the second reference image: an adult ELEPHANT (not a human) with a lavender-grey elephant face, a LONG elephant trunk clearly visible, big round ears, a yellow flower behind her ear, lilac polka-dot dress and white apron, who kneels beside him smiling, her long trunk visible. Setting: outdoors in a sunny jungle clearing on a soft BLUE-and-WHITE checkered picnic blanket on green grass; softly blurred tropical leaves and orange flowers behind. Eyes open, mouth closed, no teeth. Wide 16:9 frame."
+ },
+ {
+  "id": "bro_T3_kf4_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg",
+    "mama_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down) sits on the blanket chewing with his mouth closed and happily holds a white plate out toward Mamá Elefanta from the second reference image: an adult ELEPHANT (not a human) with a lavender-grey elephant face, a LONG elephant trunk clearly visible, big round ears, a yellow flower behind her ear, lilac polka-dot dress and white apron, who kneels beside him smiling, her long trunk visible. Setting: outdoors in a sunny jungle clearing on a soft BLUE-and-WHITE checkered picnic blanket on green grass; softly blurred tropical leaves and orange flowers behind. Eyes open, mouth closed, no teeth. Wide 16:9 frame."
+ },
+ {
+  "id": "bro_I2_kf4_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down) kneels on the grassy bank at the edge of a tiny clear jungle stream and washes his hands with a small bar of soap, white soap bubbles on his hands; only his hands are in the water, his overalls stay dry on the bank; big glossy tropical leaves and sunlight behind. Eyes open, mouth closed, no teeth. Wide 16:9 frame."
+ },
+ {
+  "id": "bro_I2_kf4_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down) kneels on the grassy bank at the edge of a tiny clear jungle stream and washes his hands with a small bar of soap, white soap bubbles on his hands; only his hands are in the water, his overalls stay dry on the bank; big glossy tropical leaves and sunlight behind. Eyes open, mouth closed, no teeth. Wide 16:9 frame."
+ },
+ {
+  "id": "bro_I2_kf4_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down) kneels on the grassy bank at the edge of a tiny clear jungle stream and washes his hands with a small bar of soap, white soap bubbles on his hands; only his hands are in the water, his overalls stay dry on the bank; big glossy tropical leaves and sunlight behind. Eyes open, mouth closed, no teeth. Wide 16:9 frame."
+ },
+ {
+  "id": "bro_clip1_I1_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: he walks in from the left, Mamá kneels by the plate → ACTION: on the first beat he arrives at the blanket and Mamá waves him over → END: both on the blanket, smiling. Secondary: leaves sway, the waterfall sparkles. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_I1.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_I1_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: he walks in from the left, Mamá kneels by the plate → ACTION: on the first beat he arrives at the blanket and Mamá waves him over → END: both on the blanket, smiling. Secondary: leaves sway, the waterfall sparkles. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_I1.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_R1_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: he looks at the broccoli → ACTION: on the beat he shakes his head slowly left-right twice, ears swinging (NO-NO), closed-mouth pout → END: face turned away. The plate stays still. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_R1.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_R1_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: he looks at the broccoli → ACTION: on the beat he shakes his head slowly left-right twice, ears swinging (NO-NO), closed-mouth pout → END: face turned away. The plate stays still. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_R1.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_G1_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. REAL WALK — START: he stands at the left of the forest → ACTION: he walks across the frame left to right with big happy steps on the beat, the broccoli trees passing by → END: he stops in the center with a PROUD closed smile. Secondary: clouds drift. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_G1.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_G1_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. REAL WALK — START: he stands at the left of the forest → ACTION: he walks across the frame left to right with big happy steps on the beat, the broccoli trees passing by → END: he stops in the center with a PROUD closed smile. Secondary: clouds drift. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_G1.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_G2_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: he chews with his mouth closed → ACTION: his eyes grow wide with delight and his ears lift on the beat (SURPRISE O then HAPPY SQUINT) → END: happy closed smile. The floret stays in his hand. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_G2.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_G2_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: he chews with his mouth closed → ACTION: his eyes grow wide with delight and his ears lift on the beat (SURPRISE O then HAPPY SQUINT) → END: happy closed smile. The floret stays in his hand. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_G2.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_K1_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. HAPPY BOUNCE — START: standing, plate in both hands → ACTION: he bends his knees and bounces softly on every beat, ears flopping, the plate stays level → END: still, HAPPY SQUINT. The food stays on the plate. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_K1.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_K1_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. HAPPY BOUNCE — START: standing, plate in both hands → ACTION: he bends his knees and bounces softly on every beat, ears flopping, the plate stays level → END: still, HAPPY SQUINT. The food stays on the plate. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_K1.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_K2_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: his finger above the broccoli → ACTION: he points to the broccoli, then the carrot, then the tomato, one per beat (verde, naranja, rojo) → END: finger on the tomato. The food never moves. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_K2.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_K2_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: his finger above the broccoli → ACTION: he points to the broccoli, then the carrot, then the tomato, one per beat (verde, naranja, rojo) → END: finger on the tomato. The food never moves. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_K2.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_K3_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. STRONG POSE — START: arms down → ACTION: on 'fuerte, fuerte' he lifts both arms up and bends them like a strongman twice on the beat, ears lifting → END: holds the proud pose, closed smile. The trunk stays down. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_K3.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_K3_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. STRONG POSE — START: arms down → ACTION: on 'fuerte, fuerte' he lifts both arms up and bends them like a strongman twice on the beat, ears lifting → END: holds the proud pose, closed smile. The trunk stays down. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_K3.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_R2_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: he looks at the carrot → ACTION: he shakes his head slowly left-right twice on the beat, ears swinging, closed-mouth pout → END: face turned away. The plate stays still. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_R2.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_R2_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: he looks at the carrot → ACTION: he shakes his head slowly left-right twice on the beat, ears swinging, closed-mouth pout → END: face turned away. The plate stays still. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_R2.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_C1_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: the carrot rocket at the bottom of the frame → ACTION: it rises smoothly up through the clouds on the beat ('zuuum'), the clouds slide down past them → END: high in the sky, he waves. Secondary: a little trail of sparkles. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_C1.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_C1_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: the carrot rocket at the bottom of the frame → ACTION: it rises smoothly up through the clouds on the beat ('zuuum'), the clouds slide down past them → END: high in the sky, he waves. Secondary: a little trail of sparkles. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_C1.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_C2_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: he chews with his mouth closed → ACTION: his ears lift and he nods twice on the beat, delighted → END: happy closed smile. The carrot stick stays in his hand. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_C2.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_C2_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: he chews with his mouth closed → ACTION: his ears lift and he nods twice on the beat, delighted → END: happy closed smile. The carrot stick stays in his hand. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_C2.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_R3_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: he looks at the tomatoes → ACTION: he leans in slowly, head tilting (CURIOUS), no head shake this time → END: a small brave closed smile. The tomatoes stay still. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_R3.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_R3_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: he looks at the tomatoes → ACTION: he leans in slowly, head tilting (CURIOUS), no head shake this time → END: a small brave closed smile. The tomatoes stay still. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_R3.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_T1_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. JUMP FOR JOY — START: he crouches a little → ACTION: he jumps up with both arms raised as the red balls bounce around him, one bounce per beat ('boing, boing') → END: lands softly on both feet. Secondary: the balls keep bouncing. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_T1.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_T1_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. JUMP FOR JOY — START: he crouches a little → ACTION: he jumps up with both arms raised as the red balls bounce around him, one bounce per beat ('boing, boing') → END: lands softly on both feet. Secondary: the balls keep bouncing. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_T1.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_T2_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: his hand above the plate → ACTION: he picks up ONE tomato and lifts it up to show it, on the beat → END: holds it up proudly. The other two tomatoes stay on the plate. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_T2.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_T2_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: his hand above the plate → ACTION: he picks up ONE tomato and lifts it up to show it, on the beat → END: holds it up proudly. The other two tomatoes stay on the plate. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_T2.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_O1_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: plate held low → ACTION: he lifts the empty plate up to show it on the beat → END: holds it up proudly, ears lifted. The plate stays empty. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_O1.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_O1_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: plate held low → ACTION: he lifts the empty plate up to show it on the beat → END: holds it up proudly, ears lifted. The plate stays empty. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_O1.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_O2_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. REAL WALK — START: he starts at the left → ACTION: he runs across the frame to the right with small happy steps, the waterfall coming closer → END: he stops by the waterfall and waves. Secondary: water sparkles. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_O2.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_O2_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. REAL WALK — START: he starts at the left → ACTION: he runs across the frame to the right with small happy steps, the waterfall coming closer → END: he stops by the waterfall and waves. Secondary: water sparkles. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_O2.jpg"
+  }
+ }
+]
