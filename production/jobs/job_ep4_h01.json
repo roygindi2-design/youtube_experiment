@@ -1,0 +1,62 @@
+[
+ {
+  "id": "tito_ep4_halloween_H01_kfN707",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 707,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Wide shot of a cozy little village street on Halloween night: three tiny round houses in orange, purple and mint green with glowing friendly jack-o-lanterns on the steps, paper lanterns, fallen autumn leaves, a big friendly full moon; the baby elephant wearing a round ORANGE PUMPKIN COSTUME with a short green stem cap, his face, big ears and short trunk out of the round opening, his trunk curled down below his mouth, holding ONE small ORANGE plastic candy bucket shaped like a jack-o-lantern in his RIGHT hand, walks out of his front door while Mamá Elefanta waves from the doorway. The main action is in the CENTER of the frame. The baby elephant from the other reference image, exactly the same character design: TITO, a baby elephant toddler in his Halloween costume: his powder-blue face, very big round powder-blue ears with peach-pink insides, short soft powder-blue trunk curled up at the tip, big glossy dark-brown eyes, rosy cheeks, powder-blue arms, hands and feet; he wears a round soft ORANGE PUMPKIN COSTUME like a puffy round orange pumpkin around his tummy and chest, with vertical pumpkin ridges, and a small green leafy stem cap on top of his head; short chubby powder-blue legs below the costume, small tail. Mamá Elefanta from the third reference image, exactly the same character design: MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear. Exactly two elephants in the picture: the small baby and his taller mother. Setting: a cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green, each with a round wooden door that is SHUT, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame. Nobody else in the picture: no people, no children, no other animals, every door is closed.",
+  "inputs": {
+   "image_refs": [
+    "tito_pumpkin_wide.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_H01_kfN808",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 808,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Wide shot of a cozy little village street on Halloween night: three tiny round houses in orange, purple and mint green with glowing friendly jack-o-lanterns on the steps, paper lanterns, fallen autumn leaves, a big friendly full moon; the baby elephant wearing a round ORANGE PUMPKIN COSTUME with a short green stem cap, his face, big ears and short trunk out of the round opening, his trunk curled down below his mouth, holding ONE small ORANGE plastic candy bucket shaped like a jack-o-lantern in his RIGHT hand, walks out of his front door while Mamá Elefanta waves from the doorway. The main action is in the CENTER of the frame. The baby elephant from the other reference image, exactly the same character design: TITO, a baby elephant toddler in his Halloween costume: his powder-blue face, very big round powder-blue ears with peach-pink insides, short soft powder-blue trunk curled up at the tip, big glossy dark-brown eyes, rosy cheeks, powder-blue arms, hands and feet; he wears a round soft ORANGE PUMPKIN COSTUME like a puffy round orange pumpkin around his tummy and chest, with vertical pumpkin ridges, and a small green leafy stem cap on top of his head; short chubby powder-blue legs below the costume, small tail. Mamá Elefanta from the third reference image, exactly the same character design: MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear. Exactly two elephants in the picture: the small baby and his taller mother. Setting: a cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green, each with a round wooden door that is SHUT, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame. Nobody else in the picture: no people, no children, no other animals, every door is closed.",
+  "inputs": {
+   "image_refs": [
+    "tito_pumpkin_wide.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_H01_kfN909",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 909,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Wide shot of a cozy little village street on Halloween night: three tiny round houses in orange, purple and mint green with glowing friendly jack-o-lanterns on the steps, paper lanterns, fallen autumn leaves, a big friendly full moon; the baby elephant wearing a round ORANGE PUMPKIN COSTUME with a short green stem cap, his face, big ears and short trunk out of the round opening, his trunk curled down below his mouth, holding ONE small ORANGE plastic candy bucket shaped like a jack-o-lantern in his RIGHT hand, walks out of his front door while Mamá Elefanta waves from the doorway. The main action is in the CENTER of the frame. The baby elephant from the other reference image, exactly the same character design: TITO, a baby elephant toddler in his Halloween costume: his powder-blue face, very big round powder-blue ears with peach-pink insides, short soft powder-blue trunk curled up at the tip, big glossy dark-brown eyes, rosy cheeks, powder-blue arms, hands and feet; he wears a round soft ORANGE PUMPKIN COSTUME like a puffy round orange pumpkin around his tummy and chest, with vertical pumpkin ridges, and a small green leafy stem cap on top of his head; short chubby powder-blue legs below the costume, small tail. Mamá Elefanta from the third reference image, exactly the same character design: MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear. Exactly two elephants in the picture: the small baby and his taller mother. Setting: a cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green, each with a round wooden door that is SHUT, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame. Nobody else in the picture: no people, no children, no other animals, every door is closed.",
+  "inputs": {
+   "image_refs": [
+    "tito_pumpkin_wide.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_H01_kfN111",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 111,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Wide shot of a cozy little village street on Halloween night: three tiny round houses in orange, purple and mint green with glowing friendly jack-o-lanterns on the steps, paper lanterns, fallen autumn leaves, a big friendly full moon; the baby elephant wearing a round ORANGE PUMPKIN COSTUME with a short green stem cap, his face, big ears and short trunk out of the round opening, his trunk curled down below his mouth, holding ONE small ORANGE plastic candy bucket shaped like a jack-o-lantern in his RIGHT hand, walks out of his front door while Mamá Elefanta waves from the doorway. The main action is in the CENTER of the frame. The baby elephant from the other reference image, exactly the same character design: TITO, a baby elephant toddler in his Halloween costume: his powder-blue face, very big round powder-blue ears with peach-pink insides, short soft powder-blue trunk curled up at the tip, big glossy dark-brown eyes, rosy cheeks, powder-blue arms, hands and feet; he wears a round soft ORANGE PUMPKIN COSTUME like a puffy round orange pumpkin around his tummy and chest, with vertical pumpkin ridges, and a small green leafy stem cap on top of his head; short chubby powder-blue legs below the costume, small tail. Mamá Elefanta from the third reference image, exactly the same character design: MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear. Exactly two elephants in the picture: the small baby and his taller mother. Setting: a cozy little village street on Halloween night, three tiny round storybook houses painted orange, purple and mint green, each with a round wooden door that is SHUT, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Wide 16:9 frame. Nobody else in the picture: no people, no children, no other animals, every door is closed.",
+  "inputs": {
+   "image_refs": [
+    "tito_pumpkin_wide.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ }
+]
