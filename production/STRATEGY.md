@@ -214,3 +214,10 @@
 **Hypotheses:** "new YouTube channel ≈ no exposure" strongly supported — even a finished, QC-passed long episode with NuNu-style metadata gets ~0 impressions in its first hours. Content quality is not the bottleneck on YouTube right now; distribution is (TikTok package #1 sent today).
 **Production (Roy's decisions):** Halloween FINAL + 3 Shorts delivered to Roy for the 24.10 upload; ep3 rebuild v3 in QC (4 fixes in progress: K1 trunk mask, N06 shadow, N09 window, N16 butterfly).
 **What would justify more YouTube effort:** first impressions on ep2 or Halloween (24.10, peak search week). Next check: ep2 views/impressions at +24 h.
+
+### Analysis meeting 15 — 22.10.2026 20:47 UTC (23:47 Israel) — analysis only
+**Data (vs meeting 14, 16:50 UTC):** views flat (channel 77 by the API, 0 subscribers; ep2 nWPm2InSAJo 2 views after 7.5 h). NEW: YouTube Analytics now returns retention for 4 videos — Short "bath" (DxxmhZrbspY) avg 73% watched, Short "tower" (gxH1p0Sp59g) 115% (re-watched), Short "hands" (SMMKda9GxPM) 31%, episode 1 (-cqaCh6sL5U) 21%.
+**What it says:** among the Shorts, the ones with one clear action + payoff (bath, tower) hold viewers 2–4× better than "hands" (a song montage). The long episode loses most viewers early (21%) — the hook/first 15 s matters most for the long format. Small samples (13–16 views), so direction only.
+**Hypotheses:** distribution is still the bottleneck (unchanged); new, weak signal: "one action + payoff" Shorts retain better than montage Shorts → fits the director-mode / START→ACTION→END rules now used in every episode.
+**Production (Roy's decisions):** Halloween + ep3 with Roy (In Review); tito_brocoli: 19 keyframes passed, clips done, song (8 takes) + 2 re-takes rendering.
+**Next:** check ep2 at +24 h; Halloween goes up 24.10.

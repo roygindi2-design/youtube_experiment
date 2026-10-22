@@ -1,5 +1,5 @@
 {
- "taken": "2026-10-22 18:58 UTC",
+ "taken": "2026-10-22 20:47 UTC",
  "channel": {
   "title": "Cantilandia",
   "id": "UCDwph5nbCbbl97Pu4gTyZUA",
@@ -94,6 +94,9 @@
    "views": 0,
    "likes": 0,
    "comments": 0,
+   "estimatedMinutesWatched": 0,
+   "averageViewDuration": 0,
+   "averageViewPercentage": 0,
    "retention_curve": []
   },
   {
@@ -102,9 +105,12 @@
    "published": "2026-10-20",
    "privacy": "public",
    "duration_s": 27,
-   "views": 1,
+   "views": 0,
    "likes": 0,
    "comments": 0,
+   "estimatedMinutesWatched": 0,
+   "averageViewDuration": 0,
+   "averageViewPercentage": 0,
    "retention_curve": []
   },
   {
@@ -116,6 +122,9 @@
    "views": 8,
    "likes": 0,
    "comments": 0,
+   "estimatedMinutesWatched": 1,
+   "averageViewDuration": 25,
+   "averageViewPercentage": 89.09,
    "retention_curve": []
   },
   {
@@ -124,9 +133,12 @@
    "published": "2026-10-20",
    "privacy": "public",
    "duration_s": 27,
-   "views": 15,
+   "views": 13,
    "likes": 0,
    "comments": 0,
+   "estimatedMinutesWatched": 1,
+   "averageViewDuration": 8,
+   "averageViewPercentage": 30.75,
    "retention_curve": []
   },
   {
@@ -138,6 +150,9 @@
    "views": 16,
    "likes": 1,
    "comments": 0,
+   "estimatedMinutesWatched": 3,
+   "averageViewDuration": 21,
+   "averageViewPercentage": 73.05,
    "retention_curve": []
   },
   {
@@ -146,9 +161,12 @@
    "published": "2026-10-20",
    "privacy": "public",
    "duration_s": 22,
-   "views": 8,
+   "views": 4,
    "likes": 0,
    "comments": 0,
+   "estimatedMinutesWatched": 0,
+   "averageViewDuration": 14,
+   "averageViewPercentage": 66.25,
    "retention_curve": []
   },
   {
@@ -157,12 +175,12 @@
    "published": "2026-10-19",
    "privacy": "public",
    "duration_s": 39,
-   "views": 7,
+   "views": 10,
    "likes": 0,
    "comments": 0,
    "estimatedMinutesWatched": 3,
-   "averageViewDuration": 65,
-   "averageViewPercentage": 167.74,
+   "averageViewDuration": 44,
+   "averageViewPercentage": 114.99,
    "retention_curve": []
   },
   {
@@ -171,12 +189,12 @@
    "published": "2026-10-19",
    "privacy": "public",
    "duration_s": 128,
-   "views": 4,
+   "views": 6,
    "likes": 2,
    "comments": 0,
-   "estimatedMinutesWatched": 1,
-   "averageViewDuration": 15,
-   "averageViewPercentage": 12.5,
+   "estimatedMinutesWatched": 2,
+   "averageViewDuration": 26,
+   "averageViewPercentage": 21.03,
    "retention_curve": []
   },
   {
@@ -185,7 +203,7 @@
    "published": "2026-10-19",
    "privacy": "public",
    "duration_s": 38,
-   "views": 3,
+   "views": 5,
    "likes": 1,
    "comments": 0,
    "estimatedMinutesWatched": 0,
