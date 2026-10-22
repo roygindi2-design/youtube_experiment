@@ -1,0 +1,58 @@
+[
+ {
+  "id": "tito_ep4_halloween_clip_C1T_s5",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 5,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He bounces happily toward the camera with little hopping steps, the bucket swinging in his hand; the camera slowly moves backward in front of him so the houses pass by on both sides. His short trunk hangs straight down relaxed in front of his pumpkin costume, the tip resting on the costume; the trunk does NOT curl up and does NOT touch his face. Smooth natural continuous motion; the same character the whole time; no morphing. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_C1.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_C1T_s11",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He bounces happily toward the camera with little hopping steps, the bucket swinging in his hand; the camera slowly moves backward in front of him so the houses pass by on both sides. His short trunk hangs straight down relaxed in front of his pumpkin costume, the tip resting on the costume; the trunk does NOT curl up and does NOT touch his face. Smooth natural continuous motion; the same character the whole time; no morphing. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_C1.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_C1T_s23",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 23,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He bounces happily toward the camera with little hopping steps, the bucket swinging in his hand; the camera slowly moves backward in front of him so the houses pass by on both sides. His short trunk hangs straight down relaxed in front of his pumpkin costume, the tip resting on the costume; the trunk does NOT curl up and does NOT touch his face. Smooth natural continuous motion; the same character the whole time; no morphing. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_C1.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_C1T_s41",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 41,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He bounces happily toward the camera with little hopping steps, the bucket swinging in his hand; the camera slowly moves backward in front of him so the houses pass by on both sides. His short trunk hangs straight down relaxed in front of his pumpkin costume, the tip resting on the costume; the trunk does NOT curl up and does NOT touch his face. Smooth natural continuous motion; the same character the whole time; no morphing. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_C1.jpg"
+  }
+ }
+]
