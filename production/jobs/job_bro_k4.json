@@ -1,0 +1,44 @@
+[
+ {
+  "id": "bro_clip1_K4_s31",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Static camera. The baby elephant and Mamá Elefanta sit side by side on the blanket facing the camera; he gently pats Mamá's arm with his hand and they turn and smile warmly at each other, then both look back at the camera smiling; both faces stay clearly visible the whole time, no face-to-chest hug, they never merge. Smooth gentle motion; the same two characters the whole time; no morphing; no new characters. His short trunk hangs down; Mamá's long trunk stays away from his face. Eyes open, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_K4.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_K4_s43",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 43,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Static camera. The baby elephant and Mamá Elefanta sit side by side on the blanket facing the camera; he gently pats Mamá's arm with his hand and they turn and smile warmly at each other, then both look back at the camera smiling; both faces stay clearly visible the whole time, no face-to-chest hug, they never merge. Smooth gentle motion; the same two characters the whole time; no morphing; no new characters. His short trunk hangs down; Mamá's long trunk stays away from his face. Eyes open, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_K4.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_K4_s57",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 57,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Static camera. The baby elephant and Mamá Elefanta sit side by side on the blanket facing the camera; he gently pats Mamá's arm with his hand and they turn and smile warmly at each other, then both look back at the camera smiling; both faces stay clearly visible the whole time, no face-to-chest hug, they never merge. Smooth gentle motion; the same two characters the whole time; no morphing; no new characters. His short trunk hangs down; Mamá's long trunk stays away from his face. Eyes open, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_K4.jpg"
+  }
+ }
+]
