@@ -9,6 +9,15 @@
    "sent_utc": "2026-10-21 23:05",
    "youtube": "https://youtube.com/shorts/l5anda4GTTI",
    "roy": "rejected 21.10: too many inaccuracies — not for TikTok"
+  },
+  {
+   "date": "2026-10-22 13:10 UTC",
+   "video": "production/deliver/tito_ep2_tiktok_A.mp4",
+   "episode": "tito_ep2",
+   "qc": "PASS (5 fps sheet ep2_deliver/tiktok_v2.jpg)",
+   "text_overlay": "¿Tu peque no quiere lavarse las manos? 🧼",
+   "caption": "Con esta canción Tito aprende a lavarse las manos antes de comer 🐘🧼 ¡Pruébala con tu peque! Canción completa en YouTube 👉 link en el perfil #lavarselasmanos #cancionesinfantiles #crianza #mamás #hábitos #fyp",
+   "measure_after_24h": "avg watch ≥6 s, completion ≥15%"
   }
  ],
  "queue": [],
