@@ -262,3 +262,6 @@ Data: research/market/halloween_titles_2026-10-22.json
 - ep3 FINAL + 3 Shorts + TikTok cut delivered to Roy (ENG-15 In Review).
 - Refined: tito_brocoli → long episode v2 (28 lines, 19 shots, 3 pretend worlds: broccoli forest / carrot rocket / bouncy tomatoes, verse 3 = he tries by himself; habit beat = handwashing; design bible + START→ACTION→END). template_check + preflight OK. → queue NOW.
 - TikTok: packages for ep2 + ep3 are with Roy; Halloween Shorts start 25.10.
+
+## Run 2026-10-22 20:05 UTC
+- brocoli: all 19 keyframes PASS (after 4 Mamá/I2 fixes); clips rendering. Waiting on Roy: Halloween (ENG-14) + ep3 (ENG-15) in In Review.
