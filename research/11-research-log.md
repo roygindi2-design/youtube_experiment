@@ -237,3 +237,13 @@
 - Halloween QC: v4 FAIL (3 fixes) → v5 FAIL (2 small: D2 door ≠ V2 door; M4 mouse sprout). Reports qc_2026-10-22/tito_ep4_halloween_final_v4.md, _v5.md. Producer re-taking. Linear ENG-14 commented.
 - Organic watch 08:05: total 77 views across 14 Shorts, +1 since 00:05 (flat). All public. Confirms: old Shorts are not being pushed; the next growth test is the Halloween long episode + its Shorts.
 - TikTok: no new reviewed video → nothing sent.
+
+## Run 2026-10-22 10:05 UTC — algorithm research slot: Halloween titles (last 60 days, es)
+Data: research/market/halloween_titles_2026-10-22.json
+- **Closest proof for our episode:** Plim Plim "¡Veo, Veo Colores en Halloween! 🎃🚪 Juego de Puertas Sorpresa" — 2.38M views in 8 days, 3:08 long. Same mechanic as ours: doors + surprise guess.
+- Question titles win: Pinkfong "¿Qué Hay en la Oscuridad?😱" 1.74M, "¿Dónde Está Mi Mamá?😭" 5.0M; Babanana "¡Aventura de Dulces de Halloween!" 3.1M.
+- Healthy/teeth angle: Doctora Sophia "Dulces de Halloween vs Comida Saludable | Cepíllate los Dientes" 9.4M (Short) → our O1 toothbrush ending fits; use it in a Short caption.
+- Title pattern: [question/exclamation] + 🎃🚪 + [game word: sorpresa/adivina] + "| Canciones Infantiles / Halloween para Niños".
+- Draft episode title: "¿Quién está detrás de la puerta? 🎃🚪 ¡Dulce o truco con Tito! | Canciones Infantiles de Halloween"
+- Timing: most Halloween winners were uploaded 26.9–14.10, and search peaks in the last week of October → our 24.10 upload is late but inside the peak week. Shorts on 25–27.10 are the main push.
+- Status: Halloween v7 edit + ep2 v3 edit are in progress (producer); no new review copy yet. TikTok: nothing new reviewed.
