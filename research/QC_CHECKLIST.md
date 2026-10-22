@@ -67,3 +67,5 @@ Story & feeling
 
 ## 8. Sync (22.10)
 - [ ] research/sync_check.py: cuts on the beat ≥80%; the main action of each shot on a beat; sound words match the picture at that moment.
+
+## 9. Lesson 22.10 (Roy caught the C1 trunk): check the trunk at ≥5 fps for the WHOLE slot of every Tito shot, especially the dance/chorus shots (they repeat ×3 + in every Short). Never accept "trunk OK" from the producer's note without looking. A hook/S-curl in front of the face = FAIL.
