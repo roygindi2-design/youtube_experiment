@@ -247,3 +247,8 @@ Data: research/market/halloween_titles_2026-10-22.json
 - Draft episode title: "¿Quién está detrás de la puerta? 🎃🚪 ¡Dulce o truco con Tito! | Canciones Infantiles de Halloween"
 - Timing: most Halloween winners were uploaded 26.9–14.10, and search peaks in the last week of October → our 24.10 upload is late but inside the peak week. Shorts on 25–27.10 are the main push.
 - Status: Halloween v7 edit + ep2 v3 edit are in progress (producer); no new review copy yet. TikTok: nothing new reviewed.
+
+## Run 2026-10-22 12:05 UTC (TikTok slot)
+- Done since 10:05: research 17 (move/face library), 18 (TikTok lessons + vidIQ scan), sync_check.py; QC Halloween v7 (2 fixes → v8 has them + all cuts on the beat), QC ep2 v3/v3b (ep2 v3c in progress: white towel + beat snap done).
+- Waiting: Halloween v8 review copy + 3 Shorts (not on origin yet; asked the producer).
+- TikTok 12:00: no new reviewed video → nothing sent (rule: only new reviewed videos). The first package = Halloween Short A after QC.
