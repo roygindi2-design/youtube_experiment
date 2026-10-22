@@ -1,0 +1,170 @@
+[
+ {
+  "id": "ep3_clip3_N01_s31",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant drops his toothbrush into the little blue cup on the nightstand and smiles proudly; Mamá stays standing beside the bed holding up the corner of the blanket and smiles at him. Nobody moves much, nobody gets into the bed. Smooth gentle continuous motion; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no animals appear; objects keep their shape; no morphing. The baby elephant's short trunk hangs down. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N01.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N01_s43",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 43,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant drops his toothbrush into the little blue cup on the nightstand and smiles proudly; Mamá stays standing beside the bed holding up the corner of the blanket and smiles at him. Nobody moves much, nobody gets into the bed. Smooth gentle continuous motion; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no animals appear; objects keep their shape; no morphing. The baby elephant's short trunk hangs down. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N01.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N01_s57",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 57,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant drops his toothbrush into the little blue cup on the nightstand and smiles proudly; Mamá stays standing beside the bed holding up the corner of the blanket and smiles at him. Nobody moves much, nobody gets into the bed. Smooth gentle continuous motion; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no animals appear; objects keep their shape; no morphing. The baby elephant's short trunk hangs down. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N01.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N07_s31",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The leafy branch outside the round window sways gently in the breeze and its twigs tap softly against the glass three times; the moon glows; nothing else appears. It stays just a branch. Smooth gentle continuous motion; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no animals appear; objects keep their shape; no morphing. The baby elephant's short trunk hangs down. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N07.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N07_s43",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 43,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The leafy branch outside the round window sways gently in the breeze and its twigs tap softly against the glass three times; the moon glows; nothing else appears. It stays just a branch. Smooth gentle continuous motion; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no animals appear; objects keep their shape; no morphing. The baby elephant's short trunk hangs down. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N07.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N07_s57",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 57,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The leafy branch outside the round window sways gently in the breeze and its twigs tap softly against the glass three times; the moon glows; nothing else appears. It stays just a branch. Smooth gentle continuous motion; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no animals appear; objects keep their shape; no morphing. The baby elephant's short trunk hangs down. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N07.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N04_s31",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He slowly looks left, then right, with curious eyes, then pulls the blanket a little higher; he stays sitting in the same place. Smooth gentle continuous motion; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no animals appear; objects keep their shape; no morphing. The baby elephant's short trunk hangs down. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N04.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N04_s43",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 43,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He slowly looks left, then right, with curious eyes, then pulls the blanket a little higher; he stays sitting in the same place. Smooth gentle continuous motion; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no animals appear; objects keep their shape; no morphing. The baby elephant's short trunk hangs down. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N04.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N04_s57",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 57,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He slowly looks left, then right, with curious eyes, then pulls the blanket a little higher; he stays sitting in the same place. Smooth gentle continuous motion; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no animals appear; objects keep their shape; no morphing. The baby elephant's short trunk hangs down. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N04.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N15_s31",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He waves his hand goodnight toward the window twice and smiles sleepily, hugging his plush giraffe and toy truck; he stays lying in the same place, facing the camera. Smooth gentle continuous motion; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no animals appear; objects keep their shape; no morphing. The baby elephant's short trunk hangs down. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N15.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N15_s43",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 43,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He waves his hand goodnight toward the window twice and smiles sleepily, hugging his plush giraffe and toy truck; he stays lying in the same place, facing the camera. Smooth gentle continuous motion; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no animals appear; objects keep their shape; no morphing. The baby elephant's short trunk hangs down. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N15.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N15_s57",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 57,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He waves his hand goodnight toward the window twice and smiles sleepily, hugging his plush giraffe and toy truck; he stays lying in the same place, facing the camera. Smooth gentle continuous motion; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no animals appear; objects keep their shape; no morphing. The baby elephant's short trunk hangs down. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N15.jpg"
+  }
+ }
+]
