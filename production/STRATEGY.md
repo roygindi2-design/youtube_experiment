@@ -186,3 +186,11 @@
 4. Story > old style — still holds weakly (16/14 vs 2–7). Long episode retention 12.5% is low; the Short loop (168%) works.
 **What justifies continuing:** TikTok, not YouTube, is the place where we see reach now. Continue Halloween (deadline), and post every finished video on TikTok too, with captions for parents. On YouTube: the first organic movement on any video, or Analytics traffic from the Shorts feed.
 **Order:** Halloween ep4 (in production) → ep3 dormir (sent to Roy, waiting for the research check) → ep2.
+
+### Analysis meeting 11 — 22.10.2026 04:46 UTC (07:46 Israel) — analysis only
+**Note:** production is running again by Roy's decision (Halloween ep4 clips are rendering now, deadline 24.10 18:00 IL). This meeting only analyzes.
+**Data (vs meeting 10, 00:47 UTC):** almost no change per video: hands 14→15; basura 4, rescate 4 (private), spaghetti 7, bath 16, episode 1 4. **The channel total jumped 5→80 views** — the per-video sum is ~100, so YouTube updated the channel counter (after removing uncounted views), not new traffic. 0 subscribers.
+**Analytics API:** retention unchanged (tower Short 168%, episode 1 12.5%, others 15–24%). Daily views / traffic sources still empty.
+**Hypotheses:** no change from meeting 10 — new YouTube channel = almost no exposure (supported); content is fine (TikTok 356 views on the same video); manual vs API — no difference.
+**What justifies more effort on YouTube:** the first organic movement on a new upload, or traffic data from the Shorts feed. Until then: finish Halloween, post on TikTok and YouTube together.
+**Order:** Halloween ep4 (clips rendering) → ep3 fixes (research QC 22.10: black first frame, lamp face, dark hook, giraffe shadow, window figure) → ep2 fixes (teeth, overalls in bath, red hand prop).
