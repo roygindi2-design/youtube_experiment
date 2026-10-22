@@ -1,11 +1,11 @@
 {
- "taken": "2026-10-22 16:50 UTC",
+ "taken": "2026-10-22 18:58 UTC",
  "channel": {
   "title": "Cantilandia",
   "id": "UCDwph5nbCbbl97Pu4gTyZUA",
   "subscribers": 0,
-  "views": 80,
-  "videos": 13
+  "views": 77,
+  "videos": 14
  },
  "videos": [
   {
@@ -14,7 +14,7 @@
    "published": "2026-10-22",
    "privacy": "public",
    "duration_s": 88,
-   "views": 1,
+   "views": 2,
    "likes": 0,
    "comments": 0,
    "retention_curve": []
