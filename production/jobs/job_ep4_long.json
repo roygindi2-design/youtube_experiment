@@ -1,0 +1,570 @@
+[
+ {
+  "id": "tito_ep4_halloween_EST_kf7",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 77,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Wide establishing shot of a cozy little village street on Halloween night: tiny round storybook houses painted orange, purple and mint green with closed round doors, glowing friendly jack-o-lanterns on every step, strings of warm paper lanterns, orange and yellow leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Nobody in the picture. Wide 16:9 frame."
+ },
+ {
+  "id": "tito_ep4_halloween_H02n_kf7",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 77,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from the front on the village street at night: the baby elephant from the reference image, exactly the same character design: TITO, a baby elephant toddler in his Halloween costume: his powder-blue face, very big round powder-blue ears with peach-pink insides, short soft powder-blue trunk curled up at the tip, big glossy dark-brown eyes, rosy cheeks, powder-blue arms, hands and feet; he wears a round soft ORANGE PUMPKIN COSTUME like a puffy round orange pumpkin around his tummy and chest, with vertical pumpkin ridges, and a small green leafy stem cap on top of his head; short chubby powder-blue legs below the costume, small tail. He holds up ONE small ORANGE plastic candy bucket shaped like a jack-o-lantern in his RIGHT hand; the bucket is completely EMPTY. His trunk hangs straight down below his mouth. He smiles, excited, eyes open. Glowing jack-o-lanterns and lanterns behind him, the full moon. Only one elephant in the picture. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pumpkin_wide.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_WALK_kf7",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 77,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Wide side view of the village street on Halloween night: the baby elephant from the reference image, exactly the same character design: TITO, a baby elephant toddler in his Halloween costume: his powder-blue face, very big round powder-blue ears with peach-pink insides, short soft powder-blue trunk curled up at the tip, big glossy dark-brown eyes, rosy cheeks, powder-blue arms, hands and feet; he wears a round soft ORANGE PUMPKIN COSTUME like a puffy round orange pumpkin around his tummy and chest, with vertical pumpkin ridges, and a small green leafy stem cap on top of his head; short chubby powder-blue legs below the costume, small tail. He walks happily from the left side of the frame toward the right, seen from the side, holding ONE small ORANGE jack-o-lantern bucket in his RIGHT hand, his trunk hanging straight down. Tiny round orange, purple and mint houses with glowing jack-o-lanterns behind him, warm lanterns, the full moon. Only one elephant in the picture. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pumpkin_wide.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_ESTL_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Slow gentle camera push-in down the street; the paper lanterns sway softly, orange leaves drift down, the jack-o-lanterns flicker. Nobody in the picture. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "after": {
+   "image_start": "tito_ep4_halloween_EST_kf7"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_ESTL_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Slow gentle camera push-in down the street; the paper lanterns sway softly, orange leaves drift down, the jack-o-lanterns flicker. Nobody in the picture. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "after": {
+   "image_start": "tito_ep4_halloween_EST_kf7"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_H01L_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant walks happily down the path toward the camera swinging his empty bucket, Mamá Elefanta waves goodbye behind him; the camera slowly moves backward in front of him. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_H01.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_H01L_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The baby elephant walks happily down the path toward the camera swinging his empty bucket, Mamá Elefanta waves goodbye behind him; the camera slowly moves backward in front of him. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_H01.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_H02nL_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He lifts his empty bucket a little and smiles, excited, then looks along the street; gentle motion. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "after": {
+   "image_start": "tito_ep4_halloween_H02n_kf7"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_H02nL_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He lifts his empty bucket a little and smiles, excited, then looks along the street; gentle motion. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "after": {
+   "image_start": "tito_ep4_halloween_H02n_kf7"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_D1L_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His hand knocks three times on the closed orange door: toc, toc, toc; the door stays closed. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_D1.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_D1L_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His hand knocks three times on the closed orange door: toc, toc, toc; the door stays closed. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_D1.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_QL_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He tilts his head slowly, curious, looking up at the door, holding his bucket; gentle breathing motion. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_Q.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_QL_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He tilts his head slowly, curious, looking up at the door, holding his bucket; gentle breathing motion. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_Q.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_V1v5L_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The black kitten meows softly and its tail curls happily; the baby elephant smiles and holds his orange bucket still in his hand. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_V1v5.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_V1v5L_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The black kitten meows softly and its tail curls happily; the baby elephant smiles and holds his orange bucket still in his hand. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_V1v5.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_C1L_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He dances happily, stepping forward toward the camera and swaying side to side, the bucket swinging in his hand; the camera slowly moves backward in front of him so the houses pass by on both sides. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_C1.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_C1L_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He dances happily, stepping forward toward the camera and swaying side to side, the bucket swinging in his hand; the camera slowly moves backward in front of him so the houses pass by on both sides. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_C1.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_C1L_s31",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He dances happily, stepping forward toward the camera and swaying side to side, the bucket swinging in his hand; the camera slowly moves backward in front of him so the houses pass by on both sides. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_C1.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_C2L_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He bows his head politely with his hand on his chest and smiles, then looks up happily. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_C2.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_C2L_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He bows his head politely with his hand on his chest and smiles, then looks up happily. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_C2.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_C3B404L_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He keeps his arm stretched out to the side holding the candy in his open hand to share it and smiles warmly. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_C3B404.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_C3B404L_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He keeps his arm stretched out to the side holding the candy in his open hand to share it and smiles warmly. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_C3B404.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_C4L_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He walks forward toward the camera along the street toward the next little house, the bucket swinging; the camera slowly tracks backward in front of him so the houses and lanterns pass by on both sides. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_C4.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_C4L_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He walks forward toward the camera along the street toward the next little house, the bucket swinging; the camera slowly tracks backward in front of him so the houses and lanterns pass by on both sides. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_C4.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_C4L_s31",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He walks forward toward the camera along the street toward the next little house, the bucket swinging; the camera slowly tracks backward in front of him so the houses and lanterns pass by on both sides. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_C4.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_WALKL_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He walks steadily from the left side of the frame to the right side, swinging his bucket, crossing the frame; the camera stays still. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "after": {
+   "image_start": "tito_ep4_halloween_WALK_kf7"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_WALKL_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He walks steadily from the left side of the frame to the right side, swinging his bucket, crossing the frame; the camera stays still. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "after": {
+   "image_start": "tito_ep4_halloween_WALK_kf7"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_WALKL_s31",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He walks steadily from the left side of the frame to the right side, swinging his bucket, crossing the frame; the camera stays still. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "after": {
+   "image_start": "tito_ep4_halloween_WALK_kf7"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_D2v6L_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The small hand knocks three times on the shut pink door with its knuckles, toc, toc, toc, then stays near the door; the door stays shut the whole time. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_D2v6.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_D2v6L_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The small hand knocks three times on the shut pink door with its knuckles, toc, toc, toc, then stays near the door; the door stays shut the whole time. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_D2v6.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_V2v5L_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The little purple bat gently flaps its soft wings twice, flap, flap, and smiles; it stays sitting on the doorstep. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_V2v5.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_V2v5L_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The little purple bat gently flaps its soft wings twice, flap, flap, and smiles; it stays sitting on the doorstep. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_V2v5.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_M1L_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The little mouse looks into its empty bucket and its ears droop slowly, sad; gentle breathing. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_M1.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_M1L_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The little mouse looks into its empty bucket and its ears droop slowly, sad; gentle breathing. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_M1.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_M4v6L_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. They both sway happily side by side, each holding their own bucket, and smile at each other. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_M4v6.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_M4v6L_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. They both sway happily side by side, each holding their own bucket, and smile at each other. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_M4v6.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_O1L_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá wiggles the blue toothbrush and the baby elephant nods with a soft smile. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_O1.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_O1L_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá wiggles the blue toothbrush and the baby elephant nods with a soft smile. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_O1.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_O2L_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Seen from behind, the baby elephant waves his free arm slowly at the little mouse, who waves back and then skips away down the street; leaves drift down, lanterns sway. He never turns around. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_O2.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_O2L_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Seen from behind, the baby elephant waves his free arm slowly at the little mouse, who waves back and then skips away down the street; leaves drift down, lanterns sway. He never turns around. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_O2.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_O2L_s31",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Seen from behind, the baby elephant waves his free arm slowly at the little mouse, who waves back and then skips away down the street; leaves drift down, lanterns sway. He never turns around. Smooth natural continuous motion with a clear purposeful action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no morphing. The baby elephant's trunk hangs straight down below his mouth the whole time and never touches his face. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_O2.jpg"
+  }
+ }
+]
