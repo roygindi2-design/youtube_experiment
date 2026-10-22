@@ -201,3 +201,10 @@
 **Production (Roy's own decision, running):** Halloween ep4. Roy watched v5 and found motion problems (ping-pong loops, frozen holds, walking in place, trunk on the cheek) → v7 is being rebuilt with 5 s takes, no loops, and real walking (camera tracking). Rules added to research/QC_CHECKLIST.md §6–7.
 **Process note:** some pushes were silently rejected (v6 never reached origin); fixed, and every push is now checked with git ls-remote.
 **What would justify more YouTube effort:** first organic movement after the Halloween upload (holiday search demand), or traffic data from the Shorts feed. Order: Halloween ep4 (v7) → ep3 fixes → ep2 fixes.
+
+### Analysis meeting 13 — 22.10.2026 12:49 UTC (15:49 Israel) — analysis only
+**Data (vs meeting 12, 08:47 UTC):** no change — bath 16, hands 15, spaghetti 7, tower 7, basura 4, rescate 4 (private), episode 1 4. Channel 80 views, 0 subscribers; the channel now shows 13 videos (was 14 — one is no longer counted as public/listed). Retention unchanged (tower 168%, episode 1 12.5%); daily/traffic still empty.
+**Research (11-research-log, 12:05):** Halloween proof — Plim Plim "¡Veo, Veo Colores en Halloween! 🎃🚪 Juego de Puertas Sorpresa" 2.38M in 8 days (same doors + surprise mechanic as ours); question titles win; healthy-teeth angle (Doctora Sophia 9.4M) fits our toothbrush ending. Search peaks in the last week of October → 24.10 upload is late but inside the peak; Shorts 25–27.10 are the main push.
+**Hypotheses:** unchanged — new YouTube channel ≈ no exposure (supported, ~40 h flat); TikTok is where reach exists now.
+**Production (Roy's decision, running):** Halloween v8b (beat-synced cuts, new ending, C1 trunk fix) + 3 Shorts building; ep2 v3c pushed (QC pending) + TikTok cut A. A frame-rounding bug in assemble.py was found and fixed (cuts drifted up to 0.35 s off the beat).
+**What would justify more YouTube effort:** first organic movement on the Halloween upload (holiday search demand). Order: Halloween (24.10) → ep2 → ep3 rebuild (design bible).
