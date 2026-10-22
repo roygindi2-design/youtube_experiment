@@ -1,0 +1,114 @@
+[
+ {
+  "id": "bro_clip1_Q_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: he looks at the covered basket → ACTION: his head tilts slowly to one side and one ear lifts (CURIOUS) → END: holds the curious look. The cloth stays on the basket. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face; Mamá's trunk never touches or merges with his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_Q.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_Q_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: he looks at the covered basket → ACTION: his head tilts slowly to one side and one ear lifts (CURIOUS) → END: holds the curious look. The cloth stays on the basket. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face; Mamá's trunk never touches or merges with his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_Q.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_K4_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: he steps to Mamá → ACTION: on the beat he hugs her and sways once left-right, Mamá pats his head → END: both still, HAPPY SQUINT. Secondary: leaves sway. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face; Mamá's trunk never touches or merges with his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_K4.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_K4_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: he steps to Mamá → ACTION: on the beat he hugs her and sways once left-right, Mamá pats his head → END: both still, HAPPY SQUINT. Secondary: leaves sway. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face; Mamá's trunk never touches or merges with his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_K4.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_T3_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: he chews with his mouth closed → ACTION: he holds the plate out to Mamá on the beat ('¡más, por favor!'), Mamá nods → END: both smiling, closed mouths. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face; Mamá's trunk never touches or merges with his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_T3.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_T3_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: he chews with his mouth closed → ACTION: he holds the plate out to Mamá on the beat ('¡más, por favor!'), Mamá nods → END: both smiling, closed mouths. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face; Mamá's trunk never touches or merges with his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_T3.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_I2_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: hands under the clear water → ACTION: he rubs his hands with the soap twice on the beat, bubbles grow, then rinses → END: holds up clean hands, PROUD closed smile. Secondary: a few soap bubbles float up. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face; Mamá's trunk never touches or merges with his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_I2.jpg"
+  }
+ },
+ {
+  "id": "bro_clip1_I2_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: hands under the clear water → ACTION: he rubs his hands with the soap twice on the beat, bubbles grow, then rinses → END: holds up clean hands, PROUD closed smile. Secondary: a few soap bubbles float up. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters already in the picture and NO new characters, no people, no human hands; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face; Mamá's trunk never touches or merges with his face. Eyes calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_I2.jpg"
+  }
+ }
+]
