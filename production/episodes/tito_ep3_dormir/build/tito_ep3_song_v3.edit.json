@@ -55,26 +55,26 @@
   {
    "file": "/home/user/youtube_experiment/production/episodes/tito_ep3_dormir/shots_v3/ep3_clip3_N05_s19.mp4",
    "in": 0.05,
-   "dur": 2.804,
-   "speed": 1.0,
-   "src_len": 2.804,
-   "shot": "N05@19"
-  },
-  {
-   "file": "/home/user/youtube_experiment/production/episodes/tito_ep3_dormir/shots_v3/ep3_clip3_N06_s7.mp4",
-   "in": 0.05,
    "dur": 4.486,
    "speed": 1.0,
    "src_len": 4.486,
-   "shot": "N06@7"
+   "shot": "N05@19"
   },
   {
-   "file": "/home/user/youtube_experiment/production/episodes/tito_ep3_dormir/shots_v3/ep3_clip3_K1_s19.mp4",
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep3_dormir/shots_v3/ep3_clip3_N06_s31.mp4",
+   "in": 0.05,
+   "dur": 2.804,
+   "speed": 0.981,
+   "src_len": 2.75,
+   "shot": "N06@31"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep3_dormir/shots_v3/ep3_clip3_K1_s43.mp4",
    "in": 0.05,
    "dur": 3.364,
    "speed": 1.0,
    "src_len": 3.364,
-   "shot": "K1@19"
+   "shot": "K1@43"
   },
   {
    "file": "/home/user/youtube_experiment/production/episodes/tito_ep3_dormir/shots_v3/ep3_clip3_K2_s19.mp4",
@@ -133,12 +133,12 @@
    "shot": "N10@7"
   },
   {
-   "file": "/home/user/youtube_experiment/production/episodes/tito_ep3_dormir/shots_v3/ep3_clip3_K1_s19.mp4",
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep3_dormir/shots_v3/ep3_clip3_K1_s43.mp4",
    "in": 0.05,
    "dur": 4.486,
    "speed": 1.0,
    "src_len": 4.486,
-   "shot": "K1@19"
+   "shot": "K1@43"
   },
   {
    "file": "/home/user/youtube_experiment/production/episodes/tito_ep3_dormir/shots_v3/ep3_clip3_K2_s19.mp4",
@@ -197,12 +197,12 @@
    "shot": "N14@7"
   },
   {
-   "file": "/home/user/youtube_experiment/production/episodes/tito_ep3_dormir/shots_v3/ep3_clip3_K1_s19.mp4",
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep3_dormir/shots_v3/ep3_clip3_K1_s43.mp4",
    "in": 0.05,
    "dur": 3.364,
    "speed": 1.0,
    "src_len": 3.364,
-   "shot": "K1@19"
+   "shot": "K1@43"
   },
   {
    "file": "/home/user/youtube_experiment/production/episodes/tito_ep3_dormir/shots_v3/ep3_clip3_K2_s19.mp4",
@@ -245,12 +245,12 @@
    "shot": "N10@7"
   },
   {
-   "file": "/home/user/youtube_experiment/production/episodes/tito_ep3_dormir/shots_v3/ep3_clip3_N16_s19.mp4",
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep3_dormir/shots_v3/ep3_clip3_N16_s43.mp4",
    "in": 0.05,
    "dur": 4.486,
    "speed": 1.0,
    "src_len": 4.486,
-   "shot": "N16@19"
+   "shot": "N16@43"
   },
   {
    "file": "/home/user/youtube_experiment/production/episodes/tito_ep3_dormir/shots_v3/ep3_clip3_K4_s19.mp4",
@@ -261,12 +261,12 @@
    "shot": "K4@19"
   },
   {
-   "file": "/home/user/youtube_experiment/production/episodes/tito_ep3_dormir/shots_v3/ep3_clip3_K1_s19.mp4",
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep3_dormir/shots_v3/ep3_clip3_K1_s43.mp4",
    "in": 0.05,
    "dur": 4.486,
    "speed": 1.0,
    "src_len": 4.486,
-   "shot": "K1@19"
+   "shot": "K1@43"
   },
   {
    "file": "/home/user/youtube_experiment/production/episodes/tito_ep3_dormir/shots_v3/ep3_clip3_K2_s19.mp4",
@@ -301,12 +301,12 @@
    "shot": "K4@19"
   },
   {
-   "file": "/home/user/youtube_experiment/production/episodes/tito_ep3_dormir/shots_v3/ep3_clip3_N16_s19.mp4",
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep3_dormir/shots_v3/ep3_clip3_N16_s43.mp4",
    "in": 0.05,
    "dur": 2.974,
    "speed": 1.0,
    "src_len": 2.974,
-   "shot": "N16@19"
+   "shot": "N16@43"
   }
  ],
  "sfx": [],
