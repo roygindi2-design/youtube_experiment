@@ -13,8 +13,8 @@ from pathlib import Path
 
 D = Path(__file__).parent
 plan = [(0.0, "H01"), (2.4, "H02"), (6.4, "WALK"),
-        (10.9, "D1"), (14.7, "Q"), (16.85, "V1"), (21.0, "BKT"),
-        (23.9, "C1"), (28.1, "C2"), (32.9, "C3"), (38.6, "C4"), (43.2, "WALK2"),
+        (10.9, "D1"), (14.7, "Q"), (16.85, "V1"), (21.4, "BKT"),
+        (23.9, "C1"), (28.1, "C2"), (32.9, "C3"), (38.3, "C4"), (43.2, "WALK2"),
         (45.15, "D2"), (47.5, "Q2"), (52.1, "V2"), (54.65, "BKT2"),
         (58.85, "C1"), (63.0, "C2"), (67.55, "C3"), (73.25, "C4"), (78.0, "WALK"),
         (83.0, "M1"), (88.7, "M2"), (91.3, "M3"), (94.2, "M4"),
@@ -23,6 +23,11 @@ plan = [(0.0, "H01"), (2.4, "H02"), (6.4, "WALK"),
 # shot -> (clip id, seed, in, until) — the window is the usable part of the take (eye pops / morphs cut out)
 TAKE = json.loads((D / "takes_v7.json").read_text())
 
+# music sync (research/sync_check.py, Roy 22.10): every cut on the 110 bpm grid of song s2 (first beat 0.14 s)
+BEAT0, BEAT = 0.14, 60 / 110
+def snap(t):
+    return t if t in (0.0, 150.0) else round(BEAT0 + round((t - BEAT0) / BEAT) * BEAT, 3)
+plan = [(snap(t), sh) for t, sh in plan]
 cuts, bad = [], []
 for (a, sh), (b, _) in zip(plan, plan[1:]):
     sid, seed, i, u = TAKE[sh]
