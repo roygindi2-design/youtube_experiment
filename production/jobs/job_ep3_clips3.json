@@ -1,0 +1,579 @@
+[
+ {
+  "id": "ep3_N03_kf6_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle from the foot of a small wooden bed at night in a cozy bedroom with navy-blue walls with small golden stars: the bedside lamp is OFF and dark, the room lit only by cool blue moonlight from the window; on the navy wall above the bed a HUGE soft dark-purple SHADOW with a very long neck, a round head and two small round horns (a giraffe silhouette) covers most of the wall; in the bed the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face) peeks over the edge of the starry navy blanket, only his eyes and ears visible, looking up at the shadow with wide curious eyes. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3_N03_kf6_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle from the foot of a small wooden bed at night in a cozy bedroom with navy-blue walls with small golden stars: the bedside lamp is OFF and dark, the room lit only by cool blue moonlight from the window; on the navy wall above the bed a HUGE soft dark-purple SHADOW with a very long neck, a round head and two small round horns (a giraffe silhouette) covers most of the wall; in the bed the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face) peeks over the edge of the starry navy blanket, only his eyes and ears visible, looking up at the shadow with wide curious eyes. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3_N03_kf6_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle from the foot of a small wooden bed at night in a cozy bedroom with navy-blue walls with small golden stars: the bedside lamp is OFF and dark, the room lit only by cool blue moonlight from the window; on the navy wall above the bed a HUGE soft dark-purple SHADOW with a very long neck, a round head and two small round horns (a giraffe silhouette) covers most of the wall; in the bed the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face) peeks over the edge of the starry navy blanket, only his eyes and ears visible, looking up at the shadow with wide curious eyes. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3_N06_kf6_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg",
+    "mama_gown_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Over-the-shoulder view from behind the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face), who sits in his bed under the starry navy blanket; facing him Mamá Elefanta from the reference image (lilac dressing gown, yellow flower behind her ear) holds up a SMALL soft MINT-GREEN plush toy giraffe with little white spots (a stuffed toy only as tall as his arm) in front of the glowing bedside lamp, and directly behind her on the navy wall a BIG, CLEAR, sharp dark-purple shadow of the plush giraffe (the exact same shape: long neck, round head, two small round horns) fills the middle of the wall, fully inside the frame. Warm lamp light. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3_N06_kf6_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg",
+    "mama_gown_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Over-the-shoulder view from behind the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face), who sits in his bed under the starry navy blanket; facing him Mamá Elefanta from the reference image (lilac dressing gown, yellow flower behind her ear) holds up a SMALL soft MINT-GREEN plush toy giraffe with little white spots (a stuffed toy only as tall as his arm) in front of the glowing bedside lamp, and directly behind her on the navy wall a BIG, CLEAR, sharp dark-purple shadow of the plush giraffe (the exact same shape: long neck, round head, two small round horns) fills the middle of the wall, fully inside the frame. Warm lamp light. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3_N06_kf6_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg",
+    "mama_gown_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Over-the-shoulder view from behind the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face), who sits in his bed under the starry navy blanket; facing him Mamá Elefanta from the reference image (lilac dressing gown, yellow flower behind her ear) holds up a SMALL soft MINT-GREEN plush toy giraffe with little white spots (a stuffed toy only as tall as his arm) in front of the glowing bedside lamp, and directly behind her on the navy wall a BIG, CLEAR, sharp dark-purple shadow of the plush giraffe (the exact same shape: long neck, round head, two small round horns) fills the middle of the wall, fully inside the frame. Warm lamp light. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3_N16_kf6_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. View from OUTSIDE a round house window at night: the round window in a cozy cottage wall, one fluffy brown owl sitting on a leafy branch beside the window, the big friendly moon above; through the window we see inside the bedroom the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face) asleep in his bed under the starry navy blanket, his eyes closed, hugging a SMALL soft MINT-GREEN plush toy giraffe with little white spots (a stuffed toy only as tall as his arm). Only one owl. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3_N16_kf6_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. View from OUTSIDE a round house window at night: the round window in a cozy cottage wall, one fluffy brown owl sitting on a leafy branch beside the window, the big friendly moon above; through the window we see inside the bedroom the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face) asleep in his bed under the starry navy blanket, his eyes closed, hugging a SMALL soft MINT-GREEN plush toy giraffe with little white spots (a stuffed toy only as tall as his arm). Only one owl. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3_N16_kf6_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. View from OUTSIDE a round house window at night: the round window in a cozy cottage wall, one fluffy brown owl sitting on a leafy branch beside the window, the big friendly moon above; through the window we see inside the bedroom the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face) asleep in his bed under the starry navy blanket, his eyes closed, hugging a SMALL soft MINT-GREEN plush toy giraffe with little white spots (a stuffed toy only as tall as his arm). Only one owl. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3_clip3_N01_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: he stands by the nightstand holding his toothbrush → ACTION: he drops it into the blue cup, climbs into bed, and Mamá lifts the starry blanket up to his chest and strokes his head once → END: he lies back with a SLEEPY closed-mouth smile. Secondary: the star mobile turns slowly. Camera still. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes stay calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N01.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N01_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: he stands by the nightstand holding his toothbrush → ACTION: he drops it into the blue cup, climbs into bed, and Mamá lifts the starry blanket up to his chest and strokes his head once → END: he lies back with a SLEEPY closed-mouth smile. Secondary: the star mobile turns slowly. Camera still. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes stay calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N01.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N02_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: the warm lamp glows → ACTION: on the beat the trunk tip presses the round button once (¡clic!) → END: the glow fades smoothly to soft moonlit blue. Only the trunk tip moves. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes stay calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N02.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N02_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: the warm lamp glows → ACTION: on the beat the trunk tip presses the round button once (¡clic!) → END: the glow fades smoothly to soft moonlit blue. Only the trunk tip moves. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes stay calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N02.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N04_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: eyes look up → ACTION: his eyes move slowly left, then right (CURIOUS face), then he pulls the blanket up to his nose → END: only his eyes and ears peek out, ears lowered. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes stay calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N04.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N04_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: eyes look up → ACTION: his eyes move slowly left, then right (CURIOUS face), then he pulls the blanket up to his nose → END: only his eyes and ears peek out, ears lowered. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes stay calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N04.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N05_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: Mamá in the doorway → ACTION: she steps to the nightstand and switches the lamp on with her trunk (¡clic!) → END: warm golden light fills the room and she smiles at him. Secondary: light spreads from the lamp outward. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes stay calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N05.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N05_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: Mamá in the doorway → ACTION: she steps to the nightstand and switches the lamp on with her trunk (¡clic!) → END: warm golden light fills the room and she smiles at him. Secondary: light spreads from the lamp outward. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes stay calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N05.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_K1_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Signature move TUUU: START: sitting up in bed, trunk down → ACTION: on the beat he raises his trunk straight up, holds it for one beat while his ears lift, with a small HAPPY BOUNCE → END: trunk back down below his mouth, PROUD closed smile. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes stay calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_K1.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_K1_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Signature move TUUU: START: sitting up in bed, trunk down → ACTION: on the beat he raises his trunk straight up, holds it for one beat while his ears lift, with a small HAPPY BOUNCE → END: trunk back down below his mouth, PROUD closed smile. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes stay calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_K1.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_K2_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. HUG-SELF with the giraffe: START: holding the plush giraffe → ACTION: he squeezes it against his cheek and SWAYS slowly left, then right, in time with the music → END: still, HAPPY SQUINT face. Feet and blanket stay put. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes stay calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_K2.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_K2_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. HUG-SELF with the giraffe: START: holding the plush giraffe → ACTION: he squeezes it against his cheek and SWAYS slowly left, then right, in time with the music → END: still, HAPPY SQUINT face. Feet and blanket stay put. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes stay calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_K2.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_K3_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. BREATHE: START: eyes softly closed → ACTION: slow breath in for two beats (his tummy rises, shoulders lift), slow breath out for two beats (tummy falls, shoulders relax) → END: calm closed smile. Nothing else moves. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes stay calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_K3.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_K3_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. BREATHE: START: eyes softly closed → ACTION: slow breath in for two beats (his tummy rises, shoulders lift), slow breath out for two beats (tummy falls, shoulders relax) → END: calm closed smile. Nothing else moves. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes stay calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_K3.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_K4_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: curled on his side hugging the giraffe → ACTION: his eyes slowly close (SLEEPY), he snuggles one small wiggle deeper, and the blanket rises and falls with slow breathing → END: asleep. Secondary: the mobile turns slowly above. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes stay calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_K4.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_K4_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: curled on his side hugging the giraffe → ACTION: his eyes slowly close (SLEEPY), he snuggles one small wiggle deeper, and the blanket rises and falls with slow breathing → END: asleep. Secondary: the mobile turns slowly above. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes stay calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_K4.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N07_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: the dark knobbly shape outside the glass → ACTION: it taps the window exactly three times on the beat (toc, toc, toc), small and gentle → END: it rests against the glass. The moon glows behind it. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes stay calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N07.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N07_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: the dark knobbly shape outside the glass → ACTION: it taps the window exactly three times on the beat (toc, toc, toc), small and gentle → END: it rests against the glass. The moon glows behind it. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes stay calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N07.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N09_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: Mamá's trunk on the round window handle → ACTION: she swings the window open slowly → END: the window is open, the lilac curtains flutter in the breeze and a few fireflies drift outside. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes stay calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N09.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N09_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: Mamá's trunk on the round window handle → ACTION: she swings the window open slowly → END: the window is open, the lilac curtains flutter in the breeze and a few fireflies drift outside. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes stay calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N09.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N10_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: the owl sits on the branch → ACTION: it blinks its big orange eyes once, opens its beak for one soft hoot (¡Uh-uh!), and fluffs its feathers → END: it settles with a closed-beak smile. Secondary: fireflies drift. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes stay calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N10.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N10_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: the owl sits on the branch → ACTION: it blinks its big orange eyes once, opens its beak for one soft hoot (¡Uh-uh!), and fluffs its feathers → END: it settles with a closed-beak smile. Secondary: fireflies drift. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes stay calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N10.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N11_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: dark under the bed → ACTION: two small round yellow lights slowly glow brighter, then softer, twice → END: steady soft glow. Nothing else moves. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes stay calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N11.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N11_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: dark under the bed → ACTION: two small round yellow lights slowly glow brighter, then softer, twice → END: steady soft glow. Nothing else moves. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes stay calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N11.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N12_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: sitting on the bed edge → ACTION: he leans over slowly and looks down under the bed, ears forward, BRAVE (PROUD) face → END: he holds the look. Camera still behind him. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes stay calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N12.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N12_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: sitting on the bed edge → ACTION: he leans over slowly and looks down under the bed, ears forward, BRAVE (PROUD) face → END: he holds the look. Camera still behind him. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes stay calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N12.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N13_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: the flashlight is off in his trunk → ACTION: on the beat it clicks on (¡clic!) and a bright cone of light shines forward → END: the beam is steady, his face determined with a closed smile. Both eyes stay open and calm with the same gentle expression the whole time. The flashlight beam points down toward the dark space under the bed. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes stay calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N13.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N13_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: the flashlight is off in his trunk → ACTION: on the beat it clicks on (¡clic!) and a bright cone of light shines forward → END: the beam is steady, his face determined with a closed smile. Both eyes stay open and calm with the same gentle expression the whole time. The flashlight beam points down toward the dark space under the bed. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes stay calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N13.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N14_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: dark floor under the bed → ACTION: the flashlight beam slides in from the left and lands on the red toy fire truck, and its two headlights glint once (¡Nii-noo!) → END: the truck is fully lit. The truck does not move. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes stay calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N14.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N14_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: dark floor under the bed → ACTION: the flashlight beam slides in from the left and lands on the red toy fire truck, and its two headlights glint once (¡Nii-noo!) → END: the truck is fully lit. The truck does not move. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes stay calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N14.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N15_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: lying in bed hugging the giraffe and the toy truck → ACTION: he waves goodnight with his trunk twice toward the window, then gives a slow SLEEPY blink with a closed-mouth smile (no yawn) → END: head on the pillow. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes stay calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N15.jpg"
+  }
+ },
+ {
+  "id": "ep3_clip3_N15_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. START: lying in bed hugging the giraffe and the toy truck → ACTION: he waves goodnight with his trunk twice toward the window, then gives a slow SLEEPY blink with a closed-mouth smile (no yawn) → END: head on the pillow. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural continuous motion with one clear action from the first to the last frame; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape and size; no morphing. The baby elephant's short trunk hangs down and never curls up onto his face. Eyes stay calm, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_N15.jpg"
+  }
+ }
+]
