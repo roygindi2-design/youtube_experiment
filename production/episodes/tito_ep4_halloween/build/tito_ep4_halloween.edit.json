@@ -56,24 +56,41 @@
   },
   {
    "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/shots/tito_ep4_halloween_clip_H02_s19.mp4",
-   "in": 0.06,
-   "dur": 2.19,
+   "in": 1.0,
+   "dur": 1.05,
    "speed": 1.0,
-   "src_len": 2.19,
+   "src_len": 1.05,
    "shot": "H02@19"
   },
   {
    "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/shots/tito_ep4_halloween_clip_H02_s19.mp4",
-   "in": 0.44,
-   "dur": 1.81,
+   "in": 1.0,
+   "dur": 1.05,
    "speed": 1.0,
-   "src_len": 1.81,
+   "src_len": 1.05,
    "shot": "H02@19",
    "reverse": true
   },
   {
    "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/shots/tito_ep4_halloween_clip_H02_s19.mp4",
-   "in": 0.44,
+   "in": 1.0,
+   "dur": 1.05,
+   "speed": 1.0,
+   "src_len": 1.05,
+   "shot": "H02@19"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/shots/tito_ep4_halloween_clip_H02_s19.mp4",
+   "in": 1.2,
+   "dur": 0.85,
+   "speed": 1.0,
+   "src_len": 0.85,
+   "shot": "H02@19",
+   "reverse": true
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/shots/tito_ep4_halloween_clip_H02_s19.mp4",
+   "in": 1.2,
    "dur": 0.5,
    "speed": 1.0,
    "src_len": 0.5,
@@ -82,19 +99,27 @@
   {
    "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/shots/tito_ep4_halloween_clip_D1_s7.mp4",
    "in": 0.06,
-   "dur": 2.04,
+   "dur": 1.79,
    "speed": 1.0,
-   "src_len": 2.04,
+   "src_len": 1.79,
    "shot": "D1@7"
   },
   {
    "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/shots/tito_ep4_halloween_clip_D1_s7.mp4",
    "in": 0.34,
-   "dur": 1.76,
+   "dur": 1.51,
    "speed": 1.0,
-   "src_len": 1.76,
+   "src_len": 1.51,
    "shot": "D1@7",
    "reverse": true
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/shots/tito_ep4_halloween_clip_D1_s7.mp4",
+   "in": 0.34,
+   "dur": 0.5,
+   "speed": 1.0,
+   "src_len": 0.5,
+   "shot": "D1@7"
   },
   {
    "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/shots/tito_ep4_halloween_clip_Q_s7.mp4",
@@ -268,23 +293,23 @@
   {
    "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/shots/tito_ep4_halloween_clip_V2_s7.mp4",
    "in": 0.06,
-   "dur": 1.19,
+   "dur": 1.04,
    "speed": 1.0,
-   "src_len": 1.19,
+   "src_len": 1.04,
    "shot": "V2@7"
   },
   {
    "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/shots/tito_ep4_halloween_clip_V2_s7.mp4",
-   "in": 0.39,
-   "dur": 0.86,
+   "in": 0.09,
+   "dur": 1.01,
    "speed": 1.0,
-   "src_len": 0.86,
+   "src_len": 1.01,
    "shot": "V2@7",
    "reverse": true
   },
   {
    "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/shots/tito_ep4_halloween_clip_V2_s7.mp4",
-   "in": 0.39,
+   "in": 0.09,
    "dur": 0.5,
    "speed": 1.0,
    "src_len": 0.5,
@@ -401,29 +426,21 @@
    "reverse": true
   },
   {
-   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/shots/tito_ep4_halloween_clip_H02_s19.mp4",
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/shots/tito_ep4_halloween_clip_C1_s31.mp4",
    "in": 0.06,
-   "dur": 2.19,
+   "dur": 3.94,
    "speed": 1.0,
-   "src_len": 2.19,
-   "shot": "H02@19"
+   "src_len": 3.94,
+   "shot": "C1@31"
   },
   {
-   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/shots/tito_ep4_halloween_clip_H02_s19.mp4",
-   "in": 0.06,
-   "dur": 2.19,
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/shots/tito_ep4_halloween_clip_C1_s31.mp4",
+   "in": 1.79,
+   "dur": 2.21,
    "speed": 1.0,
-   "src_len": 2.19,
-   "shot": "H02@19",
+   "src_len": 2.21,
+   "shot": "C1@31",
    "reverse": true
-  },
-  {
-   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/shots/tito_ep4_halloween_clip_H02_s19.mp4",
-   "in": 0.06,
-   "dur": 1.77,
-   "speed": 1.0,
-   "src_len": 1.77,
-   "shot": "H02@19"
   },
   {
    "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/shots/tito_ep4_halloween_clip_M1_s7.mp4",
