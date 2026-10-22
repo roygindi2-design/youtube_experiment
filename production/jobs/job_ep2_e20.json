@@ -1,0 +1,128 @@
+[
+ {
+  "id": "tito_ep2_E20_kf3_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Exactly the same bedroom and the same baby elephant as the reference image, now in the bright MORNING: through the round window a big friendly smiling SUN with rosy cheeks rises over soft green hills in a clear bright blue DAYTIME sky with a few fluffy white clouds; NO moon, NO crescent, NO stars anywhere. Warm golden sunlight fills the room. The baby elephant stands by the window looking at the sun, smiling with his mouth closed, eyes open. Only one elephant. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "f0_E20.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_E20_kf3_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Exactly the same bedroom and the same baby elephant as the reference image, now in the bright MORNING: through the round window a big friendly smiling SUN with rosy cheeks rises over soft green hills in a clear bright blue DAYTIME sky with a few fluffy white clouds; NO moon, NO crescent, NO stars anywhere. Warm golden sunlight fills the room. The baby elephant stands by the window looking at the sun, smiling with his mouth closed, eyes open. Only one elephant. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "f0_E20.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_E20_kf3_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Exactly the same bedroom and the same baby elephant as the reference image, now in the bright MORNING: through the round window a big friendly smiling SUN with rosy cheeks rises over soft green hills in a clear bright blue DAYTIME sky with a few fluffy white clouds; NO moon, NO crescent, NO stars anywhere. Warm golden sunlight fills the room. The baby elephant stands by the window looking at the sun, smiling with his mouth closed, eyes open. Only one elephant. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "f0_E20.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep2_clip3_E20m11_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The smiling sun rises slowly over the hills, its golden rays shine brighter and the clouds drift; the baby elephant watches it and smiles. Smooth natural continuous motion; the same character the whole time; no morphing; no moon or stars appear. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "after": {
+   "image_start": "tito_ep2_E20_kf3_11"
+  }
+ },
+ {
+  "id": "tito_ep2_clip3_E20m11_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The smiling sun rises slowly over the hills, its golden rays shine brighter and the clouds drift; the baby elephant watches it and smiles. Smooth natural continuous motion; the same character the whole time; no morphing; no moon or stars appear. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "after": {
+   "image_start": "tito_ep2_E20_kf3_11"
+  }
+ },
+ {
+  "id": "tito_ep2_clip3_E20m22_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The smiling sun rises slowly over the hills, its golden rays shine brighter and the clouds drift; the baby elephant watches it and smiles. Smooth natural continuous motion; the same character the whole time; no morphing; no moon or stars appear. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "after": {
+   "image_start": "tito_ep2_E20_kf3_22"
+  }
+ },
+ {
+  "id": "tito_ep2_clip3_E20m22_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The smiling sun rises slowly over the hills, its golden rays shine brighter and the clouds drift; the baby elephant watches it and smiles. Smooth natural continuous motion; the same character the whole time; no morphing; no moon or stars appear. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "after": {
+   "image_start": "tito_ep2_E20_kf3_22"
+  }
+ },
+ {
+  "id": "tito_ep2_clip3_E20m33_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The smiling sun rises slowly over the hills, its golden rays shine brighter and the clouds drift; the baby elephant watches it and smiles. Smooth natural continuous motion; the same character the whole time; no morphing; no moon or stars appear. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "after": {
+   "image_start": "tito_ep2_E20_kf3_33"
+  }
+ },
+ {
+  "id": "tito_ep2_clip3_E20m33_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 121,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The smiling sun rises slowly over the hills, its golden rays shine brighter and the clouds drift; the baby elephant watches it and smiles. Smooth natural continuous motion; the same character the whole time; no morphing; no moon or stars appear. Eyes open and calm, no winking, mouth closed, no teeth.",
+  "after": {
+   "image_start": "tito_ep2_E20_kf3_33"
+  }
+ }
+]
