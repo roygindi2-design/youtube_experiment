@@ -1,0 +1,34 @@
+[
+ {
+  "id": "tito_ep4_halloween_V2_kfBAT_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot of an open round PURPLE front door at night with warm light inside: on the doorstep sits a tiny cute fluffy purple BAT, a real little bat (not an elephant, not a cat): round fuzzy body, round face, two small pointed bat ears, a tiny pink button nose, NO trunk, big friendly glossy eyes, a sweet closed-mouth smile, soft dark purple bat wings spread open; beside it a little bowl of shiny wrapped candies. The bat is the only character in the picture. Jack-o-lanterns glow on the step, fallen orange leaves, a big full moon. The main action is in the CENTER of the frame. Wide 16:9 frame."
+ },
+ {
+  "id": "tito_ep4_halloween_V2_kfBAT_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot of an open round PURPLE front door at night with warm light inside: on the doorstep sits a tiny cute fluffy purple BAT, a real little bat (not an elephant, not a cat): round fuzzy body, round face, two small pointed bat ears, a tiny pink button nose, NO trunk, big friendly glossy eyes, a sweet closed-mouth smile, soft dark purple bat wings spread open; beside it a little bowl of shiny wrapped candies. The bat is the only character in the picture. Jack-o-lanterns glow on the step, fallen orange leaves, a big full moon. The main action is in the CENTER of the frame. Wide 16:9 frame."
+ },
+ {
+  "id": "tito_ep4_halloween_V2_kfBAT_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot of an open round PURPLE front door at night with warm light inside: on the doorstep sits a tiny cute fluffy purple BAT, a real little bat (not an elephant, not a cat): round fuzzy body, round face, two small pointed bat ears, a tiny pink button nose, NO trunk, big friendly glossy eyes, a sweet closed-mouth smile, soft dark purple bat wings spread open; beside it a little bowl of shiny wrapped candies. The bat is the only character in the picture. Jack-o-lanterns glow on the step, fallen orange leaves, a big full moon. The main action is in the CENTER of the frame. Wide 16:9 frame."
+ },
+ {
+  "id": "tito_ep4_halloween_V2_kfBAT_44",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 44,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot of an open round PURPLE front door at night with warm light inside: on the doorstep sits a tiny cute fluffy purple BAT, a real little bat (not an elephant, not a cat): round fuzzy body, round face, two small pointed bat ears, a tiny pink button nose, NO trunk, big friendly glossy eyes, a sweet closed-mouth smile, soft dark purple bat wings spread open; beside it a little bowl of shiny wrapped candies. The bat is the only character in the picture. Jack-o-lanterns glow on the step, fallen orange leaves, a big full moon. The main action is in the CENTER of the frame. Wide 16:9 frame."
+ }
+]

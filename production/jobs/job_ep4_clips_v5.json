@@ -1,0 +1,170 @@
+[
+ {
+  "id": "tito_ep4_halloween_clip_V1v5_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The black kitten meows softly and its tail curls happily; the baby elephant smiles and keeps holding his orange bucket still in his hand. Both eyes stay open and calm. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_V1v5.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_V1v5_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The black kitten meows softly and its tail curls happily; the baby elephant smiles and keeps holding his orange bucket still in his hand. Both eyes stay open and calm. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_V1v5.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_V1v5_s31",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The black kitten meows softly and its tail curls happily; the baby elephant smiles and keeps holding his orange bucket still in his hand. Both eyes stay open and calm. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_V1v5.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_V2v5_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The little purple bat gently flaps its soft wings twice, flap, flap, and smiles; it stays sitting on the doorstep. Both eyes stay open and calm. Static camera. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_V2v5.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_V2v5_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The little purple bat gently flaps its soft wings twice, flap, flap, and smiles; it stays sitting on the doorstep. Both eyes stay open and calm. Static camera. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_V2v5.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_V2v5_s31",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The little purple bat gently flaps its soft wings twice, flap, flap, and smiles; it stays sitting on the doorstep. Both eyes stay open and calm. Static camera. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_V2v5.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_D2v5_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The small hand knocks three times on the closed purple door, toc, toc, toc; the door stays closed. Static camera. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_D2v5.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_D2v5_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The small hand knocks three times on the closed purple door, toc, toc, toc; the door stays closed. Static camera. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_D2v5.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_D2v5_s31",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The small hand knocks three times on the closed purple door, toc, toc, toc; the door stays closed. Static camera. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_D2v5.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_M4v5_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. They both sway happily side by side, each holding their own bucket: the baby elephant his one orange bucket, the mouse its one yellow bucket. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_M4v5.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_M4v5_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. They both sway happily side by side, each holding their own bucket: the baby elephant his one orange bucket, the mouse its one yellow bucket. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_M4v5.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_M4v5_s31",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. They both sway happily side by side, each holding their own bucket: the baby elephant his one orange bucket, the mouse its one yellow bucket. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_M4v5.jpg"
+  }
+ }
+]
