@@ -173,3 +173,16 @@
 **Hypotheses:** (1) manual vs API — no change in 4 hours, still not proven. (2) Story > old style — still holds (16/14 vs 2–7). (3) Low exposure for a new channel — supported; the view deduction strengthens it.
 **Production (Roy approved ep3):** tito_ep3_dormir is in final assembly; physics/trunk QC found and fixed: the Hook shadow, a curtain at the window, square frames that were being cropped. bano/mesa/basura/halloween/torre are out of "más canciones" (trunk/physics). The researcher's note (an N12 segment of 0.3 s) — being fixed.
 **Resume condition:** unchanged. Roy uploads ep3 manually; we measure 24 hours.
+
+### Analysis meeting 10 — 22.10.2026 00:47 UTC (03:47 Israel) — analysis only
+**Note:** this routine still says "production paused", but Roy since restarted production (ep3 approved, Halloween ep4 is NOW with deadline 24.10 18:00 IL). This meeting only analyzes; it does not touch the Halloween work.
+**YouTube (vs meeting 9, 20:47 UTC): no change.** basura 4, rescate 4 (still private), spaghetti 7, bath 16, hands 14, tower 7, episode 1 4. Channel total 5 counted views, 0 subscribers.
+**Analytics API:** first retention numbers arrived (averageViewPercentage): tower Short 168% (loops/rewatches), episode 1 12.5%, two other videos 15–24%. Daily views / traffic sources still empty. Tiny samples — direction only.
+**TikTok (Roy's screenshot):** the same pool video (tito_basura) has **356 views on TikTok vs 4 on YouTube**, audience Central America (Nicaragua 38%, Honduras 29%, El Salvador 17%), adults 35+ (parents and grandparents).
+**Hypotheses:**
+1. New YouTube channel = almost no exposure — **strongly supported** (nothing moves for 12+ hours).
+2. The content itself does not get views — **rejected**: TikTok shows it from the first video.
+3. Manual vs API upload on YouTube — no difference (both stuck at 4).
+4. Story > old style — still holds weakly (16/14 vs 2–7). Long episode retention 12.5% is low; the Short loop (168%) works.
+**What justifies continuing:** TikTok, not YouTube, is the place where we see reach now. Continue Halloween (deadline), and post every finished video on TikTok too, with captions for parents. On YouTube: the first organic movement on any video, or Analytics traffic from the Shorts feed.
+**Order:** Halloween ep4 (in production) → ep3 dormir (sent to Roy, waiting for the research check) → ep2.
