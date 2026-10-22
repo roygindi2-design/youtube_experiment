@@ -232,3 +232,8 @@
 - QC #2 Halloween final edit (review mp4 v3): FAIL, 4 fixes (H02 squint + full bucket + extra object; 78–84s same; C1 feet smear; ending must be O2). Report: production/agents/research_reports/qc_2026-10-22/tito_ep4_halloween_final.md. Sent to producer.
 - glitch_scan: seek + downscale + scene-cut filter.
 - TikTok: nothing new reviewed → no package.
+
+## Run 2026-10-22 08:05 UTC
+- Halloween QC: v4 FAIL (3 fixes) → v5 FAIL (2 small: D2 door ≠ V2 door; M4 mouse sprout). Reports qc_2026-10-22/tito_ep4_halloween_final_v4.md, _v5.md. Producer re-taking. Linear ENG-14 commented.
+- Organic watch 08:05: total 77 views across 14 Shorts, +1 since 00:05 (flat). All public. Confirms: old Shorts are not being pushed; the next growth test is the Halloween long episode + its Shorts.
+- TikTok: no new reviewed video → nothing sent.
