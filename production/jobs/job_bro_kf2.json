@@ -1,0 +1,626 @@
+[
+ {
+  "id": "bro_Q_kf2_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from the front: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) sits on the blanket and looks with big curious eyes, head tilted, at a small woven basket covered with a green cloth held out by Mamá Elefanta from the reference image (lilac polka-dot dress, white apron, yellow flower behind her ear), whose hand and arm come in from the right. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_Q_kf2_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from the front: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) sits on the blanket and looks with big curious eyes, head tilted, at a small woven basket covered with a green cloth held out by Mamá Elefanta from the reference image (lilac polka-dot dress, white apron, yellow flower behind her ear), whose hand and arm come in from the right. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_Q_kf2_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from the front: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) sits on the blanket and looks with big curious eyes, head tilted, at a small woven basket covered with a green cloth held out by Mamá Elefanta from the reference image (lilac polka-dot dress, white apron, yellow flower behind her ear), whose hand and arm come in from the right. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_R1_kf2_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) sits on the blanket and turns his face away from ONE small green broccoli floret on a white plate in front of him, a small pout with his mouth closed. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_R1_kf2_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) sits on the blanket and turns his face away from ONE small green broccoli floret on a white plate in front of him, a small pout with his mouth closed. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_R1_kf2_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) sits on the blanket and turns his face away from ONE small green broccoli floret on a white plate in front of him, a small pout with his mouth closed. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_R2_kf2_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) sits on the blanket and turns his face away from ONE bright orange carrot stick on a white plate in front of him, a small pout with his mouth closed. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_R2_kf2_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) sits on the blanket and turns his face away from ONE bright orange carrot stick on a white plate in front of him, a small pout with his mouth closed. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_R2_kf2_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) sits on the blanket and turns his face away from ONE bright orange carrot stick on a white plate in front of him, a small pout with his mouth closed. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_R3_kf2_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) sits ALONE on the blanket (nobody else in the picture) and looks curiously at THREE small red cherry tomatoes on a white plate in front of him. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_R3_kf2_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) sits ALONE on the blanket (nobody else in the picture) and looks curiously at THREE small red cherry tomatoes on a white plate in front of him. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_R3_kf2_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) sits ALONE on the blanket (nobody else in the picture) and looks curiously at THREE small red cherry tomatoes on a white plate in front of him. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_G2_kf2_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up three-quarter view: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) sits on the blanket chewing with his mouth closed, eyes wide with delight, one small broccoli floret in his right hand. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_G2_kf2_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up three-quarter view: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) sits on the blanket chewing with his mouth closed, eyes wide with delight, one small broccoli floret in his right hand. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_G2_kf2_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up three-quarter view: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) sits on the blanket chewing with his mouth closed, eyes wide with delight, one small broccoli floret in his right hand. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_C2_kf2_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up three-quarter view: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) sits on the blanket chewing with his mouth closed, eyes wide with delight, one orange carrot stick in his right hand. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_C2_kf2_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up three-quarter view: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) sits on the blanket chewing with his mouth closed, eyes wide with delight, one orange carrot stick in his right hand. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_C2_kf2_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up three-quarter view: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) sits on the blanket chewing with his mouth closed, eyes wide with delight, one orange carrot stick in his right hand. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_K1_kf2_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot from the front: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) sits on the blanket holding a white plate with one broccoli floret, one carrot stick and one cherry tomato in both hands, smiling with his mouth closed. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_K1_kf2_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot from the front: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) sits on the blanket holding a white plate with one broccoli floret, one carrot stick and one cherry tomato in both hands, smiling with his mouth closed. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_K1_kf2_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot from the front: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) sits on the blanket holding a white plate with one broccoli floret, one carrot stick and one cherry tomato in both hands, smiling with his mouth closed. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_K2_kf2_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up seen from above: a white plate on a BLUE-and-WHITE checkered picnic blanket on green grass, with one green broccoli floret, one orange carrot stick and one red cherry tomato in a neat row; a small powder-blue baby elephant hand points at the broccoli from the bottom of the frame. Sunny light, tropical leaves at the edges. Eyes open, mouth closed, no teeth. Wide 16:9 frame."
+ },
+ {
+  "id": "bro_K2_kf2_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up seen from above: a white plate on a BLUE-and-WHITE checkered picnic blanket on green grass, with one green broccoli floret, one orange carrot stick and one red cherry tomato in a neat row; a small powder-blue baby elephant hand points at the broccoli from the bottom of the frame. Sunny light, tropical leaves at the edges. Eyes open, mouth closed, no teeth. Wide 16:9 frame."
+ },
+ {
+  "id": "bro_K2_kf2_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up seen from above: a white plate on a BLUE-and-WHITE checkered picnic blanket on green grass, with one green broccoli floret, one orange carrot stick and one red cherry tomato in a neat row; a small powder-blue baby elephant hand points at the broccoli from the bottom of the frame. Sunny light, tropical leaves at the edges. Eyes open, mouth closed, no teeth. Wide 16:9 frame."
+ },
+ {
+  "id": "bro_K3_kf2_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot from the front: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) stands proudly on the blanket and lifts both arms in a strong-elephant pose, chest out, proud closed smile. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_K3_kf2_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot from the front: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) stands proudly on the blanket and lifts both arms in a strong-elephant pose, chest out, proud closed smile. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_K3_kf2_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot from the front: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) stands proudly on the blanket and lifts both arms in a strong-elephant pose, chest out, proud closed smile. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_K4_kf2_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) hugs Mamá Elefanta from the reference image (lilac polka-dot dress, white apron, yellow flower behind her ear) around her middle on the blanket, Mamá smiles and pats his head, both with closed smiles. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_K4_kf2_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) hugs Mamá Elefanta from the reference image (lilac polka-dot dress, white apron, yellow flower behind her ear) around her middle on the blanket, Mamá smiles and pats his head, both with closed smiles. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_K4_kf2_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) hugs Mamá Elefanta from the reference image (lilac polka-dot dress, white apron, yellow flower behind her ear) around her middle on the blanket, Mamá smiles and pats his head, both with closed smiles. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_T2_kf2_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from slightly above a white plate on the blanket: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) picks up ONE red cherry tomato with his own hand, proud smile; TWO other cherry tomatoes stay on the plate. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_T2_kf2_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from slightly above a white plate on the blanket: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) picks up ONE red cherry tomato with his own hand, proud smile; TWO other cherry tomatoes stay on the plate. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_T2_kf2_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from slightly above a white plate on the blanket: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) picks up ONE red cherry tomato with his own hand, proud smile; TWO other cherry tomatoes stay on the plate. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_T3_kf2_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) sits on the blanket chewing with his mouth closed and happily holds a white plate out toward Mamá Elefanta from the reference image (lilac polka-dot dress, white apron, yellow flower behind her ear), who kneels beside him and smiles. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_T3_kf2_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) sits on the blanket chewing with his mouth closed and happily holds a white plate out toward Mamá Elefanta from the reference image (lilac polka-dot dress, white apron, yellow flower behind her ear), who kneels beside him and smiles. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_T3_kf2_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) sits on the blanket chewing with his mouth closed and happily holds a white plate out toward Mamá Elefanta from the reference image (lilac polka-dot dress, white apron, yellow flower behind her ear), who kneels beside him and smiles. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_O1_kf2_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from the front: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) proudly holds up an EMPTY clean white plate with both hands, proud closed smile, sitting on the blanket. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_O1_kf2_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from the front: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) proudly holds up an EMPTY clean white plate with both hands, proud closed smile, sitting on the blanket. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_O1_kf2_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from the front: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) proudly holds up an EMPTY clean white plate with both hands, proud closed smile, sitting on the blanket. Setting: outdoors in a sunny jungle clearing, he sits on a soft BLUE-and-WHITE checkered picnic blanket on green grass; behind him, softly blurred, big glossy tropical leaves, bright orange flowers and warm sunlight. NOT a studio background. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_G1_kf2_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle in the same forest of broccoli trees as the first reference image: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) is GIANT, as tall as the broccoli trees, his head up among the round broccoli tops, standing among the thick pale-green stalks that only reach his knees and shoulders, looking around with wonder and a closed smile; blue sky with white clouds. Only one elephant. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "loc_bosque.jpg",
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_G1_kf2_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle in the same forest of broccoli trees as the first reference image: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) is GIANT, as tall as the broccoli trees, his head up among the round broccoli tops, standing among the thick pale-green stalks that only reach his knees and shoulders, looking around with wonder and a closed smile; blue sky with white clouds. Only one elephant. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "loc_bosque.jpg",
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_G1_kf2_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle in the same forest of broccoli trees as the first reference image: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) is GIANT, as tall as the broccoli trees, his head up among the round broccoli tops, standing among the thick pale-green stalks that only reach his knees and shoulders, looking around with wonder and a closed smile; blue sky with white clouds. Only one elephant. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "loc_bosque.jpg",
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_T1_kf2_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny jungle clearing full of big shiny RED rubber BOUNCY BALLS (round toy balls the size of beach balls, perfectly round and smooth, no stems, not tomatoes) bouncing on the green grass: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) jumps for joy between them with a happy closed smile, tropical leaves and orange flowers around. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_T1_kf2_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny jungle clearing full of big shiny RED rubber BOUNCY BALLS (round toy balls the size of beach balls, perfectly round and smooth, no stems, not tomatoes) bouncing on the green grass: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) jumps for joy between them with a happy closed smile, tropical leaves and orange flowers around. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_T1_kf2_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A sunny jungle clearing full of big shiny RED rubber BOUNCY BALLS (round toy balls the size of beach balls, perfectly round and smooth, no stems, not tomatoes) bouncing on the green grass: the baby elephant from the reference image (same face, ears, sunny-yellow overalls and small white bib with a green leaf; his short trunk hangs straight down and never curls onto his face) jumps for joy between them with a happy closed smile, tropical leaves and orange flowers around. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ }
+]
