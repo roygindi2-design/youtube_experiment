@@ -1,0 +1,554 @@
+[
+ {
+  "id": "bro_I1_kf1_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Wide shot of a sunny jungle clearing: a blue-and-white checkered picnic blanket on green grass with a little wooden basket and a white plate, big glossy tropical leaves, bright orange flowers, a small sparkling waterfall and a tiny stream; Mamá Elefanta kneels on the blanket setting out the plate while the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf, his short trunk hanging straight down, walks onto the blanket smiling. The main action is in the CENTER of the frame. the same place as the first reference image; the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face; Mamá Elefanta looks exactly like her reference image (lilac polka-dot dress, white apron, yellow flower behind her ear). Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "loc_picnic.jpg",
+    "tito_bib_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_I1_kf1_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Wide shot of a sunny jungle clearing: a blue-and-white checkered picnic blanket on green grass with a little wooden basket and a white plate, big glossy tropical leaves, bright orange flowers, a small sparkling waterfall and a tiny stream; Mamá Elefanta kneels on the blanket setting out the plate while the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf, his short trunk hanging straight down, walks onto the blanket smiling. The main action is in the CENTER of the frame. the same place as the first reference image; the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face; Mamá Elefanta looks exactly like her reference image (lilac polka-dot dress, white apron, yellow flower behind her ear). Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "loc_picnic.jpg",
+    "tito_bib_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_I2_kf1_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up at the edge of the tiny jungle stream: the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf, his short trunk hanging straight down, washes his hands with a small bar of soap, white soap bubbles on his hands, clear water flowing gently over his hands. The main action is in the CENTER of the frame. the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face. Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_I2_kf1_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up at the edge of the tiny jungle stream: the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf, his short trunk hanging straight down, washes his hands with a small bar of soap, white soap bubbles on his hands, clear water flowing gently over his hands. The main action is in the CENTER of the frame. the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face. Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_R1_kf1_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up on the picnic blanket: the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf turns his face away from one small green broccoli floret on the white plate, his trunk hanging down, a small pout with his mouth closed, NO-NO. The main action is in the CENTER of the frame. the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face. Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_R1_kf1_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up on the picnic blanket: the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf turns his face away from one small green broccoli floret on the white plate, his trunk hanging down, a small pout with his mouth closed, NO-NO. The main action is in the CENTER of the frame. the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face. Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_Q_kf1_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from the front: the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf, his short trunk hanging straight down, looks with big curious eyes at Mamá Elefanta's hand holding a small woven basket covered with a green cloth, his head tilted to one side, CURIOUS. The main action is in the CENTER of the frame. the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face; Mamá Elefanta looks exactly like her reference image (lilac polka-dot dress, white apron, yellow flower behind her ear). Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_Q_kf1_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from the front: the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf, his short trunk hanging straight down, looks with big curious eyes at Mamá Elefanta's hand holding a small woven basket covered with a green cloth, his head tilted to one side, CURIOUS. The main action is in the CENTER of the frame. the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face; Mamá Elefanta looks exactly like her reference image (lilac polka-dot dress, white apron, yellow flower behind her ear). Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_G1_kf1_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle in a playful pretend forest of GIANT broccoli trees with thick pale-green stalks and round fluffy dark-green tops under a blue sky: the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf, GIANT-sized, as tall as the broccoli trees, his short trunk hanging straight down, walks between them with a happy closed smile. The main action is in the CENTER of the frame. the same place as the first reference image; the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face. Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "loc_bosque.jpg",
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_G1_kf1_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle in a playful pretend forest of GIANT broccoli trees with thick pale-green stalks and round fluffy dark-green tops under a blue sky: the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf, GIANT-sized, as tall as the broccoli trees, his short trunk hanging straight down, walks between them with a happy closed smile. The main action is in the CENTER of the frame. the same place as the first reference image; the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face. Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "loc_bosque.jpg",
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_G2_kf1_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up three-quarter view on the picnic blanket: the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf, normal size, his short trunk hanging straight down, chews with his mouth closed, his eyes wide with delight, one small broccoli floret in his right hand. The main action is in the CENTER of the frame. the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face. Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_G2_kf1_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up three-quarter view on the picnic blanket: the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf, normal size, his short trunk hanging straight down, chews with his mouth closed, his eyes wide with delight, one small broccoli floret in his right hand. The main action is in the CENTER of the frame. the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face. Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_K1_kf1_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot from the front on the picnic blanket: the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf, his short trunk hanging straight down, holds the white plate with a broccoli floret, a carrot stick and a cherry tomato in both hands. The main action is in the CENTER of the frame. the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face. Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_K1_kf1_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot from the front on the picnic blanket: the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf, his short trunk hanging straight down, holds the white plate with a broccoli floret, a carrot stick and a cherry tomato in both hands. The main action is in the CENTER of the frame. the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face. Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_K2_kf1_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from above the white plate on the checkered blanket: one green broccoli floret, one orange carrot stick and one red cherry tomato in a row, and the baby elephant's small hand pointing at them, his face smiling at the top of the frame, his trunk hanging down. The main action is in the CENTER of the frame. the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face. Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_K2_kf1_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from above the white plate on the checkered blanket: one green broccoli floret, one orange carrot stick and one red cherry tomato in a row, and the baby elephant's small hand pointing at them, his face smiling at the top of the frame, his trunk hanging down. The main action is in the CENTER of the frame. the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face. Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_K3_kf1_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot from the front on the picnic blanket: the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf, his short trunk hanging straight down, stands proudly and lifts both arms in a strong-elephant pose, chest out, PROUD closed smile. The main action is in the CENTER of the frame. the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face. Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_K3_kf1_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot from the front on the picnic blanket: the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf, his short trunk hanging straight down, stands proudly and lifts both arms in a strong-elephant pose, chest out, PROUD closed smile. The main action is in the CENTER of the frame. the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face. Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_K4_kf1_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot on the picnic blanket: the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf hugs Mamá Elefanta around her middle, his short trunk hanging straight down, Mamá smiles and pats his head, both with closed smiles. The main action is in the CENTER of the frame. the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face; Mamá Elefanta looks exactly like her reference image (lilac polka-dot dress, white apron, yellow flower behind her ear). Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_K4_kf1_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot on the picnic blanket: the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf hugs Mamá Elefanta around her middle, his short trunk hanging straight down, Mamá smiles and pats his head, both with closed smiles. The main action is in the CENTER of the frame. the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face; Mamá Elefanta looks exactly like her reference image (lilac polka-dot dress, white apron, yellow flower behind her ear). Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_R2_kf1_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up on the picnic blanket: the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf turns his face away from one bright orange carrot stick on the white plate, his trunk hanging down, a small pout with his mouth closed, NO-NO. The main action is in the CENTER of the frame. the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face. Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_R2_kf1_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up on the picnic blanket: the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf turns his face away from one bright orange carrot stick on the white plate, his trunk hanging down, a small pout with his mouth closed, NO-NO. The main action is in the CENTER of the frame. the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face. Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_C1_kf1_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Pretend sky: the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf, his short trunk hanging straight down, rides on top of a GIANT bright orange carrot shaped like a friendly rocket with green leafy top, flying up through soft white clouds in a blue sky, arms up, happy closed smile. The main action is in the CENTER of the frame. the same place as the first reference image; the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face. Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "loc_cielo.jpg",
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_C1_kf1_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Pretend sky: the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf, his short trunk hanging straight down, rides on top of a GIANT bright orange carrot shaped like a friendly rocket with green leafy top, flying up through soft white clouds in a blue sky, arms up, happy closed smile. The main action is in the CENTER of the frame. the same place as the first reference image; the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face. Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "loc_cielo.jpg",
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_C2_kf1_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up three-quarter view on the picnic blanket: the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf, normal size, his short trunk hanging straight down, chews with his mouth closed, holding one orange carrot stick in his right hand, eyes wide with delight. The main action is in the CENTER of the frame. the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face. Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_C2_kf1_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up three-quarter view on the picnic blanket: the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf, normal size, his short trunk hanging straight down, chews with his mouth closed, holding one orange carrot stick in his right hand, eyes wide with delight. The main action is in the CENTER of the frame. the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face. Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_R3_kf1_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up on the picnic blanket: the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf, his short trunk hanging straight down, sits alone and looks curiously at three small red cherry tomatoes on the white plate, Mamá not in the frame. The main action is in the CENTER of the frame. the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face; Mamá Elefanta looks exactly like her reference image (lilac polka-dot dress, white apron, yellow flower behind her ear). Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_R3_kf1_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up on the picnic blanket: the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf, his short trunk hanging straight down, sits alone and looks curiously at three small red cherry tomatoes on the white plate, Mamá not in the frame. The main action is in the CENTER of the frame. the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face; Mamá Elefanta looks exactly like her reference image (lilac polka-dot dress, white apron, yellow flower behind her ear). Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_T1_kf1_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Pretend jungle clearing full of big shiny red bouncy balls the size of beach balls, bouncing on the green grass: the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf, his short trunk hanging straight down, jumps for joy between them with a happy closed smile. The main action is in the CENTER of the frame. the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face. Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_T1_kf1_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Pretend jungle clearing full of big shiny red bouncy balls the size of beach balls, bouncing on the green grass: the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf, his short trunk hanging straight down, jumps for joy between them with a happy closed smile. The main action is in the CENTER of the frame. the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face. Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_T2_kf1_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from above the white plate: the baby elephant's small hand picks up one red cherry tomato by himself, his proud smiling face at the top of the frame, his trunk hanging down, the other two tomatoes stay on the plate. The main action is in the CENTER of the frame. the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face. Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_T2_kf1_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from above the white plate: the baby elephant's small hand picks up one red cherry tomato by himself, his proud smiling face at the top of the frame, his trunk hanging down, the other two tomatoes stay on the plate. The main action is in the CENTER of the frame. the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face. Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_T3_kf1_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot on the picnic blanket: the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf, his short trunk hanging straight down, chews with his mouth closed and happily holds the white plate out toward Mamá Elefanta, who smiles beside him. The main action is in the CENTER of the frame. the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face; Mamá Elefanta looks exactly like her reference image (lilac polka-dot dress, white apron, yellow flower behind her ear). Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_T3_kf1_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot on the picnic blanket: the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf, his short trunk hanging straight down, chews with his mouth closed and happily holds the white plate out toward Mamá Elefanta, who smiles beside him. The main action is in the CENTER of the frame. the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face; Mamá Elefanta looks exactly like her reference image (lilac polka-dot dress, white apron, yellow flower behind her ear). Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_O1_kf1_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from the front: the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf, his short trunk hanging straight down, proudly holds up an EMPTY clean white plate with both hands, PROUD closed smile, jungle leaves behind him. The main action is in the CENTER of the frame. the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face. Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_O1_kf1_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from the front: the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf, his short trunk hanging straight down, proudly holds up an EMPTY clean white plate with both hands, PROUD closed smile, jungle leaves behind him. The main action is in the CENTER of the frame. the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face. Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_bib_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_O2_kf1_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium-long shot of the jungle clearing: the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf, his short trunk hanging straight down, runs happily across the frame from left to right toward the sparkling waterfall, Mamá Elefanta waving from the picnic blanket behind him. The main action is in the CENTER of the frame. the same place as the first reference image; the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face; Mamá Elefanta looks exactly like her reference image (lilac polka-dot dress, white apron, yellow flower behind her ear). Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "loc_picnic.jpg",
+    "tito_bib_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "bro_O2_kf1_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium-long shot of the jungle clearing: the baby elephant in his sunny-yellow overalls and a small white bib with a green leaf, his short trunk hanging straight down, runs happily across the frame from left to right toward the sparkling waterfall, Mamá Elefanta waving from the picnic blanket behind him. The main action is in the CENTER of the frame. the same place as the first reference image; the baby elephant looks exactly like his reference image (same face, ears, sunny-yellow overalls and white bib with a green leaf); his short trunk hangs down and never curls onto his face; Mamá Elefanta looks exactly like her reference image (lilac polka-dot dress, white apron, yellow flower behind her ear). Sunny daytime. Eyes open, mouth closed, no teeth. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "loc_picnic.jpg",
+    "tito_bib_master.jpg",
+    "mama_master.jpg"
+   ]
+  }
+ }
+]
