@@ -39,6 +39,14 @@ for k, x in shots.items():
     if re.search(r"\b(bites|eats|takes a bite|swallows)\b", m.lower()): E.append(f"{k}: eating inside a shot (object vanishes) — split into 2 shots")
 for k in (seq[2], seq[10]) if len(seq) > 10 else ():
     if re.search(r"\b(reveal|is a|it is)\b", shots[k][1].lower()): W.append(f"{k}: clue shot may reveal the answer")
+import os
+sp = os.path.join(os.path.dirname(sys.argv[1]), "SCRIPT.md")
+if os.path.exists(sp):
+    t = open(sp).read()
+    for h in ("## Design bible", "## Habit beat"):
+        if h not in t: E.append(f"SCRIPT.md missing section '{h}' (research/16-design-and-habits.md)")
+    for sub in ("Environment", "Palette", "Costume", "Supporting", "Background life", "Hero props"):
+        if "## Design bible" in t and sub.lower() not in t.split("## Design bible")[1][:6000].lower(): E.append(f"Design bible missing '{sub}'")
 for w in W: print("⚠", w)
 for e in E: print("✗", e)
 print("TEMPLATE OK" if not E else f"TEMPLATE FAILED ({len(E)})"); sys.exit(1 if E else 0)

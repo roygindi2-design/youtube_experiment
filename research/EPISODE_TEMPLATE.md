@@ -33,3 +33,9 @@
 - Holds ≤ 2 s; every shot has gentle motion.
 - Movement choice per line: going somewhere → real walk (tracking camera / crossing the frame); staying → joy action (jump, clap, bounce, dance). Never a walk cycle in place.
 - Every shot description must pass QC_CHECKLIST §7 (logic & physics) before it goes to the producer.
+
+## ה. Design bible + Habit beat (Roy 22.10 — required, see research/16-design-and-habits.md)
+Every SCRIPT.md must have, BEFORE the timeline:
+- `## Design bible`, with: Environment (8–12 set items per location), Palette & light, Costumes (fit the moment), Supporting characters (design sheet), Background life (2–3 per location), Hero props.
+- `## Habit beat`: one small good-habit moment (1 shot or 1 prop action), rotated: handwashing / teeth / gracias / sharing / tidying / water.
+The set items and costumes must also appear in spec.json (locations + shot frames + lock/continuity), not only in the SCRIPT.

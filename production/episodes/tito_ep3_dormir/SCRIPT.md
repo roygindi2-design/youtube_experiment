@@ -8,6 +8,21 @@
 
 **Twist (visible):** every scary thing is something friendly once you LOOK with the light (shadow = plush giraffe, tapping = owl on a branch, two glowing eyes = headlights of his toy fire truck) — and in the third verse Tito turns on the light HIMSELF
 
+## Design bible (22.10 — research/16-design-and-habits.md)
+**Environment — bedroom (cuarto):** navy-blue walls with painted golden stars + a few glow-in-the-dark star stickers; small wooden bed in the center; navy blanket with little yellow stars; round moon-shaped pillow; soft felt star-and-moon mobile above the bed; wooden nightstand with a small round warm lamp, a little BLUE cup with a toothbrush and a picture book; tiny bunny slippers on a round cream cloud-shaped rug; low shelf with a wooden toy box and colorful stacking blocks; a framed crayon drawing of a little red fire truck (link to Rojito); round window on the right with sheer lilac curtains and a leafy branch outside.
+**Environment — outside the window (ventana):** big friendly full moon, sleepy rounded blue hills, deep navy sky with twinkling stars, a few softly glowing fireflies, warm amber light inside the round window.
+**Palette & light:** navy, warm gold, lilac, mint green, soft yellow. Lamp OFF = moonlit blue/lilac, cool and mysterious (never black or scary). Lamp ON = warm amber, cozy. The flashlight beam = clean warm-white cone.
+**Costumes:** Tito = soft light-yellow pajamas with tiny white crescent moons (no overalls at bedtime). Mamá Elefanta = lilac dressing gown (her flower stays on her ear).
+**Supporting characters:**
+- Plush giraffe: soft mint-green toy with white spots, two little round horns, a stitched smile; about half Tito's height. Its SHADOW = the same shape, dark purple.
+- Owl: small fluffy brown owl, big round orange eyes, cream belly, tiny ear tufts, closed-beak smile when not hooting; sits on the leafy branch.
+- Toy fire truck: small shiny red toy with a white ladder and two round yellow headlights (Rojito's look, toy-sized).
+**Background life:** the mobile turns slowly; the curtains move a little in the breeze after the window opens; fireflies drift outside from N09 on; lamp glow flickers softly. No shot is frozen.
+**Hero props (fixed look):** blue toothbrush cup + toothbrush, round warm lamp with a round button, yellow flashlight, plush giraffe, owl, red toy truck, starry blanket.
+
+## Habit beat
+**Brushing teeth before bed**, shown, not sung: in N01 Tito puts his toothbrush back into the little blue cup on the nightstand and then climbs into bed. The cup stays visible on the nightstand all episode (continuity), so the routine "teeth → bed → light" is modeled. Evidence: Doctora Sophia "Cepíllate los Dientes" 9.4M (Oct 2026). Rotation: handwashing returns in the next daytime episode.
+
 ## Why this episode (evidence — see research/14-longform-format.md)
 - Fear of the dark / shadows won in 4 independent channels: TimoBoy '¡No Puedo Dormir!' long 15 min ×388 (~100K views/day), Pinkfong 'Monstruos de Sombras' 142K/day, Gracioso Bebé Shorts ×1,750 / ×1,496.
 - Long-form 20–40 min = best median views/day (38K); '+ más' titles ×1.9 (longform scans 21.10).
@@ -29,7 +44,7 @@
 
 | # | section | lyric (sung) | shot | framing + action | why |
 |---|---|---|---|---|---|
-| 1 | Intro | Buenas noches, Tito. ¡A la cama! | N01 | Wide shot of the cozy bedroom at night: Mamá pulls the starry blanket up gently and strokes his head; he smiles sleepily. | Welcoming start that sets the scene (Google MFK Shorts guide: 'begin in a welcoming way… sets the scene') |
+| 1 | Intro | Buenas noches, Tito. ¡A la cama! | N01 | Wide shot of the cozy bedroom at night: Tito (moon pajamas) puts his toothbrush back in the blue cup, climbs in; Mamá pulls the starry blanket up and strokes his head; he smiles sleepily. | Welcoming start that sets the scene (Google MFK Shorts guide: 'begin in a welcoming way… sets the scene') |
 | 2 | Intro | Se apaga la luz… ¡clic! | N02 | Extreme close-up of a small round bedside lamp on the wooden nightstand: The trunk tip presses the button and the warm glow fades to soft blue. | Sound word ¡clic! exactly on the picture (lamp goes off) — NuNu sync ×95 |
 | 3 | Verse 1 | ¡Uy! Una sombra en la pared… | N03 | Low angle from the foot of the bed looking up at the navy-blue wall at night: The huge long-neck shadow sways slowly on the wall; the baby elephant blinks. | The problem, huge and visible without sound (D1 lesson: not a 'Wide' shot, no location ref) |
 | 4 | Verse 1 | ¿Qué es eso? ¿Qué es eso? | N04 | Extreme close-up of the baby elephant's face in bed at night: His eyes dart left and right, then he pulls the blanket up to his nose. | THE QUESTION to the viewer, same shot every verse = ritual (guess pattern ×1,171 / ×4,687) |
@@ -58,7 +73,7 @@
 | 27 | Outro | Buenas noches, jirafa. Buenas noches, búho. | N15 | Close-up from the front in warm lamp light: He waves goodnight with his trunk and yawns a big sleepy yawn. | Goodnight ritual to every 'monster' = closure |
 | 28 | Outro | Buenas noches, luna… ¡Shhh! | N16 | View from outside the round window at night: The owl tucks its head and the moon glows softly; everything is calm. | Calm loop ending ¡Shhh! (bedtime use: parents replay at night) |
 
-## Unique shots to produce (20)
+## Unique shots to produce (19 — N08 dropped 22.10, unused; prompts in spec.json are the source of truth: pajamas + set dressing added)
 
 - **N01** (2 seeds) — Wide shot of the cozy bedroom at night: Mamá Elefanta tucks the baby elephant into his small wooden bed under a navy-blue blanket with little yellow stars, a soft mint-green plush giraffe toy with white spots on the pillow beside him, a warm bedside lamp glowing, a big friendly moon in the round window. The main action is in the CENTER of the frame.
 - **N02** (2 seeds) — Extreme close-up of a small round bedside lamp on the wooden nightstand: a little trunk tip presses its round button and the warm light goes out, the room turning soft moonlit blue. The main action is in the CENTER of the frame.
@@ -71,7 +86,6 @@
 - **K3** (2 seeds) — Side view close-up in warm lamp light: the baby elephant breathes in slowly with his eyes closed, his round tummy rising under his yellow overalls, a calm little smile. The main action is in the CENTER of the frame.
 - **K4** (2 seeds) — Top-down view from above the small wooden bed: the baby elephant curls up on his side under the starry blanket hugging the mint-green plush giraffe, his eyes slowly closing, warm lamp light. The main action is in the CENTER of the frame.
 - **N07** (2 seeds) — Close-up of the round bedroom window from inside at night: a dark knobbly shape taps against the glass three times, the big moon glowing behind it, soft blue light. The main action is in the CENTER of the frame.
-- **N08** (2 seeds) — Low side view at mattress level: a round lump under the navy starry blanket trembles, and only the tip of a little blue trunk peeks out from under the edge, moonlit blue room. The main action is in the CENTER of the frame.
 - **N09** (2 seeds) — Medium shot from inside the bedroom: Mamá Elefanta opens the round window wide with her trunk, cool moonlight and a soft breeze coming in, a leafy tree branch right outside the window. The main action is in the CENTER of the frame.
 - **N10** (3 seeds) — Close-up through the open round window at night: a small fluffy brown owl with big round orange eyes sits on the leafy branch that was tapping the glass, hooting with its beak open, the big moon behind it. The main action is in the CENTER of the frame.
 - **N11** (2 seeds) — Low angle from the floor looking under the small wooden bed in the dark: two small round dots of glowing yellow light shine in the shadow under the bed, soft blue moonlight on the floorboards. The main action is in the CENTER of the frame.
@@ -122,7 +136,7 @@ Chapters (timestamps) go in the description — the producer fills the real time
 
 ## Continuity
 
-night in every shot; lamp OFF (blue moonlight) at the start of each verse (N02-N04, N07-N08, N11-N12), lamp ON (warm) from Mamá/Tito's fix and in every chorus shot (K1-K4) and N15; Tito always in yellow overalls; mint-green plush giraffe on the pillow (N01), in Mamá's trunk (N06), in Tito's arms (K2, K4, N15); window closed until N09, open from N09; owl only N10 and N16; toy fire truck under the bed (N14), in Tito's arms (N15); Mamá only N01, N05, N06, N09
+night in every shot; lamp OFF (blue moonlight) at the start of each verse (N02-N04, N07-N08, N11-N12), lamp ON (warm) from Mamá/Tito's fix and in every chorus shot (K1-K4) and N15; Tito always in light-yellow moon pajamas; mint-green plush giraffe on the pillow (N01), in Mamá's trunk (N06), in Tito's arms (K2, K4, N15); window closed until N09, open from N09; owl only N10 and N16; toy fire truck under the bed (N14), in Tito's arms (N15); Mamá only N01, N05, N06, N09
 
 ## Risks
 
