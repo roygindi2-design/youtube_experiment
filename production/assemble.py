@@ -114,6 +114,11 @@ def main():
     tmp = Path(tempfile.mkdtemp())
     W, H = e.get("size", [1080, 1920])  # Shorts 1080x1920; long-form episodes 1920x1080
     parts = []
+    # frame-exact cuts: each shot gets round(end*fps) - round(start*fps) frames, so rounding never accumulates
+    # (before 22.10 every shot was cut with -t and lost up to a frame -> cuts drifted ~0.3 s off the beat grid)
+    t_acc, nframes = 0.0, []
+    for s in e["shots"]:
+        nframes.append(round((t_acc + s["dur"]) * fps) - round(t_acc * fps)); t_acc += s["dur"]
     for i, s in enumerate(e["shots"]):
         p = tmp / f"s{i:02d}.mp4"
         speed = s.get("speed", 1.0)
@@ -147,8 +152,9 @@ def main():
         src_len = s.get("src_len", s["dur"] * speed)  # how much of the source to read (stops before a QC glitch)
         if s.get("hold"):  # freeze the last clean frame for the rest of the shot (tpad clone)
             vf = vf.replace(f"setpts=PTS/{speed},", f"setpts=PTS/{speed},tpad=stop_mode=clone:stop_duration={s['hold']},", 1)
+        vf += ",tpad=stop_mode=clone:stop_duration=0.2"  # at most a few cloned frames if the source ends a hair early
         run(["ffmpeg", "-y", "-v", "error", "-ss", str(s.get("in", 0)), "-t", str(src_len), "-i", s["file"],
-             "-an", "-vf", vf, "-t", str(s["dur"]), "-c:v", "libx264", "-preset", "medium", "-crf", "16", str(p)])
+             "-an", "-vf", vf, "-frames:v", str(nframes[i]), "-c:v", "libx264", "-preset", "medium", "-crf", "16", str(p)])
         parts.append(p)
     lst = tmp / "list.txt"
     lst.write_text("".join(f"file '{p}'\n" for p in parts))
