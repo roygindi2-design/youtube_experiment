@@ -1,0 +1,322 @@
+{
+ "out": "/home/user/youtube_experiment/production/episodes/tito_brocoli/build/tito_brocoli.mp4",
+ "fps": 30,
+ "size": [
+  1920,
+  1080
+ ],
+ "burn_captions": false,
+ "song": {
+  "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/assets/song.wav",
+  "start": 0.0,
+  "gain_db": 0
+ },
+ "shots": [
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_I1_s7.mp4",
+   "in": 0.05,
+   "dur": 5.795,
+   "speed": 0.852,
+   "src_len": 4.937,
+   "shot": "I1@7"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_I2_s19.mp4",
+   "in": 0.05,
+   "dur": 3.272,
+   "speed": 1.0,
+   "src_len": 3.272,
+   "shot": "I2@19"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_I2_s7.mp4",
+   "in": 0.05,
+   "dur": 2.728,
+   "speed": 1.0,
+   "src_len": 2.728,
+   "shot": "I2@7"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_R1_s7.mp4",
+   "in": 0.05,
+   "dur": 3.272,
+   "speed": 1.0,
+   "src_len": 3.272,
+   "shot": "R1@7"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_Q_s7.mp4",
+   "in": 0.05,
+   "dur": 2.728,
+   "speed": 1.0,
+   "src_len": 2.728,
+   "shot": "Q@7"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_G1_s7.mp4",
+   "in": 0.05,
+   "dur": 4.909,
+   "speed": 1.0,
+   "src_len": 4.909,
+   "shot": "G1@7"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_G2_s19.mp4",
+   "in": 0.05,
+   "dur": 4.363,
+   "speed": 1.0,
+   "src_len": 4.363,
+   "shot": "G2@19"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_G2_s7.mp4",
+   "in": 0.05,
+   "dur": 4.364,
+   "speed": 1.0,
+   "src_len": 4.364,
+   "shot": "G2@7"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_K1_s19.mp4",
+   "in": 0.05,
+   "dur": 2.727,
+   "speed": 1.0,
+   "src_len": 2.727,
+   "shot": "K1@19"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_K2_s19.mp4",
+   "in": 0.05,
+   "dur": 3.273,
+   "speed": 0.901,
+   "src_len": 2.949,
+   "shot": "K2@19"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_K3_s7.mp4",
+   "in": 0.05,
+   "dur": 4.909,
+   "speed": 1.0,
+   "src_len": 4.909,
+   "shot": "K3@7"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_K4_s7.mp4",
+   "in": 0.05,
+   "dur": 4.909,
+   "speed": 1.0,
+   "src_len": 4.909,
+   "shot": "K4@7"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_G1_s19.mp4",
+   "in": 0.05,
+   "dur": 5.455,
+   "speed": 0.906,
+   "src_len": 4.94,
+   "shot": "G1@19"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_R2_s7.mp4",
+   "in": 0.05,
+   "dur": 1.091,
+   "speed": 1.0,
+   "src_len": 1.091,
+   "shot": "R2@7"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_Q_s19.mp4",
+   "in": 0.05,
+   "dur": 3.272,
+   "speed": 1.0,
+   "src_len": 3.272,
+   "shot": "Q@19"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_C1_s43.mp4",
+   "in": 0.05,
+   "dur": 4.364,
+   "speed": 1.0,
+   "src_len": 4.364,
+   "shot": "C1@43"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_C2_s19.mp4",
+   "in": 0.05,
+   "dur": 4.909,
+   "speed": 1.0,
+   "src_len": 4.909,
+   "shot": "C2@19"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_C1_s31.mp4",
+   "in": 0.05,
+   "dur": 4.364,
+   "speed": 1.0,
+   "src_len": 4.364,
+   "shot": "C1@31"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_K1_s7.mp4",
+   "in": 0.05,
+   "dur": 2.727,
+   "speed": 1.0,
+   "src_len": 2.727,
+   "shot": "K1@7"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_K2_s19.mp4",
+   "in": 0.05,
+   "dur": 2.727,
+   "speed": 1.0,
+   "src_len": 2.727,
+   "shot": "K2@19"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_K3_s19.mp4",
+   "in": 0.05,
+   "dur": 5.455,
+   "speed": 0.906,
+   "src_len": 4.94,
+   "shot": "K3@19"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_K4_s7.mp4",
+   "in": 0.05,
+   "dur": 4.909,
+   "speed": 1.0,
+   "src_len": 4.909,
+   "shot": "K4@7"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_K1_s19.mp4",
+   "in": 0.05,
+   "dur": 2.727,
+   "speed": 1.0,
+   "src_len": 2.727,
+   "shot": "K1@19"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_R3_s7.mp4",
+   "in": 0.05,
+   "dur": 4.909,
+   "speed": 1.0,
+   "src_len": 4.909,
+   "shot": "R3@7"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_T1_s7.mp4",
+   "in": 0.05,
+   "dur": 4.364,
+   "speed": 1.0,
+   "src_len": 4.364,
+   "shot": "T1@7"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_T2_s7.mp4",
+   "in": 0.05,
+   "dur": 4.909,
+   "speed": 1.0,
+   "src_len": 4.909,
+   "shot": "T2@7"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_T3_s7.mp4",
+   "in": 0.05,
+   "dur": 5.454,
+   "speed": 0.906,
+   "src_len": 4.94,
+   "shot": "T3@7"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_K1_s19.mp4",
+   "in": 0.05,
+   "dur": 2.728,
+   "speed": 1.0,
+   "src_len": 2.728,
+   "shot": "K1@19"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_K2_s19.mp4",
+   "in": 0.05,
+   "dur": 3.272,
+   "speed": 0.902,
+   "src_len": 2.95,
+   "shot": "K2@19"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_K3_s7.mp4",
+   "in": 0.05,
+   "dur": 4.91,
+   "speed": 1.0,
+   "src_len": 4.91,
+   "shot": "K3@7"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_K4_s7.mp4",
+   "in": 0.05,
+   "dur": 4.909,
+   "speed": 1.0,
+   "src_len": 4.909,
+   "shot": "K4@7"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_O1_s7.mp4",
+   "in": 0.05,
+   "dur": 1.091,
+   "speed": 1.0,
+   "src_len": 1.091,
+   "shot": "O1@7"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_O1_s57.mp4",
+   "in": 2.4,
+   "dur": 2.727,
+   "speed": 0.95,
+   "src_len": 2.59,
+   "shot": "O1@57"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_O2_s19.mp4",
+   "in": 0.05,
+   "dur": 4.909,
+   "speed": 1.0,
+   "src_len": 4.909,
+   "shot": "O2@19"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_O2_s7.mp4",
+   "in": 0.05,
+   "dur": 4.364,
+   "speed": 1.0,
+   "src_len": 4.364,
+   "shot": "O2@7"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_T1_s19.mp4",
+   "in": 0.05,
+   "dur": 4.909,
+   "speed": 1.0,
+   "src_len": 4.909,
+   "shot": "T1@19"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_C1_s43.mp4",
+   "in": 0.05,
+   "dur": 4.363,
+   "speed": 1.0,
+   "src_len": 4.363,
+   "shot": "C1@43"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/shots_v1/bro_clip1_K3_s19.mp4",
+   "in": 0.05,
+   "dur": 2.933,
+   "speed": 1.0,
+   "src_len": 2.933,
+   "shot": "K3@19"
+  }
+ ],
+ "sfx": [],
+ "lines": []
+}
