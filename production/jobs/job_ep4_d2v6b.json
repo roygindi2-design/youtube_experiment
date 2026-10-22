@@ -1,0 +1,86 @@
+[
+ {
+  "id": "tito_ep4_halloween_D2_kfV6b_515",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 515,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The same house front as the reference image: the same blue wall, the same lavender arch and the same two glowing jack-o-lanterns on the step, but now the pink wooden door is SHUT: the door completely fills the whole arch, nothing can be seen through the doorway, no moon, no light, no bat, no bowl. A small chubby powder-blue hand comes in from the right edge of the frame and knocks with its knuckles on the middle of the shut pink door. No body, no face, only the hand. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "pick_V2v5.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_D2_kfV6b_626",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 626,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The same house front as the reference image: the same blue wall, the same lavender arch and the same two glowing jack-o-lanterns on the step, but now the pink wooden door is SHUT: the door completely fills the whole arch, nothing can be seen through the doorway, no moon, no light, no bat, no bowl. A small chubby powder-blue hand comes in from the right edge of the frame and knocks with its knuckles on the middle of the shut pink door. No body, no face, only the hand. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "pick_V2v5.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_D2_kfV6b_737",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 737,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The same house front as the reference image: the same blue wall, the same lavender arch and the same two glowing jack-o-lanterns on the step, but now the pink wooden door is SHUT: the door completely fills the whole arch, nothing can be seen through the doorway, no moon, no light, no bat, no bowl. A small chubby powder-blue hand comes in from the right edge of the frame and knocks with its knuckles on the middle of the shut pink door. No body, no face, only the hand. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "pick_V2v5.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_D2_kfV6b_848",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 848,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The same house front as the reference image: the same blue wall, the same lavender arch and the same two glowing jack-o-lanterns on the step, but now the pink wooden door is SHUT: the door completely fills the whole arch, nothing can be seen through the doorway, no moon, no light, no bat, no bowl. A small chubby powder-blue hand comes in from the right edge of the frame and knocks with its knuckles on the middle of the shut pink door. No body, no face, only the hand. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "pick_V2v5.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_D2_kfV6b_959",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 959,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The same house front as the reference image: the same blue wall, the same lavender arch and the same two glowing jack-o-lanterns on the step, but now the pink wooden door is SHUT: the door completely fills the whole arch, nothing can be seen through the doorway, no moon, no light, no bat, no bowl. A small chubby powder-blue hand comes in from the right edge of the frame and knocks with its knuckles on the middle of the shut pink door. No body, no face, only the hand. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "pick_V2v5.jpg"
+   ]
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_D2_kfV6b_161",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 161,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The same house front as the reference image: the same blue wall, the same lavender arch and the same two glowing jack-o-lanterns on the step, but now the pink wooden door is SHUT: the door completely fills the whole arch, nothing can be seen through the doorway, no moon, no light, no bat, no bowl. A small chubby powder-blue hand comes in from the right edge of the frame and knocks with its knuckles on the middle of the shut pink door. No body, no face, only the hand. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "pick_V2v5.jpg"
+   ]
+  }
+ }
+]
