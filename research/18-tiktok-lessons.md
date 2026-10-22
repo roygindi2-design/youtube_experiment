@@ -12,3 +12,10 @@ Data: research/tiktok/analytics_2026-10-22.json — 548 views in ~19 h, 5 likes,
 - End on a loop point (the last frame flows into the first) → replays count and raise completion.
 - Caption = question + 3–5 hashtags in Spanish (#cancionesinfantiles #mamás #crianza #halloween…). The YouTube link goes in the bio.
 - Measure each TikTok: avg watch ≥ 6 s and completion ≥ 15% = good; otherwise the next one changes the hook.
+
+## vidIQ TikTok/IG outlier scan (22.10, 5 credits; budget 150/month → ~30 calls, use for TikTok only)
+Query: 3D kids song / cute animal / habits, audience = LatAm parents 25-34, captions in Spanish, ≥20K views.
+- **@yupikinder "¡Sigue las Instrucciones con Luna! | Juego de Movimiento" — 3D girl does siéntate / párate / aplaude / salta / gira; 10 s, looped; 565K = 79× the creator's median.** → the closest model for us. Format idea "¡Muévete con Tito!": 10 s, Tito does 3–4 moves from our move library (CLAP-CLAP, JUMP FOR JOY, SPIN, TUUU) with one spoken word each, looped. Cheap: reuse the chorus shots.
+- @sofi.s267 animated 2-character kids song with a moral, 90 s — 8.1M (764×). Story songs can work on TikTok when the action starts at second 0 (dialogue/song from the first frame).
+- Almost every other winner = a PARENT-perspective text overlay over a cute/relatable clip: "Lo iba a regañar pero me acordé que su mente suena así 🤭" (4.2M), "Ni súper simple, ni el payaso plim plim…" (1.1M), "¿Qué escuchará mi amiga ahora que es mamá?" (3.3M). → Our TikTok text overlay should speak as a parent, e.g. "Cuando tu peque te pide Tito por quinta vez 😅", "POV: encontraste la canción que le enseña a compartir 💛".
+- All winners loop (is_looped) and start with music/action instantly.
