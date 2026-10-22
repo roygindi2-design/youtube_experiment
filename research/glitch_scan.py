@@ -20,12 +20,14 @@ for k, sh in enumerate(e["shots"]):
     seen[key] = 1
     cap = cv2.VideoCapture(f); fps = cap.get(cv2.CAP_PROP_FPS) or 24
     a, b = sh.get("in", 0), sh.get("in", 0) + sh.get("dur", 4) * sh.get("speed", 1)
-    frames = []; i = 0
+    frames = []; i = int(a * fps)
+    cap.set(cv2.CAP_PROP_POS_FRAMES, i)
     while True:
         ok, fr = cap.read()
         if not ok: break
         t = i / fps; i += 1
-        if a <= t <= b: frames.append((t, fr))
+        if t > b: break
+        if a <= t: frames.append((t, cv2.resize(fr, (640, int(fr.shape[0] * 640 / fr.shape[1]))) if fr.shape[1] > 640 else fr))
     scores = []
     for j in range(1, len(frames)):
         p = cv2.cvtColor(frames[j - 1][1], cv2.COLOR_BGR2GRAY); c = cv2.cvtColor(frames[j][1], cv2.COLOR_BGR2GRAY)
@@ -37,6 +39,9 @@ for k, sh in enumerate(e["shots"]):
         y, x = np.unravel_index(np.argmax(tiles), tiles.shape)
         scores.append((float(tiles.max()), float(np.median(tiles)), j, int(x * T), int(y * T)))
     if not scores: continue
+    mm = np.median([s[1] for s in scores]) + 1e-6
+    scores = [s for s in scores if s[1] < 4 * mm]  # drop scene cuts (whole frame changes)
+    if not scores: continue
     med = np.median([s[0] for s in scores]) + 1e-6
     for s in sorted(scores, reverse=True)[:2]:
         events.append({"shot": Path(f).name, "slot": k, "t": round(frames[s[2]][0], 2), "peak": round(s[0], 1),
@@ -46,7 +51,8 @@ events.sort(key=lambda r: -r["rel"])
 rows = []
 for ev in events[:top]:
     cap = cv2.VideoCapture(ev["file"]); fps = cap.get(cv2.CAP_PROP_FPS) or 24
-    tgt = int(round(ev["t"] * fps)); imgs = []
+    tgt = int(round(ev["t"] * fps)); imgs = []; sc0 = cap.get(cv2.CAP_PROP_FRAME_WIDTH) / 640 if cap.get(cv2.CAP_PROP_FRAME_WIDTH) > 640 else 1
+    ev = {**ev, "x": int(ev["x"] * sc0), "y": int(ev["y"] * sc0)}
     for d in (-1, 0, 1):
         cap.set(cv2.CAP_PROP_POS_FRAMES, max(tgt + d, 0)); ok, fr = cap.read()
         imgs.append(fr if ok else np.zeros_like(imgs[-1]))
