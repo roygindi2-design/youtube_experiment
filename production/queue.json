@@ -110,18 +110,17 @@
   ],
   "_paused": "21.10 ~12:00 IL — Roy: production PAUSED, analysis only. No GPU, no uploads. Ready but held: tito_ep2, tito_basura, rojito_rescate. Researcher: focus on analysis (why new videos get 0 views); no need for new scripts until Roy resumes.",
   "now": {
-    "id": "tito_ep4_halloween",
-    "deadline": "2026-10-24 15:00 UTC (18:00 Israel)",
-    "why": "Halloween 31.10 — the only episode in work (Roy 22.10)"
+    "id": "tito_ep3_dormir",
+    "why": "Halloween + ep2 delivered 22.10. Rebuild ep3 from the upgraded spec (moon pajamas, dressed bedroom, START→ACTION→END acting, habit beat), new keyframes → researcher QC → clips (5 s forward takes, no ping-pong, beat-snapped)."
   },
   "next": [
     {
-      "id": "tito_ep2",
-      "why": "Roy 22.10: start fixes NOW in parallel with Halloween renders (QC: production/agents/research_reports/qc_2026-10-22/tito_ep2_final.md + motion: ping-pong 5.2s/17.6s). Target upload ~25.10"
+      "id": "tito_brocoli",
+      "why": "convert to long-episode template + design bible (researcher, 22.10 18:00 slot)"
     },
     {
-      "id": "tito_ep3_dormir",
-      "why": "rebuild under QC §6/§7 (no ping-pong, real walks) after Halloween + ep2"
+      "id": "navidad",
+      "why": "ENG-17, script by 25.11"
     }
   ],
   "_workflow": "See production/agents/STUDIO_WORKFLOW.md. 'now'/'next' are set by the researcher every run; the producer works on 'now' first."
