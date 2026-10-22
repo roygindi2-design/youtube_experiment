@@ -295,25 +295,17 @@
   {
    "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/shots/tito_ep4_halloween_clip_O2L_s19.mp4",
    "in": 0.05,
-   "dur": 2.727,
-   "speed": 0.935,
-   "src_len": 2.55,
-   "shot": "O2L@19"
-  },
-  {
-   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/shots/tito_ep4_halloween_clip_O2L_s31.mp4",
-   "in": 0.05,
-   "dur": 1.636,
+   "dur": 3.818,
    "speed": 1.0,
-   "src_len": 1.636,
-   "shot": "O2L@31"
+   "src_len": 3.818,
+   "shot": "O2L@19"
   },
   {
    "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/shots/tito_ep4_halloween_clip_O2L_s7.mp4",
    "in": 2.7,
-   "dur": 2.042,
-   "speed": 1.0,
-   "src_len": 2.042,
+   "dur": 2.587,
+   "speed": 0.897,
+   "src_len": 2.32,
    "shot": "O2L@7"
   }
  ],
