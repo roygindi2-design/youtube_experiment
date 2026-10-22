@@ -1,0 +1,58 @@
+[
+ {
+  "id": "ep4_costume_s1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 601,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Character design sheet, full body, front three-quarter view, standing in the center on a plain soft pastel lilac background: the baby elephant from the reference image, drawn in exactly the same 3D style and with exactly the same powder-blue face and body. TITO, a baby elephant toddler in his Halloween costume: his powder-blue face, very big round powder-blue ears with peach-pink insides, short soft powder-blue trunk curled up at the tip, big glossy dark-brown eyes, rosy cheeks, powder-blue arms, hands and feet; he wears a round soft ORANGE PUMPKIN COSTUME like a puffy round orange pumpkin around his tummy and chest, with vertical pumpkin ridges, and a small green leafy stem cap on top of his head; short chubby powder-blue legs below the costume, small tail. Only one character.",
+  "inputs": {
+   "image_refs": [
+    "tito_wide.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep4_costume_s2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 602,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Character design sheet, full body, front three-quarter view, standing in the center on a plain soft pastel lilac background: the baby elephant from the reference image, drawn in exactly the same 3D style and with exactly the same powder-blue face and body. TITO, a baby elephant toddler in his Halloween costume: his powder-blue face, very big round powder-blue ears with peach-pink insides, short soft powder-blue trunk curled up at the tip, big glossy dark-brown eyes, rosy cheeks, powder-blue arms, hands and feet; he wears a round soft ORANGE PUMPKIN COSTUME like a puffy round orange pumpkin around his tummy and chest, with vertical pumpkin ridges, and a small green leafy stem cap on top of his head; short chubby powder-blue legs below the costume, small tail. Only one character.",
+  "inputs": {
+   "image_refs": [
+    "tito_wide.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep4_costume_s3",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 603,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Character design sheet, full body, front three-quarter view, standing in the center on a plain soft pastel lilac background: the baby elephant from the reference image, drawn in exactly the same 3D style and with exactly the same powder-blue face and body. TITO, a baby elephant toddler in his Halloween costume: his powder-blue face, very big round powder-blue ears with peach-pink insides, short soft powder-blue trunk curled up at the tip, big glossy dark-brown eyes, rosy cheeks, powder-blue arms, hands and feet; he wears a round soft ORANGE PUMPKIN COSTUME like a puffy round orange pumpkin around his tummy and chest, with vertical pumpkin ridges, and a small green leafy stem cap on top of his head; short chubby powder-blue legs below the costume, small tail. Only one character.",
+  "inputs": {
+   "image_refs": [
+    "tito_wide.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep4_costume_s4",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 604,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Character design sheet, full body, front three-quarter view, standing in the center on a plain soft pastel lilac background: the baby elephant from the reference image, drawn in exactly the same 3D style and with exactly the same powder-blue face and body. TITO, a baby elephant toddler in his Halloween costume: his powder-blue face, very big round powder-blue ears with peach-pink insides, short soft powder-blue trunk curled up at the tip, big glossy dark-brown eyes, rosy cheeks, powder-blue arms, hands and feet; he wears a round soft ORANGE PUMPKIN COSTUME like a puffy round orange pumpkin around his tummy and chest, with vertical pumpkin ridges, and a small green leafy stem cap on top of his head; short chubby powder-blue legs below the costume, small tail. Only one character.",
+  "inputs": {
+   "image_refs": [
+    "tito_wide.jpg"
+   ]
+  }
+ }
+]

@@ -1,2 +1,9 @@
-{"mama": "mama_master.jpg", "locations": {"calle": "loc_ep4_calle.jpg", "casa": "loc_ep4_casa.jpg"},
- "notes": "22.10 00:20 UTC: round 2 locations (plain doors with a small square window; round 1 doors had peepholes that read as eyes). Song s2: all 3 verses + 3 choruses + outro."}
+{
+ "mama": "mama_master.jpg",
+ "locations": {
+  "calle": "loc_ep4_calle.jpg",
+  "casa": "loc_ep4_casa.jpg"
+ },
+ "notes": "22.10 00:20 UTC: round 2 locations (plain doors with a small square window; round 1 doors had peepholes that read as eyes). Song s2: all 3 verses + 3 choruses + outro.",
+ "hero": "tito_pumpkin_master.jpg"
+}

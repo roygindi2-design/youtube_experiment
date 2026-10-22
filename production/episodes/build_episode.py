@@ -56,9 +56,11 @@ elif stage in ("shots", "kf"):
         hero = s.get("hero", {"master": "tito_master.jpg", "who": "The baby elephant", "one": "Only one elephant in the picture."})
         # director mode: the location image is a reference ONLY for wide establishing shots; other shots get their own
         # camera angle from the text, so the model does not copy the same composition into every frame (Roy 20.10)
-        use_loc = (not s.get("director")) or frame.lower().startswith("wide") or LAND
-        # LAND: a 16:9 location ref makes Klein return 1280x720 (without it Klein returns a square, QC 21.10)
-        refs = ([picks["locations"][loc]] if use_loc else []) + [picks.get("hero", hero["master"])] + ([picks["mama"]] if "mama" in chars else [])
+        use_loc = (not s.get("director")) or frame.lower().startswith("wide")
+        master = picks.get("hero", hero["master"])
+        if LAND and not use_loc:  # Klein returns the size of the first ref: a 16:9 copy of the master keeps 1280x720 (QC 21-22.10)
+            master = master.replace("_master.jpg", "_wide.jpg")
+        refs = ([picks["locations"][loc]] if use_loc else []) + [master] + ([picks["mama"]] if "mama" in chars else [])
         nth = (lambda k: ["first", "second", "third"][k - 1 - (0 if use_loc else 1)])
         who = (hero["who"] + f" from the {nth(2)} reference image, exactly the same character design: " + s["lock"])
         if "mama" in chars:
