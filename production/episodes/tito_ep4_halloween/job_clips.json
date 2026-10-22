@@ -1,0 +1,618 @@
+[
+ {
+  "id": "tito_ep4_halloween_clip_H01_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He walks happily down the path swinging the bucket; Mamá waves goodbye. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_H01.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_H01_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He walks happily down the path swinging the bucket; Mamá waves goodbye. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_H01.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_H02_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He lifts the empty bucket a little and smiles, excited. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_H02.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_H02_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He lifts the empty bucket a little and smiles, excited. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_H02.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_D1_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His hand knocks three times on the closed orange door: toc, toc, toc. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_D1.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_D1_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His hand knocks three times on the closed orange door: toc, toc, toc. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_D1.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_Q_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He tilts his head slightly, curious, looking up at the door. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_Q.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_Q_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He tilts his head slightly, curious, looking up at the door. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_Q.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_Q_s31",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He tilts his head slightly, curious, looking up at the door. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_Q.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_V1_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The kitten meows softly and its tail curls happily. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_V1.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_V1_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The kitten meows softly and its tail curls happily. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_V1.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_V1_s31",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The kitten meows softly and its tail curls happily. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_V1.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_BKT_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The candy falls into the bucket and lands with a little bounce. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_BKT.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_BKT_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The candy falls into the bucket and lands with a little bounce. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_BKT.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_C1_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He sways left and right in a happy little dance, the bucket swinging. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_C1.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_C1_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He sways left and right in a happy little dance, the bucket swinging. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_C1.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_C1_s31",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He sways left and right in a happy little dance, the bucket swinging. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_C1.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_C2_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He bows his head politely and smiles. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_C2.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_C2_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He bows his head politely and smiles. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_C2.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_C3_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He holds the candy forward in his open hand to share it and smiles warmly; his trunk stays curled down below his mouth, away from the candy. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_C3.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_C3_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He holds the candy forward in his open hand to share it and smiles warmly; his trunk stays curled down below his mouth, away from the candy. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_C3.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_C3_s31",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He holds the candy forward in his open hand to share it and smiles warmly; his trunk stays curled down below his mouth, away from the candy. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_C3.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_C4_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He walks forward toward the next house, leaves rustling. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_C4.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_C4_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He walks forward toward the next house, leaves rustling. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_C4.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_D2_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His hand knocks three times on the closed purple door: toc, toc, toc. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_D2.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_D2_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. His hand knocks three times on the closed purple door: toc, toc, toc. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_D2.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_V2_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The little bat opens and closes its soft wings twice: flap, flap. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_V2.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_V2_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The little bat opens and closes its soft wings twice: flap, flap. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_V2.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_V2_s31",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The little bat opens and closes its soft wings twice: flap, flap. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_V2.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_M1_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The little mouse looks into its empty bucket and its ears droop. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_M1.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_M1_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The little mouse looks into its empty bucket and its ears droop. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_M1.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_M1_s31",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The little mouse looks into its empty bucket and its ears droop. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_M1.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_M2_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He looks at his bucket, then at the mouse, and tilts his head, thinking. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_M2.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_M2_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. He looks at his bucket, then at the mouse, and tilts his head, thinking. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_M2.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_M3_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The hand keeps holding the candy above the empty yellow bucket, then opens and the candy drops straight down into the yellow bucket and lands inside with a little bounce. The candy stays visible the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_M3.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_M3_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The hand keeps holding the candy above the empty yellow bucket, then opens and the candy drops straight down into the yellow bucket and lands inside with a little bounce. The candy stays visible the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_M3.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_M3_s31",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. The hand keeps holding the candy above the empty yellow bucket, then opens and the candy drops straight down into the yellow bucket and lands inside with a little bounce. The candy stays visible the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_M3.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_M4_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. They both sway happily side by side, swinging their buckets. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_M4.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_M4_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. They both sway happily side by side, swinging their buckets. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_M4.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_M4_s31",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. They both sway happily side by side, swinging their buckets. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_M4.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_O1_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá wiggles the toothbrush and he nods with a soft smile. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_O1.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_O1_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Mamá wiggles the toothbrush and he nods with a soft smile. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_O1.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_O2_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. They wave slowly, the jack-o-lanterns flicker and the moon glows softly. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_O2.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_O2_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. They wave slowly, the jack-o-lanterns flicker and the moon glows softly. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing. No blinking, no winking, mouth closed, no teeth.",
+  "inputs": {
+   "image_start": "pick_O2.jpg"
+  }
+ }
+]
