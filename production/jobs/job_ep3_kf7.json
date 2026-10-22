@@ -1,0 +1,118 @@
+[
+ {
+  "id": "ep3_N03_kf7_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle from the foot of a small wooden bed in a DARK bedroom at night: there is NO lamp anywhere in the picture and no warm light at all, only cool blue moonlight coming from the side; the navy-blue wall with tiny golden stars fills the background, and on it a HUGE dark-purple SHADOW with a very long neck, a round head and two small round horns (a giraffe silhouette) covers most of the wall above the bed; in the bed the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down) peeks over the edge of the starry navy blanket, only his eyes and ears visible, looking up at the shadow with wide curious eyes. Everything is blue-toned. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3_N03_kf7_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle from the foot of a small wooden bed in a DARK bedroom at night: there is NO lamp anywhere in the picture and no warm light at all, only cool blue moonlight coming from the side; the navy-blue wall with tiny golden stars fills the background, and on it a HUGE dark-purple SHADOW with a very long neck, a round head and two small round horns (a giraffe silhouette) covers most of the wall above the bed; in the bed the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down) peeks over the edge of the starry navy blanket, only his eyes and ears visible, looking up at the shadow with wide curious eyes. Everything is blue-toned. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3_N03_kf7_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle from the foot of a small wooden bed in a DARK bedroom at night: there is NO lamp anywhere in the picture and no warm light at all, only cool blue moonlight coming from the side; the navy-blue wall with tiny golden stars fills the background, and on it a HUGE dark-purple SHADOW with a very long neck, a round head and two small round horns (a giraffe silhouette) covers most of the wall above the bed; in the bed the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down) peeks over the edge of the starry navy blanket, only his eyes and ears visible, looking up at the shadow with wide curious eyes. Everything is blue-toned. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3_N03_kf7_44",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 44,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle from the foot of a small wooden bed in a DARK bedroom at night: there is NO lamp anywhere in the picture and no warm light at all, only cool blue moonlight coming from the side; the navy-blue wall with tiny golden stars fills the background, and on it a HUGE dark-purple SHADOW with a very long neck, a round head and two small round horns (a giraffe silhouette) covers most of the wall above the bed; in the bed the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down) peeks over the edge of the starry navy blanket, only his eyes and ears visible, looking up at the shadow with wide curious eyes. Everything is blue-toned. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3_N06_kf7_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg",
+    "mama_gown_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Shadow-puppet scene. Medium shot: Mamá Elefanta from the reference image (lilac dressing gown, yellow flower behind her ear) stands at the right holding a SMALL soft MINT-GREEN plush toy giraffe with little white spots up high next to a glowing lamp; on the plain navy-blue wall in the CENTER of the picture there is a VERY LARGE, sharp, solid dark-purple shadow of the plush giraffe, twice as tall as Mamá, with a long neck, a round head and two small round horns, fully inside the frame and clearly readable; the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down) sits in his bed at the left under the starry navy blanket, seen from behind, looking at the shadow. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3_N06_kf7_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg",
+    "mama_gown_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Shadow-puppet scene. Medium shot: Mamá Elefanta from the reference image (lilac dressing gown, yellow flower behind her ear) stands at the right holding a SMALL soft MINT-GREEN plush toy giraffe with little white spots up high next to a glowing lamp; on the plain navy-blue wall in the CENTER of the picture there is a VERY LARGE, sharp, solid dark-purple shadow of the plush giraffe, twice as tall as Mamá, with a long neck, a round head and two small round horns, fully inside the frame and clearly readable; the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down) sits in his bed at the left under the starry navy blanket, seen from behind, looking at the shadow. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3_N06_kf7_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg",
+    "mama_gown_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Shadow-puppet scene. Medium shot: Mamá Elefanta from the reference image (lilac dressing gown, yellow flower behind her ear) stands at the right holding a SMALL soft MINT-GREEN plush toy giraffe with little white spots up high next to a glowing lamp; on the plain navy-blue wall in the CENTER of the picture there is a VERY LARGE, sharp, solid dark-purple shadow of the plush giraffe, twice as tall as Mamá, with a long neck, a round head and two small round horns, fully inside the frame and clearly readable; the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down) sits in his bed at the left under the starry navy blanket, seen from behind, looking at the shadow. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3_N06_kf7_44",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 44,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg",
+    "mama_gown_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Shadow-puppet scene. Medium shot: Mamá Elefanta from the reference image (lilac dressing gown, yellow flower behind her ear) stands at the right holding a SMALL soft MINT-GREEN plush toy giraffe with little white spots up high next to a glowing lamp; on the plain navy-blue wall in the CENTER of the picture there is a VERY LARGE, sharp, solid dark-purple shadow of the plush giraffe, twice as tall as Mamá, with a long neck, a round head and two small round horns, fully inside the frame and clearly readable; the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down) sits in his bed at the left under the starry navy blanket, seen from behind, looking at the shadow. Wide 16:9 frame."
+ }
+]
