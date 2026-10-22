@@ -36,3 +36,11 @@
 - חפצים לצד הגוף או מעל הראש — לא מול הפנים.
 - עיניים: "Both eyes stay open and calm…"; חיוך עדין עם פה סגור; החדק מתחת לפה בסיבוב ראש.
 - בשוט השאלה רק רמז; הפתרון בשוט הבא.
+
+## 6. Motion (added 22.10 after Roy's review — a frame sheet cannot catch these; WATCH the video at 1x and run research/motion_check.py)
+- [ ] NO ping-pong/boomerang anywhere (frames going forward then backward = looks stuck).
+- [ ] No piece shorter than 1.5 s of the same shot chopped back-to-back (flicker).
+- [ ] No frozen hold > 2 s (characters must breathe/move; static prop shots ≤ 2 s).
+- [ ] Walking = really travels: street/houses move, or the character crosses the frame. No walking in place.
+- [ ] Trunk hangs down below the mouth, never curls onto the cheek/face.
+- [ ] Natural slow blink = OK; eye pop/jump/flicker = FAIL.

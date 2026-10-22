@@ -26,3 +26,8 @@
 - 3 Shorts — "פותרים אחד, פותחים את הבא"; כותרת = שאלה + #shorts; תיאור: שאלה + "▶️ Capítulo completo: <link>".
 - TikTok: אותו Short, כיתוב להורים, האשטגים, קישור ליוטיוב, תווית AI.
 - תמונה ממוזערת: הרמז הכי מסקרן (צל / דלת סגורה) + פנים של טיטו.
+
+## Motion rules (22.10)
+- No ping-pong/boomerang. Lines longer than a clean take → second seed, another angle, or 0.85–0.9x speed.
+- Walking shots: "camera slowly tracking backwards as he walks, houses passing by" or walking across the frame.
+- Holds ≤ 2 s; every shot has gentle motion.
