@@ -8,3 +8,5 @@ PASS: I1, R1, G1 (Tito towering over knee-high broccoli trees = reads as GIANT �
 | 3 | T3 | Same: Mamá with no trunk, pink face. | Same fix. |
 | 4 | I2 | Tito stands waist-deep IN the stream with his overalls wet. | "kneels on the grassy bank at the edge of the tiny stream, only his hands in the water". |
 Consistency: Mamá must be the same lavender-grey elephant as in I1/O2 in every shot.
+
+## Re-check 19:05 UTC — ✅ PASS: Q (only a lavender-grey elephant hand), K4/T3 (Mamá is an elephant with a trunk, lavender-grey), I2 (kneels on the bank, only hands in the water). All 19 PASS → clips.
