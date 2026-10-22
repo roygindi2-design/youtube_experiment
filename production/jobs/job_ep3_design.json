@@ -1,0 +1,110 @@
+[
+ {
+  "id": "ep3_tito_pj_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Character design sheet pose: the baby elephant from the reference image, exactly the same face, head, ears and body, now wearing soft light-yellow pajamas with tiny white crescent moons (bedtime outfit for this episode), short chubby arms and legs, small tail. Full body, standing, front view, smiling with his mouth closed, his trunk hanging straight down. Plain soft pastel background. Wide 16:9 frame, character centered."
+ },
+ {
+  "id": "ep3_mama_gown_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "mama_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Character design sheet pose: Mamá Elefanta from the reference image, exactly the same face, ears, body and yellow flower behind her ear, now wearing a soft lilac dressing gown with a tied belt instead of the dress and apron. Full body, standing, front view, kind smile. Plain soft pastel background. Wide 16:9 frame, character centered."
+ },
+ {
+  "id": "ep3_room_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cozy child's bedroom at night, wide 16:9 composition, camera at child eye level: navy-blue walls with small painted golden stars and a few glow-in-the-dark star stickers, a small wooden bed in the center with a navy blanket covered in little yellow stars and a round moon-shaped pillow, a soft felt star-and-moon mobile hanging above the bed, a wooden nightstand with a small round warm lamp, a little blue cup with a toothbrush and a picture book, a pair of tiny bunny slippers on a round cream rug shaped like a cloud, a low shelf with a wooden toy box, colorful stacking blocks and a framed crayon drawing of a little red fire truck, a round window on the right with sheer lilac curtains, showing a big friendly glowing moon and a leafy tree branch, soft blue moonlight. Nobody is in the bedroom."
+ },
+ {
+  "id": "ep3_tito_pj_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Character design sheet pose: the baby elephant from the reference image, exactly the same face, head, ears and body, now wearing soft light-yellow pajamas with tiny white crescent moons (bedtime outfit for this episode), short chubby arms and legs, small tail. Full body, standing, front view, smiling with his mouth closed, his trunk hanging straight down. Plain soft pastel background. Wide 16:9 frame, character centered."
+ },
+ {
+  "id": "ep3_mama_gown_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "mama_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Character design sheet pose: Mamá Elefanta from the reference image, exactly the same face, ears, body and yellow flower behind her ear, now wearing a soft lilac dressing gown with a tied belt instead of the dress and apron. Full body, standing, front view, kind smile. Plain soft pastel background. Wide 16:9 frame, character centered."
+ },
+ {
+  "id": "ep3_room_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cozy child's bedroom at night, wide 16:9 composition, camera at child eye level: navy-blue walls with small painted golden stars and a few glow-in-the-dark star stickers, a small wooden bed in the center with a navy blanket covered in little yellow stars and a round moon-shaped pillow, a soft felt star-and-moon mobile hanging above the bed, a wooden nightstand with a small round warm lamp, a little blue cup with a toothbrush and a picture book, a pair of tiny bunny slippers on a round cream rug shaped like a cloud, a low shelf with a wooden toy box, colorful stacking blocks and a framed crayon drawing of a little red fire truck, a round window on the right with sheer lilac curtains, showing a big friendly glowing moon and a leafy tree branch, soft blue moonlight. Nobody is in the bedroom."
+ },
+ {
+  "id": "ep3_tito_pj_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Character design sheet pose: the baby elephant from the reference image, exactly the same face, head, ears and body, now wearing soft light-yellow pajamas with tiny white crescent moons (bedtime outfit for this episode), short chubby arms and legs, small tail. Full body, standing, front view, smiling with his mouth closed, his trunk hanging straight down. Plain soft pastel background. Wide 16:9 frame, character centered."
+ },
+ {
+  "id": "ep3_mama_gown_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "mama_master.jpg"
+   ]
+  },
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Character design sheet pose: Mamá Elefanta from the reference image, exactly the same face, ears, body and yellow flower behind her ear, now wearing a soft lilac dressing gown with a tied belt instead of the dress and apron. Full body, standing, front view, kind smile. Plain soft pastel background. Wide 16:9 frame, character centered."
+ },
+ {
+  "id": "ep3_room_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. A cozy child's bedroom at night, wide 16:9 composition, camera at child eye level: navy-blue walls with small painted golden stars and a few glow-in-the-dark star stickers, a small wooden bed in the center with a navy blanket covered in little yellow stars and a round moon-shaped pillow, a soft felt star-and-moon mobile hanging above the bed, a wooden nightstand with a small round warm lamp, a little blue cup with a toothbrush and a picture book, a pair of tiny bunny slippers on a round cream rug shaped like a cloud, a low shelf with a wooden toy box, colorful stacking blocks and a framed crayon drawing of a little red fire truck, a round window on the right with sheer lilac curtains, showing a big friendly glowing moon and a leafy tree branch, soft blue moonlight. Nobody is in the bedroom."
+ }
+]
