@@ -39,3 +39,8 @@ Every SCRIPT.md must have, BEFORE the timeline:
 - `## Design bible`, with: Environment (8–12 set items per location), Palette & light, Costumes (fit the moment), Supporting characters (design sheet), Background life (2–3 per location), Hero props.
 - `## Habit beat`: one small good-habit moment (1 shot or 1 prop action), rotated: handwashing / teeth / gracias / sharing / tidying / water.
 The set items and costumes must also appear in spec.json (locations + shot frames + lock/continuity), not only in the SCRIPT.
+
+## ו. Acting (Roy 22.10 — research/17-motion-and-acting.md)
+- Every shot's motion = START pose → ACTION (on which beat) → END pose; + secondary motion; + what stays still. Use the named moves (TUUU, HAPPY BOUNCE, SWAY, CLAP-CLAP, FREEZE, JUMP FOR JOY, NO-NO, THUMBS-UP, PEEKABOO, REAL WALK…) and faces (HAPPY SQUINT, SURPRISE O, CURIOUS, PROUD, SLEEPY…).
+- Chorus = one signature dance (4 named moves, one per line) ×3. Each verse: ≥1 big-body moment + ≥1 meaning gesture.
+- One main action per 5 s clip. No open-mouth laugh/yawn.

@@ -20,6 +20,9 @@
 **Background life:** the mobile turns slowly; the curtains move a little in the breeze after the window opens; fireflies drift outside from N09 on; lamp glow flickers softly. No shot is frozen.
 **Hero props (fixed look):** blue toothbrush cup + toothbrush, round warm lamp with a round button, yellow flashlight, plush giraffe, owl, red toy truck, starry blanket.
 
+## Acting (research/17-motion-and-acting.md)
+Every shot in spec.json now has START → ACTION → END. Chorus signature dance: K1 TUUU + happy bounce → K2 HUG-SELF sway with the giraffe → K3 BREATHE (2 beats in, 2 out) → K4 SLEEPY snuggle. Verse faces: N03/N04 SURPRISE O → CURIOUS, N12/N13 PROUD (brave), N15 SLEEPY blink (no yawn).
+
 ## Habit beat
 **Brushing teeth before bed**, shown, not sung: in N01 Tito puts his toothbrush back into the little blue cup on the nightstand and then climbs into bed. The cup stays visible on the nightstand all episode (continuity), so the routine "teeth → bed → light" is modeled. Evidence: Doctora Sophia "Cepíllate los Dientes" 9.4M (Oct 2026). Rotation: handwashing returns in the next daytime episode.
 

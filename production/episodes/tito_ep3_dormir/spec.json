@@ -59,7 +59,7 @@
   [
    "N01",
    "Wide shot of the cozy bedroom at night: the baby elephant wearing soft light-yellow pajamas with tiny white crescent moons, his trunk hanging down below his mouth, places his toothbrush back into the little blue cup on the nightstand (bedtime routine done) while Mamá Elefanta, in a lilac dressing gown, holds up the navy-blue blanket with little yellow stars for him, a soft mint-green plush giraffe toy with white spots on the moon pillow, the star-and-moon mobile turning slowly above the bed, a warm bedside lamp glowing, a big friendly moon in the round window. The main action is in the CENTER of the frame.",
-   "He puts the toothbrush in the cup, climbs in, Mamá pulls the starry blanket up and strokes his head; he smiles sleepily.",
+   "START: he stands by the nightstand holding his toothbrush → ACTION: he drops it into the blue cup, climbs into bed, and Mamá lifts the starry blanket up to his chest and strokes his head once → END: he lies back with a SLEEPY closed-mouth smile. Secondary: the star mobile turns slowly. Camera still.",
    "cuarto",
    [
     "tito",
@@ -70,7 +70,7 @@
   [
    "N02",
    "Extreme close-up of a small round bedside lamp on the wooden nightstand: a little trunk tip presses its round button and the warm light goes out, the room turning soft moonlit blue. The main action is in the CENTER of the frame.",
-   "The trunk tip presses the button and the warm glow fades to soft blue.",
+   "START: the warm lamp glows → ACTION: on the beat the trunk tip presses the round button once (¡clic!) → END: the glow fades smoothly to soft moonlit blue. Only the trunk tip moves.",
    "cuarto",
    [
     "tito"
@@ -80,7 +80,7 @@
   [
    "N03",
    "Low angle from the foot of the bed looking up at the navy-blue wall at night: a HUGE soft dark-purple shadow with a very long neck, a round head and two small round horns covers most of the wall above the bed, and the baby elephant wearing soft light-yellow pajamas with tiny white crescent moons, his trunk tucked under the blanket edge, is tiny at the bottom, peeking over the edge of his starry blanket, looking up at it. The main action is in the CENTER of the frame.",
-   "The huge long-neck shadow sways slowly on the wall; the baby elephant blinks.",
+   "START: the giant giraffe-shaped shadow is still on the wall → ACTION: it sways slowly left and right twice like a gentle pendulum → END: still. The baby elephant at the bottom peeks over the blanket, eyes wide (SURPRISE O face), body still.",
    "cuarto",
    [
     "tito"
@@ -90,7 +90,7 @@
   [
    "N04",
    "Extreme close-up of the baby elephant wearing soft light-yellow pajamas with tiny white crescent moons's face in bed at night: only his big glossy eyes and the tips of his ears peek over the edge of the navy blanket with yellow stars, his eyes wide, looking up, soft blue moonlight on him, his trunk hidden under the blanket edge. The main action is in the CENTER of the frame.",
-   "His eyes look left and right slowly, then he pulls the blanket up to his nose. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "START: eyes look up → ACTION: his eyes move slowly left, then right (CURIOUS face), then he pulls the blanket up to his nose → END: only his eyes and ears peek out, ears lowered. Both eyes stay open and calm with the same gentle expression the whole time.",
    "cuarto",
    [
     "tito"
@@ -100,7 +100,7 @@
   [
    "N05",
    "Medium shot, side view of the bedroom door: Mamá Elefanta in her lilac dressing gown steps in smiling and turns on the warm bedside lamp with her trunk, golden light spreading across the room, the baby elephant wearing soft light-yellow pajamas with tiny white crescent moons sitting up in bed. The main action is in the CENTER of the frame.",
-   "Mamá switches on the lamp and warm golden light spreads over the room. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "START: Mamá in the doorway → ACTION: she steps to the nightstand and switches the lamp on with her trunk (¡clic!) → END: warm golden light fills the room and she smiles at him. Secondary: light spreads from the lamp outward. Both eyes stay open and calm with the same gentle expression the whole time.",
    "cuarto",
    [
     "tito",
@@ -111,7 +111,7 @@
   [
    "N06",
    "Over-the-shoulder view from behind the baby elephant wearing soft light-yellow pajamas with tiny white crescent moons, his trunk resting down on the blanket, in bed: Mamá Elefanta in her lilac dressing gown holds up the soft mint-green plush giraffe in front of the warm lamp, and on the wall behind her the big shadow is now clearly the SAME GIRAFFE SHAPE with a long neck and two little horns, matching the toy exactly. The main action is in the CENTER of the frame.",
-   "Mamá wiggles the plush giraffe and the giraffe shadow on the wall wiggles the same way.",
+   "START: Mamá holds the plush giraffe up in front of the lamp → ACTION: she wiggles it left and right twice, and the shadow on the wall wiggles exactly the same way at the same time → END: she holds it still. The baby elephant watches, his head tilting (CURIOUS). Both eyes stay open and calm with the same gentle expression the whole time.",
    "cuarto",
    [
     "tito",
@@ -122,7 +122,7 @@
   [
    "K1",
    "Medium shot from the front, warm lamp light: the baby elephant wearing soft light-yellow pajamas with tiny white crescent moons sits up proudly in his bed with the starry blanket around his legs and raises his trunk high, trumpeting happily, the mint-green plush giraffe beside him. The main action is in the CENTER of the frame.",
-   "He lifts his trunk high and trumpets, bouncing a little with joy. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "Signature move TUUU: START: sitting up in bed, trunk down → ACTION: on the beat he raises his trunk straight up, holds it for one beat while his ears lift, with a small HAPPY BOUNCE → END: trunk back down below his mouth, PROUD closed smile. Both eyes stay open and calm with the same gentle expression the whole time.",
    "cuarto",
    [
     "tito"
@@ -132,7 +132,7 @@
   [
    "K2",
    "Close-up from the front, warm lamp light: the baby elephant wearing soft light-yellow pajamas with tiny white crescent moons, his trunk curled down below his mouth, hugs the soft mint-green plush giraffe tightly against his cheek, eyes closed, a big peaceful smile. The main action is in the CENTER of the frame.",
-   "He squeezes the plush giraffe in a cozy hug and sways gently.",
+   "HUG-SELF with the giraffe: START: holding the plush giraffe → ACTION: he squeezes it against his cheek and SWAYS slowly left, then right, in time with the music → END: still, HAPPY SQUINT face. Feet and blanket stay put.",
    "cuarto",
    [
     "tito"
@@ -142,7 +142,7 @@
   [
    "K3",
    "Side view close-up in warm lamp light: the baby elephant wearing soft light-yellow pajamas with tiny white crescent moons, his trunk hanging relaxed below his mouth, breathes in slowly with his eyes closed, his round tummy rising under his moon pajamas, a calm little smile. The main action is in the CENTER of the frame.",
-   "He breathes in slowly, his tummy rises, then he breathes out and relaxes.",
+   "BREATHE: START: eyes softly closed → ACTION: slow breath in for two beats (his tummy rises, shoulders lift), slow breath out for two beats (tummy falls, shoulders relax) → END: calm closed smile. Nothing else moves.",
    "cuarto",
    [
     "tito"
@@ -152,7 +152,7 @@
   [
    "K4",
    "Top-down view from above the small wooden bed: the baby elephant wearing soft light-yellow pajamas with tiny white crescent moons, his trunk curled down on the pillow, curls up on his side under the starry blanket hugging the mint-green plush giraffe, his eyes slowly closing, warm lamp light. The main action is in the CENTER of the frame.",
-   "His eyes slowly close, the blanket rises and falls with his slow breathing and he snuggles deeper.",
+   "START: curled on his side hugging the giraffe → ACTION: his eyes slowly close (SLEEPY), he snuggles one small wiggle deeper, and the blanket rises and falls with slow breathing → END: asleep. Secondary: the mobile turns slowly above.",
    "cuarto",
    [
     "tito"
@@ -162,7 +162,7 @@
   [
    "N07",
    "Close-up of the round bedroom window from inside at night: a dark knobbly shape taps against the glass three times, the big moon glowing behind it, soft blue light. The main action is in the CENTER of the frame.",
-   "The dark shape taps on the glass, tap, tap, tap.",
+   "START: the dark knobbly shape outside the glass → ACTION: it taps the window exactly three times on the beat (toc, toc, toc), small and gentle → END: it rests against the glass. The moon glows behind it.",
    "cuarto",
    [
     "tito"
@@ -172,7 +172,7 @@
   [
    "N09",
    "Medium shot from inside the bedroom: Mamá Elefanta in her lilac dressing gown opens the round window wide with her trunk, cool moonlight and a soft breeze coming in, a leafy tree branch right outside the window. The main action is in the CENTER of the frame.",
-   "Mamá swings the round window open and the curtain flutters in the breeze. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "START: Mamá's trunk on the round window handle → ACTION: she swings the window open slowly → END: the window is open, the lilac curtains flutter in the breeze and a few fireflies drift outside. Both eyes stay open and calm with the same gentle expression the whole time.",
    "cuarto",
    [
     "tito",
@@ -183,7 +183,7 @@
   [
    "N10",
    "Close-up through the open round window at night: a small fluffy brown owl with big round orange eyes sits on the leafy branch that was tapping the glass, hooting with its beak open, the big moon and a few glowing fireflies behind it. The main action is in the CENTER of the frame.",
-   "The owl blinks its big orange eyes, hoots and fluffs its feathers.",
+   "START: the owl sits on the branch → ACTION: it blinks its big orange eyes once, opens its beak for one soft hoot (¡Uh-uh!), and fluffs its feathers → END: it settles with a closed-beak smile. Secondary: fireflies drift.",
    "ventana",
    [
     "tito"
@@ -193,7 +193,7 @@
   [
    "N11",
    "Low angle from the floor looking under the small wooden bed in the dark: two small round dots of glowing yellow light shine in the shadow under the bed, soft blue moonlight on the floorboards. The main action is in the CENTER of the frame.",
-   "The two little lights glow softly under the bed.",
+   "START: dark under the bed → ACTION: two small round yellow lights slowly glow brighter, then softer, twice → END: steady soft glow. Nothing else moves.",
    "cuarto",
    [
     "tito"
@@ -203,7 +203,7 @@
   [
    "N12",
    "Over-the-shoulder view from behind the baby elephant wearing soft light-yellow pajamas with tiny white crescent moons, his trunk hanging down below his mouth, as he bravely leans over the edge of his bed and looks down toward the dark space under the bed, his ears forward, moonlit room. The main action is in the CENTER of the frame.",
-   "He leans over the edge slowly and looks down, brave.",
+   "START: sitting on the bed edge → ACTION: he leans over slowly and looks down under the bed, ears forward, BRAVE (PROUD) face → END: he holds the look. Camera still behind him.",
    "cuarto",
    [
     "tito"
@@ -213,7 +213,7 @@
   [
    "N13",
    "Close-up of the baby elephant wearing soft light-yellow pajamas with tiny white crescent moons's trunk switching on a small yellow flashlight, a bright cone of light shining forward, his determined brave face behind it. The main action is in the CENTER of the frame.",
-   "The flashlight clicks on and a bright beam shines forward. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "START: the flashlight is off in his trunk → ACTION: on the beat it clicks on (¡clic!) and a bright cone of light shines forward → END: the beam is steady, his face determined with a closed smile. Both eyes stay open and calm with the same gentle expression the whole time.",
    "cuarto",
    [
     "tito"
@@ -223,7 +223,7 @@
   [
    "N14",
    "Low angle under the bed in the flashlight beam: a small shiny red toy fire truck with a little white ladder lies on the floor, its two round headlights glowing yellow, a few dust bunnies around it. The main action is in the CENTER of the frame.",
-   "The flashlight beam lands on the toy fire truck and its headlights glint.",
+   "START: dark floor under the bed → ACTION: the flashlight beam slides in from the left and lands on the red toy fire truck, and its two headlights glint once (¡Nii-noo!) → END: the truck is fully lit. The truck does not move.",
    "cuarto",
    [
     "tito"
@@ -233,7 +233,7 @@
   [
    "N15",
    "Close-up from the front in warm lamp light: the baby elephant wearing soft light-yellow pajamas with tiny white crescent moons lies in bed hugging the mint-green plush giraffe and the little red toy fire truck, waving goodnight with his trunk toward the window, sleepy smile. The main action is in the CENTER of the frame.",
-   "He waves goodnight with his trunk and yawns a big sleepy yawn. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "START: lying in bed hugging the giraffe and the toy truck → ACTION: he waves goodnight with his trunk twice toward the window, then gives a slow SLEEPY blink with a closed-mouth smile (no yawn) → END: head on the pillow. Both eyes stay open and calm with the same gentle expression the whole time.",
    "cuarto",
    [
     "tito"
@@ -243,7 +243,7 @@
   [
    "N16",
    "View from outside the round window at night: the big friendly moon glows above sleepy blue hills, the fluffy brown owl sits on the branch, and inside the window the baby elephant wearing soft light-yellow pajamas with tiny white crescent moons, his trunk curled down on the pillow, sleeps peacefully with his toys. The main action is in the CENTER of the frame.",
-   "The stars twinkle, the moon's glow pulses softly, the owl blinks slowly and the sleeping baby elephant's blanket rises and falls with his breathing.",
+   "START: calm night → ACTION: the stars twinkle, the moon's glow pulses softly, the owl blinks once slowly, and inside the window the sleeping baby elephant's blanket rises and falls → END: calm. Fireflies drift slowly.",
    "ventana",
    [
     "tito"

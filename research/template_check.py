@@ -36,6 +36,8 @@ for k, x in shots.items():
     if "baby elephant" in fl and "trunk" not in fl and "hand" not in fl: W.append(f"{k}: say where Tito's trunk is")
     if re.search(r"in his trunk|with his trunk", fl) and re.search(r"\bhand", fl): E.append(f"{k}: object held by trunk AND hand")
     if re.search(r"splash(es|ing)? (flying|up around)|frozen", fl): E.append(f"{k}: frozen splash in frame")
+    if not ("START" in m and "ACTION" in m and "END" in m): E.append(f"{k}: motion must be written as START → ACTION → END (research/17-motion-and-acting.md)")
+    if re.search(r"\byawn", m.lower()) and "no yawn" not in m.lower(): E.append(f"{k}: no open-mouth yawn (use SLEEPY face)")
     if re.search(r"\b(bites|eats|takes a bite|swallows)\b", m.lower()): E.append(f"{k}: eating inside a shot (object vanishes) — split into 2 shots")
 for k in (seq[2], seq[10]) if len(seq) > 10 else ():
     if re.search(r"\b(reveal|is a|it is)\b", shots[k][1].lower()): W.append(f"{k}: clue shot may reveal the answer")
