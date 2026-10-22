@@ -208,3 +208,9 @@
 **Hypotheses:** unchanged — new YouTube channel ≈ no exposure (supported, ~40 h flat); TikTok is where reach exists now.
 **Production (Roy's decision, running):** Halloween v8b (beat-synced cuts, new ending, C1 trunk fix) + 3 Shorts building; ep2 v3c pushed (QC pending) + TikTok cut A. A frame-rounding bug in assemble.py was found and fixed (cuts drifted up to 0.35 s off the beat).
 **What would justify more YouTube effort:** first organic movement on the Halloween upload (holiday search demand). Order: Halloween (24.10) → ep2 → ep3 rebuild (design bible).
+
+### Analysis meeting 14 — 22.10.2026 16:50 UTC (19:50 Israel) — analysis only
+**Data (vs meeting 13, 12:49 UTC):** ep2 "¡Buenos días, Tito!" (nWPm2InSAJo, uploaded 13:15 UTC public, Made for Kids) = 1 view after 3.5 h. All other videos unchanged (bath 16, hands 15, spaghetti 7, tower 7, basura 4, episode 1 4); channel 80 views (the API count lags; research log saw 82), 0 subscribers. Retention still only for tower (168%) and episode 1 (12.5%).
+**Hypotheses:** "new YouTube channel ≈ no exposure" strongly supported — even a finished, QC-passed long episode with NuNu-style metadata gets ~0 impressions in its first hours. Content quality is not the bottleneck on YouTube right now; distribution is (TikTok package #1 sent today).
+**Production (Roy's decisions):** Halloween FINAL + 3 Shorts delivered to Roy for the 24.10 upload; ep3 rebuild v3 in QC (4 fixes in progress: K1 trunk mask, N06 shadow, N09 window, N16 butterfly).
+**What would justify more YouTube effort:** first impressions on ep2 or Halloween (24.10, peak search week). Next check: ep2 views/impressions at +24 h.
