@@ -1,0 +1,34 @@
+[
+ {
+  "id": "ep3_N02_kf5_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Extreme close-up of a plain round frosted-glass bedside lamp (an ordinary lamp object with NO face, no eyes, no mouth) glowing warm on a wooden base with one small round button, standing on a wooden nightstand; the small rounded tip of a powder-blue elephant trunk enters from the left edge of the frame and gently touches the button. Dark navy wall with tiny golden stars softly blurred behind. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3_N02_kf5_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Extreme close-up of a plain round frosted-glass bedside lamp (an ordinary lamp object with NO face, no eyes, no mouth) glowing warm on a wooden base with one small round button, standing on a wooden nightstand; the small rounded tip of a powder-blue elephant trunk enters from the left edge of the frame and gently touches the button. Dark navy wall with tiny golden stars softly blurred behind. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3_N02_kf5_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Extreme close-up of a plain round frosted-glass bedside lamp (an ordinary lamp object with NO face, no eyes, no mouth) glowing warm on a wooden base with one small round button, standing on a wooden nightstand; the small rounded tip of a powder-blue elephant trunk enters from the left edge of the frame and gently touches the button. Dark navy wall with tiny golden stars softly blurred behind. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3_N02_kf5_44",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 44,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Extreme close-up of a plain round frosted-glass bedside lamp (an ordinary lamp object with NO face, no eyes, no mouth) glowing warm on a wooden base with one small round button, standing on a wooden nightstand; the small rounded tip of a powder-blue elephant trunk enters from the left edge of the frame and gently touches the button. Dark navy wall with tiny golden stars softly blurred behind. Wide 16:9 frame."
+ }
+]

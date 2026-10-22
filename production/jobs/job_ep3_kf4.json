@@ -1,0 +1,527 @@
+[
+ {
+  "id": "ep3_N01_kf4_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Wide shot of the same bedroom as the first reference image at night: the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face) stands beside the wooden nightstand and puts his small blue toothbrush into the little blue cup on the nightstand, while Mamá Elefanta from the reference image (lilac dressing gown, yellow flower behind her ear) stands by the bed holding up the corner of the starry blanket for him. Both smile, mouths closed. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "loc_cuarto_v3.jpg",
+    "tito_pajamas_master.jpg",
+    "mama_gown_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3_N01_kf4_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Wide shot of the same bedroom as the first reference image at night: the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face) stands beside the wooden nightstand and puts his small blue toothbrush into the little blue cup on the nightstand, while Mamá Elefanta from the reference image (lilac dressing gown, yellow flower behind her ear) stands by the bed holding up the corner of the starry blanket for him. Both smile, mouths closed. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "loc_cuarto_v3.jpg",
+    "tito_pajamas_master.jpg",
+    "mama_gown_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3_N01_kf4_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Wide shot of the same bedroom as the first reference image at night: the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face) stands beside the wooden nightstand and puts his small blue toothbrush into the little blue cup on the nightstand, while Mamá Elefanta from the reference image (lilac dressing gown, yellow flower behind her ear) stands by the bed holding up the corner of the starry blanket for him. Both smile, mouths closed. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "loc_cuarto_v3.jpg",
+    "tito_pajamas_master.jpg",
+    "mama_gown_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3_N02_kf4_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Extreme close-up of a small round warm bedside lamp with a round button on its wooden base, on a wooden nightstand, the lamp glowing warm; the tip of a small powder-blue elephant trunk comes in from the left side and touches the round button. Dark navy wall with golden stars blurred behind. No faces in the picture. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3_N02_kf4_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Extreme close-up of a small round warm bedside lamp with a round button on its wooden base, on a wooden nightstand, the lamp glowing warm; the tip of a small powder-blue elephant trunk comes in from the left side and touches the round button. Dark navy wall with golden stars blurred behind. No faces in the picture. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3_N02_kf4_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Extreme close-up of a small round warm bedside lamp with a round button on its wooden base, on a wooden nightstand, the lamp glowing warm; the tip of a small powder-blue elephant trunk comes in from the left side and touches the round button. Dark navy wall with golden stars blurred behind. No faces in the picture. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3_N03_kf4_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle from the foot of a small wooden bed at night, in a cozy bedroom at night with navy-blue walls with small golden stars, a starry navy blanket and a warm lamp: on the navy wall above the bed a HUGE soft dark-purple SHADOW shape with a very long neck, a round head and two small round horns (a giraffe silhouette) covers most of the wall; in the bed the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face) peeks over the edge of the starry blanket, only his eyes and ears visible, looking up at the shadow with wide curious eyes. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3_N03_kf4_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle from the foot of a small wooden bed at night, in a cozy bedroom at night with navy-blue walls with small golden stars, a starry navy blanket and a warm lamp: on the navy wall above the bed a HUGE soft dark-purple SHADOW shape with a very long neck, a round head and two small round horns (a giraffe silhouette) covers most of the wall; in the bed the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face) peeks over the edge of the starry blanket, only his eyes and ears visible, looking up at the shadow with wide curious eyes. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3_N03_kf4_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle from the foot of a small wooden bed at night, in a cozy bedroom at night with navy-blue walls with small golden stars, a starry navy blanket and a warm lamp: on the navy wall above the bed a HUGE soft dark-purple SHADOW shape with a very long neck, a round head and two small round horns (a giraffe silhouette) covers most of the wall; in the bed the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face) peeks over the edge of the starry blanket, only his eyes and ears visible, looking up at the shadow with wide curious eyes. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3_N06_kf4_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Over-the-shoulder view from behind the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face), who sits in his bed under the starry blanket; facing him Mamá Elefanta from the reference image (lilac dressing gown, yellow flower behind her ear) holds up a SMALL soft mint-green plush toy giraffe (a stuffed toy only as tall as his arm, with a short neck and tiny round horns) in front of the glowing bedside lamp, and on the navy wall behind her the giraffe's big shadow is clearly visible with the same long neck and two round horns. in a cozy bedroom at night with navy-blue walls with small golden stars, a starry navy blanket and a warm lamp. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg",
+    "mama_gown_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3_N06_kf4_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Over-the-shoulder view from behind the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face), who sits in his bed under the starry blanket; facing him Mamá Elefanta from the reference image (lilac dressing gown, yellow flower behind her ear) holds up a SMALL soft mint-green plush toy giraffe (a stuffed toy only as tall as his arm, with a short neck and tiny round horns) in front of the glowing bedside lamp, and on the navy wall behind her the giraffe's big shadow is clearly visible with the same long neck and two round horns. in a cozy bedroom at night with navy-blue walls with small golden stars, a starry navy blanket and a warm lamp. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg",
+    "mama_gown_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3_N06_kf4_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Over-the-shoulder view from behind the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face), who sits in his bed under the starry blanket; facing him Mamá Elefanta from the reference image (lilac dressing gown, yellow flower behind her ear) holds up a SMALL soft mint-green plush toy giraffe (a stuffed toy only as tall as his arm, with a short neck and tiny round horns) in front of the glowing bedside lamp, and on the navy wall behind her the giraffe's big shadow is clearly visible with the same long neck and two round horns. in a cozy bedroom at night with navy-blue walls with small golden stars, a starry navy blanket and a warm lamp. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg",
+    "mama_gown_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3_N07_kf4_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up of a round bedroom window from inside at night: a leafy tree branch with knobbly twigs and a few green leaves touches the outside of the glass, the big friendly glowing moon behind it, sheer lilac curtains at the sides, soft blue light. Only the branch and the moon, no creature, no person. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3_N07_kf4_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up of a round bedroom window from inside at night: a leafy tree branch with knobbly twigs and a few green leaves touches the outside of the glass, the big friendly glowing moon behind it, sheer lilac curtains at the sides, soft blue light. Only the branch and the moon, no creature, no person. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3_N07_kf4_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up of a round bedroom window from inside at night: a leafy tree branch with knobbly twigs and a few green leaves touches the outside of the glass, the big friendly glowing moon behind it, sheer lilac curtains at the sides, soft blue light. Only the branch and the moon, no creature, no person. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3_N11_kf4_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle from the floor looking into the dark space under a small wooden bed at night: deep in the shadow two small round dots of soft yellow light glow side by side (like two tiny headlights), soft blue moonlight on the wooden floorboards and the fringe of a cream cloud-shaped rug in the foreground. Nothing else. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3_N11_kf4_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle from the floor looking into the dark space under a small wooden bed at night: deep in the shadow two small round dots of soft yellow light glow side by side (like two tiny headlights), soft blue moonlight on the wooden floorboards and the fringe of a cream cloud-shaped rug in the foreground. Nothing else. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3_N11_kf4_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle from the floor looking into the dark space under a small wooden bed at night: deep in the shadow two small round dots of soft yellow light glow side by side (like two tiny headlights), soft blue moonlight on the wooden floorboards and the fringe of a cream cloud-shaped rug in the foreground. Nothing else. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3_N12_kf4_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. View from behind and slightly above the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face), who lies on his tummy on his bed and leans his head over the edge of the bed, looking down at the dark space under the bed, ears forward, brave; in a cozy bedroom at night with navy-blue walls with small golden stars, a starry navy blanket and a warm lamp, moonlight on the floor. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3_N12_kf4_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. View from behind and slightly above the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face), who lies on his tummy on his bed and leans his head over the edge of the bed, looking down at the dark space under the bed, ears forward, brave; in a cozy bedroom at night with navy-blue walls with small golden stars, a starry navy blanket and a warm lamp, moonlight on the floor. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3_N12_kf4_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. View from behind and slightly above the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face), who lies on his tummy on his bed and leans his head over the edge of the bed, looking down at the dark space under the bed, ears forward, brave; in a cozy bedroom at night with navy-blue walls with small golden stars, a starry navy blanket and a warm lamp, moonlight on the floor. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3_N13_kf4_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up of the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face) lying on his tummy on his bed in the dark, holding a small yellow flashlight in both hands, a bright cone of light shining forward and down toward the floor, his face determined and brave, mouth closed; moonlit navy room behind. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3_N13_kf4_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up of the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face) lying on his tummy on his bed in the dark, holding a small yellow flashlight in both hands, a bright cone of light shining forward and down toward the floor, his face determined and brave, mouth closed; moonlit navy room behind. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3_N13_kf4_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up of the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face) lying on his tummy on his bed in the dark, holding a small yellow flashlight in both hands, a bright cone of light shining forward and down toward the floor, his face determined and brave, mouth closed; moonlit navy room behind. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3_N14_kf4_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle under a bed in the dark, a bright flashlight beam shining in from the left: on the wooden floor lies a SMALL red toy fire truck (a little plastic toy as long as his hand, with a tiny white ladder), its two round headlights glinting yellow, a few soft grey dust bunnies around it, the bed frame above. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3_N14_kf4_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle under a bed in the dark, a bright flashlight beam shining in from the left: on the wooden floor lies a SMALL red toy fire truck (a little plastic toy as long as his hand, with a tiny white ladder), its two round headlights glinting yellow, a few soft grey dust bunnies around it, the bed frame above. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3_N14_kf4_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Low angle under a bed in the dark, a bright flashlight beam shining in from the left: on the wooden floor lies a SMALL red toy fire truck (a little plastic toy as long as his hand, with a tiny white ladder), its two round headlights glinting yellow, a few soft grey dust bunnies around it, the bed frame above. Wide 16:9 frame."
+ },
+ {
+  "id": "ep3_N15_kf4_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from the front of the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face) lying in his bed under the starry navy blanket, his head on a round pillow, hugging a SMALL soft mint-green plush toy giraffe (a stuffed toy only as tall as his arm, with a short neck and tiny round horns) and a SMALL red toy fire truck (a little plastic toy as long as his hand, with a tiny white ladder) against his chest, waving goodnight with one hand toward the window, a sleepy smile with his mouth closed; warm lamp light. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3_N15_kf4_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from the front of the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face) lying in his bed under the starry navy blanket, his head on a round pillow, hugging a SMALL soft mint-green plush toy giraffe (a stuffed toy only as tall as his arm, with a short neck and tiny round horns) and a SMALL red toy fire truck (a little plastic toy as long as his hand, with a tiny white ladder) against his chest, waving goodnight with one hand toward the window, a sleepy smile with his mouth closed; warm lamp light. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3_N15_kf4_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from the front of the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face) lying in his bed under the starry navy blanket, his head on a round pillow, hugging a SMALL soft mint-green plush toy giraffe (a stuffed toy only as tall as his arm, with a short neck and tiny round horns) and a SMALL red toy fire truck (a little plastic toy as long as his hand, with a tiny white ladder) against his chest, waving goodnight with one hand toward the window, a sleepy smile with his mouth closed; warm lamp light. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3_N16_kf4_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. View from OUTSIDE a round house window at night: the round window in a cozy cottage wall, a fluffy brown owl sitting on a leafy branch beside the window, the big friendly moon above; through the window we see inside the bedroom the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face) asleep in his bed under the starry blanket, his eyes closed, hugging a small plush giraffe. Only one owl. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3_N16_kf4_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. View from OUTSIDE a round house window at night: the round window in a cozy cottage wall, a fluffy brown owl sitting on a leafy branch beside the window, the big friendly moon above; through the window we see inside the bedroom the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face) asleep in his bed under the starry blanket, his eyes closed, hugging a small plush giraffe. Only one owl. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3_N16_kf4_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. View from OUTSIDE a round house window at night: the round window in a cozy cottage wall, a fluffy brown owl sitting on a leafy branch beside the window, the big friendly moon above; through the window we see inside the bedroom the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face) asleep in his bed under the starry blanket, his eyes closed, hugging a small plush giraffe. Only one owl. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3_K1_kf4_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot from the front: the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face) sits up proudly in his bed with the starry navy blanket over his legs, raising his trunk high happily, with a SMALL soft mint-green plush toy giraffe (a stuffed toy only as tall as his arm, with a short neck and tiny round horns) sitting beside him on the pillow; warm lamp light, in a cozy bedroom at night with navy-blue walls with small golden stars, a starry navy blanket and a warm lamp. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3_K1_kf4_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot from the front: the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face) sits up proudly in his bed with the starry navy blanket over his legs, raising his trunk high happily, with a SMALL soft mint-green plush toy giraffe (a stuffed toy only as tall as his arm, with a short neck and tiny round horns) sitting beside him on the pillow; warm lamp light, in a cozy bedroom at night with navy-blue walls with small golden stars, a starry navy blanket and a warm lamp. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3_K1_kf4_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Medium shot from the front: the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face) sits up proudly in his bed with the starry navy blanket over his legs, raising his trunk high happily, with a SMALL soft mint-green plush toy giraffe (a stuffed toy only as tall as his arm, with a short neck and tiny round horns) sitting beside him on the pillow; warm lamp light, in a cozy bedroom at night with navy-blue walls with small golden stars, a starry navy blanket and a warm lamp. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3_K2_kf4_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from the front: the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face) sits in his bed under the starry blanket hugging a SMALL soft mint-green plush toy giraffe (a stuffed toy only as tall as his arm, with a short neck and tiny round horns) tightly against his cheek, eyes closed, a big peaceful smile with his mouth closed; warm lamp light, in a cozy bedroom at night with navy-blue walls with small golden stars, a starry navy blanket and a warm lamp. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3_K2_kf4_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from the front: the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face) sits in his bed under the starry blanket hugging a SMALL soft mint-green plush toy giraffe (a stuffed toy only as tall as his arm, with a short neck and tiny round horns) tightly against his cheek, eyes closed, a big peaceful smile with his mouth closed; warm lamp light, in a cozy bedroom at night with navy-blue walls with small golden stars, a starry navy blanket and a warm lamp. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3_K2_kf4_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Close-up from the front: the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face) sits in his bed under the starry blanket hugging a SMALL soft mint-green plush toy giraffe (a stuffed toy only as tall as his arm, with a short neck and tiny round horns) tightly against his cheek, eyes closed, a big peaceful smile with his mouth closed; warm lamp light, in a cozy bedroom at night with navy-blue walls with small golden stars, a starry navy blanket and a warm lamp. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3_K3_kf4_11",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 11,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Side view close-up: the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face) lies on his back in his bed under the starry blanket, eyes softly closed, a calm little smile, his round tummy under the blanket; warm lamp light, in a cozy bedroom at night with navy-blue walls with small golden stars, a starry navy blanket and a warm lamp. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3_K3_kf4_22",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 22,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Side view close-up: the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face) lies on his back in his bed under the starry blanket, eyes softly closed, a calm little smile, his round tummy under the blanket; warm lamp light, in a cozy bedroom at night with navy-blue walls with small golden stars, a starry navy blanket and a warm lamp. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "ep3_K3_kf4_33",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 33,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. Side view close-up: the baby elephant from the reference image (same face, ears and light-yellow pajamas with tiny white crescent moons; his short trunk hangs down and never curls onto his face) lies on his back in his bed under the starry blanket, eyes softly closed, a calm little smile, his round tummy under the blanket; warm lamp light, in a cozy bedroom at night with navy-blue walls with small golden stars, a starry navy blanket and a warm lamp. Wide 16:9 frame.",
+  "video_prompt_type": "KI",
+  "inputs": {
+   "image_refs": [
+    "tito_pajamas_master.jpg"
+   ]
+  }
+ }
+]
