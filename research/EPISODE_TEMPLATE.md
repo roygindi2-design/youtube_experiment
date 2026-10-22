@@ -44,3 +44,9 @@ The set items and costumes must also appear in spec.json (locations + shot frame
 - Every shot's motion = START pose → ACTION (on which beat) → END pose; + secondary motion; + what stays still. Use the named moves (TUUU, HAPPY BOUNCE, SWAY, CLAP-CLAP, FREEZE, JUMP FOR JOY, NO-NO, THUMBS-UP, PEEKABOO, REAL WALK…) and faces (HAPPY SQUINT, SURPRISE O, CURIOUS, PROUD, SLEEPY…).
 - Chorus = one signature dance (4 named moves, one per line) ×3. Each verse: ≥1 big-body moment + ≥1 meaning gesture.
 - One main action per 5 s clip. No open-mouth laugh/yawn.
+
+## ז. Music ↔ picture sync (Roy 22.10 — research/sync_check.py)
+- Every cut lands ON a beat (song bpm grid; ±0.1 s). Goal ≥80% of cuts (v7 was 40% = random).
+- Each shot's main action peak (knock, trunk up, bow, landing, wave) lands on a beat, ideally the sound-word beat (¡toc! ¡Miau! ¡Flap! ¡Tuuu! ¡Toma!).
+- In the script, every shot's ACTION names its beat ("on beat 1 of the line", "on ¡toc!"). The editor slides the in-point inside the clean window to hit it.
+- Run `python3 research/sync_check.py <mp4> <bpm>` before sending a review copy.

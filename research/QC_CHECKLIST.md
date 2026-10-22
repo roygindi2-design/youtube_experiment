@@ -64,3 +64,6 @@ Story & feeling
 - [ ] Characters look at what they react to (eye line), and at each other when they talk.
 - [ ] The face matches the line: sad when the mouse has no candy, happy when sharing. No worried brows in happy moments.
 - [ ] Nobody appears or disappears without a reason (a door, an entrance, a cut to a new place).
+
+## 8. Sync (22.10)
+- [ ] research/sync_check.py: cuts on the beat ≥80%; the main action of each shot on a beat; sound words match the picture at that moment.

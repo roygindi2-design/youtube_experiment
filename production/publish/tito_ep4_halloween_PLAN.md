@@ -36,7 +36,9 @@ Why: question titles + a doors-surprise game win right now (Plim Plim "Juego de 
 | Mon 27.10 | C | mouse → Tito shares → both happy → goodbye | ¡Compartir es más dulce! 🎃🐭 #shorts | ¿Tú también compartes tus dulces? 💛 |
 Hashtags on each Short: #shorts #HalloweenParaNiños #CancionesInfantiles #Tito
 
-## 3. TikTok (parents; audience = Nicaragua / Honduras / El Salvador). Same 3 Shorts, same days, 19:00 Israel (= 11:00 Central America)
+## 3. TikTok — separate 12–20 s cuts (research/18-tiktok-lessons.md: avg watch was 3.8 s on a 32 s video)
+TikTok cuts (from the Shorts): T-A 10.8–24.0 (knock → kitten → candy in bucket) text "¿Quién está detrás de la puerta? 👀"; T-B 44.8–58.4 (knock → bat → candy) text "Adivina con tu peque: ¿quién es? 🦇"; T-C 82.4–97.2 (sad mouse → Tito shares → both happy) text "Así se enseña a compartir 💛". Text = one line, first 2 s, big, top third.
+### Captions (parents; audience = Nicaragua / Honduras / El Salvador). Same 3 Shorts, same days, 19:00 Israel (= 11:00 Central America)
 - A: "¿Quién está detrás de la puerta? 🎃 Tito sale a pedir dulces… ¡adivina con tu peque! 👶 Capítulo completo en YouTube: Cantilandia (link in bio) #halloween #halloweenparaniños #cancionesinfantiles #niños #mamás #dulceotruco #fyp"
 - B: "¡Toc, toc! ¿Quién es? 🦇 Un murcielaguito… ¡y un ratoncito sin dulces! ¿Qué hará Tito? 👀 #halloween #cancionesinfantiles #paraniños #mamásprimerizas #fyp"
 - C: "Tito comparte su dulce con el ratoncito 💛 ¡Compartir es más dulce! Una canción para enseñar a compartir 🎃 #compartir #crianza #cancionesinfantiles #halloween #fyp"
