@@ -1,0 +1,245 @@
+{
+ "out": "/home/user/youtube_experiment/production/episodes/tito_ep2/build/tito_ep2.mp4",
+ "song": "production/episodes/tito_ep2/assets/song_edit.wav",
+ "size": [
+  1920,
+  1080
+ ],
+ "clips": "/home/user/youtube_experiment/production/episodes/tito_ep2/",
+ "cuts": [
+  [
+   0,
+   2.9,
+   "shots_v3/tito_ep2_clip3_E19@7",
+   {
+    "in": 0.06,
+    "until": 2.96
+   }
+  ],
+  [
+   2.9,
+   5.3,
+   "shots_v3/tito_ep2_clip3_E20@7",
+   {
+    "in": 0.06,
+    "until": 2.46
+   }
+  ],
+  [
+   5.3,
+   9.6,
+   "shots_v3/tito_ep2_clip3_E02@7",
+   {
+    "in": 0.06,
+    "until": 4.36
+   }
+  ],
+  [
+   9.6,
+   13.8,
+   "shots_v3/tito_ep2_clip3_E03@7",
+   {
+    "in": 0.06,
+    "until": 4.26
+   }
+  ],
+  [
+   13.8,
+   17.8,
+   "shots_v2/tito_ep2_clip2_E04N@7",
+   {
+    "in": 0.06,
+    "until": 4.0
+   }
+  ],
+  [
+   17.8,
+   20.5,
+   "shots_v3/tito_ep2_clip3_E05@19",
+   {
+    "in": 0.06,
+    "until": 2.76
+   }
+  ],
+  [
+   20.5,
+   22.3,
+   "shots_v2/tito_ep2_clip2_E06@7",
+   {
+    "in": 0.06,
+    "until": 1.86
+   }
+  ],
+  [
+   22.3,
+   24.6,
+   "shots_v2/tito_ep2_clip2_E21F@7",
+   {
+    "in": 0.06,
+    "until": 2.36
+   }
+  ],
+  [
+   24.6,
+   26.3,
+   "shots_v2/tito_ep2_clip2_E22@7",
+   {
+    "in": 0.06,
+    "until": 1.76
+   }
+  ],
+  [
+   26.3,
+   30.3,
+   "shots_v2/tito_ep2_clip2_E09F@7",
+   {
+    "in": 0.06,
+    "until": 4.0
+   }
+  ],
+  [
+   30.3,
+   34.3,
+   "shots_v2/tito_ep2_clip2_E10N@7",
+   {
+    "in": 0.06,
+    "until": 4.0
+   }
+  ],
+  [
+   34.3,
+   38.3,
+   "shots_v2/tito_ep2_clip2_E11@7",
+   {
+    "in": 0.06,
+    "until": 4.0
+   }
+  ],
+  [
+   38.3,
+   39.8,
+   "shots_v3/tito_ep2_clip3_E12F@19",
+   {
+    "in": 0.06,
+    "until": 1.56
+   }
+  ],
+  [
+   39.8,
+   43.8,
+   "shots_v3/tito_ep2_clip3_E13@7",
+   {
+    "in": 0.06,
+    "until": 4.06
+   }
+  ],
+  [
+   43.8,
+   47.8,
+   "shots_v3/tito_ep2_clip3_E14@31",
+   {
+    "in": 0.06,
+    "until": 4.06
+   }
+  ],
+  [
+   47.8,
+   51.8,
+   "shots_v2/tito_ep2_clip2_E15@7",
+   {
+    "in": 0.06,
+    "until": 4.0
+   }
+  ],
+  [
+   51.8,
+   55.8,
+   "shots_v3/tito_ep2_clip3_E12F@7",
+   {
+    "in": 0.06,
+    "until": 4.06
+   }
+  ],
+  [
+   55.8,
+   59.8,
+   "shots_v2/tito_ep2_clip2_E23@19",
+   {
+    "in": 0.06,
+    "until": 4.0
+   }
+  ],
+  [
+   59.8,
+   64.6,
+   "shots_v3/tito_ep2_clip3_E16@7",
+   {
+    "in": 0.06,
+    "until": 4.86
+   }
+  ],
+  [
+   64.6,
+   68.3,
+   "shots_v3/tito_ep2_clip3_E16@19",
+   {
+    "in": 0.06,
+    "until": 3.76
+   }
+  ],
+  [
+   68.3,
+   72.3,
+   "shots_v2/tito_ep2_clip2_E17@7",
+   {
+    "in": 0.06,
+    "until": 4.0
+   }
+  ],
+  [
+   72.3,
+   76.3,
+   "shots_v3/tito_ep2_clip3_E18N@7",
+   {
+    "in": 0.06,
+    "until": 4.06
+   }
+  ],
+  [
+   76.3,
+   78.3,
+   "shots_v3/tito_ep2_clip3_E05@19",
+   {
+    "in": 0.06,
+    "until": 2.06
+   }
+  ],
+  [
+   78.3,
+   80.3,
+   "shots_v3/tito_ep2_clip3_E14@31",
+   {
+    "in": 0.06,
+    "until": 2.06
+   }
+  ],
+  [
+   80.3,
+   82.3,
+   "shots_v2/tito_ep2_clip2_E11@19",
+   {
+    "in": 0.06,
+    "until": 2.06
+   }
+  ],
+  [
+   82.3,
+   87.9,
+   "shots_v3/tito_ep2_clip3_E18N@7",
+   {
+    "in": 0.06,
+    "until": 4.99
+   }
+  ]
+ ]
+}
