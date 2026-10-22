@@ -95,3 +95,6 @@ Folder `production/episodes/<id>/` with `spec.json` + `SCRIPT.md`, plus `product
 **Seasonal:** Halloween yes; **no Día de Muertos** (Roy 22.10); **Navidad yes** — start writing by 25.11.
 
 **F. Studio control for Roy (22.10).** Every run: (1) set `queue.json` "now"/"next" and keep "▶ NOW" / "⏭ NEXT" in the Linear issue titles in sync; (2) keep improving every script that is NOT in production (template_check, research, Spanish, sync) and log what changed in its Linear issue; (3) when an issue moves to In Review, send Roy a push notification (PushNotification) + the files (SendUserFile) — "ready to check". Shared rules for both agents: `production/agents/STUDIO_WORKFLOW.md`.
+
+## G. Rich scripts (Roy 22.10)
+Every script needs `## Design bible` + `## Habit beat` (research/16-design-and-habits.md); template_check.py enforces it. In the 18:00 "refine scripts" slot, upgrade one script_ready script per day (order: tito_brocoli, rojito_arena, tito_paraguas, tito_frio_calor, Navidad ENG-17): richer sets, costumes that fit the moment, supporting-character sheets, background life, one rotated habit beat (handwashing returns every ~3 episodes).
