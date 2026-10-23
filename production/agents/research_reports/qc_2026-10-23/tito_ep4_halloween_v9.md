@@ -5,3 +5,5 @@
 |---|---|---|
 | 133.78–138.69 (the old v8c master slot, C4 tracking walk) | After O2 shows Tito + the mouse walking away together, this old slot shows Tito ALONE walking toward the camera on a different, darker street (red house) → the mouse vanishes, the street changes. Breaks the new ending. | Replace 133.78–138.69 with M4v9 (both happy) or a second O2 take (s19), so the outro stays "together". 138.69–143.60 (the front shot of Tito + mouse) is fine. |
 BKT is still the v8 shot (pending the re-make). With this fix + BKT (or v8 BKT as fallback) → FINAL.
+
+## Keyframes 3d4bacd — ✅ BKT_v9b PASS (candies in the bucket, nothing in the air, the bowl on the step). Clip watch: the orange bucket is held in front of the orange pumpkin costume → check that they don't merge into one shape; prefer takes where he lifts the bucket up to chest/face height. ✅ brocoli MO2 PASS (the monkey nibbles, Tito holds the empty plate by the basket). Clip watch: the trunk stays away from the plate.
