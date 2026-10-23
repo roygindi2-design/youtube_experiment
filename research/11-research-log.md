@@ -265,3 +265,8 @@ Data: research/market/halloween_titles_2026-10-22.json
 
 ## Run 2026-10-22 20:05 UTC
 - brocoli: all 19 keyframes PASS (after 4 Mamá/I2 fixes); clips rendering. Waiting on Roy: Halloween (ENG-14) + ep3 (ENG-15) in In Review.
+
+## Run 2026-10-23 08:05 UTC
+- Halloween v9: 21 clips done, picks QC'd (M3 pour, O2 walk OK); BKT keyframe re-make pending (fallback: the v8 BKT). Review copy ETA ~11–12 UTC. Brocoli v2: 25 clips on main, producer reviewing.
+- Scripts written overnight: rojito_arena v2 (Ruedas Locas), tito_paraguas v2 (Súper Tito), tito_frio_calor v2 (Puertas Mágicas), all template + preflight OK, waiting for Roy's OK.
+- GPU balance .67 (Roy).
