@@ -270,3 +270,12 @@ Data: research/market/halloween_titles_2026-10-22.json
 - Halloween v9: 21 clips done, picks QC'd (M3 pour, O2 walk OK); BKT keyframe re-make pending (fallback: the v8 BKT). Review copy ETA ~11–12 UTC. Brocoli v2: 25 clips on main, producer reviewing.
 - Scripts written overnight: rojito_arena v2 (Ruedas Locas), tito_paraguas v2 (Súper Tito), tito_frio_calor v2 (Puertas Mágicas), all template + preflight OK, waiting for Roy's OK.
 - GPU balance .67 (Roy).
+
+## Run 2026-10-23 10:05 UTC
+- QC: Halloween v9 final candidate FAIL (BKTv9b s31: leg smoke, handle in the trunk, costume vanishes; the sharing slot PASS) → producer rendering BKTv9c (4 seeds). Brocoli v2 r1 → r2: K4/R1/R2/MO PASS; r2 O1 tail FAIL (bib leaf printed on the plate, trunk in the plate) → asked for TU/G1 fill.
+- Scripts: deep pass (World design — deep, Shot bible, Sequence & punchline) on frio_calor, rojito_arena, tito_paraguas; new template §ט.
+- Market scan (14 d): "hábito" titles ×36 vs without; comida ×5.7; colores ×0.34 (saturated).
+- Outlier scan vehicles_rescue (60 d), top 5: Brigada Kids "Gato atrapado en un árbol" rescue 5.0M ×1698; Car Wheel Español "¿Qué figura necesita el camión de bomberos?" 5.6M ×200; RoboSquad "Superhero Bath Song" 1.8M ×202; Car Wheel "Autobús escolar — ruedas de formas extrañas" 5.0M ×181; Car Wheel "rueda con la forma equivocada" 2.3M ×81.
+- Common: one clear problem in second 0 (a kitten stuck, a wrong wheel), a choice the kid answers, tactile color bursts (ball pools), 20–40 s Shorts.
+- Rules: (1) the rescue problem goes in the title + thumbnail; (2) one tactile eye-candy burst per episode; (3) habit words in the title pay ×36.
+- Applied: rojito_arena v2.3 (K1 ball burst, kitten-first title).
