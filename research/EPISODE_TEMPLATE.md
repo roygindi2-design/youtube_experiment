@@ -59,3 +59,10 @@ The set items and costumes must also appear in spec.json (locations + shot frame
 - The key emotional moment (sharing / helping) gets its own 3–4 shot mini-scene with BOTH characters whole in frame. Never a floating arm or a hand-only insert for the key moment.
 - The same take max 2× in an episode; chorus repeats use the same move with different takes.
 - QC: the story check = setup → problem → 3 tries/reveals → punchline/moral visible on screen.
+
+## ט. Deep world + shot bible (Roy 23.10 — required for every new script)
+Every SCRIPT.md must also have:
+1. **World design — deep:** 2–3 zones of the place (each with props, colors, textures), the light arc (time of day / weather change), the background life list, the supporting characters' looks (a table when there are several, e.g. 4 mushroom types / 4 wheels), and the hero's relation to the place.
+2. **Shot bible table:** per shot — face (eyes, eyebrows, mouth), hands/body, environment, why kids watch.
+3. **Sequence & punchline:** the event chain in 4–6 steps, the big punchline, and the 3–5 most grabbing moments (thumbnail / Shorts candidates).
+Rule: always expand a little — each pass adds detail that makes the video cooler and more professional. The spec.json locations and frames must carry the same details.
