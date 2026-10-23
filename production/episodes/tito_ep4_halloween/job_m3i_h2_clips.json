@@ -1,0 +1,58 @@
+[
+ {
+  "id": "m3i_h2_clip_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Close-up: the small powder-blue hand, palm up, gently tilts, and the three wrapped candies slide off it one by one and drop a short way down into the yellow bucket, landing inside and staying there; the little grey paws hold the bucket steady; warm lantern light glows and the jack-o-lanterns flicker softly in the blurred background. Smooth gentle motion; the hand keeps its shape; objects keep their shape; no extra hands; no camera zoom, no morphing.",
+  "inputs": {
+   "image_start": "m3i_h2_kf2.jpg"
+  }
+ },
+ {
+  "id": "m3i_h2_clip_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Close-up: the small powder-blue hand, palm up, gently tilts, and the three wrapped candies slide off it one by one and drop a short way down into the yellow bucket, landing inside and staying there; the little grey paws hold the bucket steady; warm lantern light glows and the jack-o-lanterns flicker softly in the blurred background. Smooth gentle motion; the hand keeps its shape; objects keep their shape; no extra hands; no camera zoom, no morphing.",
+  "inputs": {
+   "image_start": "m3i_h2_kf2.jpg"
+  }
+ },
+ {
+  "id": "m3i_h2_clip_s31",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Close-up: the small powder-blue hand, palm up, gently tilts, and the three wrapped candies slide off it one by one and drop a short way down into the yellow bucket, landing inside and staying there; the little grey paws hold the bucket steady; warm lantern light glows and the jack-o-lanterns flicker softly in the blurred background. Smooth gentle motion; the hand keeps its shape; objects keep their shape; no extra hands; no camera zoom, no morphing.",
+  "inputs": {
+   "image_start": "m3i_h2_kf2.jpg"
+  }
+ },
+ {
+  "id": "m3i_h2_clip_s43",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 43,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Close-up: the small powder-blue hand, palm up, gently tilts, and the three wrapped candies slide off it one by one and drop a short way down into the yellow bucket, landing inside and staying there; the little grey paws hold the bucket steady; warm lantern light glows and the jack-o-lanterns flicker softly in the blurred background. Smooth gentle motion; the hand keeps its shape; objects keep their shape; no extra hands; no camera zoom, no morphing.",
+  "inputs": {
+   "image_start": "m3i_h2_kf2.jpg"
+  }
+ }
+]

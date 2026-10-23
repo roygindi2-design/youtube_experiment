@@ -40,3 +40,8 @@ Note: the clips are 97 frames = 4.0 s (not 5).
 | M3v10_s19 | ? | 0.05–2.0 | the hand moves toward the bucket with the candies; the trunk runs along his arm (check contact) |
 | M3v10_s7 | FAIL | | the trunk takes the candies and lifts them up |
 | M3v10_s31 | FAIL | | no visible drop; the face smears at 3.3 s |
+| m3i_v_s7 | PICK (vertical) | 0.05–4.0 | the palm tilts, the candies slide off and land in the yellow bucket 2.4–3.6 s |
+| m3i_v_s31 | alt | 0.05–4.0 | one candy drops in ~2.2 s; a leaf/blob at the top 0–0.8 s |
+| m3i_v_s19 | FAIL | | the candies stay on the palm, the bucket fills by itself |
+| m3i_v_s43 | FAIL | | candies fly up and land outside |
+| m3i_h2_kf2 | PICK kf (16:9) | | palm with candies over the opening, the mouse's paw on the rim, its face at the right |
