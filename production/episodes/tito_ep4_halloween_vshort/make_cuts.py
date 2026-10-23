@@ -14,7 +14,9 @@ W = {"VM1@31": (0.05, 4.0), "VM1@7": (0.05, 1.5), "VM2@7": (0.05, 1.5), "M3iv@31
      "VC1@7": (0.05, 4.0), "VC1@31": (0.05, 1.6), "VC2@43": (0.05, 3.3), "VC4@7": (0.05, 3.0)}
 # Roy option A (23.10): shorter, every take ONCE, all at 1.0x (each take trimmed down to whole beats), no repeats
 W["M3iv@31"] = (1.2, 3.95)
-plan = [("VM1@31", 7), ("VM2@7", 2), ("M3iv@31", 5), ("VM4@31", 7), ("VC1@7", 7), ("VC2@43", 5), ("VC4@7", 5)]
+# Roy 23.10 night: the jump hovered 2.4 s -> s19 both happy (4 beats), then ONE quick hop = s31 take-off + its descent/landing
+W["VM4@31"] = (0.2, 0.745); W["VM4@31b"] = (2.95, 4.041); W["VM4@19"] = (0.05, 2.25)
+plan = [("VM1@31", 7), ("VM2@7", 2), ("M3iv@31", 5), ("VM4@19", 4), ("VM4@31", 1), ("VM4@31b", 2), ("VC1@7", 7), ("VC2@43", 5), ("VC4@7", 5)]
 cuts, t, uses, bad = [], 0.0, {}, []
 for tok, beats in plan:
     e = round(t + beats * B, 3)
@@ -22,7 +24,8 @@ for tok, beats in plan:
     need = e - t
     if (u - i) < need - 1e-6:
         bad.append(f"{tok} {t:.3f}-{e:.3f} needs {need:.2f}s has {u - i:.2f}s (1.0x only)")
-    cuts.append([round(t, 3), e, tok, {"in": i, "until": round(i + need, 3)}])
+    real = tok[:-1] if tok.endswith("b") else tok  # "...b" = the other window of the same jump
+    cuts.append([round(t, 3), e, real, {"in": i, "until": round(i + need, 3)}])
     uses[tok] = uses.get(tok, 0) + 1
     t = e
 END = t
