@@ -301,12 +301,12 @@
    "shot": "MOv2@7"
   },
   {
-   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/build/v2src/O1_s57.mp4",
-   "in": 2.4,
+   "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/build/v2src/K3v2_s83.mp4",
+   "in": 1.0,
    "dur": 2.182,
-   "speed": 1.0,
-   "src_len": 2.182,
-   "shot": "O1@57"
+   "speed": 0.917,
+   "src_len": 2.0,
+   "shot": "K3v2@83"
   },
   {
    "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/build/v2src/O2_s19.mp4",
