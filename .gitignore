@@ -13,3 +13,6 @@ production/episodes/*/build/*.mp4
 production/episodes/*/design/*.wav
 production/episodes/*/shots/*.mp4
 production/episodes/*/qc/*.png
+
+# edit source link dirs (symlinks to local clips/masters)
+production/episodes/*/build/v*src/
