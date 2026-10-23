@@ -10,3 +10,5 @@
 | M4 | ✅ PASS | He put his bucket down to clap (logical), the mouse jumps with a full bucket; mouths open but no teeth: OK. |
 | O2 | ✅ PASS | Walking away holding hands, one moon, houses on both sides. |
 Clips can start for BKT, M3, M4, O2. In the clips, watch: M3 candies must FALL into the yellow bucket (no candies appearing out of nowhere), O2 must really travel (the houses pass by), M4 the mouse's jump lands.
+
+## Re-check 01:55 UTC (fb8b849) — ✅ C2 (one moon), D2 (the bat's pink-purple door, Tito whole, knocking), M2 (stem only). All 7 v9 keyframes PASS → clips.
