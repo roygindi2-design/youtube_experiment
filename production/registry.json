@@ -179,5 +179,20 @@
   "experiment": "first rescue_mission (KORIRI rescue vehicles 4.2M ×450, PequeGenios rescue ×1,027) + first animal friend for Rojito; the extending ladder is the hero's 'power'",
   "script_by": "research agent",
   "upload": "uploaded manually by Roy (YouTube app, location Mexico)"
+ },
+ {
+  "id": "tito_ep4_halloween",
+  "youtube_id": "Eo_PHQrLDs0",
+  "date": "2026-10-23",
+  "world": "Halloween night village street (orange/purple/mint houses, jack-o-lanterns, full moon)",
+  "series": [
+   "tito"
+  ],
+  "uploaded_utc": "22:20",
+  "opening": "halloween_knock_closed_door",
+  "pattern": "guess_interactive",
+  "experiment": "long episode v10: 'Toc, toc, ¿quién es?' + sharing by hand (insert close-up), 46 cuts on the beat",
+  "script_by": "research agent",
+  "upload": "yt.py by the research agent with Roy's OK (23.10)"
  }
 ]
