@@ -5,6 +5,8 @@
 | 2 | the hop (one quick jump) | Kling First & Last Frame 2.5 Turbo Pro, 5 s, first = last = vshort_VC1_kf1 | 35 (charged 35, not 55) | done: vshort_weave/hop_kling.mp4. One quick hop: up 0.8, top 1.0–1.2, landed 1.33; Tito holds his bucket throughout |
 | 3 | hand-in-hand walk keyframe | Nano Banana 2.1, 9:16, from vshort_VC4_kf0 | 3.5 | done: vshort_weave/walk_hands_kf.jpg (holding hands, yellow + orange buckets, from behind) -> researcher PASS, but ROY REJECTED: the mouse is in profile, small unclear face. Walk clip NOT run |
 | 4 | walk keyframe v2 (mouse from behind) | Nano Banana 2.1, 9:16, from walk_hands_kf | 3.5 | done: vshort_weave/walk_hands_kf2.jpg (both from behind, holding hands, the mouse's face not visible) |
-| 5 | walk clip, hand in hand | Kling Video 2.5 Turbo Pro, 9:16, 5 s, first_frame walk_hands_kf2 | 35 | running |
+| 5 | walk clip, hand in hand | Kling Video 2.5 Turbo Pro, 9:16, 5 s, first_frame walk_hands_kf2 | 35 | done: vshort_weave/walk_kling.mp4. They walk away hand in hand, steadily smaller to 5.0, never turn back, the mouse's face never shown |
 | 6 | opening walk keyframe (Tito alone toward the camera) | Nano Banana 2.1, 9:16, from vshort_VM2_kf0 | 3.5 | done: vshort_weave/open_walk_kf.jpg. Note: a small orange cap under the stem (costume drift) |
-**Total spent: 115.5 / 230**
+| 7 | opening keyframe fix (remove the orange cap) | Nano Banana 2.1 | 3.5 | done: vshort_weave/open_walk_kf2.jpg (green stem only) |
+| 8 | opening walk clip (tracking backward) | Kling Video 2.5 Turbo Pro, 9:16, 5 s, first_frame open_walk_kf2 | 35 | running |
+**Total spent: 154 / 230**
