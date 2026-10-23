@@ -83,3 +83,14 @@ Story & feeling
 - A transfer between characters (candy, food, a toy) is done BY HAND: take it in the hand → give it / put it in. Never pour or tip one container into another, never objects streaming through the air — it reads as fake.
 - QC asks for every hand action: "would a real child do it this way?" If not, FAIL — even when the frames are technically clean.
 - **Walk direction (Roy 23.10):** a walk must go ONE way. For every walking shot, check the character's size/position at 0.5 s steps (a timestamped strip): toward the camera = it only grows; away = only shrinks; sideways = x only moves one way. Any reversal (forward → back) = slow boomerang = FAIL, even when motion_check reports 0 ping-pong.
+
+## 12. FULL-PASS PROTOCOL (Roy 23.10 — "find ALL the defects")
+Misses this week that Roy caught: the candy POUR (unnatural), an eye-roll (Tito VM2), a hop that hung 2.4 s in the air, a bucket that vanished from his hand, a mouse that looked "odd", hands not really held, a walk that went forward then back. Rule from now on: no "PASS" until EVERY item below is done for EVERY second of the video.
+1. **Per-character pass at 8 fps, every second** (not samples): one strip per character. For each frame: both eyes (open/closed/rolling up/smeared), mouth, trunk (where, touching what), each hand (holding what, attached to the arm), feet (on the ground?), costume/props present.
+2. **Prop tracking:** list every prop (buckets, candies, cape…) and who holds it; check it is present + in the right hand in every frame; it may only change hands on screen.
+3. **Physics:** jumps — airborne ≤ 0.6 s, up then down; falling objects fall down and land inside/on something; no hovering, no objects in the air without a reason; walks — measure size/x every 0.25 s, one direction only.
+4. **Eyes rule:** any eye-roll, half-closed sleepy look, white eye, or face smear = FAIL (except a natural blink ≤ 0.2 s).
+5. **Contact:** "holding hands / giving / hugging" must show real contact (fingers/paw wrapped), not just near each other.
+6. **The 'would a real child do this?' pass:** watch each shot as a story beat: is the action natural, does it read in 1 second, does anything look strange or fake? If I have to explain it, FAIL.
+7. **Real-speed pass:** a full contact sheet at 2 fps of the whole video PLUS the 8 fps strips — both, every time, for the episode AND every Short/TikTok cut.
+8. **Report every doubt** to Roy as a doubt, never round it up to PASS.
