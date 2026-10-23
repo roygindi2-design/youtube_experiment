@@ -21,12 +21,12 @@
    "shot": "VM1@31"
   },
   {
-   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween_vshort/build/vsrc/v_VM1_s19.mp4",
-   "in": 0.2,
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween_vshort/build/vsrc/v_VM1_s7.mp4",
+   "in": 0.05,
    "dur": 1.636,
-   "speed": 0.856,
-   "src_len": 1.4,
-   "shot": "VM1@19"
+   "speed": 0.886,
+   "src_len": 1.449,
+   "shot": "VM1@7"
   },
   {
    "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween_vshort/build/vsrc/v_VM2_s7.mp4",

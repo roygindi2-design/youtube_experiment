@@ -9,11 +9,11 @@ from pathlib import Path
 D = Path(__file__).parent
 H = D.parent / "tito_ep4_halloween"
 B = 60 / 110
-W = {"VM1@31": (0.05, 4.0), "VM1@19": (0.2, 1.6), "VM2@7": (0.05, 1.5), "M3iv@31": (1.2, 4.0),
+W = {"VM1@31": (0.05, 4.0), "VM1@7": (0.05, 1.5), "VM2@7": (0.05, 1.5), "M3iv@31": (1.2, 4.0),
      "VM4@19": (0.05, 4.0), "VM4@19b": (1.2, 4.0), "VM4@31": (0.05, 4.0), "VM4@7": (0.05, 4.0),
      "VC1@7": (0.05, 4.0), "VC1@31": (0.05, 1.6), "VC2@43": (0.05, 3.3), "VC4@7": (0.05, 3.0)}
 # (token, beats); None = until the slot end
-plan = [("VM1@31", 7), ("VM1@19", 3),                     # 0-5.455 the sad mouse
+plan = [("VM1@31", 7), ("VM1@7", 3),                     # 0-5.455 the sad mouse
         ("VM2@7", 3),                                     # he kneels, sets his bucket down
         ("M3iv@31", 5), ("VM4@19", 2),                    # the hand-to-bucket insert, then both happy
         ("VM4@31", 7),                                    # the mouse jumps for joy
