@@ -16,7 +16,7 @@ D = Path(__file__).parent
 ROOT = D.parents[2]
 B = 60 / 110
 v8 = json.loads((D / "cuts.json").read_text())["cuts"]
-BKT_NEW = os.environ.get("BKT")  # e.g. "BKTv9b@7:0.05:4.0,BKTv9b@19:0.05:4.0" once the new clip exists
+BKT_NEW = os.environ.get("BKT", "BKTv9b@31:0.05:4.0,BKTv9b@31:0.05:4.0")  # e.g. "BKTv9b@7:0.05:4.0,BKTv9b@19:0.05:4.0" once the new clip exists
 
 
 def piece(tok, i, u):

@@ -28,3 +28,8 @@
 | MO_s19 | FAIL | | the hug merges Tito and the monkey 1.3–2.3 s |
 | MO_s31 | FAIL | | merge 1.3–2.3 s; then he holds the plate toward the monkey (not into the basket) |
 | → MO | WEAK | | only 1.6 s clean; the clean-up action (plate into the basket) not achieved in any take |
+| K4f_s43 | PICK | 0.05–4.0 | Mamá's hand pats his head, trunk curled up by her own face (chorus 2+3) |
+| K4f_s57 | OK-part | 0.05–2.4 | a huge butterfly flashes past the lens ~2.7 s |
+| MO2f_s19 | PICK | 0.05–4.0 | he puts the plate away by the basket; the monkey nibbles the carrot |
+| MO2f_s7 | NO | | the plate stays on the blanket (no clean-up) |
+| MO2f_s31 | FAIL | | leans into the monkey's face 1.3–2.0 s |

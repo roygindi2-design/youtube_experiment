@@ -1,0 +1,200 @@
+{
+ "stages": [
+  {
+   "stage": "gpu",
+   "t": 0,
+   "gpus": [
+    "NVIDIA GeForce RTX 4090, 24564 MiB"
+   ]
+  },
+  {
+   "stage": "installed",
+   "t": 216,
+   "torch": "2.8.0.dev20250319+cu128"
+  },
+  {
+   "stage": "wangp_session",
+   "t": 62
+  },
+  {
+   "stage": "wangp_done",
+   "t": 845
+  },
+  {
+   "stage": "finished",
+   "t": 1065,
+   "ok": 8,
+   "total": 8
+  }
+ ],
+ "tasks": [
+  {
+   "id": "tito_ep4_halloween_clip_BKTv9b_s7",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "960x544",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 7,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant lifts his orange jack-o-lantern bucket up proudly with both hands and looks into it, delighted; the candies inside sparkle and stay inside the bucket; he gives a small happy bounce. Background life: paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "pick_BKT_v9b.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/tito_ep4_halloween_clip_BKTv9b_s7.mp4"
+   ],
+   "seconds": 201.3
+  },
+  {
+   "id": "tito_ep4_halloween_clip_BKTv9b_s19",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "960x544",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 19,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant lifts his orange jack-o-lantern bucket up proudly with both hands and looks into it, delighted; the candies inside sparkle and stay inside the bucket; he gives a small happy bounce. Background life: paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "pick_BKT_v9b.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/tito_ep4_halloween_clip_BKTv9b_s19.mp4"
+   ],
+   "seconds": 82.0
+  },
+  {
+   "id": "tito_ep4_halloween_clip_BKTv9b_s31",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "960x544",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 31,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant lifts his orange jack-o-lantern bucket up proudly with both hands and looks into it, delighted; the candies inside sparkle and stay inside the bucket; he gives a small happy bounce. Background life: paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "pick_BKT_v9b.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/tito_ep4_halloween_clip_BKTv9b_s31.mp4"
+   ],
+   "seconds": 83.5
+  },
+  {
+   "id": "bro_clip2_MO2_s7",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "960x544",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 7,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby monkey nibbles its carrot stick happily; the baby elephant turns and puts the empty white plate into the little wooden basket beside him, then pats the clean blanket and smiles; his trunk hangs down and touches nothing. Background life: two butterflies flutter by, big leaves sway, the little waterfall sparkles. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "v2_MO2.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/bro_clip2_MO2_s7.mp4"
+   ],
+   "seconds": 82.9
+  },
+  {
+   "id": "bro_clip2_MO2_s19",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "960x544",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 19,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby monkey nibbles its carrot stick happily; the baby elephant turns and puts the empty white plate into the little wooden basket beside him, then pats the clean blanket and smiles; his trunk hangs down and touches nothing. Background life: two butterflies flutter by, big leaves sway, the little waterfall sparkles. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "v2_MO2.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/bro_clip2_MO2_s19.mp4"
+   ],
+   "seconds": 83.3
+  },
+  {
+   "id": "bro_clip2_MO2_s31",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "960x544",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 31,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby monkey nibbles its carrot stick happily; the baby elephant turns and puts the empty white plate into the little wooden basket beside him, then pats the clean blanket and smiles; his trunk hangs down and touches nothing. Background life: two butterflies flutter by, big leaves sway, the little waterfall sparkles. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "v2_MO2.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/bro_clip2_MO2_s31.mp4"
+   ],
+   "seconds": 84.1
+  },
+  {
+   "id": "bro_clip2_K4_s43",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "960x544",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 43,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Mamá Elefanta gently pats the top of his head twice with her hand; her long trunk stays curled up near her own face the whole time, far from him; the baby elephant smiles and sways once; both smile at each other with closed mouths. Background life: two butterflies flutter by, big leaves sway, the little waterfall sparkles. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "v2_K4.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/bro_clip2_K4_s43.mp4"
+   ],
+   "seconds": 82.9
+  },
+  {
+   "id": "bro_clip2_K4_s57",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "960x544",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 57,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Mamá Elefanta gently pats the top of his head twice with her hand; her long trunk stays curled up near her own face the whole time, far from him; the baby elephant smiles and sways once; both smile at each other with closed mouths. Background life: two butterflies flutter by, big leaves sway, the little waterfall sparkles. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "v2_K4.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/bro_clip2_K4_s57.mp4"
+   ],
+   "seconds": 82.7
+  }
+ ]
+}

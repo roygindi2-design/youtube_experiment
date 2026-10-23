@@ -24,3 +24,6 @@
 | O2v9_s19 | FAIL | | black blobs in the sky + a yellow flash at 0.8 s |
 | O2v9_s31 | PICK-2 | 0.05–3.9 | same walk, a second take for the long outro line |
 Note: the clips are 97 frames = 4.0 s (not 5).
+| BKTv9b_s31 | PICK | 0.05–4.0 | lifts the bucket to chest height, the bucket stays a separate shape, candies inside |
+| BKTv9b_s19 | FAIL | | jumps toward the camera (scale jump); the bucket merges with the costume |
+| BKTv9b_s7 | FAIL | | the bucket held in front of his face |

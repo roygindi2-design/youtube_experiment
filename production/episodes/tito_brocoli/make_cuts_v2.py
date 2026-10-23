@@ -13,9 +13,9 @@ D = Path(__file__).parent
 BEAT0, BEAT, END = 0.34, 60 / 110, 150.0
 snap = lambda t: t if t in (0.0, END) else round(BEAT0 + round((t - BEAT0) / BEAT) * BEAT, 3)
 K4B = os.environ.get("K4B", "K4f@43")   # chorus-2 K4 take (fix job)
-K4C = os.environ.get("K4C", "K4f@57")   # chorus-3 K4 take
-MO2 = os.environ.get("MO2", "MO2f@7")
-MO2B = os.environ.get("MO2B", "MO2f@19")
+K4C = os.environ.get("K4C", "K4f@43")   # chorus-3 K4 take
+MO2 = os.environ.get("MO2", "MO2f@19")
+MO2B = os.environ.get("MO2B", "TUv2@19")
 # token -> (in, until)
 W = {"I1@7": (0.05, 4.99), "I2@19": (0.05, 3.6), "I2@7": (0.05, 3.0), "Q@7": (0.05, 4.99), "Q@19": (0.05, 4.99),
      "G1@7": (0.05, 4.99), "G1@19": (0.05, 4.99), "G2@19": (0.05, 4.99), "G2@7": (0.05, 4.99),
