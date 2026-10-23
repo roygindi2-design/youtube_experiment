@@ -18,7 +18,7 @@ Owner: **Roy**. Write to Roy in **Hebrew**, short and simple. Write to the resea
    - `production/agents/research_reports/qc_2026-10-23/ROY_NOTES_halloween_brocoli.md`
 2. **RunPod billing check.** Run `python production/runpod/rp.py balance` and `python production/runpod/rp.py list`. If ANY pod is still running from the old session, terminate it (`rp.py down <name>`, or delete it via the RunPod API by id). An orphaned pod burns money. The balance was ~$10 on 22.10. If the work below needs more, tell Roy the estimate BEFORE starting.
 3. `python production/youtube/yt.py whoami`. If it says "Not authorized", tell Roy that YouTube upload auth needs to be redone. The token was in the dead container. Do NOT try to work around it.
-4. Send the researcher a hello so it knows your session id. It is session `session_013tRa97MeVWDWsZ4LbNbJ8t`; use `send_message` from the claude-code-remote MCP, priority "later". Say: "New producer session is up, reading the fix list."
+4. Send the researcher a hello so it knows your session id. It is session `session_013tRa97MeVWDWsZ4LbNbJ8t` (you = producer, currently session_01NZXnrU71tKZUYvUfeywUKg); use `send_message` from the claude-code-remote MCP, priority "later". Say: "New producer session is up, reading the fix list."
 
 ## 1. Roles (do not mix them)
 - **Research & Script agent** (session `session_013tRa97MeVWDWsZ4LbNbJ8t`, runs every 2 h). It owns:

@@ -1,69 +1,59 @@
-# SCRIPT — tito_frio_calor: ¡Tito, frío o calor! 🥶🥵 | #shorts
+# SCRIPT — tito_frio_calor v2 (23.10): ¡Las Puertas Mágicas de Tito! 🚪❄️☀️🌧️
+**Format:** long episode 16:9, song 2:30 (28 lines, 112 bpm), 3 Shorts (one per door) + TikTok. Template + preflight OK. The old Short version is kept in SCRIPT_short_v1.md / spec_short_v1.json.
+**Concept + evidence:** research/20-hooks-and-new-concepts.md (Concept A). Doctora Sophia "La Puerta Misteriosa de Colores" = 5.39M views/day (23.10); mystery doors = our Halloween structure.
+**Moral / punchline:** dress for the weather; and the best world of all is home: the small RED door opens onto Mamá's hug.
 
-**Pattern:** `lesson_consequence` · **Opening:** `frosty_face_icicle_trunk` · **World:** snowy hill with pine trees and a little snowman (white, ice blue) + a hot sunny savanna with an acacia tree and a small watering hole (golden, orange)
+## Design bible
+**Environment — living room (hub):** cream wall with three tall round doors (BLUE with frost patterns, YELLOW with a golden sun glow, GREEN with leaves and drops) + a small RED door at the side; a cat-shaped rug, a toy shelf, a sunny window with curtains; magic sparkles float around the doors.
+**Worlds:** SNOW (soft falling snow, snowy pines, a gentle hill, a snowman, a robin) · BEACH (golden sand, turquoise waves, palm trees, a crab, a seagull, a friendly dolphin) · RAIN (dripping big leaves, puddles on a mossy path, a tiny green frog, a butterfly hiding under a leaf) · KITCHEN (an orange lamp, a steaming cup, plants).
+**Palette & light:** each world has its own color = its door color (blue-white snow, golden beach, green rain), so kids link door → world; the living room is warm cream.
+**Costumes (the learning):** snow = red knitted hat + long striped blue scarf + puffy blue jacket; beach = overalls + straw sun hat + a blue water bottle; rain = yellow hooded raincoat + red rain boots + red umbrella; home/chorus = sunny-yellow overalls.
+**Supporting characters:** robin (snow), dolphin (beach, friendly grey, smiles), tiny green frog (rain), Mamá (only at the end).
+**Background life:** sparkles (hub), snowfall + the robin, waves + palm leaves + the crab + the seagull, rain + dripping leaves, steam from the cup.
+**Hero props:** 4 doors (fixed colors and shapes), the sled, the yellow surfboard, the red umbrella.
 
-**Experiment:** first 'VS / opposites' structure (Yes! Neo 'Cold VS Hot Challenge' 43.5M ×143; Hokie Pokie 'Opuestos' ×173): the same mistake twice in opposite worlds inside one Short
+## Habit beat
+Dressing for the weather (hat/scarf in the cold, a hat + WATER in the heat, a raincoat in the rain) — shown by the clothes flying on, never preached. **Hidden value:** helping others — Tito holds his umbrella over the tiny frog (R3).
 
-**Twist (visible):** two opposite mistakes with visible extreme states (frost + icicle in the snow, steam + sweat in the sun) — and the fix for the heat is Tito's own trunk used as a shower
+## Acting
+Every shot is START → ACTION → END in spec.json. Chorus signature dance (in the living room, overalls): K1 KNOCK-PEEK → K2 SPIN → K3 CLAP-CLAP + point at his clothes → K4 JUMP FOR JOY. Action moments: S3 sled ride, B3 surfing with a dolphin, R2 puddle jump (real movement, the background moves).
 
-**Moral:** ¡Ropa para el frío, ropa para el calor!
+## Timeline (28 lines)
+| # | section | lyric | shot | action |
+|---|---|---|---|---|
+| 1 | Intro | ¡Tres puertas mágicas! ¡Brillan, brillan! | I1 | on the beat the three doors light up one after another with sparkles, he jumps for joy (JUMP FOR JOY) |
+| 2 | Intro | ¿Qué hay detrás? ¡Vamos a ver! | Q | head tilts slowly (CURIOUS), one ear lifts, on '¿Qué será?' |
+| 3 | Verse 1 | ¡La puerta azul! ¡Toc, toc! | D1 | he knocks three times on the beat (toc, toc), frost sparkles grow around the door edges |
+| 4 | Verse 1 | ¿Qué será? ¿Qué será? | Q | head tilts slowly (CURIOUS), one ear lifts, on '¿Qué será?' |
+| 5 | Verse 1 | ¡Nieve! ¡Brrr! ¡Gorro y bufanda! | S1 | snowflakes land on him and he shivers with a funny 'brrr' wiggle on the beat |
+| 6 | Verse 1 | ¡Zuuum! ¡En trineo a jugar! | S3 | it slides down the hill on the beat ('¡Zuuum!'), the trees pass by, snow sprays |
+| 7 | Chorus | ¡Abro la puerta, ¿qué será?! | K1 | he knocks twice in the air on the beat, then peeks around his hand with a SURPRISE O face |
+| 8 | Chorus | ¡Frío, calor o lluvia, ya! | K2 | he spins once slowly on the beat, the sparkles swirling around him |
+| 9 | Chorus | ¡Me visto bien y a jugar! | K3 | two claps on the beat, then he points at his overalls proudly |
+| 10 | Chorus | ¡Tito sabe qué usar! | K4 | he jumps up with both arms raised on the beat and lands softly |
+| 11 | Verse 2 | ¡La puerta amarilla! ¡Toc, toc! | D2 | three knocks on the beat, warm golden light grows at the edges |
+| 12 | Verse 2 | ¿Qué será? ¿Qué será? | Q | head tilts slowly (CURIOUS), one ear lifts, on '¿Qué será?' |
+| 13 | Verse 2 | ¡Sol! ¡Uf, qué calor! ¡Fuera chamarra! | B1 | he fans himself with his hand and pulls off the scarf and jacket on the beat ('¡Fuera chamarra!'), the clothes |
+| 14 | Verse 2 | ¡Sombrero, agua y a nadar! | B3 | he glides along the wave on the beat, the dolphin jumps beside him in an arc |
+| 15 | Chorus | ¡Abro la puerta, ¿qué será?! | K1 | he knocks twice in the air on the beat, then peeks around his hand with a SURPRISE O face |
+| 16 | Chorus | ¡Frío, calor o lluvia, ya! | K2 | he spins once slowly on the beat, the sparkles swirling around him |
+| 17 | Chorus | ¡Me visto bien y a jugar! | K3 | two claps on the beat, then he points at his overalls proudly |
+| 18 | Chorus | ¡Tito sabe qué usar! | K4 | he jumps up with both arms raised on the beat and lands softly |
+| 19 | Verse 3 | ¡La puerta verde! ¡Plic, plic! | D3 | three knocks on the beat, a few raindrops sparkle from the door edges |
+| 20 | Verse 3 | ¡Lluvia! ¡Botas e impermeable! | R1 | on the beat ('plic, plic') he opens the red umbrella over his head and looks up at the rain |
+| 21 | Verse 3 | ¡Splash, splash! ¡En el charco! | R2 | he jumps into the puddle on the beat ('¡Splash, splash!'), water drops fly in a soft arc and fall back |
+| 22 | Verse 3 | ¡Ranita, ven! ¡Aquí no te mojas! | R3 | on '¡Ranita, ven!' Tito crouches and moves his umbrella over the frog, the rain stops falling on it |
+| 23 | Chorus | ¡Abro la puerta, ¿qué será?! | K1 | he knocks twice in the air on the beat, then peeks around his hand with a SURPRISE O face |
+| 24 | Chorus | ¡Frío, calor o lluvia, ya! | K2 | he spins once slowly on the beat, the sparkles swirling around him |
+| 25 | Chorus | ¡Me visto bien y a jugar! | K3 | two claps on the beat, then he points at his overalls proudly |
+| 26 | Chorus | ¡Tito sabe qué usar! | K4 | he jumps up with both arms raised on the beat and lands softly |
+| 27 | Outro | ¿Y la puerta roja? ¡Es mi casa! | H1 | he opens the red door slowly on the beat, warm light spills over him |
+| 28 | Outro | ¡Un abrazo de mamá! ¡Lo mejor! | H2 | Tito runs in and hugs her on the beat, she hugs him and sways once |
+Cutaways: S2 (dressing for snow) splits line 7 with S1; B2 (hat + water) splits line 16 with B3.
 
-## Beat table (~3–4 s per line, song_seconds 32; each line = what is on screen)
+## Shorts ("resolve one, open the next")
+A: I1 → blue door → snow → sled → chorus → ends on the YELLOW door knock. B: yellow door → beach gag (jacket in the sun) → surf → chorus → ends on the GREEN door knock. C: green door → rain → frog → chorus → the RED door → Mamá's hug.
+TikTok: 12–15 s "beach in a winter jacket" gag (B1) → text "Cuando tu peque elige la ropa solito 😂".
 
-| # | time | lyric (sung) | shot | framing + action | why it hooks (evidence) |
-|---|---|---|---|---|---|
-| 1 | 0–4s | ¡Brrr! ¡Tito está congelado! | F1 | Extreme close-up of the baby elephant's face on the snowy hill: His teeth chatter, he blinks, and the little icicle on his trunk wobbles. | Extreme state at 0 s — frozen face (Yes! Neo frame 0: boy frozen in ice, ×143) |
-| 2 | 4–8s | ¡Achú! ¡Qué frío, qué frío! | F2 | Low side view in deep snow on the snowy hill: He shivers and sneezes, a puff of snowflakes flies off his trunk. | The mistake + sneeze sound word |
-| 3 | 8–12s | ¡Gorro, bufanda y chamarra! | F3 | Medium shot, side view on the snowy hill: Mamá wraps the red scarf around his neck and he smiles, warm. | Mentor fixes; 3 named clothes = vocabulary (gorro, bufanda, chamarra) |
-| 4 | 12–16s | ¡Ahora sí, calientito! | F4 | Low angle from the snow: He slides down the hill on his tummy, laughing, snow spraying softly. | Reward: fun in the snow (visible warm state) |
-| 5 | 16–20s | ¡Uf! ¿Chamarra en el sol? | F5 | Wide shot of the hot sunny savanna: He trudges slowly through the hot grass in his winter clothes. | Opposite world — the same mistake again (VS / opuestos ×173) |
-| 6 | 20–24s | ¡Qué calor, qué calor! | F6 | Close-up of the baby elephant's face in the hot savanna: He fans himself with one big ear, sweat drops shining, steam puffing from his hat. | Opposite extreme state: steam + sweat |
-| 7 | 24–28s | ¡Agua y sombrero! ¡Splash! | F7 | View from behind the baby elephant at the little blue watering hole: He sprays water up from his trunk and it showers down over him, sparkling. | TWIST: trunk shower — only an elephant (splash ×3,598) |
-| 8 | 28–32s | ¿Frío o calor? ¡Ya sé! | F8 | Top-down view from above the acacia tree's round shade: He stretches happily in the shade and wiggles his ears. | Short last line + loop question (producer: last lines drop) |
-
-## Story beats
-
-1. Extreme close-up: Tito's face covered in frost, a little icicle on the tip of his trunk, teeth chattering (funny problem, second 0)
-2. He went out in the snow in only his overalls: he shivers and sneezes, achoo! (the mistake)
-3. Mamá Elefanta wraps him in a red knit hat, a scarf and a puffy orange jacket (mentor fixes)
-4. Now warm, Tito slides down the snowy hill on his tummy, laughing (reward 1)
-5. Then he walks into the hot sunny savanna STILL in the jacket, hat and scarf (the opposite mistake)
-6. Close-up: bright pink cheeks, sweat drops, little puffs of steam from his hat (consequence)
-7. Jacket off, straw sun hat on, he showers himself with water from his trunk, splash! (twist: his trunk is a shower)
-8. Top-down: Tito rests happily in the acacia shade in his sun hat (moral + loop)
-
-## Spanish check (Mexico, ages 1–4)
-
-- **chamarra** = jacket in Mexico (not 'chaqueta', which is vulgar slang in Mexico, nor Spain's 'cazadora'). **calientito** — warm Mexican diminutive.
-- **gorro, bufanda** — standard. **¡Achú!** — Spanish sneeze sound. **¿Chamarra en el sol?** — the question the child answers ('¡No!').
-- Last line short (3 words) per producer request.
-
-## IP check
-
-- Ice/frost: no ice castles, no snowman with a stick-arm face like Olaf (snowman has a carrot nose + red scarf only, no character role).
-
-## Production notes
-
-- The key action is never in a 'Wide' opener: F1 is an extreme close-up; F5 (wide) only needs Tito walking in his clothes.
-- Clothes are stated in CAPS on each change (F3, F4, F5, F7).
-
-## Worlds
-
-- **nieve:** A snowy hill on a bright winter day outdoors, vertical 9:16 composition, camera at child eye level: soft deep white snow, round snowy pine trees, a small friendly snowman with a carrot nose and a red scarf, gentle snowflakes falling, a pale ice-blue sky. Nobody is on the hill.
-- **sabana:** A hot sunny savanna outdoors, vertical 9:16 composition, camera at child eye level: golden dry grass, one wide flat-topped acacia tree giving a round patch of shade, a small sparkling blue watering hole, a big bright yellow sun in a clear orange-blue sky, soft heat shimmer. Nobody is in the savanna.
-
-## Continuity
-
-snow world F1-F4 (snowflakes falling), savanna F5-F8 (bright sun); Tito: yellow overalls only F1-F2 (frost F1); + red knit hat, red scarf, puffy orange jacket F3-F6 (steam/sweat F6); jacket, hat and scarf on a rock in F7; straw sun hat + overalls F7-F8 (wet in F8); Mamá only F3 (lilac winter coat)
-
-## Risks
-
-See production/dossiers/tito_frio_calor.md.
-
-## Update 21.10 14:20 — liquid & life rules (producer _general.md)
-- No frozen splash in a keyframe: frames show the moment BEFORE; the splash/flow happens in `motion`. Sleeping/static shots get life (breathing blanket, twinkling stars).
-
-## Update 21.10 22:10 — face rules (researcher QC review)
-- Close-up/medium motions end with: "Both eyes stay open and calm with the same gentle expression the whole time." (one-frame blinks/winks looked like popping eyes in ep2).
-- 'laughing / big grin' → 'smiling sweetly with his mouth closed' (open laughs produced teeth and warped faces).
-- Question shots show only the clue, never the answer.
+## Spanish check (Mexico)
+chamarra (MX), impermeable, botas, gorro, bufanda, trineo, ranita: common Mexican toddler words; sound words: toc toc, brrr, zuuum, uf, plic plic, splash.

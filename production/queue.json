@@ -116,11 +116,23 @@
   "next": [
     {
       "id": "tito_brocoli",
-      "why": "v2 — Roy 23.10 fixes (front NO-NO, K4 hand, repetition, life, toucan + monkey)"
+      "why": "v2 — Roy 23.10 fixes"
+    },
+    {
+      "id": "tito_frio_calor",
+      "why": "v2 'Las Puertas Mágicas' (research/20, concept A; template + preflight OK 23.10) — after Halloween + brocoli, needs Roy's OK"
+    },
+    {
+      "id": "rojito_arena",
+      "why": "to be rewritten as 'Rojito y las Ruedas Locas' (research/20, concept B)"
+    },
+    {
+      "id": "tito_paraguas",
+      "why": "to be rewritten as 'Súper Tito al Rescate' (research/20, concept C)"
     },
     {
       "id": "navidad",
-      "why": "concept waiting for Roy's OK (research/19)"
+      "why": "concept waiting for Roy (research/19)"
     }
   ],
   "_workflow": "See production/agents/STUDIO_WORKFLOW.md. 'now'/'next' are set by the researcher every run; the producer works on 'now' first."
