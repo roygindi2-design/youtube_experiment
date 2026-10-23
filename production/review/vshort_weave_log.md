@@ -8,5 +8,5 @@
 | 5 | walk clip, hand in hand | Kling Video 2.5 Turbo Pro, 9:16, 5 s, first_frame walk_hands_kf2 | 35 | done: vshort_weave/walk_kling.mp4. They walk away hand in hand, steadily smaller to 5.0, never turn back, the mouse's face never shown |
 | 6 | opening walk keyframe (Tito alone toward the camera) | Nano Banana 2.1, 9:16, from vshort_VM2_kf0 | 3.5 | done: vshort_weave/open_walk_kf.jpg. Note: a small orange cap under the stem (costume drift) |
 | 7 | opening keyframe fix (remove the orange cap) | Nano Banana 2.1 | 3.5 | done: vshort_weave/open_walk_kf2.jpg (green stem only) |
-| 8 | opening walk clip (tracking backward) | Kling Video 2.5 Turbo Pro, 9:16, 5 s, first_frame open_walk_kf2 | 35 | running |
+| 8 | opening walk clip (tracking backward) | Kling Video 2.5 Turbo Pro, 9:16, 5 s, first_frame open_walk_kf2 | 35 | done: vshort_weave/open_kling.mp4. A real tracking shot: the houses + lanterns pass, Tito walks toward the camera swinging his bucket |
 **Total spent: 154 / 230**
