@@ -94,3 +94,6 @@ Halloween = 31.10. **Roy 22.10: the finished episode goes to Roy by 24.10, 18:00
 ## Continuity
 
 Halloween night in every shot; Tito ALWAYS in the orange pumpkin costume with green stem cap; candy bucket in his RIGHT hand: empty (H02), then 1+ candies (from BKT on), full (M2); doors CLOSED in D1/D2, open in V1/V2; kitten only V1; bat only V2; mouse M1–M4 and O2 (yellow star costume, bucket empty in M1–M3 before the drop, with candy in M4); Mamá only H01 and O1
+
+## v10 (Roy 23.10 14:20) — the sharing beat by HAND
+Roy: the candy POUR (M3) looks very strange and unnatural. New beat: Tito kneels, sets his own bucket on the ground, takes a small handful of candies IN HIS HAND and gently puts it into the mouse's yellow bucket (a short drop from his open fingers; the mouse holds the bucket up with both paws). No tipping/pouring a bucket. Trunk stays down, away from both buckets. M2 END: he sets his bucket down beside him (free hand). Shorts C + TikTok A must be re-cut after the fix.

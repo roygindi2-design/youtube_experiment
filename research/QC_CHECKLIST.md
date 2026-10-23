@@ -78,3 +78,7 @@ Story & feeling
 - [ ] Profile/turn shots: both eyes + trunk stay readable; a turn that loses an eye or the trunk = FAIL.
 - [ ] Two characters touching: trunks/faces must not merge.
 - [ ] The story is readable without sound: setup → problem → reveals → punchline; the moral moment is big and clear.
+
+## 11. Natural actions (Roy 23.10)
+- A transfer between characters (candy, food, a toy) is done BY HAND: take it in the hand → give it / put it in. Never pour or tip one container into another, never objects streaming through the air — it reads as fake.
+- QC asks for every hand action: "would a real child do it this way?" If not, FAIL — even when the frames are technically clean.
