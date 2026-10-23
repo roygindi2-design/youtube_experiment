@@ -293,3 +293,9 @@ Data: research/market/halloween_titles_2026-10-22.json
 - Own channel: 83 views / 16 videos; ep2 nWPm2InSAJo 3, ep3 QFLm2ZcK8-w 1, Short A 0 — flat.
 - Navidad scan (30 d): only Mundo Canticuentos (9.4M subs) posting villancico Shorts, best ×6.2 (85K). The season hasn't started for smaller channels → no outliers yet. Plan stays: Navidad episode ready by ~15.11, upload ~20–25.11, Shorts in December (2025 scan: the peak is 1–24.12).
 - Rule: do not spend GPU on Navidad before Roy picks it; the evergreen concepts (Rojito ×1698 rescue, doors 238M) come first.
+
+## Run 2026-10-23 16:05 UTC (production slot)
+- Roy stopped the Halloween upload (14:20): the candy POUR looked unnatural → v10 hand-to-bucket. Clips failed twice (Wan pulls the trunk to the hand; candies landed outside) → solution = an INSERT close-up (hand + bucket only): vertical m3i_v s31 PASS (1.2–4.0); 16:9 insert keyframe re-roll pending (costume continuity).
+- Roy: cropped verticals look too close → native 9:16 vertical Short approved (tito_ep4_halloween_vshort, 8 shots); keyframes QC'd (5 PASS, VM4/VC2/VC3 derived from passed frames).
+- Rules added: QC §11 natural actions (hand transfers only, "would a real child do this?"); template §י native vertical Short; inserts are the fix when a character's face/trunk keeps interfering with a hand action.
+- Channel: flat (see numbers). GPU balance ~$3.60.
