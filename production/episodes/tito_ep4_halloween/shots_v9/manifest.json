@@ -9,27 +9,27 @@
   },
   {
    "stage": "installed",
-   "t": 137,
+   "t": 160,
    "torch": "2.8.0.dev20250319+cu128"
   },
   {
    "stage": "wangp_session",
-   "t": 55
+   "t": 60
   },
   {
    "stage": "wangp_done",
-   "t": 530
+   "t": 684
   },
   {
    "stage": "finished",
-   "t": 670,
-   "ok": 3,
-   "total": 3
+   "t": 848,
+   "ok": 4,
+   "total": 4
   }
  ],
  "tasks": [
   {
-   "id": "tito_ep4_halloween_clip_BOWLv9_s7",
+   "id": "tito_ep4_halloween_clip_M3v10_s7",
    "settings": {
     "model_type": "ti2v_2_2",
     "resolution": "960x544",
@@ -38,19 +38,19 @@
     "guidance_scale": 5,
     "flow_shift": 5,
     "seed": 7,
-    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Close-up of a little bowl of colorful wrapped candies on a stone doorstep at night, glowing jack-o-lanterns beside it. The candies glisten in the warm flickering lantern light, the jack-o-lanterns glow and flicker softly, a few autumn leaves drift down past the bowl, the camera slowly pushes in toward the bowl. Smooth natural motion; objects keep their shape; exactly what is described and no characters; no morphing.",
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant kneels with his open palm facing up, a few wrapped candies resting on it, right above the mouse's yellow bucket. He moves his hand a little over the middle of the yellow bucket, then on the beat he gently tilts his palm and the candies slide off it and drop a short way into the yellow bucket and stay inside; then his empty hand returns to his knee. His trunk stays curled down against his chest the whole time. The mouse holds its bucket up with both paws and looks in with happy, wide eyes. Background life: paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
     "inputs": {
-     "image_start": "pick_BOWL_v9.jpg"
+     "image_start": "pick_M3_v10.jpg"
     }
    },
    "status": "ok",
    "files": [
-    "out/tito_ep4_halloween_clip_BOWLv9_s7.mp4"
+    "out/tito_ep4_halloween_clip_M3v10_s7.mp4"
    ],
-   "seconds": 187.1
+   "seconds": 188.7
   },
   {
-   "id": "tito_ep4_halloween_clip_BOWLv9_s19",
+   "id": "tito_ep4_halloween_clip_M3v10_s19",
    "settings": {
     "model_type": "ti2v_2_2",
     "resolution": "960x544",
@@ -59,19 +59,19 @@
     "guidance_scale": 5,
     "flow_shift": 5,
     "seed": 19,
-    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Close-up of a little bowl of colorful wrapped candies on a stone doorstep at night, glowing jack-o-lanterns beside it. The candies glisten in the warm flickering lantern light, the jack-o-lanterns glow and flicker softly, a few autumn leaves drift down past the bowl, the camera slowly pushes in toward the bowl. Smooth natural motion; objects keep their shape; exactly what is described and no characters; no morphing.",
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant kneels with his open palm facing up, a few wrapped candies resting on it, right above the mouse's yellow bucket. He moves his hand a little over the middle of the yellow bucket, then on the beat he gently tilts his palm and the candies slide off it and drop a short way into the yellow bucket and stay inside; then his empty hand returns to his knee. His trunk stays curled down against his chest the whole time. The mouse holds its bucket up with both paws and looks in with happy, wide eyes. Background life: paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
     "inputs": {
-     "image_start": "pick_BOWL_v9.jpg"
+     "image_start": "pick_M3_v10.jpg"
     }
    },
    "status": "ok",
    "files": [
-    "out/tito_ep4_halloween_clip_BOWLv9_s19.mp4"
+    "out/tito_ep4_halloween_clip_M3v10_s19.mp4"
    ],
-   "seconds": 144.0
+   "seconds": 145.0
   },
   {
-   "id": "tito_ep4_halloween_clip_BOWLv9_s31",
+   "id": "tito_ep4_halloween_clip_M3v10_s31",
    "settings": {
     "model_type": "ti2v_2_2",
     "resolution": "960x544",
@@ -80,16 +80,37 @@
     "guidance_scale": 5,
     "flow_shift": 5,
     "seed": 31,
-    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Close-up of a little bowl of colorful wrapped candies on a stone doorstep at night, glowing jack-o-lanterns beside it. The candies glisten in the warm flickering lantern light, the jack-o-lanterns glow and flicker softly, a few autumn leaves drift down past the bowl, the camera slowly pushes in toward the bowl. Smooth natural motion; objects keep their shape; exactly what is described and no characters; no morphing.",
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant kneels with his open palm facing up, a few wrapped candies resting on it, right above the mouse's yellow bucket. He moves his hand a little over the middle of the yellow bucket, then on the beat he gently tilts his palm and the candies slide off it and drop a short way into the yellow bucket and stay inside; then his empty hand returns to his knee. His trunk stays curled down against his chest the whole time. The mouse holds its bucket up with both paws and looks in with happy, wide eyes. Background life: paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
     "inputs": {
-     "image_start": "pick_BOWL_v9.jpg"
+     "image_start": "pick_M3_v10.jpg"
     }
    },
    "status": "ok",
    "files": [
-    "out/tito_ep4_halloween_clip_BOWLv9_s31.mp4"
+    "out/tito_ep4_halloween_clip_M3v10_s31.mp4"
    ],
-   "seconds": 143.8
+   "seconds": 145.2
+  },
+  {
+   "id": "tito_ep4_halloween_clip_M3v10_s43",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "960x544",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 43,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant kneels with his open palm facing up, a few wrapped candies resting on it, right above the mouse's yellow bucket. He moves his hand a little over the middle of the yellow bucket, then on the beat he gently tilts his palm and the candies slide off it and drop a short way into the yellow bucket and stay inside; then his empty hand returns to his knee. His trunk stays curled down against his chest the whole time. The mouse holds its bucket up with both paws and looks in with happy, wide eyes. Background life: paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "pick_M3_v10.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/tito_ep4_halloween_clip_M3v10_s43.mp4"
+   ],
+   "seconds": 145.0
   }
  ]
 }

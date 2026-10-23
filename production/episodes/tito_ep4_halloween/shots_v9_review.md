@@ -36,3 +36,7 @@ Note: the clips are 97 frames = 4.0 s (not 5).
 | BOWLv9_s7 | PICK | 0.05–2.25 | same bowl, soft sparkles (slot 2) |
 | BOWLv9_s19 | FAIL | | green flash ~0.5 s |
 | → BKT slots | trim | | BKTv9c s97 0.05–0.6 → bowl → s97 end (2.3+), so the trunk-in-bucket part (0.5–2.2) never shows |
+| M3v10_s43 | PICK-part | 0.05–1.9 | candies drop from his hand into the yellow bucket ~1.3 s; after ~2 s the trunk stretches out sideways |
+| M3v10_s19 | ? | 0.05–2.0 | the hand moves toward the bucket with the candies; the trunk runs along his arm (check contact) |
+| M3v10_s7 | FAIL | | the trunk takes the candies and lifts them up |
+| M3v10_s31 | FAIL | | no visible drop; the face smears at 3.3 s |
