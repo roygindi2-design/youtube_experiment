@@ -66,3 +66,6 @@ Every SCRIPT.md must also have:
 2. **Shot bible table:** per shot — face (eyes, eyebrows, mouth), hands/body, environment, why kids watch.
 3. **Sequence & punchline:** the event chain in 4–6 steps, the big punchline, and the 3–5 most grabbing moments (thumbnail / Shorts candidates).
 Rule: always expand a little — each pass adds detail that makes the video cooler and more professional. The spec.json locations and frames must carry the same details.
+
+## י. Native vertical Short (Roy 23.10 — required)
+Verticals are NOT cropped from the 16:9 master (too close, cut characters). Every episode gets one native 9:16 Short (~30–40 s, the strongest story beat, the episode's own audio slice with cuts on the master's beat grid): a separate `production/episodes/<id>_vshort/spec.json` with orientation "portrait", every frame composed for 9:16 (characters whole and large). The same file goes to YouTube Shorts + TikTok. Template: tito_ep4_halloween_vshort.
