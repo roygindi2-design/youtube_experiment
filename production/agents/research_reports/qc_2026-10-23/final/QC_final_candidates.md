@@ -34,3 +34,8 @@
 - 126.3–128.6 K3 v2 s83 joy: clean (no plate, no trunk contact).
 - Full 2 fps pass + zooms: no new issues. Minor: the bib icon is an orange in the tomato close-up (100–103.5), a leaf elsewhere. Not blocking.
 - Next: deliver copy + Shorts A/B/C + TikTok A → my QC → Roy.
+
+## Brocoli v2 Shorts (2bf55b4)
+- Auto (all 4): 0 ping-pong, 0 static, 0 black; 1080x1920.
+- Short A (ends on R2): PASS. Short B (ends on R3): PASS. TikTok A (refusal → broccoli forest, 13 s): PASS.
+- **Short C — FAIL (one shot):** ~16–20 s, Mamá hands Tito the plate: the pan between them leaves a floating blue arm with no body in frame (~17 s), then Tito's head half behind Mamá's trunk, both faces cut (bro_shortC_plate_crop_fail.jpg). Fix: hold the crop still on Tito for this shot (his whole head + the plate arriving, x≈0.35–0.40), no pan. Minor: the K3 joy close-up (~37 s) loses the raised arms in the vertical crop — acceptable.
