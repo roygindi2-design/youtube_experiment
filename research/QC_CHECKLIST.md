@@ -82,3 +82,4 @@ Story & feeling
 ## 11. Natural actions (Roy 23.10)
 - A transfer between characters (candy, food, a toy) is done BY HAND: take it in the hand → give it / put it in. Never pour or tip one container into another, never objects streaming through the air — it reads as fake.
 - QC asks for every hand action: "would a real child do it this way?" If not, FAIL — even when the frames are technically clean.
+- **Walk direction (Roy 23.10):** a walk must go ONE way. For every walking shot, check the character's size/position at 0.5 s steps (a timestamped strip): toward the camera = it only grows; away = only shrinks; sideways = x only moves one way. Any reversal (forward → back) = slow boomerang = FAIL, even when motion_check reports 0 ping-pong.
