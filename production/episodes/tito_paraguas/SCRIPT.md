@@ -101,3 +101,8 @@ TikTok: 12 s — the ears umbrella moment → text "Cuando tu peque quiere ser s
 
 ## Spanish check
 "patito mojadito", "conejita", "trompa/trompón", "nido", "¡a cenar!", "arcoíris": natural Mexican kids' Spanish.
+
+## v2.3 (23.10 research) — evidence + small upgrade
+- **Superhero-helper format validated:** Niños Chaka "¡Un Amigo Superhéroe Ayuda a los Niños!" 1.88M ×190; Hokie Pokie "Cuando Papá Superhéroe No Está" 3.3M ×94; Bebefinn "Equipo de Superhéroes, Vamos a Ayudar!" 20.2M ×55.
+- **What the winners share:** a visible TRANSFORMATION moment (the character spins into the hero costume in a burst of light), then a quick chain of small rescues.
+- **H2 upgrade:** on "¡Súper Tito ya!" a swirl of golden sparkles spins around him once (the transformation flash) as the cape flutters up. Thumbnail candidate = this frame.

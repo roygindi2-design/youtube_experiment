@@ -117,3 +117,7 @@ TikTok: 12–15 s "beach in a winter jacket" gag (B1) → text "Cuando tu peque 
 
 ## Spanish check (Mexico)
 chamarra (MX), impermeable, botas, gorro, bufanda, trineo, ranita: common Mexican toddler words; sound words: toc toc, brrr, zuuum, uf, plic plic, splash.
+
+## v2.3 (23.10 research) — evidence
+- **The door concept is one of the biggest kids' Shorts formats right now:** Doctora Sophia "La Puerta Misteriosa de Colores" — 238.7M views (×180 the channel median). RoboSquad "Desafío de la puerta mágica" 88K (new).
+- **Title/thumbnail:** lead with the doors + a question: "¿Qué hay detrás de la puerta mágica? 🚪❄️☀️🌧️ | Canciones Infantiles". Thumbnail = the 3 glowing doors + Tito peeking, the blue door half-open with snow blowing out.

@@ -279,3 +279,11 @@ Data: research/market/halloween_titles_2026-10-22.json
 - Common: one clear problem in second 0 (a kitten stuck, a wrong wheel), a choice the kid answers, tactile color bursts (ball pools), 20–40 s Shorts.
 - Rules: (1) the rescue problem goes in the title + thumbnail; (2) one tactile eye-candy burst per episode; (3) habit words in the title pay ×36.
 - Applied: rojito_arena v2.3 (K1 ball burst, kitten-first title).
+
+## Run 2026-10-23 12:05 UTC
+- Delivered today: brocoli v2 + Halloween v9 (episode + 3 Shorts + TikTok each), QC PASS, both with Roy (ENG-14/ENG-18 In Review), waiting for his upload OK. GPU off ($4.75).
+- Own channel: 83 views / 16 videos / 0 subs (+3 since 22.10 20:00). ep3 QFLm2ZcK8-w 1 view, Short A AsGbWnPNnAU 0 views after 4 h — still no organic push.
+- Outlier scan hero_rain (60 d), top: Doctora Sophia "La Puerta Misteriosa de Colores" 238.7M ×180; Bebefinn "Equipo de Superhéroes, Vamos a Ayudar!" 20.2M ×55; Hokie Pokie "Cuando Papá Superhéroe No Está" 3.3M ×94; Niños Chaka "¡Un Amigo Superhéroe Ayuda a los Niños!" 1.88M ×190; RoboSquad "Superhero Bath Song" 1.83M ×198.
+- Common: a visible transformation moment (spin + light burst into the hero costume), then quick small rescues; door = mystery + choice.
+- Rules: (1) every hero episode gets a transformation flash shot (thumbnail frame); (2) door/mystery titles with a question.
+- Applied: tito_paraguas v2.3 (H2 sparkle transformation), tito_frio_calor v2.3 (evidence + title/thumbnail). Fixed outlier_scan.py crash on videos without a duration (live/upcoming).

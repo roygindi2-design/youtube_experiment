@@ -53,7 +53,7 @@ for q in QUERIES:
     r = get("search", part="id", q=q, type="video", videoDuration="short", order="viewCount", publishedAfter=after,
             regionCode="MX", relevanceLanguage="es", maxResults=50, safeSearch="strict")
     ids |= {i["id"]["videoId"] for i in r.get("items", [])}
-cands = [v for v in videos(sorted(ids)) if secs(v["contentDetails"]["duration"]) <= 61]
+cands = [v for v in videos(sorted(ids)) if secs(v.get("contentDetails", {}).get("duration", "PT9H")) <= 61]
 chan_ids = sorted({v["snippet"]["channelId"] for v in cands})
 chans = {}
 for k in range(0, len(chan_ids), 50):
