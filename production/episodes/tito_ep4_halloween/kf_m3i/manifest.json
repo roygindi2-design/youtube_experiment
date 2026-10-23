@@ -1,0 +1,158 @@
+{
+ "stages": [
+  {
+   "stage": "gpu",
+   "t": 0,
+   "gpus": [
+    "NVIDIA GeForce RTX 4090, 24564 MiB"
+   ]
+  },
+  {
+   "stage": "installed",
+   "t": 192,
+   "torch": "2.8.0.dev20250319+cu128"
+  },
+  {
+   "stage": "wangp_session",
+   "t": 50
+  },
+  {
+   "stage": "wangp_done",
+   "t": 101
+  },
+  {
+   "stage": "finished",
+   "t": 296,
+   "ok": 6,
+   "total": 6
+  }
+ ],
+ "tasks": [
+  {
+   "id": "m3i_h_kf0",
+   "settings": {
+    "model_type": "flux2_klein_4b",
+    "resolution": "1280x720",
+    "num_inference_steps": 4,
+    "seed": 101,
+    "video_prompt_type": "KI",
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Close-up INSERT shot at the height of the bucket on the Halloween village street, warm lantern light, soft bokeh of jack-o-lanterns behind: a small powder-blue cartoon baby elephant HAND, open and palm up, holding three colorful wrapped candies, just above a small YELLOW plastic bucket with a star on it that is held up by two little grey mouse paws; the bucket is EMPTY. Only the hand, the candies, the bucket and the paws are visible, nothing else of the characters. The main action is in the CENTER of the frame. The same hand, candies, bucket and paws as the reference image, seen closer. Only the hand, the candies, the yellow bucket and the paws; the Halloween night street softly blurred behind. Wide 16:9 frame.",
+    "inputs": {
+     "image_refs": [
+      "ref_m3i_h.jpg"
+     ]
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/m3i_h_kf0.jpg"
+   ],
+   "seconds": 29.1
+  },
+  {
+   "id": "m3i_h_kf1",
+   "settings": {
+    "model_type": "flux2_klein_4b",
+    "resolution": "1280x720",
+    "num_inference_steps": 4,
+    "seed": 202,
+    "video_prompt_type": "KI",
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Close-up INSERT shot at the height of the bucket on the Halloween village street, warm lantern light, soft bokeh of jack-o-lanterns behind: a small powder-blue cartoon baby elephant HAND, open and palm up, holding three colorful wrapped candies, just above a small YELLOW plastic bucket with a star on it that is held up by two little grey mouse paws; the bucket is EMPTY. Only the hand, the candies, the bucket and the paws are visible, nothing else of the characters. The main action is in the CENTER of the frame. The same hand, candies, bucket and paws as the reference image, seen closer. Only the hand, the candies, the yellow bucket and the paws; the Halloween night street softly blurred behind. Wide 16:9 frame.",
+    "inputs": {
+     "image_refs": [
+      "ref_m3i_h.jpg"
+     ]
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/m3i_h_kf1.jpg"
+   ],
+   "seconds": 4.0
+  },
+  {
+   "id": "m3i_h_kf2",
+   "settings": {
+    "model_type": "flux2_klein_4b",
+    "resolution": "1280x720",
+    "num_inference_steps": 4,
+    "seed": 303,
+    "video_prompt_type": "KI",
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Close-up INSERT shot at the height of the bucket on the Halloween village street, warm lantern light, soft bokeh of jack-o-lanterns behind: a small powder-blue cartoon baby elephant HAND, open and palm up, holding three colorful wrapped candies, just above a small YELLOW plastic bucket with a star on it that is held up by two little grey mouse paws; the bucket is EMPTY. Only the hand, the candies, the bucket and the paws are visible, nothing else of the characters. The main action is in the CENTER of the frame. The same hand, candies, bucket and paws as the reference image, seen closer. Only the hand, the candies, the yellow bucket and the paws; the Halloween night street softly blurred behind. Wide 16:9 frame.",
+    "inputs": {
+     "image_refs": [
+      "ref_m3i_h.jpg"
+     ]
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/m3i_h_kf2.jpg"
+   ],
+   "seconds": 4.0
+  },
+  {
+   "id": "m3i_v_kf0",
+   "settings": {
+    "model_type": "flux2_klein_4b",
+    "resolution": "720x1280",
+    "num_inference_steps": 4,
+    "seed": 101,
+    "video_prompt_type": "KI",
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Close-up INSERT shot at the height of the bucket on the Halloween village street, warm lantern light, soft bokeh of jack-o-lanterns behind: a small powder-blue cartoon baby elephant HAND, open and palm up, holding three colorful wrapped candies, just above a small YELLOW plastic bucket with a star on it that is held up by two little grey mouse paws; the bucket is EMPTY. Only the hand, the candies, the bucket and the paws are visible, nothing else of the characters. The main action is in the CENTER of the frame. The same hand, candies, bucket and paws as the reference image, seen closer. Only the hand, the candies, the yellow bucket and the paws; the Halloween night street softly blurred behind. Vertical 9:16 frame.",
+    "inputs": {
+     "image_refs": [
+      "ref_m3i_v.jpg"
+     ]
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/m3i_v_kf0.jpg"
+   ],
+   "seconds": 5.2
+  },
+  {
+   "id": "m3i_v_kf1",
+   "settings": {
+    "model_type": "flux2_klein_4b",
+    "resolution": "720x1280",
+    "num_inference_steps": 4,
+    "seed": 202,
+    "video_prompt_type": "KI",
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Close-up INSERT shot at the height of the bucket on the Halloween village street, warm lantern light, soft bokeh of jack-o-lanterns behind: a small powder-blue cartoon baby elephant HAND, open and palm up, holding three colorful wrapped candies, just above a small YELLOW plastic bucket with a star on it that is held up by two little grey mouse paws; the bucket is EMPTY. Only the hand, the candies, the bucket and the paws are visible, nothing else of the characters. The main action is in the CENTER of the frame. The same hand, candies, bucket and paws as the reference image, seen closer. Only the hand, the candies, the yellow bucket and the paws; the Halloween night street softly blurred behind. Vertical 9:16 frame.",
+    "inputs": {
+     "image_refs": [
+      "ref_m3i_v.jpg"
+     ]
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/m3i_v_kf1.jpg"
+   ],
+   "seconds": 4.0
+  },
+  {
+   "id": "m3i_v_kf2",
+   "settings": {
+    "model_type": "flux2_klein_4b",
+    "resolution": "720x1280",
+    "num_inference_steps": 4,
+    "seed": 303,
+    "video_prompt_type": "KI",
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Close-up INSERT shot at the height of the bucket on the Halloween village street, warm lantern light, soft bokeh of jack-o-lanterns behind: a small powder-blue cartoon baby elephant HAND, open and palm up, holding three colorful wrapped candies, just above a small YELLOW plastic bucket with a star on it that is held up by two little grey mouse paws; the bucket is EMPTY. Only the hand, the candies, the bucket and the paws are visible, nothing else of the characters. The main action is in the CENTER of the frame. The same hand, candies, bucket and paws as the reference image, seen closer. Only the hand, the candies, the yellow bucket and the paws; the Halloween night street softly blurred behind. Vertical 9:16 frame.",
+    "inputs": {
+     "image_refs": [
+      "ref_m3i_v.jpg"
+     ]
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/m3i_v_kf2.jpg"
+   ],
+   "seconds": 4.0
+  }
+ ]
+}
