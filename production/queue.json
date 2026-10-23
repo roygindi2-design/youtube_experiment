@@ -1,139 +1,135 @@
 {
-  "_doc": "Shared work queue. Research agent (scriptwriter) owns status 'researching'/'script_ready'/'script_revised'. Producer agent owns 'in_production'/'qc'/'published'/'needs_rewrite'. Each agent only edits its own statuses. Producer feedback: production/feedback/<id>.md.",
-  "items": [
-    {
-      "id": "tito_ep4_halloween",
-      "status": "script_ready",
-      "owner": "research",
-      "priority": 1,
-      "deadline": "2026-10-24 15:00 UTC (18:00 Israel) — episode to Roy; Shorts 25–27.10",
-      "note": "TIME-CRITICAL Halloween long episode (Roy loves the seasonal focus). 'Toc, toc, ¿quién es?' x3 doors (kitten, bat, mouse with empty bucket -> Tito shares). 18 unique shots, all used. See SCRIPT.md. preflight OK. | Roy 22.10: deadline 24.10 evening Israel; ONLY episode in work now. Template check OK (BKT/V1/V2 fixed: candies in bowls, candy falls from above)."
-    },
-    {
-      "id": "tito_ep3_dormir",
-      "status": "script_ready",
-      "owner": "research",
-      "priority": 1,
-      "note": "NEW STRATEGY (Roy 21.10): first LONG episode, 16:9. Song ~2:30 (3 verses + same chorus x3, shots K1-K4 reused) + '+ más canciones' compilation (~8-10 min). 3 Shorts cut later (verse+chorus each, 9:16 center crop). See SCRIPT.md. preflight OK."
-    },
-    {
-      "id": "rojito_arena",
-      "status": "script_ready",
-      "owner": "research",
-      "note": "mystery: eyes blinking in a sand mound, Rojito washes it clue by clue -> sea turtle. Beach. Diente Gigante +3.9M, Huella Mágica x1150. One vehicle per frame only. | revised 04:20: song_seconds 32 + IP check (arena turtle peach-orange, not Crush-green; paraguas chick -> bunny, not Pollito Pío). | paused before production"
-    },
-    {
-      "id": "tito_brocoli",
-      "status": "script_ready",
-      "owner": "research",
-      "note": "refusal -> 'they are little trees' -> Tito a giant in a broccoli forest (pretend location). Jungle picnic. preflight OK. | revised 04:20: song_seconds 32 + IP check (arena turtle peach-orange, not Crush-green; paraguas chick -> bunny, not Pollito Pío). | paused before production"
-    },
-    {
-      "id": "tito_paraguas",
-      "status": "script_ready",
-      "owner": "research",
-      "note": "sharing in the rain: Tito's ears become a second umbrella for a wet chick; rain -> rainbow. preflight OK. | revised 04:20: song_seconds 32 + IP check (arena turtle peach-orange, not Crush-green; paraguas chick -> bunny, not Pollito Pío). | paused before production"
-    },
-    {
-      "id": "tito_frio_calor",
-      "status": "script_ready",
-      "owner": "research",
-      "note": "Cold VS Hot: frozen (frost, icicle) in the snow without a jacket -> Mamá dresses him -> overheats in the sun in the jacket -> trunk shower. Yes! Neo 43.5M x143. song_seconds 32. preflight OK. | paused before production"
-    },
-    {
-      "id": "rojito_ciudad",
-      "status": "published",
-      "owner": "producer",
-      "note": "NuNu 'X hace Y' vehicle-sound song; guess_interactive; city + construction pit. spec+SCRIPT+dossier+upload draft, preflight OK 20.10 23:00. NOTE producer: hero.one adapted so a friend vehicle can share the frame with Rojito; check Rojito stays red in storyboard.",
-      "youtube_id": "8nOHHIv1pCM"
-    },
-    {
-      "id": "tito_dormir",
-      "status": "script_ready",
-      "owner": "research",
-      "note": "D1 hook frame shows no scary shadow — see production/feedback/tito_dormir.md (only D1) | 06:20 D1 rewritten: low angle (no location ref), HUGE dark-purple long-neck shadow as the subject, Tito tiny in the corner. Only D1 needs a new keyframe. | paused before production | 21.10: superseded by tito_ep3_dormir (long episode); its Shorts come from ep3."
-    },
-    {
-      "id": "tito_basura",
-      "status": "published",
-      "owner": "producer",
-      "note": "uploaded manually by Roy (YouTube app, location Mexico)",
-      "youtube_id": "G-gSjH36CLA"
-    },
-    {
-      "id": "rojito_rescate",
-      "status": "published",
-      "owner": "producer",
-      "note": "uploaded manually by Roy (YouTube app, location Mexico)",
-      "youtube_id": "vMMAiXfyiOg"
-    },
-    {
-      "id": "tito_mesa",
-      "status": "published",
-      "owner": "producer",
-      "note": "table manners: Tito slurps spaghetti up his trunk, Mamá's fork-twirl trick. Fastest-growing topic 21.10 (+7.1M / +6.9M). One location (patio). preflight OK.",
-      "youtube_id": "l5anda4GTTI"
-    },
-    {
-      "id": "tito_halloween",
-      "status": "published",
-      "owner": "producer",
-      "note": "director mode rewrite done; keyframes next",
-      "youtube_id": "ciFVmSg0KBw"
-    },
-    {
-      "id": "rojito_ruedas",
-      "status": "published",
-      "owner": "producer",
-      "note": "redo of unlisted ep1 in director mode",
-      "youtube_id": "C55q68WPT2o"
-    },
-    {
-      "id": "tito_ep2",
-      "status": "qc",
-      "owner": "producer",
-      "note": "QC PASS — prepared for MANUAL upload by Roy (no API upload)"
-    },
-    {
-      "id": "rojito_barro",
-      "status": "published",
-      "owner": "producer",
-      "note": "uploads 23:35 UTC 20.10",
-      "youtube_id": "AOZCCuEFUK4"
-    },
-    {
-      "id": "rojito_colores",
-      "status": "published",
-      "owner": "producer",
-      "youtube_id": "0WpO8lYXsEU"
-    }
-  ],
-  "_paused": "21.10 ~12:00 IL — Roy: production PAUSED, analysis only. No GPU, no uploads. Ready but held: tito_ep2, tito_basura, rojito_rescate. Researcher: focus on analysis (why new videos get 0 views); no need for new scripts until Roy resumes.",
-  "now": {
-    "id": "tito_ep4_halloween",
-    "why": "v9 — Roy 23.10 fixes (sharing mini-scene M2–M4+O2, bucket held, no floating arms). Halloween = 31.10."
+ "_doc": "Shared work queue. Research agent (scriptwriter) owns status 'researching'/'script_ready'/'script_revised'. Producer agent owns 'in_production'/'qc'/'published'/'needs_rewrite'. Each agent only edits its own statuses. Producer feedback: production/feedback/<id>.md.",
+ "items": [
+  {
+   "id": "tito_ep4_halloween",
+   "status": "script_ready",
+   "owner": "research",
+   "priority": 1,
+   "deadline": "2026-10-24 15:00 UTC (18:00 Israel) — episode to Roy; Shorts 25–27.10",
+   "note": "TIME-CRITICAL Halloween long episode (Roy loves the seasonal focus). 'Toc, toc, ¿quién es?' x3 doors (kitten, bat, mouse with empty bucket -> Tito shares). 18 unique shots, all used. See SCRIPT.md. preflight OK. | Roy 22.10: deadline 24.10 evening Israel; ONLY episode in work now. Template check OK (BKT/V1/V2 fixed: candies in bowls, candy falls from above)."
   },
-  "next": [
-    {
-      "id": "tito_brocoli",
-      "why": "v2 — Roy 23.10 fixes"
-    },
-    {
-      "id": "tito_frio_calor",
-      "why": "v2 'Las Puertas Mágicas' (research/20, concept A; template + preflight OK 23.10) — after Halloween + brocoli, needs Roy's OK"
-    },
-    {
-      "id": "rojito_arena",
-      "why": "v2 'Rojito y las Ruedas Locas' full script (research/20 concept B; template + preflight OK 23.10) — needs Roy's OK"
-    },
-    {
-      "id": "tito_paraguas",
-      "why": "v2 'Súper Tito al Rescate' full script (research/20 concept C; template + preflight OK 23.10) — needs Roy's OK"
-    },
-    {
-      "id": "navidad",
-      "why": "concept waiting for Roy (research/19)"
-    }
-  ],
-  "_workflow": "See production/agents/STUDIO_WORKFLOW.md. 'now'/'next' are set by the researcher every run; the producer works on 'now' first."
+  {
+   "id": "tito_ep3_dormir",
+   "status": "script_ready",
+   "owner": "research",
+   "priority": 1,
+   "note": "NEW STRATEGY (Roy 21.10): first LONG episode, 16:9. Song ~2:30 (3 verses + same chorus x3, shots K1-K4 reused) + '+ más canciones' compilation (~8-10 min). 3 Shorts cut later (verse+chorus each, 9:16 center crop). See SCRIPT.md. preflight OK."
+  },
+  {
+   "id": "rojito_arena",
+   "status": "script_ready",
+   "owner": "research",
+   "note": "mystery: eyes blinking in a sand mound, Rojito washes it clue by clue -> sea turtle. Beach. Diente Gigante +3.9M, Huella Mágica x1150. One vehicle per frame only. | revised 04:20: song_seconds 32 + IP check (arena turtle peach-orange, not Crush-green; paraguas chick -> bunny, not Pollito Pío). | paused before production"
+  },
+  {
+   "id": "tito_brocoli",
+   "status": "script_ready",
+   "owner": "research",
+   "note": "refusal -> 'they are little trees' -> Tito a giant in a broccoli forest (pretend location). Jungle picnic. preflight OK. | revised 04:20: song_seconds 32 + IP check (arena turtle peach-orange, not Crush-green; paraguas chick -> bunny, not Pollito Pío). | paused before production"
+  },
+  {
+   "id": "tito_paraguas",
+   "status": "script_ready",
+   "owner": "research",
+   "note": "sharing in the rain: Tito's ears become a second umbrella for a wet chick; rain -> rainbow. preflight OK. | revised 04:20: song_seconds 32 + IP check (arena turtle peach-orange, not Crush-green; paraguas chick -> bunny, not Pollito Pío). | paused before production"
+  },
+  {
+   "id": "tito_frio_calor",
+   "status": "script_ready",
+   "owner": "research",
+   "note": "Cold VS Hot: frozen (frost, icicle) in the snow without a jacket -> Mamá dresses him -> overheats in the sun in the jacket -> trunk shower. Yes! Neo 43.5M x143. song_seconds 32. preflight OK. | paused before production"
+  },
+  {
+   "id": "rojito_ciudad",
+   "status": "published",
+   "owner": "producer",
+   "note": "NuNu 'X hace Y' vehicle-sound song; guess_interactive; city + construction pit. spec+SCRIPT+dossier+upload draft, preflight OK 20.10 23:00. NOTE producer: hero.one adapted so a friend vehicle can share the frame with Rojito; check Rojito stays red in storyboard.",
+   "youtube_id": "8nOHHIv1pCM"
+  },
+  {
+   "id": "tito_dormir",
+   "status": "script_ready",
+   "owner": "research",
+   "note": "D1 hook frame shows no scary shadow — see production/feedback/tito_dormir.md (only D1) | 06:20 D1 rewritten: low angle (no location ref), HUGE dark-purple long-neck shadow as the subject, Tito tiny in the corner. Only D1 needs a new keyframe. | paused before production | 21.10: superseded by tito_ep3_dormir (long episode); its Shorts come from ep3."
+  },
+  {
+   "id": "tito_basura",
+   "status": "published",
+   "owner": "producer",
+   "note": "uploaded manually by Roy (YouTube app, location Mexico)",
+   "youtube_id": "G-gSjH36CLA"
+  },
+  {
+   "id": "rojito_rescate",
+   "status": "published",
+   "owner": "producer",
+   "note": "uploaded manually by Roy (YouTube app, location Mexico)",
+   "youtube_id": "vMMAiXfyiOg"
+  },
+  {
+   "id": "tito_mesa",
+   "status": "published",
+   "owner": "producer",
+   "note": "table manners: Tito slurps spaghetti up his trunk, Mamá's fork-twirl trick. Fastest-growing topic 21.10 (+7.1M / +6.9M). One location (patio). preflight OK.",
+   "youtube_id": "l5anda4GTTI"
+  },
+  {
+   "id": "tito_halloween",
+   "status": "published",
+   "owner": "producer",
+   "note": "director mode rewrite done; keyframes next",
+   "youtube_id": "ciFVmSg0KBw"
+  },
+  {
+   "id": "rojito_ruedas",
+   "status": "published",
+   "owner": "producer",
+   "note": "redo of unlisted ep1 in director mode",
+   "youtube_id": "C55q68WPT2o"
+  },
+  {
+   "id": "tito_ep2",
+   "status": "qc",
+   "owner": "producer",
+   "note": "QC PASS — prepared for MANUAL upload by Roy (no API upload)"
+  },
+  {
+   "id": "rojito_barro",
+   "status": "published",
+   "owner": "producer",
+   "note": "uploads 23:35 UTC 20.10",
+   "youtube_id": "AOZCCuEFUK4"
+  },
+  {
+   "id": "rojito_colores",
+   "status": "published",
+   "owner": "producer",
+   "youtube_id": "0WpO8lYXsEU"
+  }
+ ],
+ "_paused": "21.10 ~12:00 IL — Roy: production PAUSED, analysis only. No GPU, no uploads. Ready but held: tito_ep2, tito_basura, rojito_rescate. Researcher: focus on analysis (why new videos get 0 views); no need for new scripts until Roy resumes.",
+ "now": {
+  "id": null,
+  "why": "23.10: Halloween v9 + brocoli v2 delivered (QC PASS), waiting for Roy's upload OK. Roy: no new episode right now — next items need his OK."
+ },
+ "next": [
+  {
+   "id": "rojito_arena",
+   "why": "v2.3 'Rojito y las Ruedas Locas' — strongest evidence (kitten-in-tree rescue ×1698, wrong-wheel puzzles 5.6M); needs Roy's OK"
+  },
+  {
+   "id": "tito_frio_calor",
+   "why": "v2.2 'Las Puertas Mágicas' (deep world: 4 mushroom types etc.) — needs Roy's OK"
+  },
+  {
+   "id": "tito_paraguas",
+   "why": "v2.2 'Súper Tito al Rescate' — needs Roy's OK"
+  },
+  {
+   "id": "navidad",
+   "why": "concept waiting for Roy (research/19)"
+  }
+ ],
+ "_workflow": "See production/agents/STUDIO_WORKFLOW.md. 'now'/'next' are set by the researcher every run; the producer works on 'now' first."
 }
