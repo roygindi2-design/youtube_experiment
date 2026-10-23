@@ -17,3 +17,8 @@
 - MO 124.7–126.0 (carrot to the monkey): **PASS**.
 - **MO2 ~127.5–128.6 — FAIL**: Tito's trunk lies down on the plate rim and merges with it as the plate goes to the basket (bro_mo2_trunk_plate.jpg). Fix: end MO2 at ~127.4 (before the trunk reaches the plate) and fill the rest with the TU toucan cutaway or the next take.
 - **~126.9–127.0 — FAIL (1–2 frames)**: a red-white smeared butterfly flashes at the right edge (bro_butterfly_flash.jpg). Fix: it falls inside the MO→MO2 area: shift that cut so the flash frames are out, or trim them.
+
+## Brocoli v2 review r2 (d460d09) — FAIL (one slot)
+- Auto clean (0 ping-pong, 0 static, 0 black). The butterfly flash is gone ✓, MO 124.7–126.0 still PASS.
+- **The new v1 O1 s57 tail ~127.2–128.4 — FAIL** (bro_r2_o1tail_fail.jpg): the green leaf from Tito's bib is printed on the plate (the plate merges with the bib), and at the end the trunk tip lies inside the plate again.
+- Fix: no plate close-up in this slot. Fill ~126.0–128.6 with a clip with no plate/trunk contact: a TU toucan seed not used yet (s7 and s19 are each already at 2×), or a reaction/wide shot (e.g. G1 another seed). Then send r3 for a 5 fps look.

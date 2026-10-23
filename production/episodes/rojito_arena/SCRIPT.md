@@ -101,3 +101,8 @@ TikTok: 12 s — the square wheel bumping "¡Pum, pum, pum!" → text "¿Tu pequ
 
 ## Spanish check
 rueda, cuadrada, triángulo, estrella, redonda, escalera, gatito, "¡Así no va!", "¡Pi, pi!", "¡Nii-noo!": all natural Mexican kids' Spanish.
+
+## v2.3 (23.10 research) — evidence + small upgrades
+- **Plot validated:** the #1 outlier of the vehicles/rescue scan is a firefighter "Gato atrapado en un árbol" rescue Short — 5.0M views, ×1698 the channel median. Car Wheel Español "¿Qué figura necesita el camión de bomberos?" 5.6M (×200), "El camión de bomberos y la rueda con la forma equivocada" 2.3M (×81). Our kitten + wrong-wheel puzzle = both winning formats in one.
+- **K1 upgrade:** the toy box bursts with colorful bouncy balls before the 4 wheels roll out (Car Wheel's winners all use pools/showers of colored balls = tactile eye-candy for toddlers).
+- **Title/thumbnail:** lead with the kitten: "¡Gatito atrapado en el árbol! 🚒 ¿Qué rueda necesita Rojito?" Thumbnail = the kitten on the branch + Rojito with the SQUARE wheel mid-bump + a big "?".
