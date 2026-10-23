@@ -11,6 +11,52 @@
 **Background life:** rain falls, leaves drip, puddles ripple; after the rain: butterflies, sunlight through the leaves.
 **Hero props:** the red cape, the carrot, the nest.
 
+## World design — deep (v2.2, Roy 23.10)
+**The forest clearing (three zones):**
+- **Zone 1 — Home edge:** a cozy round cottage with a mushroom-shaped red roof, a wooden porch with a lantern, a rocking chair, flower pots with yellow tulips, round windows with warm light inside. Mamá ties the cape here (H1) and Tito comes home here (O1–O2).
+- **Zone 2 — the Big Leaf path:** giant glossy elephant-ear leaves taller than Tito (umbrellas of nature), ferns, mossy round stones like green pillows, a soft brown path with puddles that reflect the sky, little red-and-white toadstools along the path, a hollow log. The duckling hides under a giant leaf here (P1–P2); the bunny's big puddle is here (C1–C2).
+- **Zone 3 — the Nest tree:** a friendly old tree with a twisty trunk, a low branch, a woven nest with soft feathers, blue flowers at its roots, hanging vines with raindrops like pearls (B1–B3).
+**Weather arc (the story of the light):** soft grey-blue rain with silver drops (H1–K4 of chorus 2) → the rain thins, the first golden beam through the leaves (B3) → bright warm sun, every drop sparkling, a full rainbow over the trees, steam rising softly from the leaves (RB, O1, O2).
+**Rain details:** drops bounce on the leaves, ripple rings on the puddles, drips from the leaf tips, a little stream along the path; after the rain: butterflies come out, a snail on a stone, the mushrooms shining wet.
+**Supporting characters:**
+| friend | look | first face | after the help |
+|---|---|---|---|
+| Duckling | tiny, fluffy yellow, orange beak, wet feathers sticking out | shivering, small sad eyes | fluffs up dry, a happy wiggle |
+| Bunny | white, long pink-lined ears, a pink nose, a little blue bow | ears drooping, reaching paw | ears up, hugging her carrot |
+| Baby bird | tiny, fluffy blue, round eyes | chirping, looking up | snuggles into the nest |
+| Mother bird | bigger blue bird, a white chest | worried, looking down | sings, wings around the baby |
+**Tito and the place:** this is his own backyard forest; he knows every friend by name. The cape gives him confidence, but the power is his own body: ears = umbrella, trunk = pump, gentle trunk = lift.
+
+## Shot bible — face, hands, environment, why it grabs
+| shot | face | hands/body | environment | why kids watch |
+|---|---|---|---|---|
+| H1 | Tito: eyes shining, proud closed smile; Mamá: warm eyes | Mamá's hands tie the cape knot, Tito stands tall, hands on hips at the end | porch, lantern, rain on the roof | the transformation into a hero |
+| H2 | PROUD, chin up | hands on hips, cape flutters, ears lift | Big Leaf path in rain | hero pose = kids copy it |
+| Q | CURIOUS, one ear lifted | head tilts, a hand behind the ear | rain drops, leaves dripping | "who needs help?" — kids listen too |
+| P1 | duckling: sad small eyes | shivers twice | under a giant leaf, drips falling on it | empathy, "oh no!" |
+| P2 | Tito: caring eyes, soft smile | ears spread wide like an umbrella | drops bouncing off his ears | the first "superpower" — surprise |
+| K1 | PROUD | a small jump into the hero pose | clearing, rain | dance |
+| K2 | HAPPY SQUINT | arms out, spin, cape twirling | clearing | dance |
+| K3 | playful, eyebrows up | ears flap forward/back, trunk to the side | clearing | silly ears = laughter |
+| K4 | HAPPY SQUINT | hands make a heart at the chest, a sway | clearing | love moment |
+| C1 | bunny: ears drooping, sad | reaching a paw twice | big puddle, carrot bobbing | a clear problem kids understand |
+| C2 | Tito: concentrating, then delighted | trunk tip in the water, then a fountain up and away from everyone | the puddle shrinks, a fountain sparkles | the "wow" moment of the episode |
+| B1 | baby bird: hopeful eyes | chirping, little wings flapping | wet grass, blue flowers, the nest above | a tiny cute character |
+| B2 | Tito: gentle, careful eyes, tongue-free | the curled trunk tip lifting slowly | vines with raindrops, the nest | tension + care (hidden value) |
+| B3 | mother bird singing | wings around the baby | the first golden beam, the rain stops | the reward: sunshine |
+| RB | everyone: big smiles | everyone in a hero pose, tiny red capes | a full rainbow, sparkling drops, butterflies | the big group payoff |
+| O1 | Tito: happy, running | running, the cape flying | sunny path to the porch, Mamá waving | "home" energy |
+| O2 | both HAPPY SQUINT | a big hug and a sway | porch, rainbow behind, lantern on | warm ending |
+
+## Sequence & punchline
+1. **Setup (H1–H2):** Mamá ties the red cape → "¡Súper Tito ya!".
+2. **Rescue 1 (P1–P2):** a wet duckling → his ears become an umbrella.
+3. **Rescue 2 (C1–C2):** the bunny's carrot in the puddle → his trunk drinks the puddle and makes a fountain.
+4. **Rescue 3 (B1–B3):** a baby bird on the ground → his gentle trunk lifts it back to the nest → the rain stops, the sun comes out.
+5. **The big punchline (RB):** a rainbow, and all the friends now wear tiny red capes — everyone became a helper.
+6. **Ending (O1–O2):** "¡Súper Tito, a cenar!" → home, Mamá's hug.
+**Most grabbing moments (thumbnail/Shorts):** the ears umbrella (P2), the trunk fountain (C2), the friends in capes under the rainbow (RB).
+
 ## Habit beat
 Helping others with what you have (every body part can help). **Hidden value:** caring for nature, putting the baby bird back in its nest gently (B2), never taking it home.
 

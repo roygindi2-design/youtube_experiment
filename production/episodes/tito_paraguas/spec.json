@@ -18,7 +18,7 @@
  ],
  "lyrics": "[Intro]\n¡Plic, plic! ¡Llueve en el bosque!\n¡Capa roja! ¡Súper Tito ya!\n[Verse 1]\n¿Quién llora bajo la hoja?\n¿Quién será? ¿Quién será?\n¡Un patito mojadito!\n¡Mis orejas son paraguas! ¡Ya!\n[Chorus]\n¡Súper Tito, ya llegó!\n¡Con orejas y trompón!\n¡Ayudar es lo mejor!\n¡Súper, súper corazón!\n[Verse 2]\n¿Quién está en el charco?\n¿Quién será? ¿Quién será?\n¡Conejita sin zanahoria!\n¡Mi trompa sopla el agua! ¡Fuuu!\n[Chorus]\n¡Súper Tito, ya llegó!\n¡Con orejas y trompón!\n¡Ayudar es lo mejor!\n¡Súper, súper corazón!\n[Verse 3]\n¡Pío, pío! Un pajarito cayó…\n¡Con cuidado, a su nido!\n¡Mamá pájaro canta! ¡Gracias!\n¡Sale el sol! ¡Un arcoíris!\n[Chorus]\n¡Súper Tito, ya llegó!\n¡Con orejas y trompón!\n¡Ayudar es lo mejor!\n¡Súper, súper corazón!\n[Outro]\n¡Súper Tito, a cenar!\n¡Súper abrazo de mamá!",
  "locations": {
-  "bosque": "A green forest clearing, wide 16:9, camera at child eye level: big glossy leaves, mossy stones, puddles on a soft path, a tree with a low branch and a small nest, a cozy little house with a porch at the edge. Gentle rain at the start, sunshine and a rainbow at the end. Nobody is there."
+  "bosque": "A green forest clearing, wide 16:9, camera at child eye level: giant glossy elephant-ear leaves taller than a child, ferns, round mossy stones, little red-and-white toadstools along a soft brown path with puddles that reflect the sky, a hollow log, a friendly old tree with a twisty trunk, a low branch and a woven nest, vines with raindrops like pearls, blue flowers; a cozy round cottage with a red mushroom-shaped roof, a wooden porch with a lantern and yellow tulip pots at the edge. Gentle silver rain at the start; at the end warm sunshine, sparkling drops and a full rainbow over the trees. Nobody is there."
  },
  "shots": [
   [
@@ -156,8 +156,8 @@
   ],
   [
    "RB",
-   "Long view of the clearing in sunshine after the rain: a big bright rainbow over the forest, the duckling, the white bunny with her carrot and the birds gather around the baby elephant in his sunny-yellow overalls with one round red button and a small RED CAPE tied around his neck, his trunk hanging down below his mouth and look up at the rainbow. The main action is in the CENTER of the frame.",
-   "START: the friends gather → ACTION: the rainbow appears across the sky on the beat ('¡Un arcoíris!'), everyone looks up, Tito jumps for joy → END: all friends smiling around Tito. Background life: sunshine, butterflies, leaves sway. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "Long view of the clearing in sunshine after the rain: a big bright rainbow over the forest, every leaf sparkling with drops, butterflies, the duckling, the white bunny with her carrot and the birds each now wearing a tiny red cape like Tito's, gather around the baby elephant in his sunny-yellow overalls with one round red button and a small RED CAPE tied around his neck, his trunk hanging down below his mouth and strike a hero pose together under the rainbow. The main action is in the CENTER of the frame.",
+   "START: the friends gather → ACTION: the rainbow appears across the sky on the beat ('¡Un arcoíris!'), everyone looks up, then they all strike a hero pose together with their tiny capes fluttering → END: all friends smiling around Tito. Background life: sunshine, butterflies, leaves sway. Both eyes stay open and calm with the same gentle expression the whole time.",
    "bosque",
    [
     "tito"
@@ -195,7 +195,7 @@
  "twist": "Tito's 'superpowers' are his own elephant body: big ears = an umbrella for a duckling, trunk = a pump that blows a puddle away for a bunny, a gentle trunk lift = putting a baby bird back in its nest",
  "moral": "¡Ayudar es lo mejor! Todos tenemos un súper poder para ayudar.",
  "experiment": "superhero-rescue trend (Monito Superhéroe, Bebefinn al rescate, BabyBus rescue 100–390K/day, 23.10) + body-part superpowers (elephant-specific) + a hidden nature value (returning the bird to its nest)",
- "continuity": "rain from H1 to B2, the rain stops in B3, sunshine + rainbow RB–O2; Tito always in sunny-yellow overalls + a small RED CAPE (tied in H1); the duckling only P1/P2 + RB, the bunny C1/C2 + RB (with her carrot from C2 on), the birds B1–B3 + RB; Mamá only H1, O1, O2. The chorus is a fixed choreography (K1 hero pose, K2 cape twirl, K3 ear flap + trunk to the side, K4 heart hands).",
+ "continuity": "rain from H1 to B2, the rain stops in B3, sunshine + rainbow RB–O2; Tito always in sunny-yellow overalls + a small RED CAPE (tied in H1); the duckling only P1/P2 + RB, the bunny C1/C2 + RB (with her carrot from C2 on), the birds B1–B3 + RB; Mamá only H1, O1, O2. The chorus is a fixed choreography (K1 hero pose, K2 cape twirl, K3 ear flap + trunk to the side, K4 heart hands).; v2.1 (23.10, Monito superhero-team style): in RB the duckling, bunny and birds wear tiny red capes = a superhero team pose under the rainbow",
  "song_seconds": 150,
  "orientation": "landscape",
  "format": "long_episode",

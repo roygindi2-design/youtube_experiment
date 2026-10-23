@@ -98,3 +98,6 @@ Folder `production/episodes/<id>/` with `spec.json` + `SCRIPT.md`, plus `product
 
 ## G. Rich scripts (Roy 22.10)
 Every script needs `## Design bible` + `## Habit beat` (research/16-design-and-habits.md); template_check.py enforces it. In the 18:00 "refine scripts" slot, upgrade one script_ready script per day (order: tito_brocoli, rojito_arena, tito_paraguas, tito_frio_calor, Navidad ENG-17): richer sets, costumes that fit the moment, supporting-character sheets, background life, one rotated habit beat (handwashing returns every ~3 episodes).
+
+## H. Deep scripts (Roy 23.10)
+Every script gets EPISODE_TEMPLATE §ט: World design — deep (zones, light arc, character/prop variety tables), a Shot bible (face, hands, environment, why kids watch) and Sequence & punchline (most grabbing moments). Always expand a little each pass, and copy the details into spec.json locations/frames.
