@@ -117,6 +117,132 @@
      "image_start": "pick_BKT_v9.jpg"
     }
    },
+   "status": "ok",
+   "files": [
+    "out/tito_ep4_halloween_clip_BKTv9_s19.mp4"
+   ],
+   "seconds": 75.2
+  },
+  {
+   "id": "tito_ep4_halloween_clip_BKTv9_s31",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "960x544",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 31,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant holds his orange jack-o-lantern bucket up with both hands; the wrapped candy above falls down into the bucket and stays inside; he gives a small happy bounce and looks into the bucket, delighted. Background life: paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "pick_BKT_v9.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/tito_ep4_halloween_clip_BKTv9_s31.mp4"
+   ],
+   "seconds": 75.3
+  },
+  {
+   "id": "tito_ep4_halloween_clip_D2v9_s7",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "960x544",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 7,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant stands on the doorstep and knocks on the closed pink-purple door three times with his raised right hand, knock, knock, knock, the bucket hanging by its handle in his other hand; the door stays closed; then he steps back a little with a curious head tilt. Background life: paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "pick_D2_v9.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/tito_ep4_halloween_clip_D2v9_s7.mp4"
+   ],
+   "seconds": 75.9
+  },
+  {
+   "id": "tito_ep4_halloween_clip_D2v9_s19",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "960x544",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 19,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant stands on the doorstep and knocks on the closed pink-purple door three times with his raised right hand, knock, knock, knock, the bucket hanging by its handle in his other hand; the door stays closed; then he steps back a little with a curious head tilt. Background life: paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "pick_D2_v9.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/tito_ep4_halloween_clip_D2v9_s19.mp4"
+   ],
+   "seconds": 75.2
+  },
+  {
+   "id": "tito_ep4_halloween_clip_D2v9_s31",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "960x544",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 31,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant stands on the doorstep and knocks on the closed pink-purple door three times with his raised right hand, knock, knock, knock, the bucket hanging by its handle in his other hand; the door stays closed; then he steps back a little with a curious head tilt. Background life: paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "pick_D2_v9.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/tito_ep4_halloween_clip_D2v9_s31.mp4"
+   ],
+   "seconds": 75.3
+  },
+  {
+   "id": "tito_ep4_halloween_clip_M2v9_s7",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "960x544",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 7,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant looks down at the tiny grey mouse, who looks sadly into its empty yellow bucket. His face goes soft and caring, his ears droop a little, and he slowly bends his knees, lowering himself toward the mouse's height. Background life: paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "pick_M2_v9.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/tito_ep4_halloween_clip_M2v9_s7.mp4"
+   ],
+   "seconds": 75.9
+  },
+  {
+   "id": "tito_ep4_halloween_clip_M2v9_s19",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "960x544",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 19,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant looks down at the tiny grey mouse, who looks sadly into its empty yellow bucket. His face goes soft and caring, his ears droop a little, and he slowly bends his knees, lowering himself toward the mouse's height. Background life: paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "pick_M2_v9.jpg"
+    }
+   },
    "status": "running"
   }
  ]
