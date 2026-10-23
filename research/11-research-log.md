@@ -303,3 +303,4 @@ Data: research/market/halloween_titles_2026-10-22.json
 ## Run 2026-10-23 18:05 UTC
 - Halloween v10 (hand-to-bucket insert) + the native vertical Short delivered to Roy (QC PASS, ENG-14 In Review); waiting for his upload OK + the Short A/B decision. Brocoli v2 waiting for his OK too. GPU $2.67.
 - Script work: rojito_arena got its native vertical Short plan (§י): the ladder/kitten axis is naturally vertical — hook = the star-wheel kangaroo hops.
+- 20:05: native vertical Short plans added to tito_frio_calor (beach jacket gag hook) and tito_paraguas (transformation hook). Still waiting for Roy (Halloween v10 + vertical Short upload OK, brocoli, next episode pick).

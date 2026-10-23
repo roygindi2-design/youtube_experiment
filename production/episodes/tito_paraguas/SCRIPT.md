@@ -106,3 +106,14 @@ TikTok: 12 s — the ears umbrella moment → text "Cuando tu peque quiere ser s
 - **Superhero-helper format validated:** Niños Chaka "¡Un Amigo Superhéroe Ayuda a los Niños!" 1.88M ×190; Hokie Pokie "Cuando Papá Superhéroe No Está" 3.3M ×94; Bebefinn "Equipo de Superhéroes, Vamos a Ayudar!" 20.2M ×55.
 - **What the winners share:** a visible TRANSFORMATION moment (the character spins into the hero costume in a burst of light), then a quick chain of small rescues.
 - **H2 upgrade:** on "¡Súper Tito ya!" a swirl of golden sparkles spins around him once (the transformation flash) as the cape flutters up. Thumbnail candidate = this frame.
+
+## Vertical Short (9:16, native — template §י, 23.10)
+**Audio:** verse 1 + chorus (~33 s, 114 bpm, cuts on the master's grid). **Hook (second 0):** the golden-sparkle TRANSFORMATION — Mamá ties the red cape and Tito spins into "¡Súper Tito!" (H2).
+| # | shot (9:16) | composition | action |
+|---|---|---|---|
+| V1 | H2 transformation | Tito full body, the sparkles swirling up the frame, the rain above | spin + cape up, hero pose |
+| V2 | Q listen | close-up, one ear lifted, drops falling past | "¿Quién será?" |
+| V3 | P1 duckling | the giant leaf above, the duckling small at the bottom | drops fall on it, it shivers |
+| V4 | P2 ears umbrella | Tito standing over the duckling, his ears spread wide to the frame edges | the drops bounce off his ears, the duckling looks up and smiles |
+| V5–V8 | chorus | hero pose / cape twirl / ear flap / heart hands, full body | recomposed for 9:16 |
+| End | RB | a vertical rainbow arc over Tito and the friends in tiny capes | everyone strikes the hero pose (loop to the transformation) |

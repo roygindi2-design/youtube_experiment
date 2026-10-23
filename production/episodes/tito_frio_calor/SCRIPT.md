@@ -121,3 +121,14 @@ chamarra (MX), impermeable, botas, gorro, bufanda, trineo, ranita: common Mexica
 ## v2.3 (23.10 research) — evidence
 - **The door concept is one of the biggest kids' Shorts formats right now:** Doctora Sophia "La Puerta Misteriosa de Colores" — 238.7M views (×180 the channel median). RoboSquad "Desafío de la puerta mágica" 88K (new).
 - **Title/thumbnail:** lead with the doors + a question: "¿Qué hay detrás de la puerta mágica? 🚪❄️☀️🌧️ | Canciones Infantiles". Thumbnail = the 3 glowing doors + Tito peeking, the blue door half-open with snow blowing out.
+
+## Vertical Short (9:16, native — template §י, 23.10)
+**Audio:** the episode's verse 2 (the beach door) + chorus (~33 s, 112 bpm, cuts on the master's grid). **Hook (second 0):** the YELLOW door bursts open and Tito walks onto the hot beach still in his WINTER jacket, hat and scarf, sweating — the funniest gag of the episode.
+| # | shot (9:16) | composition | action |
+|---|---|---|---|
+| V1 | the yellow door opens | the tall door fills the frame, Tito small in front | sunlight and seashells pour out as it opens |
+| V2 | jacket on the beach | Tito full body, low angle, palm trees and the big sun above | he sweats and fans himself, the crab laughs at his feet |
+| V3 | off with the jacket | Tito full body | he takes off the hat, scarf and jacket and drops them on a beach chair (by hand, one by one) |
+| V4 | splash | the waves at the bottom, Tito jumping in the middle | he jumps into a small wave, sparkling drops |
+| V5–V8 | chorus | doors behind him in a vertical row | the door dance, recomposed for 9:16 |
+| End | the red door | the small red door glowing, Tito peeking in | cliffhanger to the full episode ("¿y la puerta roja?") |
