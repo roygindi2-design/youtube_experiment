@@ -34,6 +34,7 @@ REPL = {
     102.14: [("C2v9@7", 0.05, 2.0, 4), ("C2v9@19", 1.5, 4.0, None)],           # chorus 3
     128.322: [("O2v9@7", 0.05, 3.323, 6), ("O2v9@31", 0.05, 2.232, None)],      # walk away together
     133.776: [("M4v9@19", 1.4, 3.9, 5), ("M4v9@31", 2.0, 3.9, None)],         # outro stays "together" (researcher QC 23.10)
+    116.867: [("MASTER@0", 116.867, 120.14, 6), ("M4v9@19", 1.4, 3.04, None)],  # Roy 23.10: the v8c walk reverses at ~120.4 -> cut at 120.14, joy take after
     143.595: [("O2v9@31", 0.6, 3.9, None)],
     147.413: [("O2v9@7", 1.7, 4.0, None)],
 }
@@ -57,7 +58,7 @@ for k, (a, b, tok, o) in enumerate(v8):
     t = a
     for n, (tk, i, u, beats) in enumerate(plan):
         e = end if beats is None or n == len(plan) - 1 else round(t + beats * B, 3)
-        cuts.append([round(t, 3), e, tk, {"in": i, "until": u}])
+        cuts.append([round(t, 3), e, tk, {"in": i, "until": u, **({"graded": True} if tk == "MASTER@0" else {})}])
         t = e
 src = D / "build" / "v9src"
 src.mkdir(parents=True, exist_ok=True)

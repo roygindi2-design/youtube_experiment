@@ -168,7 +168,7 @@ def main():
     inputs, filters, labels = [], [], []
     song = e["song"]
     inputs += ["-ss", str(song.get("start", 0)), "-i", song["file"]]
-    filters.append(f"[0:a]volume={song.get('gain_db', 0)}dB,afade=t=out:st={total - 0.4}:d=0.4[a0]")
+    filters.append(f"[0:a]volume={song.get('gain_db', 0)}dB,afade=t=out:st={total - song.get('fade_out', 0.4)}:d={song.get('fade_out', 0.4)}[a0]")
     labels.append("[a0]")
     for j, fx in enumerate(e.get("sfx", []), start=1):
         inputs += ["-i", fx["file"]]
