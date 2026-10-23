@@ -16,7 +16,9 @@ W = {"VM1@31": (0.05, 4.0), "VM1@7": (0.05, 1.5), "VM2@7": (0.05, 1.5), "M3iv@31
 W["M3iv@31"] = (1.2, 3.95)
 # Roy 23.10 night: the jump hovered 2.4 s -> s19 both happy (4 beats), then ONE quick hop = s31 take-off + its descent/landing
 W["VM4@31"] = (0.2, 0.745); W["VM4@31b"] = (2.95, 4.041); W["VM4@19"] = (0.05, 2.25)
-plan = [("VM1@31", 7), ("VM2@7", 2), ("M3iv@31", 5), ("VM4@19", 4), ("VM4@31", 1), ("VM4@31b", 2), ("VC1@7", 7), ("VC2@43", 5), ("VC4@7", 5)]
+# researcher QC: in VM4 s19 Tito's bucket vanishes from ~0.25 s -> VC1 s19 0.05-0.6 + VC1 s31 0.05-1.14 (bucket held in both)
+W["VC1@19"] = (0.05, 0.6); W["VC1@31"] = (0.05, 1.15)
+plan = [("VM1@31", 7), ("VM2@7", 2), ("M3iv@31", 5), ("VC1@19", 1), ("VC1@31", 2), ("VM4@31", 1), ("VM4@31b", 2), ("VC1@7", 7), ("VC2@43", 5), ("VC4@7", 5)]
 cuts, t, uses, bad = [], 0.0, {}, []
 for tok, beats in plan:
     e = round(t + beats * B, 3)
