@@ -40,3 +40,8 @@
 - Short A (ends on R2): PASS. Short B (ends on R3): PASS. TikTok A (refusal → broccoli forest, 13 s): PASS.
 - **Short C — FAIL (one shot):** ~16–20 s, Mamá hands Tito the plate: the pan between them leaves a floating blue arm with no body in frame (~17 s), then Tito's head half behind Mamá's trunk, both faces cut (bro_shortC_plate_crop_fail.jpg). Fix: hold the crop still on Tito for this shot (his whole head + the plate arriving, x≈0.35–0.40), no pan. Minor: the K3 joy close-up (~37 s) loses the raised arms in the vertical crop — acceptable.
 - Short C re-cut (ca96c88): the plate shot held at x0.38 — Tito's whole head, his arm attached and reaching to the plate, no floating limbs, no pan. **PASS.** All 4 brocoli verticals PASS.
+
+## Halloween v9 35d27b7 (BKT trim with BOWL cutaways)
+- Auto clean (0 ping-pong/static/black, 44/44 on the beat). Slot 1 (21.41–24.14): PASS — the bowl cutaway hides the trunk dip, the s97 end keeps both hands on the bucket.
+- ~56.0: a falling autumn leaf crosses the bowl shot (2 frames, slightly smeared) — reads as a leaf, OK.
+- **Slot 2 tail ~57.9–59.05 (s97 2.85–4.0) — FAIL:** Tito opens his arms out to the sides and the bucket stays stuck on his tummy with no hand holding it (= Roy's "glued bucket") (hw_slot2_tail_glued_bucket.jpg). Fix: end the s97 tail at 2.85 like slot 1 (hands still on the bucket), and fill the remaining ~1.15 s by extending the BOWL s7 cutaway or with another clean take, cut on the beat.
