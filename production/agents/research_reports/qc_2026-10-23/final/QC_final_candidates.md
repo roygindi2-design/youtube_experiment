@@ -57,3 +57,9 @@
 - s19: the trunk slides down along the arm to the palm from ~0.5 s and touches the candies. s7/s31 FAIL (producer).
 - Root cause: Wan pulls the trunk to any hand action near the face; the keyframe hand was too high.
 - **Fix = an insert shot (no trunk in frame):** M3 slot 90.69–93.96 = M3a: s43 0.05–1.0 (Tito holds out his palm with the candies, smiling — before the trunk moves) + **M3i (new):** a close-up INSERT at the bucket's height: only Tito's powder-blue hand (palm up, 3 wrapped candies) above the mouse's small yellow bucket held by its grey paws; motion: the palm tilts and the candies slide into the bucket one after another, landing inside; ~2.2 s. No face, no trunk in the frame. Then M4 as before.
+
+## M3i insert clips + h2 keyframes (23.10 ~16:00)
+- **Vertical m3i_v s31 — PASS, window 1.2–4.0 s:** the palm moves over the bucket, tilts, the candies drop straight IN and stay in the bucket; the empty palm opens above; the paw holds the rim. 0–1.0 s FAIL (an orange candy flies through the sky) → never use before 1.2.
+- v s7 FAIL: candies arc sideways, one hovers in the air ~1 s and bounces back up out of the bucket. v s19/s43 FAIL (producer).
+- **16:9 m3i_h2 kf2 — FAIL (continuity):** Tito's body at the left edge is plain blue — NO pumpkin costume; the mouse at the right has a white body — NO yellow star costume. kf0/kf1 FAIL (producer).
+- Fix: re-roll h2 with "only Tito's powder-blue hand and forearm entering from the LEFT edge (nothing else of him); the mouse's grey arm in its YELLOW star costume sleeve from the RIGHT, its paw on the rim; the mouse's face partly visible at the right edge above its yellow star costume; the palm low, right above the middle of the bucket". h0 clips: not needed.
