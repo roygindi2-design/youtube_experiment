@@ -63,3 +63,8 @@
 - v s7 FAIL: candies arc sideways, one hovers in the air ~1 s and bounces back up out of the bucket. v s19/s43 FAIL (producer).
 - **16:9 m3i_h2 kf2 — FAIL (continuity):** Tito's body at the left edge is plain blue — NO pumpkin costume; the mouse at the right has a white body — NO yellow star costume. kf0/kf1 FAIL (producer).
 - Fix: re-roll h2 with "only Tito's powder-blue hand and forearm entering from the LEFT edge (nothing else of him); the mouse's grey arm in its YELLOW star costume sleeve from the RIGHT, its paw on the rim; the mouse's face partly visible at the right edge above its yellow star costume; the palm low, right above the middle of the bucket". h0 clips: not needed.
+
+## Halloween v10 16:9 + vertical Short (71509ec)
+- **16:9 v10: PASS.** M2 → M3a (palm out, smiling, before the trunk moves) → insert m3i_h3 s43: the candies slide off the palm and land INSIDE the yellow bucket, the paw on the rim, the yellow sleeve, no trunk, no Tito body in frame → M4. 45/45 on the beat, 0 ping-pong/static/black.
+- **Vertical Short: FAIL, one segment.** ~4.1–5.4 s (VM1 s19 0.2–1.6): the mouse's eyes melt into flat lines and the face smears (vshort_vm1_s19_smear.jpg). Fix: replace with VM1 s7 0.05–1.5 (before its blink at 3.0) or s31 again at ≥0.9x. The rest PASSES: VM2 (standing, caring), the insert (candies in), VM4 (both happy, the mouse jumps with its own bucket), VC1 dance, VC2 bow, the waving/hops, the walk away at the end. 0 ping-pong/static/black.
+- Minor note for Roy (not blocking): the insert gives 2–3 candies, then the mouse's bucket looks full in the next shots.
