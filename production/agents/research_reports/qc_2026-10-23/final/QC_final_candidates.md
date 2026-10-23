@@ -45,3 +45,8 @@
 - Auto clean (0 ping-pong/static/black, 44/44 on the beat). Slot 1 (21.41–24.14): PASS — the bowl cutaway hides the trunk dip, the s97 end keeps both hands on the bucket.
 - ~56.0: a falling autumn leaf crosses the bowl shot (2 frames, slightly smeared) — reads as a leaf, OK.
 - **Slot 2 tail ~57.9–59.05 (s97 2.85–4.0) — FAIL:** Tito opens his arms out to the sides and the bucket stays stuck on his tummy with no hand holding it (= Roy's "glued bucket") (hw_slot2_tail_glued_bucket.jpg). Fix: end the s97 tail at 2.85 like slot 1 (hands still on the bucket), and fill the remaining ~1.15 s by extending the BOWL s7 cutaway or with another clean take, cut on the beat.
+
+## Halloween v10 M3 keyframe (49c2800) — FAIL (both)
+- Trunk: clear of the candies in both (alt better: trunk higher, tip above the wrist) ✓. Bucket set down ✓, mouse holds its empty bucket ✓.
+- **FAIL:** Tito's hands are mittens (no fingers), so the candies look GLUED to the side of the hand, not held (hw_m3_v10_kf_hand.jpg). The hand is also high and off to the left edge of the yellow bucket, not over its opening.
+- Fix (natural for mitten hands): **palm UP, a few candies RESTING on the open palm**, the hand low (about a hand's width above the rim) and centered over the yellow bucket's opening; the mouse holds the bucket up with both paws. Motion: on '¡Toma!' he tilts his palm and the candies slide off into the bucket; his hand returns to his knee. Trunk curled down against his chest, nowhere near the hand.
