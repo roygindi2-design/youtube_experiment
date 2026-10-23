@@ -1,0 +1,171 @@
+{
+ "series": "tito",
+ "bpm": 110,
+ "style": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. ",
+ "lock": "TITO, a baby elephant toddler in his Halloween costume: his powder-blue face, very big round powder-blue ears with peach-pink insides, short soft powder-blue trunk curled up at the tip, big glossy dark-brown eyes, rosy cheeks, powder-blue arms, hands and feet; he wears a round soft ORANGE PUMPKIN COSTUME like a puffy round orange pumpkin around his tummy and chest, with vertical pumpkin ridges, and a small green leafy stem cap on top of his head; short chubby powder-blue legs below the costume, small tail.",
+ "mama_lock": "MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear.",
+ "costume_lock": "TITO, a baby elephant toddler in his Halloween costume: his powder-blue face, very big round powder-blue ears with peach-pink insides, short soft powder-blue trunk curled up at the tip, big glossy dark-brown eyes, rosy cheeks, powder-blue arms, hands and feet; he wears a round soft ORANGE PUMPKIN COSTUME like a puffy round orange pumpkin around his tummy and chest, with vertical pumpkin ridges, and a small green leafy stem cap on top of his head; short chubby powder-blue legs below the costume, small tail.",
+ "lock_base": "TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail.",
+ "reuse_mama": true,
+ "id": "tito_ep4_halloween_vshort",
+ "orientation": "portrait",
+ "format": "short",
+ "title": "¡Compartir es más dulce! 🎃🐭 #shorts",
+ "world": "Halloween night village street: three tiny round houses (orange, purple, mint) with friendly jack-o-lanterns, paper lanterns, autumn leaves, big full moon + Tito's orange front door",
+ "hook": "sad_mouse_empty_bucket",
+ "audio_from": {
+  "file": "production/deliver/tito_ep4_halloween.mp4 (v10 master once rebuilt)",
+  "in": 83.049,
+  "out": 116.867
+ },
+ "song_seconds": 33.8,
+ "lyrics": "[Verse 3]\nUn ratoncito sin dulces…\n¿Qué hará Tito? ¿Qué hará?\n¡Comparte su dulce! ¡Toma!\n¡Ahora los dos están felices!\n[Chorus]\n¡Dulce, dulce, Halloween!\n¡Gracias, gracias, qué feliz!\nUn dulce para ti, un dulce para mí…\n¡calabaza, a seguir!",
+ "story": [
+  "Second 0: a tiny mouse with an EMPTY bucket, sad (hook)",
+  "Tito sees it, kneels, sets his bucket down",
+  "He gives candies from his open palm into the mouse's bucket",
+  "The mouse jumps for joy",
+  "They dance, bow, show one candy each, and walk on together"
+ ],
+ "sequence": [
+  "VM1",
+  "VM2",
+  "VM3",
+  "VM4",
+  "VC1",
+  "VC2",
+  "VC3",
+  "VC4"
+ ],
+ "timeline_s": [
+  [
+   0.0,
+   5.455,
+   "VM1"
+  ],
+  [
+   5.455,
+   7.637,
+   "VM2"
+  ],
+  [
+   7.637,
+   10.909,
+   "VM3"
+  ],
+  [
+   10.909,
+   14.727,
+   "VM4"
+  ],
+  [
+   14.727,
+   19.091,
+   "VC1"
+  ],
+  [
+   19.091,
+   24.0,
+   "VC2"
+  ],
+  [
+   24.0,
+   29.455,
+   "VC3"
+  ],
+  [
+   29.455,
+   33.818,
+   "VC4"
+  ]
+ ],
+ "locations": {
+  "calle": "A cozy little village street on Halloween night, vertical 9:16 composition, camera at child eye level: three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Nobody is on the street."
+ },
+ "shots": [
+  [
+   "VM1",
+   "Vertical 9:16 close-up under a paper lantern on the village street, the moon above: the tiny grey mouse in a little yellow star costume holds a small EMPTY YELLOW bucket with both paws and looks down into it with a sad face, ears drooping, a fallen leaf beside it. The mouse fills the lower two thirds of the frame. The main action is in the CENTER of the frame.",
+   "START: the mouse looks into its empty bucket → ACTION: on 'sin dulces' its ears droop and it gives a tiny sad sigh (SAD-SMALL) → END: it looks up hopefully. Paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "calle",
+   [],
+   3
+  ],
+  [
+   "VM2",
+   "Vertical 9:16 frame, camera at child eye level, both characters shown full body, large in the frame, Tito on the left and the mouse on the right, nothing cut at the edges. the baby elephant wearing a round ORANGE PUMPKIN COSTUME with a short green stem cap, his face, big ears and short trunk out of the round opening, his trunk curled down below his mouth, holding ONE small ORANGE jack-o-lantern candy bucket FULL of candies by its handle in his RIGHT hand, stops beside the tiny grey mouse in a little yellow star costume who holds a small EMPTY yellow bucket; Tito looks down at the empty bucket with a soft caring face. The main action is in the CENTER of the frame.",
+   "START: Tito standing beside the mouse → ACTION: his face goes soft (caring), then he kneels down to the mouse's height and sets his orange bucket on the ground beside him → END: kneeling, both hands free, smiling gently at the mouse. Paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "calle",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "VM3",
+   "Vertical 9:16 close-up at the mouse's eye level, both characters large in the frame (Tito from the knees up, the mouse full body), Tito on the left and the mouse on the right, nothing cut at the edges. the baby elephant wearing a round ORANGE PUMPKIN COSTUME with a short green stem cap, his face, big ears and short trunk out of the round opening, his trunk curled down below his mouth, kneels in front of the tiny grey mouse in a little yellow star costume; his orange jack-o-lantern bucket stands on the ground beside him; his RIGHT hand is held PALM UP and open, with 3 colorful wrapped candies resting on his palm, low over the middle of the mouse's small YELLOW bucket, which the mouse holds up with both paws, looking up hopefully. His trunk is curled down against his chest, far from his hand. The main action is in the CENTER of the frame.",
+   "HAND-TO-BUCKET — START: his open palm with the candies just above the middle of the yellow bucket → ACTION: on '¡Toma!' he gently tilts his palm and the candies slide off into the yellow bucket (every candy lands inside, no candies flying) → END: his empty hand returns to his knee, the mouse looks into its bucket with wide happy eyes. The trunk stays curled down. Paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "calle",
+   [
+    "tito"
+   ],
+   4
+  ],
+  [
+   "VM4",
+   "Vertical 9:16 frame, camera at child eye level, both characters shown full body, large in the frame, Tito on the left and the mouse on the right, nothing cut at the edges. the tiny grey mouse in a little yellow star costume hugs its yellow bucket, now with candies inside, and jumps for joy; the baby elephant wearing a round ORANGE PUMPKIN COSTUME with a short green stem cap, his face, big ears and short trunk out of the round opening, his trunk curled down below his mouth, kneeling beside it with his orange bucket on the ground, claps his hands happily. The main action is in the CENTER of the frame.",
+   "START: the mouse holds its bucket, eyes wide (SURPRISE O) → ACTION: it jumps for joy once on the beat while Tito claps twice → END: both smiling, HAPPY SQUINT. Paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "calle",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "VC1",
+   "Vertical 9:16 frame, camera at child eye level, both characters shown full body, large in the frame, Tito on the left and the mouse on the right, nothing cut at the edges. the baby elephant wearing a round ORANGE PUMPKIN COSTUME with a short green stem cap, his face, big ears and short trunk out of the round opening, his trunk curled down below his mouth, standing, holding his orange jack-o-lantern bucket by its handle in his RIGHT hand, and the tiny grey mouse in a little yellow star costume holding its yellow bucket with candies, dance side by side on the street, little orange leaves swirling. The main action is in the CENTER of the frame.",
+   "DANCE — START: side by side → ACTION: they sway left and right together on the beat, the buckets swinging gently from their handles → END: they smile at each other. Paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "calle",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "VC2",
+   "Vertical 9:16 frame, camera at child eye level, both characters shown full body, large in the frame, Tito on the left and the mouse on the right, nothing cut at the edges. the baby elephant wearing a round ORANGE PUMPKIN COSTUME with a short green stem cap, his face, big ears and short trunk out of the round opening, his trunk curled down below his mouth, holding his orange bucket by its handle in his RIGHT hand with his LEFT hand on his chest, and the tiny grey mouse in a little yellow star costume holding its yellow bucket, bow politely to each other with closed-mouth smiles, lantern light. The main action is in the CENTER of the frame.",
+   "START: facing each other → ACTION: on '¡gracias!' they each bow their heads once → END: they look up with a HAPPY SQUINT. Paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "calle",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "VC3",
+   "Vertical 9:16 frame, camera at child eye level, both characters shown full body, large in the frame, Tito on the left and the mouse on the right, nothing cut at the edges. the baby elephant wearing a round ORANGE PUMPKIN COSTUME with a short green stem cap, his face, big ears and short trunk out of the round opening, his trunk curled down below his mouth and the tiny grey mouse in a little yellow star costume stand face to face; Tito holds one shiny wrapped candy up in his open LEFT hand and the mouse holds one wrapped candy up in its paw, both smiling, their buckets in their other hands. The main action is in the CENTER of the frame.",
+   "START: both hold up one candy → ACTION: on 'un dulce para ti, un dulce para mí' they show their candies to each other and nod happily → END: both smiling. Paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "calle",
+   [
+    "tito"
+   ],
+   2
+  ],
+  [
+   "VC4",
+   "Vertical 9:16 wide shot from behind and a little to the side on the curving stone path: the baby elephant wearing a round ORANGE PUMPKIN COSTUME with a short green stem cap, his face, big ears and short trunk out of the round opening, his trunk curled down below his mouth, swinging his orange jack-o-lantern bucket in his RIGHT hand, and the tiny grey mouse in a little yellow star costume with its yellow bucket, walk together side by side toward the little houses under the big full moon, autumn leaves on the path. The main action is in the CENTER of the frame.",
+   "REAL WALK — START: both in the front of the frame → ACTION: they walk together down the path on the beat, the houses getting closer → END: they turn their heads and wave back at the viewer. Paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "calle",
+   [
+    "tito"
+   ],
+   3
+  ]
+ ],
+ "moral": "¡Compartir es más dulce!",
+ "continuity": "Halloween night; Tito ALWAYS in the orange pumpkin costume with green stem cap; his orange bucket full in VM2, on the ground VM2 end–VM4, back in his RIGHT hand from VC1; the mouse's yellow bucket EMPTY in VM1–VM3 start, with candies from VM3 end; transfers by HAND only (QC §11), no pouring.",
+ "pattern": "lesson_consequence",
+ "opening": "sad_mouse_empty_bucket",
+ "twist": "the sad mouse's empty bucket gets filled by Tito's own hand — the chorus line 'un dulce para ti, un dulce para mí' comes true",
+ "experiment": "first NATIVE vertical Short cut to an episode's audio (Roy 23.10: cropped verticals look too close); same file for YouTube Shorts + TikTok"
+}
