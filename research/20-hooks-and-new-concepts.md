@@ -47,3 +47,8 @@ Data: research/market/hooks_scan_2026-10-23.json (YouTube API, Spanish, Mexico, 
 
 ## Next steps
 Concept A first as a full spec (template + preflight), then B and C (one per refine slot). All follow the template: 28 lines, chorus ×3, START→ACTION→END, a design bible, background life, a hidden value, a big punchline shot.
+
+## v2.1 design upgrades from looking at the winners' frames (23.10, research/market/frames_2026-10-23/winners.jpg)
+- Doctora Sophia: the DOOR carries the clue (a banana-shaped door → a banana world), and each world is FULL of its theme; bright saturated colors, objects fill the frame. → Puertas Mágicas: a snowflake window / a sun knob + seashells / a leaf-shaped door with raindrop windows; the worlds are full of a snowman + giant snowflakes, a sand castle + beach balls, giant toadstools + a rainbow puddle; the clothes float to Tito with sparkles.
+- Car Wheel Español: the wheels come out of a box/garage; a green ✓ for the right answer (an icon, no words). → Ruedas Locas: a toy box with a "?" lid; a red ✗ sparkle after each wrong wheel, a green ✓ on the round one.
+- Monito / Bebefinn: a superhero TEAM pose with capes. → Súper Tito: the friends wear tiny red capes in the rainbow finale, a team pose.
