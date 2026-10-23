@@ -129,6 +129,8 @@ def main():
             vf = (f"setpts=PTS/{speed},split[a][b];[a]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},"
                   f"boxblur=30:3,eq=brightness=-0.15[bg];[b]scale=-2:{H}:flags=lanczos[fg];[bg][fg]overlay=(W-w)/2:0,"
                   f"fps={fps},eq=saturation=1.12:contrast=1.04,unsharp=5:5:0.6")
+        if s.get("graded"):  # segment cut from an already-graded master: no second grade/sharpen pass
+            vf = vf.replace(",eq=saturation=1.12:contrast=1.04,unsharp=5:5:0.6", "")
         punch = s.get("punch")  # fast push-in toward a point: {"to":1.32,"dur":0.45,"cx":0.5,"cy":0.33,"settle":1.22,"shake":10}
         frame = s.get("frame")  # static reframe: {"zoom":1.15,"cx":0.5,"cy":0.35}
         if punch:

@@ -29,7 +29,7 @@ def main():
              "src_len": round(min(usable, dur * speed), 3), "shot": tok}
         if o.get("reverse"):
             s["reverse"] = True
-        for k in ("crop_y", "fit"):
+        for k in ("crop_y", "fit", "graded"):
             if k in o:
                 s[k] = o[k]
         shots.append(s)

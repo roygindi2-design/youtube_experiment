@@ -1,0 +1,373 @@
+{
+ "out": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/tito_ep4_halloween_v9.mp4",
+ "fps": 30,
+ "size": [
+  1920,
+  1080
+ ],
+ "burn_captions": false,
+ "song": {
+  "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/assets/song.wav",
+  "start": 0.0,
+  "gain_db": 0
+ },
+ "shots": [
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_MASTER_s0.mp4",
+   "in": 0.0,
+   "dur": 2.322,
+   "speed": 1.0,
+   "src_len": 2.322,
+   "shot": "MASTER@0",
+   "graded": true
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_MASTER_s0.mp4",
+   "in": 2.322,
+   "dur": 3.818,
+   "speed": 1.0,
+   "src_len": 3.818,
+   "shot": "MASTER@0",
+   "graded": true
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_MASTER_s0.mp4",
+   "in": 6.14,
+   "dur": 4.909,
+   "speed": 1.0,
+   "src_len": 4.909,
+   "shot": "MASTER@0",
+   "graded": true
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_MASTER_s0.mp4",
+   "in": 11.049,
+   "dur": 3.818,
+   "speed": 1.0,
+   "src_len": 3.818,
+   "shot": "MASTER@0",
+   "graded": true
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_MASTER_s0.mp4",
+   "in": 14.867,
+   "dur": 2.182,
+   "speed": 1.0,
+   "src_len": 2.182,
+   "shot": "MASTER@0",
+   "graded": true
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_MASTER_s0.mp4",
+   "in": 17.049,
+   "dur": 4.364,
+   "speed": 1.0,
+   "src_len": 4.364,
+   "shot": "MASTER@0",
+   "graded": true
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_MASTER_s0.mp4",
+   "in": 21.413,
+   "dur": 2.727,
+   "speed": 1.0,
+   "src_len": 2.727,
+   "shot": "MASTER@0",
+   "graded": true
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_MASTER_s0.mp4",
+   "in": 24.14,
+   "dur": 3.818,
+   "speed": 1.0,
+   "src_len": 3.818,
+   "shot": "MASTER@0",
+   "graded": true
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_C2v9_s31.mp4",
+   "in": 0.05,
+   "dur": 3.273,
+   "speed": 1.0,
+   "src_len": 3.273,
+   "shot": "C2v9@31"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_C2v9_s7.mp4",
+   "in": 0.05,
+   "dur": 1.636,
+   "speed": 1.0,
+   "src_len": 1.636,
+   "shot": "C2v9@7"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_MASTER_s0.mp4",
+   "in": 32.867,
+   "dur": 5.455,
+   "speed": 1.0,
+   "src_len": 5.455,
+   "shot": "MASTER@0",
+   "graded": true
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_MASTER_s0.mp4",
+   "in": 38.322,
+   "dur": 4.909,
+   "speed": 1.0,
+   "src_len": 4.909,
+   "shot": "MASTER@0",
+   "graded": true
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_MASTER_s0.mp4",
+   "in": 43.231,
+   "dur": 2.182,
+   "speed": 1.0,
+   "src_len": 2.182,
+   "shot": "MASTER@0",
+   "graded": true
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_D2v9_s31.mp4",
+   "in": 0.05,
+   "dur": 2.182,
+   "speed": 1.0,
+   "src_len": 2.182,
+   "shot": "D2v9@31"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_MASTER_s0.mp4",
+   "in": 47.595,
+   "dur": 4.363,
+   "speed": 1.0,
+   "src_len": 4.363,
+   "shot": "MASTER@0",
+   "graded": true
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_MASTER_s0.mp4",
+   "in": 51.958,
+   "dur": 2.727,
+   "speed": 1.0,
+   "src_len": 2.727,
+   "shot": "MASTER@0",
+   "graded": true
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_MASTER_s0.mp4",
+   "in": 54.685,
+   "dur": 4.364,
+   "speed": 1.0,
+   "src_len": 4.364,
+   "shot": "MASTER@0",
+   "graded": true
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_MASTER_s0.mp4",
+   "in": 59.049,
+   "dur": 3.818,
+   "speed": 1.0,
+   "src_len": 3.818,
+   "shot": "MASTER@0",
+   "graded": true
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_C2v9_s19.mp4",
+   "in": 1.5,
+   "dur": 2.727,
+   "speed": 0.917,
+   "src_len": 2.5,
+   "shot": "C2v9@19"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_C2v9_s31.mp4",
+   "in": 0.05,
+   "dur": 2.182,
+   "speed": 1.0,
+   "src_len": 2.182,
+   "shot": "C2v9@31"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_MASTER_s0.mp4",
+   "in": 67.776,
+   "dur": 5.455,
+   "speed": 1.0,
+   "src_len": 5.455,
+   "shot": "MASTER@0",
+   "graded": true
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_MASTER_s0.mp4",
+   "in": 73.231,
+   "dur": 4.909,
+   "speed": 1.0,
+   "src_len": 4.909,
+   "shot": "MASTER@0",
+   "graded": true
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_MASTER_s0.mp4",
+   "in": 78.14,
+   "dur": 4.909,
+   "speed": 1.0,
+   "src_len": 4.909,
+   "shot": "MASTER@0",
+   "graded": true
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_MASTER_s0.mp4",
+   "in": 83.049,
+   "dur": 5.455,
+   "speed": 1.0,
+   "src_len": 5.455,
+   "shot": "MASTER@0",
+   "graded": true
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_M2v9_s7.mp4",
+   "in": 0.05,
+   "dur": 2.182,
+   "speed": 0.852,
+   "src_len": 1.859,
+   "shot": "M2v9@7"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_M3v9_s7.mp4",
+   "in": 0.05,
+   "dur": 3.272,
+   "speed": 1.0,
+   "src_len": 3.272,
+   "shot": "M3v9@7"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_M4v9_s31.mp4",
+   "in": 0.05,
+   "dur": 3.818,
+   "speed": 1.0,
+   "src_len": 3.818,
+   "shot": "M4v9@31"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_MASTER_s0.mp4",
+   "in": 97.776,
+   "dur": 4.364,
+   "speed": 1.0,
+   "src_len": 4.364,
+   "shot": "MASTER@0",
+   "graded": true
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_C2v9_s7.mp4",
+   "in": 0.05,
+   "dur": 2.182,
+   "speed": 0.894,
+   "src_len": 1.95,
+   "shot": "C2v9@7"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_C2v9_s19.mp4",
+   "in": 1.5,
+   "dur": 2.727,
+   "speed": 0.917,
+   "src_len": 2.5,
+   "shot": "C2v9@19"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_MASTER_s0.mp4",
+   "in": 107.049,
+   "dur": 5.455,
+   "speed": 1.0,
+   "src_len": 5.455,
+   "shot": "MASTER@0",
+   "graded": true
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_MASTER_s0.mp4",
+   "in": 112.504,
+   "dur": 4.363,
+   "speed": 1.0,
+   "src_len": 4.363,
+   "shot": "MASTER@0",
+   "graded": true
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_MASTER_s0.mp4",
+   "in": 116.867,
+   "dur": 4.909,
+   "speed": 1.0,
+   "src_len": 4.909,
+   "shot": "MASTER@0",
+   "graded": true
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_MASTER_s0.mp4",
+   "in": 121.776,
+   "dur": 2.182,
+   "speed": 1.0,
+   "src_len": 2.182,
+   "shot": "MASTER@0",
+   "graded": true
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_MASTER_s0.mp4",
+   "in": 123.958,
+   "dur": 4.364,
+   "speed": 1.0,
+   "src_len": 4.364,
+   "shot": "MASTER@0",
+   "graded": true
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_O2v9_s7.mp4",
+   "in": 0.05,
+   "dur": 3.273,
+   "speed": 1.0,
+   "src_len": 3.273,
+   "shot": "O2v9@7"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_O2v9_s31.mp4",
+   "in": 0.05,
+   "dur": 2.181,
+   "speed": 1.0,
+   "src_len": 2.181,
+   "shot": "O2v9@31"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_MASTER_s0.mp4",
+   "in": 133.776,
+   "dur": 4.909,
+   "speed": 1.0,
+   "src_len": 4.909,
+   "shot": "MASTER@0",
+   "graded": true
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_MASTER_s0.mp4",
+   "in": 138.685,
+   "dur": 4.91,
+   "speed": 1.0,
+   "src_len": 4.91,
+   "shot": "MASTER@0",
+   "graded": true
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_O2v9_s31.mp4",
+   "in": 0.6,
+   "dur": 3.818,
+   "speed": 0.864,
+   "src_len": 3.299,
+   "shot": "O2v9@31"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_O2v9_s7.mp4",
+   "in": 1.7,
+   "dur": 2.587,
+   "speed": 0.889,
+   "src_len": 2.3,
+   "shot": "O2v9@7"
+  }
+ ],
+ "sfx": [],
+ "lines": []
+}
