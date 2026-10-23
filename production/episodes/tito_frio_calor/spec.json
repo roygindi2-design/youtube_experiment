@@ -18,10 +18,10 @@
  ],
  "lyrics": "[Intro]\n¡Tres puertas mágicas! ¡Brillan, brillan!\n¿Qué hay detrás? ¡Vamos a ver!\n[Verse 1]\n¡La puerta azul! ¡Toc, toc!\n¿Qué será? ¿Qué será?\n¡Nieve! ¡Brrr! ¡Gorro y bufanda!\n¡Zuuum! ¡En trineo a jugar!\n[Chorus]\n¡Abro la puerta, ¿qué será?!\n¡Frío, calor o lluvia, ya!\n¡Me visto bien y a jugar!\n¡Tito sabe qué usar!\n[Verse 2]\n¡La puerta amarilla! ¡Toc, toc!\n¿Qué será? ¿Qué será?\n¡Sol! ¡Uf, qué calor! ¡Fuera chamarra!\n¡Sombrero, agua y a nadar!\n[Chorus]\n¡Abro la puerta, ¿qué será?!\n¡Frío, calor o lluvia, ya!\n¡Me visto bien y a jugar!\n¡Tito sabe qué usar!\n[Verse 3]\n¡La puerta verde! ¡Plic, plic!\n¡Lluvia! ¡Botas e impermeable!\n¡Splash, splash! ¡En el charco!\n¡Ranita, ven! ¡Aquí no te mojas!\n[Chorus]\n¡Abro la puerta, ¿qué será?!\n¡Frío, calor o lluvia, ya!\n¡Me visto bien y a jugar!\n¡Tito sabe qué usar!\n[Outro]\n¿Y la puerta roja? ¡Es mi casa!\n¡Un abrazo de mamá! ¡Lo mejor!",
  "locations": {
-  "sala": "Tito's cozy living room in daytime, wide 16:9 composition, camera at child eye level: three tall round doors (blue, yellow, green) and one small red door in a cream wall, a cat-shaped rug, a toy shelf, a sunny window with curtains. Nobody is in the room.",
-  "nieve": "A bright, friendly snowy winter world, wide 16:9: soft falling snow, snowy pine trees, a gentle snowy hill, a little snowman with a carrot nose, a pale blue sky. Nobody is there.",
-  "playa": "A sunny tropical beach, wide 16:9: golden sand, gentle turquoise waves, palm trees, a bright sun, a few shells. Nobody is there.",
-  "lluvia": "A rainy green jungle clearing, wide 16:9: gentle rain, big dripping leaves, puddles on a mossy path, soft grey-green light. Nobody is there.",
+  "sala": "Tito's round cozy living room in morning sun, wide 16:9: cream walls, four doors in a gentle curve — a tall BLUE door with a big white snowflake-shaped window and frosty edges, a tall YELLOW door with a sun-shaped golden knob and seashells around the frame, a tall GREEN door shaped like a big leaf with raindrop-shaped windows, a small RED door with a heart-shaped window — each throwing a soft pool of its color onto the wooden floor; a cat-shaped rug, a low toy shelf with blocks and a little red toy fire truck, a potted plant, sunny curtains. Nobody is in the room.",
+  "nieve": "A bright, friendly snowy winter valley, wide 16:9: snowy pine trees with heavy white caps, a gentle sledding hill, a small frozen pond with a shiny blue sheen, a friendly snowman with coal-button smile, carrot nose and red scarf, giant glittering six-pointed snowflakes drifting slowly, clean daylight with pale-blue shadows. Nobody is there.",
+  "playa": "A sunny tropical beach, wide 16:9: golden sand, turquoise water with gentle round waves, three leaning palm trees with coconuts, a sand castle with a little red flag, striped beach balls, seashells and a starfish on the sand, strong warm sun, glittering water. Nobody is there.",
+  "lluvia": "A rainy, magical mushroom forest, wide 16:9, camera at child eye level: soft green moss and ferns, gentle rain, GIANT red toadstools with white dots as tall as a house, groups of tall thin golden-yellow mushrooms whose caps glow softly like lamps, round fat lilac mushrooms, a ring of tiny glowing blue mushrooms on the moss, mossy stones, snails, a little puddle reflecting a rainbow, soft grey-green light with warm glowing spots. Nobody is there.",
   "cocina": "A cozy warm kitchen, wide 16:9: an orange hanging lamp, a wooden table with a steaming cup, plants on the window sill, warm light. Nobody is there."
  },
  "shots": [
@@ -177,7 +177,7 @@
   ],
   [
    "R1",
-   "Medium shot in a rainy green jungle clearing: the baby elephant in his sunny-yellow overalls with one round red button now wearing a shiny yellow raincoat with a hood and red rain boots, holding a small red umbrella, his trunk hanging down below his mouth, gentle rain falling, big leaves dripping, giant colorful toadstools, a little rainbow puddle. The main action is in the CENTER of the frame.",
+   "Medium shot in a rainy magical mushroom forest with giant red toadstools with white dots and glowing golden mushrooms: the baby elephant in his sunny-yellow overalls with one round red button now wearing a shiny yellow raincoat with a hood and red rain boots, holding a small red umbrella, his trunk hanging down below his mouth, gentle rain falling, big leaves dripping, giant colorful toadstools, a little rainbow puddle. The main action is in the CENTER of the frame.",
    "START: he opens the umbrella → ACTION: on the beat ('plic, plic') he opens the red umbrella over his head and looks up at the rain → END: happy closed smile under the umbrella. Background life: rain falls, leaves drip, a butterfly hides under a leaf. Both eyes stay open and calm with the same gentle expression the whole time.",
    "lluvia",
    [
@@ -187,7 +187,7 @@
   ],
   [
    "R2",
-   "Medium shot in the rainy jungle: the baby elephant in his sunny-yellow overalls with one round red button in the yellow raincoat and red rain boots jumps in a big muddy puddle with both feet, holding his red umbrella. The main action is in the CENTER of the frame.",
+   "Medium shot in the rainy mushroom forest under the giant red toadstools: the baby elephant in his sunny-yellow overalls with one round red button in the yellow raincoat and red rain boots jumps in a big muddy puddle with both feet, holding his red umbrella. The main action is in the CENTER of the frame.",
    "START: at the edge of the puddle → ACTION: he jumps into the puddle on the beat ('¡Splash, splash!'), water drops fly in a soft arc and fall back → END: he lands smiling, the ripples spreading. Background life: rain falls. Both eyes stay open and calm with the same gentle expression the whole time.",
    "lluvia",
    [
@@ -197,7 +197,7 @@
   ],
   [
    "R3",
-   "Close-up in the rainy jungle: the baby elephant in his sunny-yellow overalls with one round red button in the yellow raincoat crouches and holds his red umbrella over a tiny green frog sitting on a leaf, the frog smiling and dry, rain falling around them, both whole in frame. The main action is in the CENTER of the frame.",
+   "Close-up in the rainy mushroom forest under the giant red toadstools: the baby elephant in his sunny-yellow overalls with one round red button in the yellow raincoat crouches and holds his red umbrella over a tiny green frog sitting on a leaf, the frog smiling and dry, rain falling around them, both whole in frame. The main action is in the CENTER of the frame.",
    "START: the tiny frog shivering in the rain → ACTION: on '¡Ranita, ven!' Tito crouches and moves his umbrella over the frog, the rain stops falling on it → END: the frog smiles and croaks happily, Tito smiles. Background life: rain falls around them. Both eyes stay open and calm with the same gentle expression the whole time.",
    "lluvia",
    [

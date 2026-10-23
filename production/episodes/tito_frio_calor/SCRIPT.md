@@ -12,6 +12,66 @@
 **Background life:** sparkles (hub), snowfall + the robin, waves + palm leaves + the crab + the seagull, rain + dripping leaves, steam from the cup.
 **Hero props:** 4 doors (fixed colors and shapes), the sled, the yellow surfboard, the red umbrella.
 
+
+## World design — deep (v2.2, Roy 23.10)
+### Hub: Tito's living room (I1, Q, D1–D3, K1–K4, H1)
+- **Look:** a round, cozy room in soft cream with a pale-peach ceiling; the 4 doors stand in a gentle curve like a little theatre: BLUE (tall, round top, a big white SNOWFLAKE-shaped window, frost crystals on the edges), YELLOW (tall, round top, a golden SUN-shaped knob, little seashells around the frame), GREEN (tall, shaped like a big LEAF with a vein down the middle, 3 RAINDROP-shaped windows), and a small RED door at the side (heart-shaped window, child height = "home").
+- **Props:** a cat-shaped rug, a low toy shelf (blocks, a toy fire truck = Rojito easter egg), a potted plant, a window with sunny curtains.
+- **Light:** warm morning sun from the window; each door glows softly in its own color on the floor in front of it (blue / gold / green pools of light), so the room looks magical.
+- **Life:** tiny sparkles float up from the door frames; the curtains move; a sunbeam with dust specks.
+- **Tito's relation:** this is HIS room — he's at home, curious and safe; the doors are a surprise game in his own house.
+
+### World 1: Snow (S1–S3)
+- **Look:** a soft, rounded winter valley: snowy pine trees with heavy white caps, a gentle hill for sledding, a frozen little pond with a shiny blue sheen, a friendly snowman (coal-button smile, carrot nose, red scarf, stick arms), GIANT six-pointed snowflakes drifting slowly (each the size of Tito's head, glittering).
+- **Light:** bright, clean daylight, pale-blue shadows, everything sparkles.
+- **Life:** a red robin hops on a branch and shakes snow off; snow falls softly all the time.
+- **Tito's relation:** at first too cold (shivering, he hugs himself), then dressed warm and having fun on the sled.
+
+### World 2: Beach (B1–B3)
+- **Look:** golden sand, turquoise water with gentle round waves, 3 leaning palm trees with coconuts, a sand castle with a little red flag, striped beach balls, seashells and a starfish on the sand, a little crab walking sideways.
+- **Light:** strong warm sun, short shadows, the water glittering.
+- **Life:** waves roll in, palm leaves sway, a seagull glides, the crab scuttles.
+- **Tito's relation:** the GAG — he arrives still in his winter jacket and sweats; relief when he takes it off; joy surfing with the dolphin.
+
+### World 3: Rainy mushroom forest (R1–R3) — the most magical world
+- **Look:** a soft green forest floor with moss and ferns, gentle rain, and GIANT MUSHROOMS of 4 kinds:
+  1. **Red toadstools with white dots** (as tall as a house), wide shiny caps where raindrops bounce off.
+  2. **Tall thin golden-yellow mushrooms** in small groups, like little lamps; their caps GLOW softly from inside.
+  3. **Round fat lilac/purple mushrooms**, short and squishy, with a soft bounce when a drop hits them.
+  4. **Tiny blue mushrooms** in a ring on the moss (a "fairy ring") that glow faintly.
+  Next to them: big shiny fern leaves, mossy stones, a little rainbow puddle (rainbow reflection on the water), snails with spiral shells, and a tiny green frog on a lily-pad-shaped leaf.
+- **Light:** soft, grey-green rain light with warm glowing spots from the golden mushrooms; the drops shine.
+- **Life:** rain falls, drops roll off the mushroom caps, the lilac mushrooms bounce, a snail slides, ripples in the puddles.
+- **Tito's relation:** adventurous and kind: he plays in the rain (puddle jump) and then protects the smallest friend (the frog) under his umbrella.
+
+### Home: the kitchen (H2)
+- **Look:** a warm kitchen with an orange hanging lamp, a wooden table with a steaming cup of hot chocolate and cookies, plants on the window sill, Tito's drawing of the 3 doors stuck on the fridge.
+- **Light:** golden evening glow.
+- **Tito's relation:** the safest place; Mamá's hug = the reward.
+
+## Shot bible — face, hands, environment, why it grabs (v2.2)
+| shot | face | hands / body | environment around him | why kids watch |
+|---|---|---|---|---|
+| I1 | wide eyes, SURPRISE O → big closed smile | jumps, both arms up, fingers spread | the 3 doors light up one by one in color | a magic surprise in second 1 (the hook) |
+| Q | CURIOUS: head tilted, one ear up, eyes looking at the door | one hand at his chin, thinking | a glow of the next door's color on his face | the child guesses with him |
+| D1/D2/D3 | excited, eyebrows up | knocks 3× with one small fist, the other hand on his tummy | the door's clue glows (snowflake / sun / leaf) | knock-knock ritual = participation |
+| S1 | cold: shoulders up, a little shiver, pink cheeks | hugs himself, rubs his arms | snowflakes land on his ears | a funny "brrr" |
+| S2 | relieved PROUD smile | pats his warm jacket, wraps the scarf | the clothes float in with sparkles | magic dressing = a satisfying transformation |
+| S3 | thrilled HAPPY SQUINT, ears flying back | arms up on the sled | the trees and the snowman whoosh past | ACTION: speed + snow spray |
+| B1 | sweaty, puffing cheeks | fans himself, peels off the jacket and drops it | the hot sun, the crab passes by | the GAG (a winter coat on the beach) — kids laugh and shout "¡no!" |
+| B2 | refreshed, closed smile | drinks from a bottle, straightens the straw hat | a seagull glides | habit: drink water in the heat |
+| B3 | pure joy | balances with arms out | the dolphin jumps in an arc beside him | ACTION + a new friend |
+| R1 | delighted, looking up | opens the red umbrella | rain bouncing off the giant mushrooms | the cozy-rain mood |
+| R2 | laughing with a closed mouth | jumps with both feet | the splash rises and falls, the lilac mushrooms bounce | ACTION: the puddle jump (toddlers' favorite) |
+| R3 | caring, soft eyes | crouches, holds the umbrella over the frog | the frog on a leaf under a red toadstool | the kindness moment (hidden value) |
+| K1–K4 | big HAPPY SQUINT | knock-peek, spin, clap, jump | sparkles swirl in the room | a copyable dance |
+| H1 | SURPRISE O → soft smile | opens the small red door | warm light spills out | the twist: the last door is home |
+| H2 | eyes closed, cozy smile | hugs Mamá tightly | the kitchen glow, the steaming cup | the emotional punchline |
+
+## Sequence & punchline
+Hook (doors light up) → guess (Q) → knock → a world (problem → the right clothes → ACTION) → chorus dance → next door … ×3 → the twist (the small red door) → THE PUNCHLINE: "the best world is home — a hug from Mamá".
+**Most grabbing moments (also the Shorts/TikTok hooks):** the doors lighting up (0–3 s), the winter jacket on the beach (gag), the puddle jump, the dolphin surf, the red door twist.
+
 ## Habit beat
 Dressing for the weather (hat/scarf in the cold, a hat + WATER in the heat, a raincoat in the rain) — shown by the clothes flying on, never preached. **Hidden value:** helping others — Tito holds his umbrella over the tiny frog (R3).
 
