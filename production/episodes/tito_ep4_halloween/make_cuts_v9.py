@@ -33,6 +33,7 @@ REPL = {
     93.958: [("M4v9@31", 0.05, 3.868, None)],                                   # the mouse jumps for joy
     102.14: [("C2v9@7", 0.05, 2.0, 4), ("C2v9@19", 1.5, 4.0, None)],           # chorus 3
     128.322: [("O2v9@7", 0.05, 3.323, 6), ("O2v9@31", 0.05, 2.232, None)],      # walk away together
+    133.776: [("M4v9@19", 1.4, 3.9, 5), ("M4v9@31", 2.0, 3.9, None)],         # outro stays "together" (researcher QC 23.10)
     143.595: [("O2v9@31", 0.6, 3.9, None)],
     147.413: [("O2v9@7", 1.7, 4.0, None)],
 }
