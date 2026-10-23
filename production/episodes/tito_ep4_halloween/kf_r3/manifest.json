@@ -1,0 +1,649 @@
+{
+ "stages": [
+  {
+   "stage": "gpu",
+   "t": 0,
+   "gpus": [
+    "NVIDIA A40, 46068 MiB"
+   ]
+  },
+  {
+   "stage": "installed",
+   "t": 130,
+   "torch": "2.8.0.dev20250319+cu128"
+  },
+  {
+   "stage": "wangp_session",
+   "t": 56
+  },
+  {
+   "stage": "wangp_done",
+   "t": 3266
+  },
+  {
+   "stage": "finished",
+   "t": 3399,
+   "ok": 22,
+   "total": 22
+  },
+  {
+   "stage": "gpu",
+   "t": 0,
+   "gpus": [
+    "NVIDIA A40, 46068 MiB"
+   ]
+  },
+  {
+   "stage": "installed",
+   "t": 6,
+   "torch": "2.8.0.dev20250319+cu128"
+  },
+  {
+   "stage": "wangp_session",
+   "t": 10
+  },
+  {
+   "stage": "wangp_done",
+   "t": 122
+  },
+  {
+   "stage": "finished",
+   "t": 131,
+   "ok": 28,
+   "total": 28
+  }
+ ],
+ "tasks": [
+  {
+   "id": "vshort_clip_VM1_s7",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "544x960",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 7,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  START: the mouse looks into its empty bucket → ACTION: on 'sin dulces' its ears droop and it gives a tiny sad sigh (SAD-SMALL) → END: it looks up hopefully. Paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "vshort_VM1_kf0.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/vshort_clip_VM1_s7.mp4"
+   ],
+   "seconds": 175.2
+  },
+  {
+   "id": "vshort_clip_VM1_s19",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "544x960",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 19,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  START: the mouse looks into its empty bucket → ACTION: on 'sin dulces' its ears droop and it gives a tiny sad sigh (SAD-SMALL) → END: it looks up hopefully. Paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "vshort_VM1_kf0.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/vshort_clip_VM1_s19.mp4"
+   ],
+   "seconds": 144.2
+  },
+  {
+   "id": "vshort_clip_VM1_s31",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "544x960",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 31,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  START: the mouse looks into its empty bucket → ACTION: on 'sin dulces' its ears droop and it gives a tiny sad sigh (SAD-SMALL) → END: it looks up hopefully. Paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "vshort_VM1_kf0.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/vshort_clip_VM1_s31.mp4"
+   ],
+   "seconds": 145.7
+  },
+  {
+   "id": "vshort_clip_VM2_s7",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "544x960",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 7,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  START: Tito standing beside the mouse → ACTION: his face goes soft (caring), then he kneels down to the mouse's height and sets his orange bucket on the ground beside him → END: kneeling, both hands free, smiling gently at the mouse. Paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "vshort_VM2_kf0.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/vshort_clip_VM2_s7.mp4"
+   ],
+   "seconds": 146.1
+  },
+  {
+   "id": "vshort_clip_VM2_s19",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "544x960",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 19,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  START: Tito standing beside the mouse → ACTION: his face goes soft (caring), then he kneels down to the mouse's height and sets his orange bucket on the ground beside him → END: kneeling, both hands free, smiling gently at the mouse. Paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "vshort_VM2_kf0.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/vshort_clip_VM2_s19.mp4"
+   ],
+   "seconds": 144.3
+  },
+  {
+   "id": "vshort_clip_VM2_s31",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "544x960",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 31,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  START: Tito standing beside the mouse → ACTION: his face goes soft (caring), then he kneels down to the mouse's height and sets his orange bucket on the ground beside him → END: kneeling, both hands free, smiling gently at the mouse. Paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "vshort_VM2_kf0.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/vshort_clip_VM2_s31.mp4"
+   ],
+   "seconds": 144.2
+  },
+  {
+   "id": "vshort_clip_VM3_s7",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "544x960",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 7,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant moves his open palm, with the candies resting on it, down over the middle of the mouse's yellow bucket, then gently tilts it and the candies slide off into the yellow bucket and stay inside; his trunk stays curled down against his chest the whole time; the mouse holds its bucket up with both paws and looks in with happy eyes. Background life: paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "vshort_VM3_kf0.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/vshort_clip_VM3_s7.mp4"
+   ],
+   "seconds": 145.1
+  },
+  {
+   "id": "vshort_clip_VM3_s19",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "544x960",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 19,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant moves his open palm, with the candies resting on it, down over the middle of the mouse's yellow bucket, then gently tilts it and the candies slide off into the yellow bucket and stay inside; his trunk stays curled down against his chest the whole time; the mouse holds its bucket up with both paws and looks in with happy eyes. Background life: paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "vshort_VM3_kf0.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/vshort_clip_VM3_s19.mp4"
+   ],
+   "seconds": 145.3
+  },
+  {
+   "id": "vshort_clip_VM3_s31",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "544x960",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 31,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant moves his open palm, with the candies resting on it, down over the middle of the mouse's yellow bucket, then gently tilts it and the candies slide off into the yellow bucket and stay inside; his trunk stays curled down against his chest the whole time; the mouse holds its bucket up with both paws and looks in with happy eyes. Background life: paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "vshort_VM3_kf0.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/vshort_clip_VM3_s31.mp4"
+   ],
+   "seconds": 144.6
+  },
+  {
+   "id": "vshort_clip_VM3_s43",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "544x960",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 43,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant moves his open palm, with the candies resting on it, down over the middle of the mouse's yellow bucket, then gently tilts it and the candies slide off into the yellow bucket and stay inside; his trunk stays curled down against his chest the whole time; the mouse holds its bucket up with both paws and looks in with happy eyes. Background life: paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "vshort_VM3_kf0.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/vshort_clip_VM3_s43.mp4"
+   ],
+   "seconds": 143.3
+  },
+  {
+   "id": "vshort_clip_VC1_s7",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "544x960",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 7,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  DANCE — START: side by side → ACTION: they sway left and right together on the beat, the buckets swinging gently from their handles → END: they smile at each other. Paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "vshort_VC1_kf1.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/vshort_clip_VC1_s7.mp4"
+   ],
+   "seconds": 144.3
+  },
+  {
+   "id": "vshort_clip_VC1_s19",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "544x960",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 19,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  DANCE — START: side by side → ACTION: they sway left and right together on the beat, the buckets swinging gently from their handles → END: they smile at each other. Paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "vshort_VC1_kf1.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/vshort_clip_VC1_s19.mp4"
+   ],
+   "seconds": 143.8
+  },
+  {
+   "id": "vshort_clip_VC1_s31",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "544x960",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 31,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  DANCE — START: side by side → ACTION: they sway left and right together on the beat, the buckets swinging gently from their handles → END: they smile at each other. Paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "vshort_VC1_kf1.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/vshort_clip_VC1_s31.mp4"
+   ],
+   "seconds": 145.1
+  },
+  {
+   "id": "vshort_clip_VC4_s7",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "544x960",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 7,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  REAL WALK — START: both in the front of the frame → ACTION: they walk together down the path on the beat, the houses getting closer → END: they turn their heads and wave back at the viewer. Paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "vshort_VC4_kf0.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/vshort_clip_VC4_s7.mp4"
+   ],
+   "seconds": 145.4
+  },
+  {
+   "id": "vshort_clip_VC4_s19",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "544x960",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 19,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  REAL WALK — START: both in the front of the frame → ACTION: they walk together down the path on the beat, the houses getting closer → END: they turn their heads and wave back at the viewer. Paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "vshort_VC4_kf0.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/vshort_clip_VC4_s19.mp4"
+   ],
+   "seconds": 145.9
+  },
+  {
+   "id": "vshort_clip_VC4_s31",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "544x960",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 31,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  REAL WALK — START: both in the front of the frame → ACTION: they walk together down the path on the beat, the houses getting closer → END: they turn their heads and wave back at the viewer. Paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "vshort_VC4_kf0.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/vshort_clip_VC4_s31.mp4"
+   ],
+   "seconds": 145.2
+  },
+  {
+   "id": "vshort_clip_VC2_s43",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "544x960",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 43,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant and the mouse turn to each other and each bow their head once, politely and happily, each holding their own bucket by its handle. Background life: paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "vshort_VC1_kf1.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/vshort_clip_VC2_s43.mp4"
+   ],
+   "seconds": 145.4
+  },
+  {
+   "id": "vshort_clip_VC2_s57",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "544x960",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 57,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant and the mouse turn to each other and each bow their head once, politely and happily, each holding their own bucket by its handle. Background life: paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "vshort_VC1_kf1.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/vshort_clip_VC2_s57.mp4"
+   ],
+   "seconds": 143.5
+  },
+  {
+   "id": "vshort_clip_VC2_s83",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "544x960",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 83,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant and the mouse turn to each other and each bow their head once, politely and happily, each holding their own bucket by its handle. Background life: paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "vshort_VC1_kf1.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/vshort_clip_VC2_s83.mp4"
+   ],
+   "seconds": 143.3
+  },
+  {
+   "id": "vshort_clip_VC3_s97",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "544x960",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 97,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Each of them lifts ONE wrapped candy from their own bucket with their free hand and shows it to the other, smiling; Tito's trunk stays curled down below his mouth, far from the candy. Background life: paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "vshort_VC1_kf1.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/vshort_clip_VC3_s97.mp4"
+   ],
+   "seconds": 143.6
+  },
+  {
+   "id": "vshort_clip_VC3_s111",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "544x960",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 111,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Each of them lifts ONE wrapped candy from their own bucket with their free hand and shows it to the other, smiling; Tito's trunk stays curled down below his mouth, far from the candy. Background life: paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "vshort_VC1_kf1.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/vshort_clip_VC3_s111.mp4"
+   ],
+   "seconds": 143.1
+  },
+  {
+   "id": "vshort_clip_VC3_s127",
+   "settings": {
+    "model_type": "ti2v_2_2",
+    "resolution": "544x960",
+    "video_length": 97,
+    "num_inference_steps": 30,
+    "guidance_scale": 5,
+    "flow_shift": 5,
+    "seed": 127,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Each of them lifts ONE wrapped candy from their own bucket with their free hand and shows it to the other, smiling; Tito's trunk stays curled down below his mouth, far from the candy. Background life: paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "inputs": {
+     "image_start": "vshort_VC1_kf1.jpg"
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/vshort_clip_VC3_s127.mp4"
+   ],
+   "seconds": 143.5
+  },
+  {
+   "id": "m3i_h3_kf0",
+   "settings": {
+    "model_type": "flux2_klein_4b",
+    "resolution": "1280x720",
+    "num_inference_steps": 4,
+    "seed": 505,
+    "video_prompt_type": "KI",
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Close-up INSERT shot at the height of the bucket on the Halloween village street at night, warm lantern light, soft bokeh of jack-o-lanterns behind. A small EMPTY YELLOW plastic bucket with an orange star on it in the middle of the frame, its round opening visible. From the LEFT edge: only the baby elephant's small powder-blue hand and forearm, nothing else of him, the hand open and palm up, three colorful wrapped candies resting on the palm, held low right above the middle of the bucket's opening. From the RIGHT: the tiny grey mouse's arm in the sleeve of its YELLOW star costume, its little grey paw holding the rim of the bucket; the mouse's grey face with big round pink ears partly visible at the right edge, smiling, above its yellow star costume. The same hand, candies, bucket and mouse as the reference image. The main action is in the CENTER of the frame. Wide 16:9 frame.",
+    "inputs": {
+     "image_refs": [
+      "ref_m3i_h2.jpg"
+     ]
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/m3i_h3_kf0.jpg"
+   ],
+   "seconds": 81.0
+  },
+  {
+   "id": "m3i_h3_kf1",
+   "settings": {
+    "model_type": "flux2_klein_4b",
+    "resolution": "1280x720",
+    "num_inference_steps": 4,
+    "seed": 606,
+    "video_prompt_type": "KI",
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Close-up INSERT shot at the height of the bucket on the Halloween village street at night, warm lantern light, soft bokeh of jack-o-lanterns behind. A small EMPTY YELLOW plastic bucket with an orange star on it in the middle of the frame, its round opening visible. From the LEFT edge: only the baby elephant's small powder-blue hand and forearm, nothing else of him, the hand open and palm up, three colorful wrapped candies resting on the palm, held low right above the middle of the bucket's opening. From the RIGHT: the tiny grey mouse's arm in the sleeve of its YELLOW star costume, its little grey paw holding the rim of the bucket; the mouse's grey face with big round pink ears partly visible at the right edge, smiling, above its yellow star costume. The same hand, candies, bucket and mouse as the reference image. The main action is in the CENTER of the frame. Wide 16:9 frame.",
+    "inputs": {
+     "image_refs": [
+      "ref_m3i_h2.jpg"
+     ]
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/m3i_h3_kf1.jpg"
+   ],
+   "seconds": 5.0
+  },
+  {
+   "id": "m3i_h3_kf2",
+   "settings": {
+    "model_type": "flux2_klein_4b",
+    "resolution": "1280x720",
+    "num_inference_steps": 4,
+    "seed": 707,
+    "video_prompt_type": "KI",
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Close-up INSERT shot at the height of the bucket on the Halloween village street at night, warm lantern light, soft bokeh of jack-o-lanterns behind. A small EMPTY YELLOW plastic bucket with an orange star on it in the middle of the frame, its round opening visible. From the LEFT edge: only the baby elephant's small powder-blue hand and forearm, nothing else of him, the hand open and palm up, three colorful wrapped candies resting on the palm, held low right above the middle of the bucket's opening. From the RIGHT: the tiny grey mouse's arm in the sleeve of its YELLOW star costume, its little grey paw holding the rim of the bucket; the mouse's grey face with big round pink ears partly visible at the right edge, smiling, above its yellow star costume. The same hand, candies, bucket and mouse as the reference image. The main action is in the CENTER of the frame. Wide 16:9 frame.",
+    "inputs": {
+     "image_refs": [
+      "ref_m3i_h2.jpg"
+     ]
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/m3i_h3_kf2.jpg"
+   ],
+   "seconds": 5.0
+  },
+  {
+   "id": "vshort_VM4b_kf0",
+   "settings": {
+    "model_type": "flux2_klein_4b",
+    "resolution": "720x1280",
+    "num_inference_steps": 4,
+    "seed": 707,
+    "video_prompt_type": "KI",
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Vertical 9:16 frame, camera at child eye level, both characters shown full body, large in the frame, Tito on the left and the mouse on the right, nothing cut at the edges. The tiny grey mouse in its little yellow star costume jumps for joy, both feet off the ground, hugging its OWN small YELLOW bucket, which now has a few colorful candies inside. The baby elephant, kneeling, claps his hands together happily in front of his chest; his own ORANGE jack-o-lantern bucket stands on the ground beside his knee. Both with a happy squint and closed-mouth smiles. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler in his Halloween costume: his powder-blue face, very big round powder-blue ears with peach-pink insides, short soft powder-blue trunk curled up at the tip, big glossy dark-brown eyes, rosy cheeks, powder-blue arms, hands and feet; he wears a round soft ORANGE PUMPKIN COSTUME like a puffy round orange pumpkin around his tummy and chest, with vertical pumpkin ridges, and a small green leafy stem cap on top of his head; short chubby powder-blue legs below the costume, small tail. The tiny grey mouse from the first reference image, exactly the same character design: grey fur, big round pink ears, a little yellow star costume. Exactly one elephant and one mouse in the picture. Setting: A cozy little village street on Halloween night, vertical 9:16 composition, camera at child eye level: three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Vertical 9:16 frame.",
+    "inputs": {
+     "image_refs": [
+      "ref_mouse_v.jpg",
+      "tito_pumpkin_master.jpg"
+     ]
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/vshort_VM4b_kf0.jpg"
+   ],
+   "seconds": 7.5
+  },
+  {
+   "id": "vshort_VM4b_kf1",
+   "settings": {
+    "model_type": "flux2_klein_4b",
+    "resolution": "720x1280",
+    "num_inference_steps": 4,
+    "seed": 808,
+    "video_prompt_type": "KI",
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Vertical 9:16 frame, camera at child eye level, both characters shown full body, large in the frame, Tito on the left and the mouse on the right, nothing cut at the edges. The tiny grey mouse in its little yellow star costume jumps for joy, both feet off the ground, hugging its OWN small YELLOW bucket, which now has a few colorful candies inside. The baby elephant, kneeling, claps his hands together happily in front of his chest; his own ORANGE jack-o-lantern bucket stands on the ground beside his knee. Both with a happy squint and closed-mouth smiles. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler in his Halloween costume: his powder-blue face, very big round powder-blue ears with peach-pink insides, short soft powder-blue trunk curled up at the tip, big glossy dark-brown eyes, rosy cheeks, powder-blue arms, hands and feet; he wears a round soft ORANGE PUMPKIN COSTUME like a puffy round orange pumpkin around his tummy and chest, with vertical pumpkin ridges, and a small green leafy stem cap on top of his head; short chubby powder-blue legs below the costume, small tail. The tiny grey mouse from the first reference image, exactly the same character design: grey fur, big round pink ears, a little yellow star costume. Exactly one elephant and one mouse in the picture. Setting: A cozy little village street on Halloween night, vertical 9:16 composition, camera at child eye level: three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Vertical 9:16 frame.",
+    "inputs": {
+     "image_refs": [
+      "ref_mouse_v.jpg",
+      "tito_pumpkin_master.jpg"
+     ]
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/vshort_VM4b_kf1.jpg"
+   ],
+   "seconds": 6.8
+  },
+  {
+   "id": "vshort_VM4b_kf2",
+   "settings": {
+    "model_type": "flux2_klein_4b",
+    "resolution": "720x1280",
+    "num_inference_steps": 4,
+    "seed": 909,
+    "video_prompt_type": "KI",
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Vertical 9:16 frame, camera at child eye level, both characters shown full body, large in the frame, Tito on the left and the mouse on the right, nothing cut at the edges. The tiny grey mouse in its little yellow star costume jumps for joy, both feet off the ground, hugging its OWN small YELLOW bucket, which now has a few colorful candies inside. The baby elephant, kneeling, claps his hands together happily in front of his chest; his own ORANGE jack-o-lantern bucket stands on the ground beside his knee. Both with a happy squint and closed-mouth smiles. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler in his Halloween costume: his powder-blue face, very big round powder-blue ears with peach-pink insides, short soft powder-blue trunk curled up at the tip, big glossy dark-brown eyes, rosy cheeks, powder-blue arms, hands and feet; he wears a round soft ORANGE PUMPKIN COSTUME like a puffy round orange pumpkin around his tummy and chest, with vertical pumpkin ridges, and a small green leafy stem cap on top of his head; short chubby powder-blue legs below the costume, small tail. The tiny grey mouse from the first reference image, exactly the same character design: grey fur, big round pink ears, a little yellow star costume. Exactly one elephant and one mouse in the picture. Setting: A cozy little village street on Halloween night, vertical 9:16 composition, camera at child eye level: three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Vertical 9:16 frame.",
+    "inputs": {
+     "image_refs": [
+      "ref_mouse_v.jpg",
+      "tito_pumpkin_master.jpg"
+     ]
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/vshort_VM4b_kf2.jpg"
+   ],
+   "seconds": 6.7
+  }
+ ]
+}
