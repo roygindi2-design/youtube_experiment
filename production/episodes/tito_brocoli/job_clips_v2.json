@@ -1,0 +1,352 @@
+[
+ {
+  "id": "bro_clip2_R1_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant faces the camera the whole time. On the beat he shakes his head slowly left and right twice, his big ears swinging, both eyes always visible, his trunk hanging straight down, a small closed-mouth pout; then he crosses his arms, still facing the camera. Background life: two butterflies flutter by, big leaves sway, the little waterfall sparkles. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "inputs": {
+   "image_start": "v2_R1.jpg"
+  }
+ },
+ {
+  "id": "bro_clip2_R1_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant faces the camera the whole time. On the beat he shakes his head slowly left and right twice, his big ears swinging, both eyes always visible, his trunk hanging straight down, a small closed-mouth pout; then he crosses his arms, still facing the camera. Background life: two butterflies flutter by, big leaves sway, the little waterfall sparkles. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "inputs": {
+   "image_start": "v2_R1.jpg"
+  }
+ },
+ {
+  "id": "bro_clip2_R1_s31",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant faces the camera the whole time. On the beat he shakes his head slowly left and right twice, his big ears swinging, both eyes always visible, his trunk hanging straight down, a small closed-mouth pout; then he crosses his arms, still facing the camera. Background life: two butterflies flutter by, big leaves sway, the little waterfall sparkles. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "inputs": {
+   "image_start": "v2_R1.jpg"
+  }
+ },
+ {
+  "id": "bro_clip2_R2_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant faces the camera the whole time, looking at the carrot. On the beat he shakes his head slowly left and right twice, ears swinging, both eyes always visible, trunk hanging straight down, a closed-mouth pout; then he crosses his arms. Background life: two butterflies flutter by, big leaves sway, the little waterfall sparkles. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "inputs": {
+   "image_start": "v2_R2.jpg"
+  }
+ },
+ {
+  "id": "bro_clip2_R2_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant faces the camera the whole time, looking at the carrot. On the beat he shakes his head slowly left and right twice, ears swinging, both eyes always visible, trunk hanging straight down, a closed-mouth pout; then he crosses his arms. Background life: two butterflies flutter by, big leaves sway, the little waterfall sparkles. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "inputs": {
+   "image_start": "v2_R2.jpg"
+  }
+ },
+ {
+  "id": "bro_clip2_R2_s31",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant faces the camera the whole time, looking at the carrot. On the beat he shakes his head slowly left and right twice, ears swinging, both eyes always visible, trunk hanging straight down, a closed-mouth pout; then he crosses his arms. Background life: two butterflies flutter by, big leaves sway, the little waterfall sparkles. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "inputs": {
+   "image_start": "v2_R2.jpg"
+  }
+ },
+ {
+  "id": "bro_clip2_K4_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Mamá Elefanta pats the top of his head gently twice with her hand, her trunk staying curled up away from him; the baby elephant smiles and sways happily once; their trunks never touch; both smile at each other with closed mouths. Background life: two butterflies flutter by, big leaves sway, the little waterfall sparkles. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "inputs": {
+   "image_start": "v2_K4.jpg"
+  }
+ },
+ {
+  "id": "bro_clip2_K4_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Mamá Elefanta pats the top of his head gently twice with her hand, her trunk staying curled up away from him; the baby elephant smiles and sways happily once; their trunks never touch; both smile at each other with closed mouths. Background life: two butterflies flutter by, big leaves sway, the little waterfall sparkles. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "inputs": {
+   "image_start": "v2_K4.jpg"
+  }
+ },
+ {
+  "id": "bro_clip2_K4_s31",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Mamá Elefanta pats the top of his head gently twice with her hand, her trunk staying curled up away from him; the baby elephant smiles and sways happily once; their trunks never touch; both smile at each other with closed mouths. Background life: two butterflies flutter by, big leaves sway, the little waterfall sparkles. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "inputs": {
+   "image_start": "v2_K4.jpg"
+  }
+ },
+ {
+  "id": "bro_clip2_K2_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The camera slowly pushes in over the plate. The baby elephant's finger points to the broccoli, then the carrot, then the tomato, one per beat; the food never moves; the butterfly on the blanket edge slowly opens and closes its wings. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "inputs": {
+   "image_start": "v2_K2.jpg"
+  }
+ },
+ {
+  "id": "bro_clip2_K2_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The camera slowly pushes in over the plate. The baby elephant's finger points to the broccoli, then the carrot, then the tomato, one per beat; the food never moves; the butterfly on the blanket edge slowly opens and closes its wings. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "inputs": {
+   "image_start": "v2_K2.jpg"
+  }
+ },
+ {
+  "id": "bro_clip2_K2_s31",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The camera slowly pushes in over the plate. The baby elephant's finger points to the broccoli, then the carrot, then the tomato, one per beat; the food never moves; the butterfly on the blanket edge slowly opens and closes its wings. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "inputs": {
+   "image_start": "v2_K2.jpg"
+  }
+ },
+ {
+  "id": "bro_clip2_TU_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The toucan bobs its head and does a happy little bounce on the branch, flapping its wings twice on the beat, then fluffs its feathers, happy. The branch sways a little, leaves move in the breeze, its beak stays closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "inputs": {
+   "image_start": "v2_TU.jpg"
+  }
+ },
+ {
+  "id": "bro_clip2_TU_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The toucan bobs its head and does a happy little bounce on the branch, flapping its wings twice on the beat, then fluffs its feathers, happy. The branch sways a little, leaves move in the breeze, its beak stays closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "inputs": {
+   "image_start": "v2_TU.jpg"
+  }
+ },
+ {
+  "id": "bro_clip2_MO_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant holds out the carrot stick in his hand; the baby monkey takes it happily with both little hands and hugs it; then the baby elephant picks up the white plate and puts it into the little wooden basket beside him, leaving the blanket clean; both smile. Background life: two butterflies flutter by, big leaves sway, the little waterfall sparkles. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "inputs": {
+   "image_start": "v2_MO.jpg"
+  }
+ },
+ {
+  "id": "bro_clip2_MO_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant holds out the carrot stick in his hand; the baby monkey takes it happily with both little hands and hugs it; then the baby elephant picks up the white plate and puts it into the little wooden basket beside him, leaving the blanket clean; both smile. Background life: two butterflies flutter by, big leaves sway, the little waterfall sparkles. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "inputs": {
+   "image_start": "v2_MO.jpg"
+  }
+ },
+ {
+  "id": "bro_clip2_MO_s31",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant holds out the carrot stick in his hand; the baby monkey takes it happily with both little hands and hugs it; then the baby elephant picks up the white plate and puts it into the little wooden basket beside him, leaving the blanket clean; both smile. Background life: two butterflies flutter by, big leaves sway, the little waterfall sparkles. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "inputs": {
+   "image_start": "v2_MO.jpg"
+  }
+ },
+ {
+  "id": "bro_clip2_K1_s83",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 83,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  HAPPY BOUNCE — START: standing, plate in both hands → ACTION: he bends his knees and bounces softly on every beat, ears flopping, the plate stays level → END: still, HAPPY SQUINT. The food stays on the plate. Background life: two butterflies flutter by, big leaves sway, the little waterfall sparkles. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "inputs": {
+   "image_start": "v1_K1.jpg"
+  }
+ },
+ {
+  "id": "bro_clip2_K1_s97",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 97,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  HAPPY BOUNCE — START: standing, plate in both hands → ACTION: he bends his knees and bounces softly on every beat, ears flopping, the plate stays level → END: still, HAPPY SQUINT. The food stays on the plate. Background life: two butterflies flutter by, big leaves sway, the little waterfall sparkles. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "inputs": {
+   "image_start": "v1_K1.jpg"
+  }
+ },
+ {
+  "id": "bro_clip2_K3_s83",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 83,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  STRONG POSE — START: arms down → ACTION: on 'fuerte, fuerte' he lifts both arms up and bends them like a strongman twice on the beat, ears lifting → END: holds the proud pose, closed smile. The trunk stays down. Background life: two butterflies flutter by, big leaves sway, the little waterfall sparkles. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "inputs": {
+   "image_start": "v1_K3.jpg"
+  }
+ },
+ {
+  "id": "bro_clip2_K3_s97",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 97,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  STRONG POSE — START: arms down → ACTION: on 'fuerte, fuerte' he lifts both arms up and bends them like a strongman twice on the beat, ears lifting → END: holds the proud pose, closed smile. The trunk stays down. Background life: two butterflies flutter by, big leaves sway, the little waterfall sparkles. Both eyes stay open and calm with the same gentle expression the whole time. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "inputs": {
+   "image_start": "v1_K3.jpg"
+  }
+ },
+ {
+  "id": "bro_clip2_G2_s83",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 83,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  He chews with his mouth closed, then his eyes grow wide with delight and he does a happy bounce, his big ears flapping on the beat, the broccoli floret still in his hand; he ends with a happy squint. Background life: two butterflies flutter by, big leaves sway, the little waterfall sparkles. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "inputs": {
+   "image_start": "v1_G2.jpg"
+  }
+ },
+ {
+  "id": "bro_clip2_G2_s97",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 97,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  He chews with his mouth closed, then his eyes grow wide with delight and he does a happy bounce, his big ears flapping on the beat, the broccoli floret still in his hand; he ends with a happy squint. Background life: two butterflies flutter by, big leaves sway, the little waterfall sparkles. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "inputs": {
+   "image_start": "v1_G2.jpg"
+  }
+ },
+ {
+  "id": "bro_clip2_C2_s83",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 83,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  He chews with his mouth closed, nods twice and flaps his big ears happily on the beat, the carrot stick still in his hand; he ends with a happy squint. Background life: two butterflies flutter by, big leaves sway, the little waterfall sparkles. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "inputs": {
+   "image_start": "v1_C2.jpg"
+  }
+ },
+ {
+  "id": "bro_clip2_C2_s97",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 97,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  He chews with his mouth closed, nods twice and flaps his big ears happily on the beat, the carrot stick still in his hand; he ends with a happy squint. Background life: two butterflies flutter by, big leaves sway, the little waterfall sparkles. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+  "inputs": {
+   "image_start": "v1_C2.jpg"
+  }
+ }
+]
