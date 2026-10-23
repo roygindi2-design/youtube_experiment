@@ -1,67 +1,57 @@
-# SCRIPT — rojito_arena: ¿Quién está en la arena? 🚒🐢 | #shorts
+# SCRIPT — rojito_arena v2 (23.10): ¡Rojito y las Ruedas Locas! 🚒⭕🔺⭐
+**Format:** long episode 16:9, 2:30 (28 lines, 118 bpm), 3 Shorts + TikTok. Template + preflight OK. The old beach-turtle Short is kept in SCRIPT_short_v1.md / spec_short_v1.json.
+**Concept + evidence:** research/20 Concept B. Car Wheel Español "wrong wheel" puzzles = 187–543K views/day (4 videos, Oct 2026); superhero-rescue trend 100–390K/day.
+**Punchline:** only the ROUND wheel rolls → he arrives just in time, the ladder goes up, the kitten is saved; in the end the silly wheels follow him home like little ducks.
 
-**Pattern:** `mystery` · **Opening:** `blinking_eyes_in_sand_mound` · **World:** sunny beach: soft golden sand, turquoise waves, palm trees and a red-and-white lighthouse + the wet shoreline with gentle foam
+## Design bible
+**Environment — town park:** a smooth grey road through green grass, a tall leafy tree, flowers, a bench, lamp posts, birds, a blue sky with soft clouds; sunset glow only in the last shot.
+**Palette & light:** cherry red (Rojito) + the 4 wheel colors as the learning colors: SQUARE yellow, TRIANGLE blue, STAR green, ROUND black. Sunny daylight.
+**Costumes/props:** Rojito per lock (ladder, blue siren, golden bell, "1" on the doors). Test wheels: big, toy-like, each a clear single color + shape.
+**Supporting characters:** the tiny orange kitten (fluffy, round face, small, high on the branch); birds.
+**Background life:** leaves sway, birds fly, butterflies, clouds drift, the siren glows.
+**Hero props:** the white ladder (folded → extended), the 4 shaped wheels.
 
-**Experiment:** first 'mystery' pattern (Huella Mágica ×1,150) as a clue-by-clue reveal with water; giant-thing-to-clean hook (Diente Gigante ×26, +3.9M in 12 h)
+## Habit beat
+Perseverance: try, fail, try again (each wrong wheel = "¡No, no, no! ¡Así no va!"); no frustration, a determined smile. **Hidden value:** helping others (the rescue) — and the kitten thanks him ("¡Gracias, Rojito!").
 
-**Twist (visible):** the 'sand monster' with blinking eyes is a friendly sea turtle — each spray reveals one more clue (flipper, tail, shell) before the full reveal
+## Acting
+START → ACTION → END in every shot. Big-body moves: the bumpy square (pum pum), the wobbling triangle (clonc), the bouncing star (brinca), the zoom with the round wheel. Chorus signature dance: K1 the wheels roll + spin, K2 Rojito spins, K3 a sparkle question mark ("¿Cuál es la que va?" → the kids shout), K4 a happy bounce with the bell.
 
-**Moral:** ¡Rojito ayuda a todos sus amigos, hasta en la playa!
+## Timeline (28 lines)
+| # | section | lyric | shot | action |
+|---|---|---|---|---|
+| 1 | Intro | ¡Nii-noo! ¡Un gatito en el árbol! | A1 | Rojito drives across the frame toward the tree on the beat, the siren flashing ('¡Nii-noo!') |
+| 2 | Intro | ¡Rojito al rescate! ¡Vamos ya! | A2 | he speeds along on the beat ('¡Vamos ya!'), the background passing by |
+| 3 | Verse 1 | ¡Ay! ¡Se fue una rueda! | W0 | the back wheel pops off on the beat ('¡Ay!') and rolls away out of the frame, Rojito tilts softly |
+| 4 | Verse 1 | ¿Cuál es? ¿Cuál es? | Q | his eyebrows go up and his eyes look left and right on '¿Cuál es?' (CURIOUS) |
+| 5 | Verse 1 | ¿Cuadrada? ¡Pum, pum, pum! | SQ | he drives forward and bumps up and down three times on the beat ('¡Pum, pum, pum!') as the square wh |
+| 6 | Verse 1 | ¡No, no, no! ¡Así no va! | NO | he sways his front left-right twice on '¡No, no, no!' |
+| 7 | Chorus | ¡Rueda, rueda, redondita! | K1 | they roll a little forward and spin in place on the beat |
+| 8 | Chorus | ¡Gira, gira, rapidita! | K2 | he turns around once slowly on the beat ('¡Gira, gira!') |
+| 9 | Chorus | ¿Cuál es la que va? | K3 | the sparkle question mark appears above him on the beat, he looks up at it |
+| 10 | Chorus | ¡Redonda, redonda, ya! | K4 | he bounces up and down twice on his wheels on the beat, the bell swinging |
+| 11 | Verse 2 | ¿Y esta rueda? ¡A probar! | TR | he drives forward and wobbles and clonks twice on the beat ('¡Clonc, clonc!') |
+| 12 | Verse 2 | ¿Cuál es? ¿Cuál es? | Q | his eyebrows go up and his eyes look left and right on '¿Cuál es?' (CURIOUS) |
+| 13 | Verse 2 | ¿Triángulo? ¡Clonc, clonc! | TR | he drives forward and wobbles and clonks twice on the beat ('¡Clonc, clonc!') |
+| 14 | Verse 2 | ¡No, no, no! ¡Así no va! | NO | he sways his front left-right twice on '¡No, no, no!' |
+| 15 | Chorus | ¡Rueda, rueda, redondita! | K1 | they roll a little forward and spin in place on the beat |
+| 16 | Chorus | ¡Gira, gira, rapidita! | K2 | he turns around once slowly on the beat ('¡Gira, gira!') |
+| 17 | Chorus | ¿Cuál es la que va? | K3 | the sparkle question mark appears above him on the beat, he looks up at it |
+| 18 | Chorus | ¡Redonda, redonda, ya! | K4 | he bounces up and down twice on his wheels on the beat, the bell swinging |
+| 19 | Verse 3 | ¿Una estrella? ¡Brinca, brinca! | ST | he bounces up high twice on the beat ('¡Brinca, brinca!') |
+| 20 | Verse 3 | ¡Y ahora… la redonda! ¡Zuuum! | RD | he zooms forward on '¡Zuuum!', the trees passing by |
+| 21 | Verse 3 | ¡Sube, sube la escalera! | LA | the ladder rises and extends up toward the branch on the beat ('¡Sube, sube!') |
+| 22 | Verse 3 | ¡Gatito, a salvo! ¡Miau! | KT | it steps onto the ladder and climbs down two rungs on the beat |
+| 23 | Chorus | ¡Rueda, rueda, redondita! | K1 | they roll a little forward and spin in place on the beat |
+| 24 | Chorus | ¡Gira, gira, rapidita! | K2 | he turns around once slowly on the beat ('¡Gira, gira!') |
+| 25 | Chorus | ¿Cuál es la que va? | K3 | the sparkle question mark appears above him on the beat, he looks up at it |
+| 26 | Chorus | ¡Redonda, redonda, ya! | K4 | he bounces up and down twice on his wheels on the beat, the bell swinging |
+| 27 | Outro | ¡Gracias, Rojito! ¡Pi, pi! | O1 | it rubs its head on the siren and Rojito honks softly on the beat ('¡Pi, pi!') |
+| 28 | Outro | ¡Juntos a casa! ¡Nii-noo! | O2 | he drives across the frame toward the town, the wheels rolling behind in a row on the beat |
 
-## Beat table (~3 s per line at 120 bpm; each line = what is on screen)
+## Shorts
+A: A1 → W0 → square → chorus → ends on the TRIANGLE wheel arriving ("¿y esta?"). B: triangle → chorus → ends on the STAR wheel. C: star → round → zoom → ladder → kitten saved → O2.
+TikTok: 12 s — the square wheel bumping "¡Pum, pum, pum!" → text "¿Tu peque sabe cuál es la rueda correcta? 🚒⭕".
 
-| # | time | lyric (sung) | shot | framing + action | why it hooks (evidence) |
-|---|---|---|---|---|---|
-| 1 | 0–3s | ¡Uy! ¡Dos ojitos en la arena! | A1 | Extreme close-up of a huge round mound of golden sand on the beach: The two eyes in the sand blink slowly and sand trickles down the mound. | Mystery in second 0 (research/09 #5: 'El Misterio de la Huella Mágica' ×1,150) |
-| 2 | 3–6s | ¿De quién son? ¡Nii-noo! | A2 | Wide shot of the sunny beach: He drives toward the sand mound, his siren flashing. | The hero answers the call, siren (KORIRI ×450) |
-| 3 | 6–9s | ¡Splash! ¡Agua, fuera arena! | A3 | Low side view at ground level: The water arc hits the mound and wet sand slides down in streams. | Water spray — what worked best in our own production (feedback 20.10) |
-| 4 | 9–12s | ¿Una patita? ¡Sí, sí! | A4 | Close-up at the bottom of the wet sand mound: The pale-yellow flipper wiggles out of the wet sand, drops falling off it. | Clue 1 — kids shout their guess (guess+reveal, MiniVerso ×4,687) |
-| 5 | 12–15s | ¿Una colita? ¡Sí, sí! | A5 | View from behind the little red fire truck character spraying water: The little pale-yellow tail wiggles while the water keeps washing the sand away. | Clue 2 — the repetition '¿…? ¡Sí, sí!' |
-| 6 | 15–18s | ¡Es una tortuga! ¡Hola, hola! | A6 | Medium shot, front three-quarter view on the beach: The sea turtle stretches its head out and smiles, he smiles back. | Reveal + greeting (giant thing cleaned: Diente Gigante +3.9M) |
-| 7 | 18–21s | ¡Al mar, tortuga! ¡Adiós! | A7 | Top-down view from above the shoreline: The turtle crawls into the waves and lifts a flipper to wave goodbye. | Goodbye = reward |
-| 8 | 21–24s | ¿Y ahora quién? ¡Uy! | A8 | Close-up, low angle on the wet sand next to the little red fire truck character's front wheel: The tiny eyes in the small mound blink and he looks down, surprised. | Loop: a new tiny mystery |
-
-## Story beats
-
-1. Two big eyes open and blink inside a huge sand mound on the beach (mystery in second 0)
-2. Rojito races along the shore toward the mound, siren flashing (the call)
-3. He sprays a water arc on the mound and the sand washes away (the try)
-4. A pale-yellow flipper pokes out of the wet sand and wiggles (clue 1)
-5. A little pale-yellow tail pops out at the back and wiggles (clue 2)
-6. Reveal: a big friendly sea turtle, clean and shiny, smiles at Rojito (twist)
-7. The turtle crawls into the waves and waves goodbye with a flipper (reward)
-8. Next to Rojito's wheel, a small new sand mound blinks two tiny eyes (loop: who now?)
-
-## Spanish check (Mexico, ages 1–4)
-
-- Every line 3–6 words, present tense, describes the picture; sound words repeat (¡splash!, ¡ñam!, ¡plic!).
-- Diminutives for warmth (ojitos, patita, colita, arbolitos, pollito); no Spain-only words.
-
-## Production notes (from producer feedback 21.10)
-
-- One complex action per shot; one vehicle/animal action per 4 s clip; no jumps for vehicles.
-
-## Worlds
-
-- **playa:** A sunny beach outdoors, vertical 9:16 composition, camera low at toy level: soft smooth golden sand with one huge round sand mound in the middle, gentle turquoise waves with white foam, two leaning palm trees, a small red-and-white striped lighthouse far away, a wide open blue sky with white clouds. No vehicles on the beach.
-- **orilla:** The wet shoreline of a sunny beach outdoors, vertical 9:16 composition, camera low at toy level: shiny wet golden sand, small turquoise waves rolling in with white foam, little shells, a wide open blue sky. No vehicles on the shore.
-
-## Continuity
-
-sunny midday in every shot; Rojito cherry red, siren FLASHING only in A2; water arc in A3 and A5; sand mound: full with eyes A1-A2, washing A3, flipper A4, tail + shell A5, gone A6; turtle clean from A6, in the waves A7; small new mound only A8; playa = A1-A6, orilla = A7-A8
-
-## Risks
-
-See production/dossiers/rojito_arena.md.
-
-## Changes 21.10 04:20 (producer feedback _general.md)
-- The sea turtle is PEACH-ORANGE with yellow hexagon spots and pale-yellow skin, not green — a smiling green sea turtle looks like Crush (Finding Nemo) (IP rule).
-- `song_seconds: 32`; the reveal lands at ~15–18 s.
-
-## Update 21.10 14:20 — liquid & life rules (producer _general.md)
-- No frozen splash in a keyframe: frames show the moment BEFORE; the splash/flow happens in `motion`. Sleeping/static shots get life (breathing blanket, twinkling stars).
-
-## Update 21.10 22:10 — face rules (researcher QC review)
-- Close-up/medium motions end with: "Both eyes stay open and calm with the same gentle expression the whole time." (one-frame blinks/winks looked like popping eyes in ep2).
-- 'laughing / big grin' → 'smiling sweetly with his mouth closed' (open laughs produced teeth and warped faces).
-- Question shots show only the clue, never the answer.
+## Spanish check
+rueda, cuadrada, triángulo, estrella, redonda, escalera, gatito, "¡Así no va!", "¡Pi, pi!", "¡Nii-noo!": all natural Mexican kids' Spanish.

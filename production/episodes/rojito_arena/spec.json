@@ -1,10 +1,10 @@
 {
  "id": "rojito_arena",
  "series": "rojito",
- "title": "¿Quién está en la arena? 🚒🐢 | #shorts",
+ "title": "¡Rojito y las Ruedas Locas! 🚒⭕🔺⭐ ¿Cuál es la rueda correcta? | Canciones Infantiles",
  "world": "sunny beach: soft golden sand, turquoise waves, palm trees and a red-and-white lighthouse + the wet shoreline with gentle foam",
- "hook": "blinking_eyes_in_sand_mound",
- "bpm": 120,
+ "hook": "wheel_pops_off_on_the_way_to_rescue",
+ "bpm": 118,
  "song_takes": 8,
  "story": [
   "Two big eyes open and blink inside a huge sand mound on the beach (mystery in second 0)",
@@ -16,87 +16,174 @@
   "The turtle crawls into the waves and waves goodbye with a flipper (reward)",
   "Next to Rojito's wheel, a small new sand mound blinks two tiny eyes (loop: who now?)"
  ],
- "lyrics": "[Intro]\n¡Uy! ¡Dos ojitos en la arena!\n[Verse]\n¿De quién son? ¡Nii-noo!\n¡Splash! ¡Agua, fuera arena!\n¿Una patita? ¡Sí, sí!\n¿Una colita? ¡Sí, sí!\n[Chorus]\n¡Es una tortuga! ¡Hola, hola!\n¡Al mar, tortuga! ¡Adiós!\n[Outro]\n¿Y ahora quién? ¡Uy!",
+ "lyrics": "[Intro]\n¡Nii-noo! ¡Un gatito en el árbol!\n¡Rojito al rescate! ¡Vamos ya!\n[Verse 1]\n¡Ay! ¡Se fue una rueda!\n¿Cuál es? ¿Cuál es?\n¿Cuadrada? ¡Pum, pum, pum!\n¡No, no, no! ¡Así no va!\n[Chorus]\n¡Rueda, rueda, redondita!\n¡Gira, gira, rapidita!\n¿Cuál es la que va?\n¡Redonda, redonda, ya!\n[Verse 2]\n¿Y esta rueda? ¡A probar!\n¿Cuál es? ¿Cuál es?\n¿Triángulo? ¡Clonc, clonc!\n¡No, no, no! ¡Así no va!\n[Chorus]\n¡Rueda, rueda, redondita!\n¡Gira, gira, rapidita!\n¿Cuál es la que va?\n¡Redonda, redonda, ya!\n[Verse 3]\n¿Una estrella? ¡Brinca, brinca!\n¡Y ahora… la redonda! ¡Zuuum!\n¡Sube, sube la escalera!\n¡Gatito, a salvo! ¡Miau!\n[Chorus]\n¡Rueda, rueda, redondita!\n¡Gira, gira, rapidita!\n¿Cuál es la que va?\n¡Redonda, redonda, ya!\n[Outro]\n¡Gracias, Rojito! ¡Pi, pi!\n¡Juntos a casa! ¡Nii-noo!",
  "locations": {
-  "playa": "A sunny beach outdoors, vertical 9:16 composition, camera low at toy level: soft smooth golden sand with one huge round sand mound in the middle, gentle turquoise waves with white foam, two leaning palm trees, a small red-and-white striped lighthouse far away, a wide open blue sky with white clouds. No vehicles on the beach.",
-  "orilla": "The wet shoreline of a sunny beach outdoors, vertical 9:16 composition, camera low at toy level: shiny wet golden sand, small turquoise waves rolling in with white foam, little shells, a wide open blue sky. No vehicles on the shore."
+  "parque": "A sunny little town park, wide 16:9, camera at child eye level: a smooth grey road through green grass, a tall leafy green tree, flowers, a park bench, lamp posts, a few birds, a blue sky with soft clouds. Nobody is there."
  },
  "shots": [
   [
    "A1",
-   "Extreme close-up of a huge round mound of golden sand on the beach: two big friendly glossy eyes are open in the sand and blinking, little grains of sand trickling down around them, the front bumper of the little red fire truck character visible at the bottom edge of the picture.",
-   "The two eyes in the sand blink slowly and sand trickles down the mound. Both eyes stay open and calm with the same gentle expression the whole time.",
-   "playa",
-   [
-    "hero"
-   ],
-   3
-  ],
-  [
-   "A2",
-   "Wide shot of the sunny beach: the little red fire truck character drives along the golden sand toward the huge round sand mound, his round blue siren FLASHING BRIGHT BLUE, palm trees and the turquoise sea behind.",
-   "He drives toward the sand mound, his siren flashing.",
-   "playa",
-   [
-    "hero"
-   ],
-   3
-  ],
-  [
-   "A3",
-   "Low side view at ground level: the little red fire truck character sprays a long arc of sparkling water from the little hose on his ladder onto the huge sand mound, wet sand sliding down the mound in streams.",
-   "A stream of water flows from the hose in a moving arc and splashes on the mound; wet sand slides down in streams and droplets bounce.",
-   "playa",
-   [
-    "hero"
-   ],
-   3
-  ],
-  [
-   "A4",
-   "Close-up at the bottom of the wet sand mound: one PALE-YELLOW sea-turtle flipper with little peach spots now pokes out of the wet golden sand and wiggles, water drops sparkling, the little red fire truck character's front wheel at the edge of the picture.",
-   "The pale-yellow flipper wiggles out of the wet sand, drops falling off it. Both eyes stay open and calm with the same gentle expression the whole time.",
-   "playa",
-   [
-    "hero"
-   ],
-   3
-  ],
-  [
-   "A5",
-   "View from behind the little red fire truck character spraying water: at the back of the wet sand mound a small PALE-YELLOW tail now pokes out and wiggles, most of the sand washed away, revealing part of a round peach-orange shell.",
-   "The little pale-yellow tail wiggles while the water keeps washing the sand away.",
-   "playa",
-   [
-    "hero"
-   ],
-   3
-  ],
-  [
-   "A6",
-   "Medium shot, front three-quarter view on the beach: a big round friendly sea turtle with a shiny clean PEACH-ORANGE shell covered in soft yellow hexagon spots, pale-yellow skin, round rosy cheeks and big glossy eyes, its head out and a soft sweet smile, stands where the sand mound was, the little red fire truck character beside it smiling, a few wet sand grains around.",
-   "The sea turtle stretches its head out and smiles, he smiles back. Both eyes stay open and calm with the same gentle expression the whole time.",
-   "playa",
-   [
-    "hero"
-   ],
-   3
-  ],
-  [
-   "A7",
-   "Top-down view from above the shoreline: the big peach-orange sea turtle crawls into the gentle turquoise waves, lifting one flipper to wave goodbye, the little red fire truck character parked on the wet sand at the bottom of the picture.",
-   "The turtle crawls into the waves and lifts a flipper to wave goodbye.",
-   "orilla",
+   "Wide shot of a sunny little town park: a tall green tree with a tiny orange kitten sitting on a high branch, meowing; the little red fire truck character drives in fast from the left with his blue siren flashing, flowers and a bench in the park. The main action is in the CENTER of the frame.",
+   "REAL MOVE — START: the kitten on the branch, Rojito at the left edge → ACTION: Rojito drives across the frame toward the tree on the beat, the siren flashing ('¡Nii-noo!') → END: he stops below the tree, looking up. Background life: leaves sway, a bird flies by. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "parque",
    [
     "hero"
    ],
    2
   ],
   [
-   "A8",
-   "Close-up, low angle on the wet sand next to the little red fire truck character's front wheel: a small new sand mound with two tiny glossy eyes blinking in it, the little fire truck looking down at it with wide surprised eyes.",
-   "The tiny eyes in the small mound blink and he looks down, surprised. Both eyes stay open and calm with the same gentle expression the whole time.",
-   "orilla",
+   "A2",
+   "Low side view on the park road: the little red fire truck character drives fast from left to right with his siren flashing, the trees and lamp posts passing by, a little cloud of dust behind. The main action is in the CENTER of the frame.",
+   "REAL MOVE — START: driving → ACTION: he speeds along on the beat ('¡Vamos ya!'), the background passing by → END: he keeps driving, determined eyebrows. Background life: leaves sway, birds fly by, clouds drift. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "parque",
+   [
+    "hero"
+   ],
+   3
+  ],
+  [
+   "W0",
+   "Close-up from the side at ground level: one round black wheel pops off the little red fire truck character with a little 'boing' and rolls away down the road; Rojito tilts a little on that side with a surprised face. The main action is in the CENTER of the frame.",
+   "START: driving → ACTION: the back wheel pops off on the beat ('¡Ay!') and rolls away out of the frame, Rojito tilts softly → END: Rojito stopped, SURPRISE O face, the wheel gone. Background life: leaves sway, birds fly by, clouds drift. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "parque",
+   [
+    "hero"
+   ],
+   3
+  ],
+  [
+   "Q",
+   "Close-up from the front: the little red fire truck character looks at the camera with big curious eyes and tilted eyebrows, as if asking the viewer, the park blurred behind. The main action is in the CENTER of the frame.",
+   "START: looking at the camera → ACTION: his eyebrows go up and his eyes look left and right on '¿Cuál es?' (CURIOUS) → END: holds the questioning look. Background life: a butterfly passes. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "parque",
+   [
+    "hero"
+   ],
+   3
+  ],
+  [
+   "SQ",
+   "Side view on the park road: the little red fire truck character has a big SQUARE yellow wheel at the back and tries to drive, bumping up and down, the square wheel thumping on the road. The main action is in the CENTER of the frame.",
+   "START: stopped → ACTION: he drives forward and bumps up and down three times on the beat ('¡Pum, pum, pum!') as the square wheel thumps → END: he stops, dizzy, the square wheel flat on the ground. Background life: leaves sway. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "parque",
+   [
+    "hero"
+   ],
+   3
+  ],
+  [
+   "NO",
+   "Close-up from the front: the little red fire truck character shakes his front left and right slowly, a little closed-mouth frown, his eyebrows down. The main action is in the CENTER of the frame.",
+   "NO-NO — START: facing the camera → ACTION: he sways his front left-right twice on '¡No, no, no!' → END: a small determined smile. Background life: clouds drift. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "parque",
+   [
+    "hero"
+   ],
+   3
+  ],
+  [
+   "K1",
+   "Medium shot in the park: four round wheels in a row on the grass, red, blue, yellow and green, rolling and spinning happily in place, sparkles around them. The main action is in the CENTER of the frame.",
+   "START: the wheels standing → ACTION: they roll a little forward and spin in place on the beat → END: they stop in a row. Background life: grass moves. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "parque",
+   [],
+   3
+  ],
+  [
+   "K2",
+   "Medium shot from the front: the little red fire truck character spins in place in a happy little circle on the grass, his siren light glowing softly. The main action is in the CENTER of the frame.",
+   "SPIN — START: facing the camera → ACTION: he turns around once slowly on the beat ('¡Gira, gira!') → END: facing the camera with a HAPPY SQUINT. Background life: leaves sway, birds fly by, clouds drift. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "parque",
+   [
+    "hero"
+   ],
+   3
+  ],
+  [
+   "K3",
+   "Close-up from the front: the little red fire truck character with a questioning look, a big question mark shape made of sparkles above him in the air. The main action is in the CENTER of the frame.",
+   "START: questioning eyebrows → ACTION: the sparkle question mark appears above him on the beat, he looks up at it → END: he looks at the camera, waiting. Background life: a butterfly. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "parque",
+   [
+    "hero"
+   ],
+   3
+  ],
+  [
+   "K4",
+   "Medium shot: the little red fire truck character bounces happily on his round wheels, his golden bell ringing, little stars around him. The main action is in the CENTER of the frame.",
+   "HAPPY BOUNCE — START: still → ACTION: he bounces up and down twice on his wheels on the beat, the bell swinging → END: HAPPY SQUINT. Background life: leaves sway, birds fly by, clouds drift. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "parque",
+   [
+    "hero"
+   ],
+   3
+  ],
+  [
+   "TR",
+   "Side view on the park road: the little red fire truck character has a big TRIANGLE blue wheel at the back and tries to drive, wobbling and clonking with each turn. The main action is in the CENTER of the frame.",
+   "START: stopped → ACTION: he drives forward and wobbles and clonks twice on the beat ('¡Clonc, clonc!') → END: he stops, tilted, a small surprised frown. Background life: leaves sway, birds fly by, clouds drift. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "parque",
+   [
+    "hero"
+   ],
+   3
+  ],
+  [
+   "ST",
+   "Side view on the park road: the little red fire truck character has a big STAR-shaped green wheel at the back and bounces up and down like a kangaroo, a little startled smile. The main action is in the CENTER of the frame.",
+   "START: stopped → ACTION: he bounces up high twice on the beat ('¡Brinca, brinca!') → END: lands, wobbling, SURPRISE O face. Background life: leaves sway, birds fly by, clouds drift. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "parque",
+   [
+    "hero"
+   ],
+   3
+  ],
+  [
+   "RD",
+   "Low side view on the park road: the little red fire truck character, now with a perfect ROUND black wheel at the back, zooms fast from left to right toward the tall tree, the background passing by, the siren flashing. The main action is in the CENTER of the frame.",
+   "REAL MOVE — START: the round wheel just fixed → ACTION: he zooms forward on '¡Zuuum!', the trees passing by → END: he arrives at the tree, PROUD eyebrows. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "parque",
+   [
+    "hero"
+   ],
+   3
+  ],
+  [
+   "LA",
+   "Low angle at the tall green tree: the little red fire truck character raises his white ladder up toward the high branch where the tiny orange kitten sits. The main action is in the CENTER of the frame.",
+   "START: the ladder folded on the roof → ACTION: the ladder rises and extends up toward the branch on the beat ('¡Sube, sube!') → END: the top of the ladder touches the branch. Background life: leaves sway. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "parque",
+   [
+    "hero"
+   ],
+   3
+  ],
+  [
+   "KT",
+   "Medium shot at the top of the ladder by the tree branch: the tiny orange kitten climbs carefully down the white ladder rungs toward the little red fire truck character, who looks up with a warm smile. The main action is in the CENTER of the frame.",
+   "START: the kitten on the branch → ACTION: it steps onto the ladder and climbs down two rungs on the beat → END: it sits on Rojito's roof next to the siren and meows happily ('¡Miau!'). Background life: leaves sway, birds fly by, clouds drift. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "parque",
+   [
+    "hero"
+   ],
+   3
+  ],
+  [
+   "O1",
+   "Close-up from the front: the tiny orange kitten sits on top of the little red fire truck character next to the blue siren and rubs its head against the siren light happily; Rojito smiles with a HAPPY SQUINT. The main action is in the CENTER of the frame.",
+   "START: the kitten sitting → ACTION: it rubs its head on the siren and Rojito honks softly on the beat ('¡Pi, pi!') → END: both smiling. Background life: leaves sway, birds fly by, clouds drift. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "parque",
+   [
+    "hero"
+   ],
+   3
+  ],
+  [
+   "O2",
+   "Long side view of the park road at sunset: the little red fire truck character drives away from left to right with the tiny orange kitten riding on his roof, the four rolled-away wheels following him in a row like little ducks, warm golden light. The main action is in the CENTER of the frame.",
+   "REAL MOVE — START: at the left → ACTION: he drives across the frame toward the town, the wheels rolling behind in a row on the beat → END: he honks and turns a corner. Background life: birds fly, the sunset glows. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "parque",
    [
     "hero"
    ],
@@ -112,11 +199,44 @@
  "style": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. ",
  "lock": "ROJITO, a cute little red toy fire truck character with a friendly face: a short chubby rounded body like a toddler toy, shiny cherry-red paint, a big curved windshield with two big glossy dark-brown cartoon eyes with white sparkle highlights and expressive eyebrows, a small smiling mouth on the front bumper, rosy pink cheeks on the front, a small white ladder on the roof, one round blue siren light on top, a golden bell on the front, a small number 1 in a yellow circle on each door.",
  "director": true,
- "pattern": "mystery",
- "opening": "blinking_eyes_in_sand_mound",
- "twist": "the 'sand monster' with blinking eyes is a friendly sea turtle — each spray reveals one more clue (flipper, tail, shell) before the full reveal",
- "moral": "¡Rojito ayuda a todos sus amigos, hasta en la playa!",
- "experiment": "first 'mystery' pattern (Huella Mágica ×1,150) as a clue-by-clue reveal with water; giant-thing-to-clean hook (Diente Gigante ×26, +3.9M in 12 h)",
- "continuity": "sunny midday in every shot; Rojito cherry red, siren FLASHING only in A2; water arc in A3 and A5; sand mound: full with eyes A1-A2, washing A3, flipper A4, tail + shell A5, gone A6; turtle clean from A6, in the waves A7; small new mound only A8; playa = A1-A6, orilla = A7-A8",
- "song_seconds": 32
+ "pattern": "rescue_mission",
+ "opening": "kitten_in_tree_siren",
+ "twist": "Rojito races to save a kitten, but his wheel pops off; square, triangle and star wheels don't roll (the kids shout 'no!'), only the round one does, and he arrives just in time",
+ "moral": "¡No te rindas! Prueba otra vez… ¡y ayuda a tus amigos!",
+ "experiment": "wrong-wheel puzzle (Car Wheel Español ×4 videos, 187–543K views/day, 23.10) + a rescue mission + shapes learning; hidden value: patience/perseverance + helping",
+ "continuity": "sunny day, sunset only in O2; Rojito's back-left wheel: round (A1–A2) → pops off (W0) → SQUARE yellow (SQ) → TRIANGLE blue (TR) → STAR green (ST) → ROUND black again (RD, LA, KT, O1, O2); the kitten on the branch until KT, on Rojito's roof in O1/O2; the four test wheels follow him in O2. The chorus is a fixed choreography (K1 wheels, K2 spin, K3 question, K4 bounce).",
+ "song_seconds": 150,
+ "orientation": "landscape",
+ "format": "long_episode",
+ "sequence": [
+  "A1",
+  "A2",
+  "W0",
+  "Q",
+  "SQ",
+  "NO",
+  "K1",
+  "K2",
+  "K3",
+  "K4",
+  "TR",
+  "Q",
+  "TR",
+  "NO",
+  "K1",
+  "K2",
+  "K3",
+  "K4",
+  "ST",
+  "RD",
+  "LA",
+  "KT",
+  "K1",
+  "K2",
+  "K3",
+  "K4",
+  "O1",
+  "O2"
+ ],
+ "cutaways": {}
 }
