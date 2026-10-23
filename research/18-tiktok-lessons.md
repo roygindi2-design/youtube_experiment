@@ -19,3 +19,7 @@ Query: 3D kids song / cute animal / habits, audience = LatAm parents 25-34, capt
 - @sofi.s267 animated 2-character kids song with a moral, 90 s — 8.1M (764×). Story songs can work on TikTok when the action starts at second 0 (dialogue/song from the first frame).
 - Almost every other winner = a PARENT-perspective text overlay over a cute/relatable clip: "Lo iba a regañar pero me acordé que su mente suena así 🤭" (4.2M), "Ni súper simple, ni el payaso plim plim…" (1.1M), "¿Qué escuchará mi amiga ahora que es mamá?" (3.3M). → Our TikTok text overlay should speak as a parent, e.g. "Cuando tu peque te pide Tito por quinta vez 😅", "POV: encontraste la canción que le enseña a compartir 💛".
 - All winners loop (is_looped) and start with music/action instantly.
+
+## Roy's reference 23.10 — Recreio Mágico "Colorful Caterpillar Cartoon for Kids" (1.2M likes, 65.7K comments, 258.8K saves)
+- Short English caption + broad English hashtags (#kidsoftiktok #cartoonforkids #cartoonforbabies #toddler #kidsvideo #kidscartoon #animation …), numbered "Post 21" (series habit), a TikTok PLAYLIST ("Little Joys Collection"), "Creator labeled as AI-generated" did not hurt.
+- Our test: alternate hashtag set A (broad English) vs set B (Spanish niche) per post; track views/likes after 24 h in research/analytics; keep the winner. Always: AI label on, YouTube link in bio, a "Tito 🐘" playlist, burned-in hook text (Roy: no editing in the app).
