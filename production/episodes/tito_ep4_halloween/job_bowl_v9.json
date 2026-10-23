@@ -1,0 +1,44 @@
+[
+ {
+  "id": "tito_ep4_halloween_clip_BOWLv9_s7",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 7,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Close-up of a little bowl of colorful wrapped candies on a stone doorstep at night, glowing jack-o-lanterns beside it. The candies glisten in the warm flickering lantern light, the jack-o-lanterns glow and flicker softly, a few autumn leaves drift down past the bowl, the camera slowly pushes in toward the bowl. Smooth natural motion; objects keep their shape; exactly what is described and no characters; no morphing.",
+  "inputs": {
+   "image_start": "pick_BOWL_v9.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_BOWLv9_s19",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 19,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Close-up of a little bowl of colorful wrapped candies on a stone doorstep at night, glowing jack-o-lanterns beside it. The candies glisten in the warm flickering lantern light, the jack-o-lanterns glow and flicker softly, a few autumn leaves drift down past the bowl, the camera slowly pushes in toward the bowl. Smooth natural motion; objects keep their shape; exactly what is described and no characters; no morphing.",
+  "inputs": {
+   "image_start": "pick_BOWL_v9.jpg"
+  }
+ },
+ {
+  "id": "tito_ep4_halloween_clip_BOWLv9_s31",
+  "model_type": "ti2v_2_2",
+  "resolution": "960x544",
+  "video_length": 97,
+  "num_inference_steps": 30,
+  "guidance_scale": 5,
+  "flow_shift": 5,
+  "seed": 31,
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Close-up of a little bowl of colorful wrapped candies on a stone doorstep at night, glowing jack-o-lanterns beside it. The candies glisten in the warm flickering lantern light, the jack-o-lanterns glow and flicker softly, a few autumn leaves drift down past the bowl, the camera slowly pushes in toward the bowl. Smooth natural motion; objects keep their shape; exactly what is described and no characters; no morphing.",
+  "inputs": {
+   "image_start": "pick_BOWL_v9.jpg"
+  }
+ }
+]
