@@ -1,0 +1,44 @@
+[
+ {
+  "id": "m3i_h2_kf0",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 303,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Close-up INSERT shot at the height of the bucket on the Halloween village street, warm lantern light, soft bokeh of jack-o-lanterns behind: from the LEFT, a small powder-blue cartoon baby elephant hand, open and palm up, holding three colorful wrapped candies, just above a small EMPTY YELLOW plastic bucket with a star on it in the middle of the frame; from the RIGHT, the tiny grey mouse's arm reaches in and its little grey paw holds the rim of the bucket; the mouse's smiling face is partly visible at the right edge. The same hand, candies, bucket and mouse as the reference image, seen closer. The main action is in the CENTER of the frame. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "ref_m3i_h2.jpg"
+   ]
+  }
+ },
+ {
+  "id": "m3i_h2_kf1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 404,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Close-up INSERT shot at the height of the bucket on the Halloween village street, warm lantern light, soft bokeh of jack-o-lanterns behind: from the LEFT, a small powder-blue cartoon baby elephant hand, open and palm up, holding three colorful wrapped candies, just above a small EMPTY YELLOW plastic bucket with a star on it in the middle of the frame; from the RIGHT, the tiny grey mouse's arm reaches in and its little grey paw holds the rim of the bucket; the mouse's smiling face is partly visible at the right edge. The same hand, candies, bucket and mouse as the reference image, seen closer. The main action is in the CENTER of the frame. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "ref_m3i_h2.jpg"
+   ]
+  }
+ },
+ {
+  "id": "m3i_h2_kf2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 505,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Close-up INSERT shot at the height of the bucket on the Halloween village street, warm lantern light, soft bokeh of jack-o-lanterns behind: from the LEFT, a small powder-blue cartoon baby elephant hand, open and palm up, holding three colorful wrapped candies, just above a small EMPTY YELLOW plastic bucket with a star on it in the middle of the frame; from the RIGHT, the tiny grey mouse's arm reaches in and its little grey paw holds the rim of the bucket; the mouse's smiling face is partly visible at the right edge. The same hand, candies, bucket and mouse as the reference image, seen closer. The main action is in the CENTER of the frame. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "ref_m3i_h2.jpg"
+   ]
+  }
+ }
+]
