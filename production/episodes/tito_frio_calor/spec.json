@@ -1,33 +1,64 @@
 {
  "id": "tito_frio_calor",
  "series": "tito",
- "title": "¡Tito, frío o calor! 🥶🥵 | #shorts",
+ "title": "¡Las Puertas Mágicas de Tito! 🚪❄️☀️🌧️ ¿Qué hay detrás? | Canciones Infantiles",
  "world": "snowy hill with pine trees and a little snowman (white, ice blue) + a hot sunny savanna with an acacia tree and a small watering hole (golden, orange)",
- "hook": "frosty_face_icicle_trunk",
- "bpm": 120,
+ "hook": "mystery_doors_glowing",
+ "bpm": 112,
  "song_takes": 8,
- "song_seconds": 32,
+ "song_seconds": 150,
  "reuse_mama": true,
  "story": [
-  "Extreme close-up: Tito's face covered in frost, a little icicle on the tip of his trunk, teeth chattering (funny problem, second 0)",
-  "He went out in the snow in only his overalls: he shivers and sneezes, achoo! (the mistake)",
-  "Mamá Elefanta wraps him in a red knit hat, a scarf and a puffy orange jacket (mentor fixes)",
-  "Now warm, Tito slides down the snowy hill on his tummy, laughing (reward 1)",
-  "Then he walks into the hot sunny savanna STILL in the jacket, hat and scarf (the opposite mistake)",
-  "Close-up: bright pink cheeks, sweat drops, little puffs of steam from his hat (consequence)",
-  "Jacket off, straw sun hat on, he showers himself with water from his trunk, splash! (twist: his trunk is a shower)",
-  "Top-down: Tito rests happily in the acacia shade in his sun hat (moral + loop)"
+  "Three magic doors glow — what's behind them? (hook)",
+  "Blue door: snow → dress warm → sled ride",
+  "Chorus dance: knock-peek, spin, clap, jump",
+  "Yellow door: beach, still in the jacket (gag) → take it off, hat + water → surf with a dolphin",
+  "Green door: rain → raincoat, boots, umbrella → puddle jump → shelters a frog (helping)",
+  "Punchline: the small red door = home, Mamá's hug"
  ],
- "lyrics": "[Intro]\n¡Brrr! ¡Tito está congelado!\n[Verse]\n¡Achú! ¡Qué frío, qué frío!\n¡Gorro, bufanda y chamarra!\n¡Ahora sí, calientito!\n¡Uf! ¿Chamarra en el sol?\n[Chorus]\n¡Qué calor, qué calor!\n¡Agua y sombrero! ¡Splash!\n[Outro]\n¿Frío o calor? ¡Ya sé!",
+ "lyrics": "[Intro]\n¡Tres puertas mágicas! ¡Brillan, brillan!\n¿Qué hay detrás? ¡Vamos a ver!\n[Verse 1]\n¡La puerta azul! ¡Toc, toc!\n¿Qué será? ¿Qué será?\n¡Nieve! ¡Brrr! ¡Gorro y bufanda!\n¡Zuuum! ¡En trineo a jugar!\n[Chorus]\n¡Abro la puerta, ¿qué será?!\n¡Frío, calor o lluvia, ya!\n¡Me visto bien y a jugar!\n¡Tito sabe qué usar!\n[Verse 2]\n¡La puerta amarilla! ¡Toc, toc!\n¿Qué será? ¿Qué será?\n¡Sol! ¡Uf, qué calor! ¡Fuera chamarra!\n¡Sombrero, agua y a nadar!\n[Chorus]\n¡Abro la puerta, ¿qué será?!\n¡Frío, calor o lluvia, ya!\n¡Me visto bien y a jugar!\n¡Tito sabe qué usar!\n[Verse 3]\n¡La puerta verde! ¡Plic, plic!\n¡Lluvia! ¡Botas e impermeable!\n¡Splash, splash! ¡En el charco!\n¡Ranita, ven! ¡Aquí no te mojas!\n[Chorus]\n¡Abro la puerta, ¿qué será?!\n¡Frío, calor o lluvia, ya!\n¡Me visto bien y a jugar!\n¡Tito sabe qué usar!\n[Outro]\n¿Y la puerta roja? ¡Es mi casa!\n¡Un abrazo de mamá! ¡Lo mejor!",
  "locations": {
-  "nieve": "A snowy hill on a bright winter day outdoors, vertical 9:16 composition, camera at child eye level: soft deep white snow, round snowy pine trees, a small friendly snowman with a carrot nose and a red scarf, gentle snowflakes falling, a pale ice-blue sky. Nobody is on the hill.",
-  "sabana": "A hot sunny savanna outdoors, vertical 9:16 composition, camera at child eye level: golden dry grass, one wide flat-topped acacia tree giving a round patch of shade, a small sparkling blue watering hole, a big bright yellow sun in a clear orange-blue sky, soft heat shimmer. Nobody is in the savanna."
+  "sala": "Tito's cozy living room in daytime, wide 16:9 composition, camera at child eye level: three tall round doors (blue, yellow, green) and one small red door in a cream wall, a cat-shaped rug, a toy shelf, a sunny window with curtains. Nobody is in the room.",
+  "nieve": "A bright, friendly snowy winter world, wide 16:9: soft falling snow, snowy pine trees, a gentle snowy hill, a little snowman with a carrot nose, a pale blue sky. Nobody is there.",
+  "playa": "A sunny tropical beach, wide 16:9: golden sand, gentle turquoise waves, palm trees, a bright sun, a few shells. Nobody is there.",
+  "lluvia": "A rainy green jungle clearing, wide 16:9: gentle rain, big dripping leaves, puddles on a mossy path, soft grey-green light. Nobody is there.",
+  "cocina": "A cozy warm kitchen, wide 16:9: an orange hanging lamp, a wooden table with a steaming cup, plants on the window sill, warm light. Nobody is there."
  },
  "shots": [
   [
-   "F1",
-   "Extreme close-up of the baby elephant's face on the snowy hill: his cheeks, ears and trunk covered in white frost, a little clear icicle hanging from the tip of his trunk, his teeth chattering, his big eyes blinking, snowflakes falling around him.",
-   "His teeth chatter, he blinks, and the little icicle on his trunk wobbles. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "I1",
+   "Wide shot of Tito's cozy living room in daytime: three tall round doors, BLUE, YELLOW and GREEN, glowing with little sparkles in the wall, and a fourth small RED door at the side; the baby elephant in his sunny-yellow overalls with one round red button, his trunk hanging down below his mouth, stands in front of them with big curious eyes; a cat-shaped rug, toys on a shelf, a window with sunshine. The main action is in the CENTER of the frame.",
+   "START: he stands looking at the doors → ACTION: on the beat the three doors light up one after another with sparkles, he jumps for joy (JUMP FOR JOY) → END: SURPRISE O face, both hands up. Background life: sparkles float, curtains move.",
+   "sala",
+   [
+    "tito"
+   ],
+   2
+  ],
+  [
+   "Q",
+   "Close-up from the front: the baby elephant in his sunny-yellow overalls with one round red button, his trunk hanging down below his mouth, leans forward to peek, one ear lifted, big curious eyes, sparkles from a glowing door lighting his face. The main action is in the CENTER of the frame.",
+   "START: he looks at the door → ACTION: head tilts slowly (CURIOUS), one ear lifts, on '¿Qué será?' → END: holds the curious look, a sparkle passes his face. Background life: soft magic sparkles float. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "sala",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "D1",
+   "Medium shot of the tall round BLUE door with frost patterns glowing at its edges: the baby elephant in his sunny-yellow overalls with one round red button stands at it and knocks three times with his small hand, the door still CLOSED, cold blue light around its edges. The main action is in the CENTER of the frame.",
+   "START: he stands at the closed blue door → ACTION: he knocks three times on the beat (toc, toc), frost sparkles grow around the door edges → END: the door starts to open, cold light spills out. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "sala",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "S1",
+   "Wide shot of a bright snowy winter world: soft snow falling, snowy pine trees, a gentle snowy hill, a little snowman; the baby elephant in his sunny-yellow overalls with one round red button, his trunk hanging down below his mouth, stands in the snow shivering, little snowflakes on his ears, his overalls too light for the cold. The main action is in the CENTER of the frame.",
+   "START: he steps into the snow → ACTION: snowflakes land on him and he shivers with a funny 'brrr' wiggle on the beat → END: hugs himself, cheeks pink. Background life: snow falls, a robin hops on a branch. Both eyes stay open and calm with the same gentle expression the whole time.",
    "nieve",
    [
     "tito"
@@ -35,9 +66,9 @@
    3
   ],
   [
-   "F2",
-   "Low side view in deep snow on the snowy hill: the baby elephant wearing only his yellow overalls stands shivering with his arms hugging himself, sneezing a big sneeze, a little puff of snowflakes flying off his trunk, snowy pine trees behind.",
-   "He shivers and sneezes, a puff of snowflakes flies off his trunk.",
+   "S2",
+   "Close-up in the snowy world: the baby elephant in his sunny-yellow overalls with one round red button, now wearing a red knitted hat, a long striped blue scarf and a warm puffy blue jacket, his trunk hanging down below his mouth, smiling warmly with snowflakes falling around him. The main action is in the CENTER of the frame.",
+   "START: he holds the scarf → ACTION: he wraps the scarf around his neck and pats his warm jacket on the beat, a happy HUG-SELF sway → END: PROUD closed smile. Background life: snow falls, the robin flutters. Both eyes stay open and calm with the same gentle expression the whole time.",
    "nieve",
    [
     "tito"
@@ -45,75 +76,201 @@
    3
   ],
   [
-   "F3",
-   "Medium shot, side view on the snowy hill: Mamá Elefanta in a cozy lilac winter coat wraps a soft red knit scarf around the baby elephant's neck; he is now wearing a RED KNIT HAT with a pompom and a PUFFY ORANGE JACKET over his yellow overalls.",
-   "Mamá wraps the red scarf around his neck and he smiles, warm. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "S3",
+   "Side view of a gentle snowy hill: the baby elephant in his sunny-yellow overalls with one round red button in the red hat, striped scarf and puffy blue jacket sits on a small red wooden sled sliding down the hill, snow spraying softly behind him, pine trees passing by. The main action is in the CENTER of the frame.",
+   "REAL MOVE — START: the sled at the top → ACTION: it slides down the hill on the beat ('¡Zuuum!'), the trees pass by, snow sprays → END: it stops at the bottom, he raises both arms, HAPPY SQUINT. Both eyes stay open and calm with the same gentle expression the whole time.",
    "nieve",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "K1",
+   "Medium shot from the front in the living room with the magic doors behind him: the baby elephant in his sunny-yellow overalls with one round red button, his trunk hanging down below his mouth, knocks in the air and then peeks around his hand, playful. The main action is in the CENTER of the frame.",
+   "KNOCK-PEEK — START: standing → ACTION: he knocks twice in the air on the beat, then peeks around his hand with a SURPRISE O face → END: happy closed smile. Background life: the doors' sparkles twinkle. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "sala",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "K2",
+   "Medium shot in the living room: the baby elephant in his sunny-yellow overalls with one round red button, his trunk hanging down below his mouth, does a happy spin in place, arms out. The main action is in the CENTER of the frame.",
+   "SPIN — START: arms out → ACTION: he spins once slowly on the beat, the sparkles swirling around him → END: facing the camera, PROUD closed smile. Background life: sparkles swirl. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "sala",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "K3",
+   "Close-up in the living room: the baby elephant in his sunny-yellow overalls with one round red button, his trunk hanging down below his mouth, claps twice and points at his clothes proudly. The main action is in the CENTER of the frame.",
+   "CLAP-CLAP — START: hands apart → ACTION: two claps on the beat, then he points at his overalls proudly → END: HAPPY SQUINT. Background life: curtains move, sparkles. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "sala",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "K4",
+   "Medium shot in the living room: the baby elephant in his sunny-yellow overalls with one round red button, his trunk hanging down below his mouth, jumps for joy with both arms raised in front of the glowing doors. The main action is in the CENTER of the frame.",
+   "JUMP FOR JOY — START: a small crouch → ACTION: he jumps up with both arms raised on the beat and lands softly → END: arms up, HAPPY SQUINT. Background life: sparkles burst softly. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "sala",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "D2",
+   "Medium shot of the tall round YELLOW door glowing warm and golden at its edges: the baby elephant in his sunny-yellow overalls with one round red button in the red hat, scarf and puffy blue jacket stands at it and knocks three times, the door CLOSED. The main action is in the CENTER of the frame.",
+   "START: at the closed yellow door → ACTION: three knocks on the beat, warm golden light grows at the edges → END: the door starts to open, warm light spills out. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "sala",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "B1",
+   "Wide shot of a sunny tropical beach: golden sand, gentle turquoise waves, palm trees, a bright sun; the baby elephant in his sunny-yellow overalls with one round red button, still in the red hat, scarf and puffy blue jacket, his trunk hanging down below his mouth, stands on the sand, hot and sweaty, little drops on his forehead. The main action is in the CENTER of the frame.",
+   "START: he steps onto the hot sand → ACTION: he fans himself with his hand and pulls off the scarf and jacket on the beat ('¡Fuera chamarra!'), the clothes dropping onto the sand → END: in his overalls, relieved smile. Background life: waves roll, palm leaves sway, a crab walks by. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "playa",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "B2",
+   "Close-up on the sunny beach: the baby elephant in his sunny-yellow overalls with one round red button, in his overalls with a wide straw sun hat, drinks from a small blue water bottle, his trunk hanging down below his mouth beside the bottle, then smiles. The main action is in the CENTER of the frame.",
+   "START: holding the water bottle → ACTION: he drinks a sip, lowers the bottle and puts the straw hat straight on the beat → END: PROUD closed smile. Background life: waves roll, a seagull glides. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "playa",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "B3",
+   "Side view on the gentle turquoise waves: the baby elephant in his sunny-yellow overalls with one round red button in his straw sun hat rides a small soft yellow surfboard on a tiny friendly wave, and a smiling grey dolphin jumps beside him. The main action is in the CENTER of the frame.",
+   "REAL MOVE — START: on the little wave → ACTION: he glides along the wave on the beat, the dolphin jumps beside him in an arc → END: both splash softly at the shore, HAPPY SQUINT. Background life: water sparkles. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "playa",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "D3",
+   "Medium shot of the tall round GREEN door with little leaves and drops glowing at its edges: the baby elephant in his sunny-yellow overalls with one round red button in his overalls and straw hat stands at it and knocks three times, the door CLOSED, the sound of rain. The main action is in the CENTER of the frame.",
+   "START: at the closed green door → ACTION: three knocks on the beat, a few raindrops sparkle from the door edges → END: the door opens, rain sounds spill out. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "sala",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "R1",
+   "Medium shot in a rainy green jungle clearing: the baby elephant in his sunny-yellow overalls with one round red button now wearing a shiny yellow raincoat with a hood and red rain boots, holding a small red umbrella, his trunk hanging down below his mouth, gentle rain falling, big leaves dripping. The main action is in the CENTER of the frame.",
+   "START: he opens the umbrella → ACTION: on the beat ('plic, plic') he opens the red umbrella over his head and looks up at the rain → END: happy closed smile under the umbrella. Background life: rain falls, leaves drip, a butterfly hides under a leaf. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "lluvia",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "R2",
+   "Medium shot in the rainy jungle: the baby elephant in his sunny-yellow overalls with one round red button in the yellow raincoat and red rain boots jumps in a big muddy puddle with both feet, holding his red umbrella. The main action is in the CENTER of the frame.",
+   "START: at the edge of the puddle → ACTION: he jumps into the puddle on the beat ('¡Splash, splash!'), water drops fly in a soft arc and fall back → END: he lands smiling, the ripples spreading. Background life: rain falls. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "lluvia",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "R3",
+   "Close-up in the rainy jungle: the baby elephant in his sunny-yellow overalls with one round red button in the yellow raincoat crouches and holds his red umbrella over a tiny green frog sitting on a leaf, the frog smiling and dry, rain falling around them, both whole in frame. The main action is in the CENTER of the frame.",
+   "START: the tiny frog shivering in the rain → ACTION: on '¡Ranita, ven!' Tito crouches and moves his umbrella over the frog, the rain stops falling on it → END: the frog smiles and croaks happily, Tito smiles. Background life: rain falls around them. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "lluvia",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "H1",
+   "Medium shot of the small RED door at the side of the living room: the baby elephant in his sunny-yellow overalls with one round red button, his trunk hanging down below his mouth, opens it, and warm golden light spills out. The main action is in the CENTER of the frame.",
+   "START: his hand on the round knob → ACTION: he opens the red door slowly on the beat, warm light spills over him → END: SURPRISE O then HAPPY SQUINT. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "sala",
+   [
+    "tito"
+   ],
+   2
+  ],
+  [
+   "H2",
+   "Medium shot in a cozy warm kitchen with an orange lamp: Mamá Elefanta in her lilac polka-dot dress, white apron and yellow flower kneels with open arms, and the baby elephant in his sunny-yellow overalls with one round red button runs into her hug; both smiling with closed mouths. The main action is in the CENTER of the frame.",
+   "START: Mamá with open arms → ACTION: Tito runs in and hugs her on the beat, she hugs him and sways once → END: both HAPPY SQUINT, the lamp glowing. Background life: steam from a cup on the table. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "cocina",
    [
     "tito",
     "mama"
    ],
    3
-  ],
-  [
-   "F4",
-   "Low angle from the snow: the baby elephant, WARMLY DRESSED in the red knit hat, red scarf and puffy orange jacket, slides down the snowy hill on his tummy smiling sweetly with his mouth closed, snow spraying softly to the sides, the little snowman behind.",
-   "He slides down the hill on his tummy, laughing, snow spraying softly.",
-   "nieve",
-   [
-    "tito"
-   ],
-   3
-  ],
-  [
-   "F5",
-   "Wide shot of the hot sunny savanna: the baby elephant STILL wearing the red knit hat, red scarf and puffy orange jacket walks slowly through the golden grass under the big bright sun, heat shimmer in the air, the acacia tree ahead.",
-   "He trudges slowly through the hot grass in his winter clothes.",
-   "sabana",
-   [
-    "tito"
-   ],
-   3
-  ],
-  [
-   "F6",
-   "Close-up of the baby elephant's face in the hot savanna: bright pink cheeks, little shiny sweat drops on his forehead, small puffs of white steam rising from his red knit hat, his eyes squeezed, fanning himself with his ear.",
-   "He fans himself with one big ear, sweat drops shining, steam puffing from his hat.",
-   "sabana",
-   [
-    "tito"
-   ],
-   3
-  ],
-  [
-   "F7",
-   "View from behind the baby elephant at the little blue watering hole: the puffy orange jacket, red hat and scarf lie on a rock beside him, he wears a STRAW SUN HAT and his yellow overalls, with his trunk dipped into the water and just lifting it up over his head, a few drops dripping from the tip.",
-   "He lifts his trunk and sprays water up; it showers down over him in sparkling falling drops, ripples spread in the pool.",
-   "sabana",
-   [
-    "tito"
-   ],
-   3
-  ],
-  [
-   "F8",
-   "Top-down view from above the acacia tree's round shade: the baby elephant in his straw sun hat and yellow overalls lies happily on the cool grass in the shade, wet and smiling, little water drops sparkling on him.",
-   "He stretches happily in the shade and wiggles his ears.",
-   "sabana",
-   [
-    "tito"
-   ],
-   2
   ]
  ],
  "style": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. ",
  "lock": "TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail.",
  "mama_lock": "MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear.",
  "director": true,
- "pattern": "lesson_consequence",
- "opening": "frosty_face_icicle_trunk",
- "twist": "two opposite mistakes with visible extreme states (frost + icicle in the snow, steam + sweat in the sun) — and the fix for the heat is Tito's own trunk used as a shower",
- "moral": "¡Ropa para el frío, ropa para el calor!",
- "experiment": "first 'VS / opposites' structure (Yes! Neo 'Cold VS Hot Challenge' 43.5M ×143; Hokie Pokie 'Opuestos' ×173): the same mistake twice in opposite worlds inside one Short",
- "continuity": "snow world F1-F4 (snowflakes falling), savanna F5-F8 (bright sun); Tito: yellow overalls only F1-F2 (frost F1); + red knit hat, red scarf, puffy orange jacket F3-F6 (steam/sweat F6); jacket, hat and scarf on a rock in F7; straw sun hat + overalls F7-F8 (wet in F8); Mamá only F3 (lilac winter coat)"
+ "pattern": "guess_interactive",
+ "opening": "three_magic_doors",
+ "twist": "each door opens onto a different weather world (snow, beach, rain) and Tito must dress right; the last small red door opens onto home and Mamá's hug",
+ "moral": "¡Ropa para cada clima! Y el mejor lugar… ¡un abrazo en casa!",
+ "experiment": "mystery-door format (Doctora Sophia 'La Puerta Misteriosa' 5.39M views/day, 23.10) + weather clothes learning + action moments (sled, surf with a dolphin, puddle jump) + a hidden helping moment (umbrella over the frog)",
+ "continuity": "Tito in yellow overalls at the start; snow: red hat + striped blue scarf + puffy blue jacket (S2, S3, D2, B1 until he takes them off); beach: overalls + straw sun hat (B2, B3, D3); rain: yellow raincoat with hood + red rain boots + red umbrella (R1–R3); end: overalls (H1, H2). The doors keep their colors (blue, yellow, green, small red). The chorus is in the living room in plain overalls (a fixed choreography). Mamá only H2. Dolphin only B3, frog only R3.",
+ "orientation": "landscape",
+ "format": "long_episode",
+ "sequence": [
+  "I1",
+  "Q",
+  "D1",
+  "Q",
+  "S1",
+  "S3",
+  "K1",
+  "K2",
+  "K3",
+  "K4",
+  "D2",
+  "Q",
+  "B1",
+  "B3",
+  "K1",
+  "K2",
+  "K3",
+  "K4",
+  "D3",
+  "R1",
+  "R2",
+  "R3",
+  "K1",
+  "K2",
+  "K3",
+  "K4",
+  "H1",
+  "H2"
+ ],
+ "cutaways": {
+  "S2": "inside verse 1 line 3 (dressing for the snow) — split the line S1/S2",
+  "B2": "inside verse 2 line 4 (hat + water) — split with B3"
+ }
 }
