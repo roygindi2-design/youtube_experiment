@@ -29,3 +29,8 @@
 - Fix (no new render): keep BKT s97 only before and after the trunk dip, and put a ~1.6–1.9 s cutaway in the middle, cut on the beat (110 bpm grid): the candy bowl / D2 door neighbour, or the bat at the door. Slot 1: BKT 21.41→~21.95 | cutaway | BKT ~23.6→end. Slot 2: BKT 54.69→~55.23 | another cutaway take | BKT ~57.1→end. Each cutaway take ≤2×.
 - Shorts A/B contain the same BKT → re-cut them from the fixed master.
 - Short C (sharing scene): pour + bucket in frame ✓; at ~11–14 s the mouse is half outside the right edge (minor): shift the crop toward the mouse there if Tito still fits. Short A ends on the D2 knock cliffhanger ✓; Short B ends on the mouse with the empty bucket ✓.
+
+## Brocoli v2 r3 (103de51) — PASS
+- 126.3–128.6 K3 v2 s83 joy: clean (no plate, no trunk contact).
+- Full 2 fps pass + zooms: no new issues. Minor: the bib icon is an orange in the tomato close-up (100–103.5), a leaf elsewhere. Not blocking.
+- Next: deliver copy + Shorts A/B/C + TikTok A → my QC → Roy.
