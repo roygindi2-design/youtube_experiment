@@ -16,7 +16,8 @@ if [n for n in dict.fromkeys(names)] != ["Intro", "Verse 1", "Chorus", "Verse 2"
 ch = [l for c, l in sec if c == "Chorus"]
 if len(ch) != 12 or not (ch[0:4] == ch[4:8] == ch[8:12]): E.append("chorus must be the same 4 lines x3")
 if len(seq) != 28: E.append(f"sequence must have 28 entries (found {len(seq)})")
-if set(shots) - set(seq): E.append(f"shots not used in sequence: {sorted(set(shots) - set(seq))}")
+cut = set(s.get("cutaways", {}))
+if set(shots) - set(seq) - cut: E.append(f"shots not used in sequence: {sorted(set(shots) - set(seq) - cut)}")
 if set(seq) - set(shots): E.append(f"sequence uses unknown shots: {sorted(set(seq) - set(shots))}")
 if len(seq) == 28:
     chs = [seq[i:i + 4] for i in (6, 14, 22)]

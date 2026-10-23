@@ -19,6 +19,12 @@
 **Background life:** leaves sway, the waterfall sparkles, a butterfly passes, clouds drift (sky), the balls keep bouncing (T1).
 **Hero props:** white plate (contents per continuity), small soap bar, woven basket with a green cloth (Q), carrot rocket (C1).
 
+## v2 changes (Roy 23.10)
+- R1/R2 front-facing NO-NO (the profile lost an eye + the trunk); K4 = Mamá pats with her HAND, trunks never touch.
+- Background life in every picnic shot (butterflies, leaves, waterfall); K2 = slow push-in + a butterfly.
+- Jungle friends: TOUCAN cutaway copies the chorus bounce (chorus 2+3); BABY MONKEY in the outro (MO): Tito shares a carrot with it and puts the plate + leftovers into the basket = hidden values (helping others, caring for nature).
+- Chorus repeats: same moves, DIFFERENT takes (no take more than 2×).
+
 ## Habit beat
 **Handwashing before eating** (I2): at the stream, with soap and bubbles, then clean hands shown proudly. Handwashing = our strongest habit (ep2), it comes back here 3 episodes later, as research/16 says.
 

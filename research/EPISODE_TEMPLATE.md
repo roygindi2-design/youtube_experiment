@@ -50,3 +50,12 @@ The set items and costumes must also appear in spec.json (locations + shot frame
 - Each shot's main action peak (knock, trunk up, bow, landing, wave) lands on a beat, ideally the sound-word beat (¡toc! ¡Miau! ¡Flap! ¡Tuuu! ¡Toma!).
 - In the script, every shot's ACTION names its beat ("on beat 1 of the line", "on ¡toc!"). The editor slides the in-point inside the clean window to hit it.
 - Run `python3 research/sync_check.py <mp4> <bpm>` before sending a review copy.
+
+## ח. Life, story and hidden values (Roy 23.10)
+- Every shot has background life written in the motion ("Background life: …"): animals, leaves, water, lanterns… The environment is never static. Roy: "the moving environment looks amazing".
+- 1–2 environment characters (a toucan, a monkey, birds…) react or copy the dance in cutaways (spec field `cutaways`, listed with where they go in the edit).
+- Each verse: Tito moves more, with a big-body move + a meaning gesture (move library).
+- One HIDDEN value per episode, shown and never preached: caring for nature (clean up, don't pick flowers, water a plant) or helping others (share, help a friend). It sits in an action, not in the lyrics.
+- The key emotional moment (sharing / helping) gets its own 3–4 shot mini-scene with BOTH characters whole in frame. Never a floating arm or a hand-only insert for the key moment.
+- The same take max 2× in an episode; chorus repeats use the same move with different takes.
+- QC: the story check = setup → problem → 3 tries/reveals → punchline/moral visible on screen.

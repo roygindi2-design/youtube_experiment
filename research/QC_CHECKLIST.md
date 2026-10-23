@@ -69,3 +69,12 @@ Story & feeling
 - [ ] research/sync_check.py: cuts on the beat ≥80%; the main action of each shot on a beat; sound words match the picture at that moment.
 
 ## 9. Lesson 22.10 (Roy caught the C1 trunk): check the trunk at ≥5 fps for the WHOLE slot of every Tito shot, especially the dance/chorus shots (they repeat ×3 + in every Short). Never accept "trunk OK" from the producer's note without looking. A hook/S-curl in front of the face = FAIL.
+
+## 10. Story & life (Roy 23.10)
+- [ ] Background life in every shot (nothing frozen behind the characters).
+- [ ] No floating limbs: an arm/hand entering from the frame edge without a body = FAIL (unless clearly a close-up of a held object with the arm attached to a visible body).
+- [ ] Props attached correctly: a bucket/bag is HELD (by a hand/handle), never glued to the body.
+- [ ] Repetition: the same take max 2× (count from the cut list); otherwise it feels like a loop, even without ping-pong.
+- [ ] Profile/turn shots: both eyes + trunk stay readable; a turn that loses an eye or the trunk = FAIL.
+- [ ] Two characters touching: trunks/faces must not merge.
+- [ ] The story is readable without sound: setup → problem → reveals → punchline; the moral moment is big and clear.

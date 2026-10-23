@@ -10,6 +10,18 @@
 ## ⏰ Deadline
 Halloween = 31.10. **Roy 22.10: the finished episode goes to Roy by 24.10, 18:00 Israel (15:00 UTC).** Shorts 25, 26, 27.10. This is the ONLY episode in work now. If time is short: the song + 3 Shorts are enough, the compilation can come later.
 
+
+## Design bible (added 23.10; already-made shots unchanged)
+**Environment — village street:** three tiny round houses (orange, purple, mint) with round doors and lit windows, friendly jack-o-lanterns on every step, strings of paper lanterns across the street, cobblestones, fallen autumn leaves, little bushes, a big friendly full moon.
+**Palette & light:** night navy + warm orange lantern light, purple and mint accents; cozy, never scary.
+**Costumes:** Tito = a round orange pumpkin costume + a green stem cap, ONE orange jack-o-lantern bucket (held by its handle, right hand). Mouse = a yellow star costume + a small yellow bucket. Kitten = a purple witch hat. Bat = no costume (it IS the costume). Mamá = lilac dress + apron.
+**Supporting characters:** kitten (tiny, fluffy black), bat (tiny purple, round face, pointed ears, NO trunk), mouse (tiny grey, round ears, smaller than Tito's knee).
+**Background life (every shot):** lanterns sway, leaves drift down, jack-o-lanterns flicker, the moon glows; on the walk shots, the houses pass by.
+**Hero props:** the orange bucket (empty → some → full → shared), the yellow bucket (empty → full in M3), candy bowls on the doorsteps.
+
+## Habit beat
+"¡Gracias!" bow in every chorus (C2) + sharing in verse 3. **Hidden value:** helping others — Tito gives from what HE collected (v9, Roy 23.10: the big moment M2–M4, both whole in frame, candies poured from his bucket into the mouse's).
+
 ## Why (evidence — longform_2026-10-21_halloween + earlier scans)
 - Halloween long-form now: 'Wheels on the Halloween Bus' 284K views/day ×275; Babanana '¡Aventura de Dulces de Halloween!' 167K/day ×114 (13 min); Pinkfong 'Monstruos de Sombras' 141K/day.
 - 'Toc, Toc, ¿quién es?' formula: Bebefinn EP186 9.4M, its Short 5.3M. Halloween Shorts: Nick and Poli 'Brush Your Fangs' ×362, El Tren Ñam-Ñam '¿Qué disfraz?' 17.9M.
