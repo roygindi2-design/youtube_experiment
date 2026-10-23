@@ -62,7 +62,7 @@ for k, (a, b, tok, o) in enumerate(v8):
 src = D / "build" / "v9src"
 src.mkdir(parents=True, exist_ok=True)
 pre = "tito_ep4_halloween_clip_"
-links = {f"{pre}MASTER_s0.mp4": ROOT / "production" / "deliver" / "tito_ep4_halloween.mp4"}
+links = {f"{pre}MASTER_s0.mp4": D / "assets" / "v8c_master.mp4"}
 for f in (D / "shots_v9").glob(f"{pre}*.mp4"):
     links[f.name] = f
 for n, target in links.items():
