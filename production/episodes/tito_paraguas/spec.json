@@ -1,10 +1,10 @@
 {
  "id": "tito_paraguas",
  "series": "tito",
- "title": "¡Tito comparte su paraguas! ☔🐰 | #shorts",
+ "title": "¡Súper Tito al Rescate! 🦸🐘☔ ¡Ayudar es lo mejor! | Canciones Infantiles",
  "world": "rainy park: grey-blue rain, shiny puddles, a curving path with colorful flower beds, a green bench + the same park when the sun comes out with a big rainbow",
- "hook": "first_raindrop_on_trunk",
- "bpm": 120,
+ "hook": "cape_tied_hero_pose_in_rain",
+ "bpm": 114,
  "song_takes": 8,
  "story": [
   "A big raindrop lands on the tip of Tito's trunk, plic! It starts to rain (second 0)",
@@ -16,101 +16,218 @@
   "Tito and the bunny splash together in a shiny puddle, splash! (fun)",
   "Top-down: both under the yellow umbrella, the bunny snuggled at Tito's foot (moral + loop: a new drop falls)"
  ],
- "lyrics": "[Intro]\n¡Plic, plic! ¡Está lloviendo!\n[Verse]\n¡Mi paraguas amarillo!\n¡Ay, ay! El conejito se moja.\n¿Compartimos? ¡Ven aquí!\n¡Y mis orejas, otro paraguas!\n[Chorus]\n¡Sale el sol! ¡Un arcoíris!\n¡Splash, splash! ¡En el charco!\n[Outro]\n¡Compartir es más bonito!",
+ "lyrics": "[Intro]\n¡Plic, plic! ¡Llueve en el bosque!\n¡Capa roja! ¡Súper Tito ya!\n[Verse 1]\n¿Quién llora bajo la hoja?\n¿Quién será? ¿Quién será?\n¡Un patito mojadito!\n¡Mis orejas son paraguas! ¡Ya!\n[Chorus]\n¡Súper Tito, ya llegó!\n¡Con orejas y trompón!\n¡Ayudar es lo mejor!\n¡Súper, súper corazón!\n[Verse 2]\n¿Quién está en el charco?\n¿Quién será? ¿Quién será?\n¡Conejita sin zanahoria!\n¡Mi trompa sopla el agua! ¡Fuuu!\n[Chorus]\n¡Súper Tito, ya llegó!\n¡Con orejas y trompón!\n¡Ayudar es lo mejor!\n¡Súper, súper corazón!\n[Verse 3]\n¡Pío, pío! Un pajarito cayó…\n¡Con cuidado, a su nido!\n¡Mamá pájaro canta! ¡Gracias!\n¡Sale el sol! ¡Un arcoíris!\n[Chorus]\n¡Súper Tito, ya llegó!\n¡Con orejas y trompón!\n¡Ayudar es lo mejor!\n¡Súper, súper corazón!\n[Outro]\n¡Súper Tito, a cenar!\n¡Súper abrazo de mamá!",
  "locations": {
-  "lluvia": "A park on a rainy day outdoors, vertical 9:16 composition, camera at child eye level: a curving light-grey path with shiny puddles reflecting the sky, colorful flower beds with red and yellow tulips, a green wooden bench, soft round trees, gentle rain falling in thin silver lines from a soft grey-blue sky. Nobody is in the park.",
-  "arcoiris": "The same park after the rain outdoors, vertical 9:16 composition, camera at child eye level: a curving path with shiny puddles, wet sparkling grass and tulips, a big bright rainbow arching across a clearing blue sky, soft white clouds, warm sunshine. Nobody is in the park."
+  "bosque": "A green forest clearing, wide 16:9, camera at child eye level: big glossy leaves, mossy stones, puddles on a soft path, a tree with a low branch and a small nest, a cozy little house with a porch at the edge. Gentle rain at the start, sunshine and a rainbow at the end. Nobody is there."
  },
  "shots": [
   [
-   "U1",
-   "Extreme close-up of the tip of the baby elephant's trunk in the park: one big shiny raindrop is falling just above it, about to land, his big eyes looking cross-eyed up at the drop, soft grey-blue rainy sky blurred behind.",
-   "The raindrop lands on his trunk tip and bursts into tiny droplets that bounce off; he blinks. Both eyes stay open and calm with the same gentle expression the whole time.",
-   "lluvia",
+   "H1",
+   "Wide shot of a green forest clearing in gentle rain: big leaves, mossy stones, puddles, a cozy little house at the edge; Mamá Elefanta in her lilac polka-dot dress, white apron and yellow flower ties a small RED CAPE around the neck of the baby elephant in his sunny-yellow overalls, his trunk hanging down below his mouth, under the porch roof. The main action is in the CENTER of the frame.",
+   "START: Mamá holds the cape → ACTION: she ties the red cape around his neck on the beat, he stands tall → END: he puts his hands on his hips, PROUD closed smile. Background life: gentle rain falls, big leaves drip, puddles ripple. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "bosque",
    [
-    "tito"
-   ],
-   3
-  ],
-  [
-   "U2",
-   "Wide shot of the rainy park: the baby elephant walks proudly along the curving path holding a bright yellow umbrella over his head, rain falling in thin silver lines, shiny puddles and tulips around.",
-   "He walks along the path under his yellow umbrella, rain falling around him.",
-   "lluvia",
-   [
-    "tito"
-   ],
-   3
-  ],
-  [
-   "U3",
-   "Low side view at ground level by a tulip bed: a tiny fluffy light-grey bunny with long floppy ears is SOAKING WET and shivering under one small green leaf, raindrops dripping off the leaf, the baby elephant's feet and the edge of his yellow umbrella stepping into the picture.",
-   "The wet bunny shivers under the leaf and drops drip off the leaf.",
-   "lluvia",
-   [
-    "tito"
-   ],
-   3
-  ],
-  [
-   "U4",
-   "Medium shot, front view on the path: the baby elephant crouches and holds his yellow umbrella over the tiny wet bunny, the bunny looking up at him, rain bouncing off the umbrella.",
-   "He lowers the umbrella over the bunny and smiles at it. Both eyes stay open and calm with the same gentle expression the whole time.",
-   "lluvia",
-   [
-    "tito"
-   ],
-   3
-  ],
-  [
-   "U5",
-   "Close-up three-quarter view: the baby elephant spreads his BIG round ears wide like a second umbrella over the tiny bunny snuggled against his chest, raindrops rolling off his ears, the bunny dry, fluffy and smiling.",
-   "He spreads his big ears wide and raindrops roll off them, the bunny snuggles in. Both eyes stay open and calm with the same gentle expression the whole time.",
-   "lluvia",
-   [
-    "tito"
-   ],
-   3
-  ],
-  [
-   "U6",
-   "View from behind the baby elephant and the tiny bunny on the path: the rain has stopped, the sun comes out and a big bright rainbow arches across the clearing blue sky over the park.",
-   "Sunbeams spread and the rainbow glows brighter over the park.",
-   "arcoiris",
-   [
-    "tito"
+    "tito",
+    "mama"
    ],
    2
   ],
   [
-   "U7",
-   "Low angle at puddle level: the baby elephant and the tiny grey bunny stand at the edge of a big calm shiny puddle with their feet lifted, about to stomp in, both smiling sweetly with his mouth closed, the rainbow reflected in the still water.",
-   "They stomp into the puddle; water splashes up in droplets that arc and fall back, ripple rings spread.",
-   "arcoiris",
+   "H2",
+   "Medium shot in the rainy forest clearing: the baby elephant in his sunny-yellow overalls with one round red button and a small RED CAPE tied around his neck, his trunk hanging down below his mouth, hands on hips in a hero pose, the red cape fluttering behind him in the breeze. The main action is in the CENTER of the frame.",
+   "HERO POSE — START: standing → ACTION: on '¡Súper Tito ya!' he puts his hands on his hips and his cape flutters up, ears lifting → END: holds the proud pose, PROUD closed smile. Background life: gentle rain falls, big leaves drip, puddles ripple. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "bosque",
    [
     "tito"
    ],
    3
   ],
   [
-   "U8",
-   "Top-down view from above the yellow umbrella on the wet path: the baby elephant holds the umbrella and the tiny bunny sits snuggled at his foot, both looking up and smiling, one new raindrop falling toward the umbrella.",
-   "They look up and smile as one new raindrop falls toward the umbrella.",
-   "arcoiris",
+   "Q",
+   "Close-up from the front: the baby elephant in his sunny-yellow overalls with one round red button and a small RED CAPE tied around his neck, his trunk hanging down below his mouth, listening, one ear lifted, big curious eyes, raindrops falling softly behind him. The main action is in the CENTER of the frame.",
+   "START: looking forward → ACTION: on '¿Quién será?' his head tilts and one big ear lifts to listen (CURIOUS) → END: holds the curious look. Background life: gentle rain falls, big leaves drip, puddles ripple. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "bosque",
    [
     "tito"
    ],
-   2
+   3
+  ],
+  [
+   "P1",
+   "Close-up under a big green leaf in the rain: a tiny fluffy yellow duckling sits shivering, little raindrops dripping from the leaf onto it, a small sad face. The main action is in the CENTER of the frame.",
+   "START: the duckling under the leaf → ACTION: drops fall from the leaf onto it and it shivers twice on the beat (SAD-SMALL) → END: it looks up hopefully. Background life: gentle rain falls, big leaves drip, puddles ripple. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "bosque",
+   [],
+   3
+  ],
+  [
+   "P2",
+   "Medium shot in the rain: the baby elephant in his sunny-yellow overalls with one round red button and a small RED CAPE tied around his neck, his trunk hanging down below his mouth stands next to the tiny yellow duckling and spreads his two very big ears wide over it like an umbrella; the rain runs off his ears and the duckling underneath stays dry and smiles. The main action is in the CENTER of the frame.",
+   "START: Tito beside the duckling → ACTION: he spreads his big ears out wide over it on the beat ('¡Ya!'), the raindrops bounce off his ears → END: the duckling smiles and fluffs its feathers, dry; Tito HAPPY SQUINT. Background life: gentle rain falls, big leaves drip, puddles ripple. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "bosque",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "K1",
+   "Medium shot from the front in the forest clearing: the baby elephant in his sunny-yellow overalls with one round red button and a small RED CAPE tied around his neck, his trunk hanging down below his mouth jumps into a hero pose, hands on hips, the red cape fluttering. The main action is in the CENTER of the frame.",
+   "HERO POSE — START: standing → ACTION: a small jump into the hero pose on the beat, the cape flies up → END: holds the pose, PROUD closed smile. Background life: gentle rain falls, big leaves drip, puddles ripple. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "bosque",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "K2",
+   "Medium shot: the baby elephant in his sunny-yellow overalls with one round red button and a small RED CAPE tied around his neck, his trunk hanging down below his mouth spins once in place with his arms out, the red cape twirling around him. The main action is in the CENTER of the frame.",
+   "CAPE TWIRL — START: arms out → ACTION: he spins once on the beat, the cape twirling → END: facing the camera, HAPPY SQUINT. Background life: gentle rain falls, big leaves drip, puddles ripple. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "bosque",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "K3",
+   "Close-up from the front: the baby elephant in his sunny-yellow overalls with one round red button and a small RED CAPE tied around his neck, his trunk hanging down below his mouth flaps his very big ears forward and back twice and lifts his trunk gently to the side in a curve, the tip pointing up and away from his face, eyes open and happy. The main action is in the CENTER of the frame.",
+   "EAR FLAP — START: ears still → ACTION: he flaps his ears twice on the beat ('¡Con orejas y trompón!') and lifts his trunk to the side → END: the trunk back down, closed smile. Background life: gentle rain falls, big leaves drip, puddles ripple. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "bosque",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "K4",
+   "Medium shot from the front: the baby elephant in his sunny-yellow overalls with one round red button and a small RED CAPE tied around his neck, his trunk hanging down below his mouth makes a heart shape with his two hands in front of his chest, a warm closed smile. The main action is in the CENTER of the frame.",
+   "HEART HANDS — START: hands apart → ACTION: he brings his hands together into a heart in front of his chest on the beat, sways once → END: holds the heart, HAPPY SQUINT. Background life: gentle rain falls, big leaves drip, puddles ripple. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "bosque",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "C1",
+   "Medium shot in the rain: a little white bunny with long ears stands sadly at the edge of a big puddle, and her orange carrot floats in the middle of the puddle, out of her reach. The main action is in the CENTER of the frame.",
+   "START: the bunny looks at the carrot → ACTION: she reaches a paw toward it twice on the beat but can't reach (SAD-SMALL), the carrot bobbing on the ripples → END: her ears droop. Background life: gentle rain falls, big leaves drip, puddles ripple. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "bosque",
+   [],
+   3
+  ],
+  [
+   "C2",
+   "Medium shot in the rain: the baby elephant in his sunny-yellow overalls with one round red button and a small RED CAPE tied around his neck, his trunk hanging down below his mouth dips the tip of his trunk into the big puddle and sucks the water up, the puddle shrinking, then blows the water up into the air like a fountain away from everyone, the orange carrot left on the ground; the little white bunny watches. The main action is in the CENTER of the frame.",
+   "START: Tito at the puddle → ACTION: the puddle shrinks as he sucks up the water, then he blows it up into the air like a fountain on '¡Fuuu!' → END: the carrot sits on the dry ground, the bunny jumps for joy. Background life: gentle rain falls, big leaves drip, puddles ripple. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "bosque",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "B1",
+   "Close-up on the wet grass under a tree: a tiny fluffy blue baby bird sits on the ground chirping, looking up at a nest on a low branch where its mother bird waits. The main action is in the CENTER of the frame.",
+   "START: the baby bird on the grass → ACTION: it chirps twice on the beat ('¡Pío, pío!'), looking up at the nest → END: it flaps its tiny wings, hopeful. Background life: gentle rain falls, big leaves drip, puddles ripple. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "bosque",
+   [],
+   3
+  ],
+  [
+   "B2",
+   "Medium shot at the tree: the baby elephant in his sunny-yellow overalls with one round red button and a small RED CAPE tied around his neck, his trunk hanging down below his mouth gently lifts the tiny blue baby bird with the curled tip of his trunk and places it carefully back into the nest on the low branch, the mother bird beside the nest. The main action is in the CENTER of the frame.",
+   "START: the baby bird resting in the curled tip of his trunk → ACTION: he lifts it slowly up to the nest on the beat ('¡Con cuidado!') → END: the baby bird snuggles into the nest, his trunk back down. Background life: gentle rain falls, big leaves drip, puddles ripple. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "bosque",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "B3",
+   "Close-up of the nest on the branch: the blue mother bird sings happily with her beak open, the baby bird beside her, raindrops stopping, the first sunlight shining through the leaves. The main action is in the CENTER of the frame.",
+   "START: the mother bird beside the baby → ACTION: she sings on the beat ('¡Gracias!'), the rain stops and sunlight shines in → END: both birds snuggle. Background life: sunshine, butterflies, leaves sway. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "bosque",
+   [],
+   3
+  ],
+  [
+   "RB",
+   "Long view of the clearing in sunshine after the rain: a big bright rainbow over the forest, the duckling, the white bunny with her carrot and the birds gather around the baby elephant in his sunny-yellow overalls with one round red button and a small RED CAPE tied around his neck, his trunk hanging down below his mouth and look up at the rainbow. The main action is in the CENTER of the frame.",
+   "START: the friends gather → ACTION: the rainbow appears across the sky on the beat ('¡Un arcoíris!'), everyone looks up, Tito jumps for joy → END: all friends smiling around Tito. Background life: sunshine, butterflies, leaves sway. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "bosque",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "O1",
+   "Medium shot at the porch of the cozy little house in sunshine: Mamá Elefanta waves from the door calling him, and the baby elephant in his sunny-yellow overalls with one round red button and a small RED CAPE tied around his neck, his trunk hanging down below his mouth runs toward the house across the clearing, his red cape flying behind him. The main action is in the CENTER of the frame.",
+   "REAL MOVE — START: Tito in the clearing → ACTION: he runs toward the house on the beat ('¡a cenar!'), the cape flying → END: he reaches the porch. Background life: sunshine, butterflies, leaves sway. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "bosque",
+   [
+    "tito",
+    "mama"
+   ],
+   3
+  ],
+  [
+   "O2",
+   "Medium shot at the porch: Mamá Elefanta kneels and hugs the baby elephant in his sunny-yellow overalls with one round red button and a small RED CAPE tied around his neck, his trunk hanging down below his mouth, both with closed-mouth smiles, the rainbow in the sky behind them. The main action is in the CENTER of the frame.",
+   "START: Mamá with open arms → ACTION: they hug and sway once on the beat ('¡Súper abrazo!') → END: both HAPPY SQUINT, the rainbow glowing. Background life: sunshine, butterflies, leaves sway. Both eyes stay open and calm with the same gentle expression the whole time.",
+   "bosque",
+   [
+    "tito",
+    "mama"
+   ],
+   3
   ]
  ],
  "style": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. ",
  "lock": "TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail.",
  "director": true,
  "pattern": "rescue_mission",
- "opening": "first_raindrop_on_trunk",
- "twist": "the umbrella is too small for two, so Tito spreads his BIG EARS over the bunny like a second umbrella — an act of sharing only an elephant can do",
- "moral": "¡Compartir es más bonito!",
- "experiment": "first sharing/kindness topic (RoboSquad 'Compartir es cuidar' 24.4M ×478) + first weather change inside a video (rain → sun + rainbow)",
- "continuity": "rain falling U1-U5, stopped from U6 (sun + rainbow U6-U8, puddles stay); yellow umbrella from U2 on; bunny SOAKING WET in U3-U4, dry and fluffy from U5; Tito's ears spread only in U5; lluvia = U1-U5, arcoiris = U6-U8",
- "song_seconds": 32
+ "opening": "mama_ties_red_cape",
+ "twist": "Tito's 'superpowers' are his own elephant body: big ears = an umbrella for a duckling, trunk = a pump that blows a puddle away for a bunny, a gentle trunk lift = putting a baby bird back in its nest",
+ "moral": "¡Ayudar es lo mejor! Todos tenemos un súper poder para ayudar.",
+ "experiment": "superhero-rescue trend (Monito Superhéroe, Bebefinn al rescate, BabyBus rescue 100–390K/day, 23.10) + body-part superpowers (elephant-specific) + a hidden nature value (returning the bird to its nest)",
+ "continuity": "rain from H1 to B2, the rain stops in B3, sunshine + rainbow RB–O2; Tito always in sunny-yellow overalls + a small RED CAPE (tied in H1); the duckling only P1/P2 + RB, the bunny C1/C2 + RB (with her carrot from C2 on), the birds B1–B3 + RB; Mamá only H1, O1, O2. The chorus is a fixed choreography (K1 hero pose, K2 cape twirl, K3 ear flap + trunk to the side, K4 heart hands).",
+ "song_seconds": 150,
+ "orientation": "landscape",
+ "format": "long_episode",
+ "sequence": [
+  "H1",
+  "H2",
+  "P1",
+  "Q",
+  "P1",
+  "P2",
+  "K1",
+  "K2",
+  "K3",
+  "K4",
+  "C1",
+  "Q",
+  "C1",
+  "C2",
+  "K1",
+  "K2",
+  "K3",
+  "K4",
+  "B1",
+  "B2",
+  "B3",
+  "RB",
+  "K1",
+  "K2",
+  "K3",
+  "K4",
+  "O1",
+  "O2"
+ ],
+ "cutaways": {}
 }
