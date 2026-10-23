@@ -45,3 +45,8 @@ Note: the clips are 97 frames = 4.0 s (not 5).
 | m3i_v_s19 | FAIL | | the candies stay on the palm, the bucket fills by itself |
 | m3i_v_s43 | FAIL | | candies fly up and land outside |
 | m3i_h2_kf2 | PICK kf (16:9) | | palm with candies over the opening, the mouse's paw on the rim, its face at the right |
+| m3i_h3_s43 | PICK (16:9 insert) | 0.6–3.0 | the palm tilts, the candies drop into the yellow bucket 1.6–2.8 s; the paw on the rim |
+| m3i_h3_s19 | doubtful | | the hand leaves the frame upward, the candies stream from the top |
+| m3i_h3_s31 / s7 | FAIL | | the palm balloons into the bucket / a dark arm + a blob hand |
+| VM4_s31 | PICK A | 0.05–4.0 | the mouse jumps high with its own bucket and lands; Tito waves |
+| VM4_s19 / s7 | B / C | 0.05–4.0 | the mouse hops, Tito waves (fill takes) |

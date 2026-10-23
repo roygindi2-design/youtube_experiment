@@ -1,0 +1,129 @@
+{
+ "out": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween_vshort/build/tito_ep4_halloween_vshort.mp4",
+ "song": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/assets/song.wav",
+ "song_start": 83.049,
+ "size": [
+  1080,
+  1920
+ ],
+ "clips": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween_vshort/build/vsrc/v_",
+ "cuts": [
+  [
+   0.0,
+   3.818,
+   "VM1@31",
+   {
+    "in": 0.05,
+    "until": 3.868
+   }
+  ],
+  [
+   3.818,
+   5.454,
+   "VM1@19",
+   {
+    "in": 0.2,
+    "until": 1.6
+   }
+  ],
+  [
+   5.454,
+   7.09,
+   "VM2@7",
+   {
+    "in": 0.05,
+    "until": 1.5
+   }
+  ],
+  [
+   7.09,
+   9.817,
+   "M3iv@31",
+   {
+    "in": 1.2,
+    "until": 3.927
+   }
+  ],
+  [
+   9.817,
+   10.908,
+   "VM4@19",
+   {
+    "in": 0.05,
+    "until": 1.141
+   }
+  ],
+  [
+   10.908,
+   14.726,
+   "VM4@31",
+   {
+    "in": 0.05,
+    "until": 3.868
+   }
+  ],
+  [
+   14.726,
+   19.09,
+   "VC1@7",
+   {
+    "in": 0.05,
+    "until": 4.0
+   }
+  ],
+  [
+   19.09,
+   22.363,
+   "VC2@43",
+   {
+    "in": 0.05,
+    "until": 3.3
+   }
+  ],
+  [
+   22.363,
+   23.999,
+   "VC1@31",
+   {
+    "in": 0.05,
+    "until": 1.6
+   }
+  ],
+  [
+   23.999,
+   26.726,
+   "VM4@19",
+   {
+    "in": 1.2,
+    "until": 3.927
+   }
+  ],
+  [
+   26.726,
+   29.453,
+   "VM4@7",
+   {
+    "in": 0.05,
+    "until": 2.777
+   }
+  ],
+  [
+   29.453,
+   30.544,
+   "VC1@31",
+   {
+    "in": 0.05,
+    "until": 1.141
+   }
+  ],
+  [
+   30.544,
+   33.818,
+   "VC4@7",
+   {
+    "in": 0.05,
+    "until": 3.0
+   }
+  ]
+ ]
+}

@@ -28,7 +28,7 @@ REPL = {
     27.958: [("C2v9@31", 0.05, 3.323, 6), ("C2v9@7", 0.05, 1.686, None)],      # chorus 1 "¡gracias!"
     45.413: [("D2v9@31", 0.05, 2.232, None)],                                   # knock on the bat's door
     62.867: [("C2v9@19", 1.5, 4.0, 5), ("C2v9@31", 0.05, 2.232, None)],         # chorus 2
-    88.504: [("M2v9@7", 0.05, 1.91, 4), ("M3v9@7", 0.05, 3.323, None)],        # sees the empty bucket -> pours on ¡Toma!
+    88.504: [("M2v9@7", 0.05, 1.91, 4), ("M3v10@43", 0.05, 1.0, 2), ("M3ih@43", 0.6, 3.0, None)],  # v10: palm out, then the hand-to-bucket insert (Roy: no pour)        # sees the empty bucket -> pours on ¡Toma!
     91.231: [],                                                                 # (M3 slot absorbed above)
     93.958: [("M4v9@31", 0.05, 3.868, None)],                                   # the mouse jumps for joy
     102.14: [("C2v9@7", 0.05, 2.0, 4), ("C2v9@19", 1.5, 4.0, None)],           # chorus 3
@@ -65,6 +65,8 @@ pre = "tito_ep4_halloween_clip_"
 links = {f"{pre}MASTER_s0.mp4": D / "assets" / "v8c_master.mp4"}
 for f in (D / "shots_v9").glob(f"{pre}*.mp4"):
     links[f.name] = f
+for f in (D / "shots_r4").glob("m3i_h3_clip_s*.mp4"):
+    links[f"{pre}M3ih_s{f.stem.rsplit('_s', 1)[1]}.mp4"] = f
 for n, target in links.items():
     l = src / n
     if l.is_symlink() or l.exists():
