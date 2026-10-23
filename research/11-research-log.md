@@ -287,3 +287,9 @@ Data: research/market/halloween_titles_2026-10-22.json
 - Common: a visible transformation moment (spin + light burst into the hero costume), then quick small rescues; door = mystery + choice.
 - Rules: (1) every hero episode gets a transformation flash shot (thumbnail frame); (2) door/mystery titles with a question.
 - Applied: tito_paraguas v2.3 (H2 sparkle transformation), tito_frio_calor v2.3 (evidence + title/thumbnail). Fixed outlier_scan.py crash on videos without a duration (live/upcoming).
+
+## Run 2026-10-23 14:05 UTC
+- Waiting on Roy: upload OK for Halloween v9 + brocoli v2 (both delivered, QC PASS); a pick for the next episode (rojito_arena / tito_frio_calor / tito_paraguas / navidad). GPU off.
+- Own channel: 83 views / 16 videos; ep2 nWPm2InSAJo 3, ep3 QFLm2ZcK8-w 1, Short A 0 — flat.
+- Navidad scan (30 d): only Mundo Canticuentos (9.4M subs) posting villancico Shorts, best ×6.2 (85K). The season hasn't started for smaller channels → no outliers yet. Plan stays: Navidad episode ready by ~15.11, upload ~20–25.11, Shorts in December (2025 scan: the peak is 1–24.12).
+- Rule: do not spend GPU on Navidad before Roy picks it; the evergreen concepts (Rojito ×1698 rescue, doors 238M) come first.
