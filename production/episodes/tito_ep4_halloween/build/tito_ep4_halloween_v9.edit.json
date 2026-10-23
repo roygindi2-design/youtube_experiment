@@ -179,17 +179,17 @@
   {
    "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_BOWLv9_s7.mp4",
    "in": 0.05,
-   "dur": 2.182,
+   "dur": 3.273,
    "speed": 1.0,
-   "src_len": 2.182,
+   "src_len": 3.273,
    "shot": "BOWLv9@7"
   },
   {
    "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/build/v9src/tito_ep4_halloween_clip_BKTv9c_s97.mp4",
    "in": 2.35,
-   "dur": 1.637,
-   "speed": 1.0,
-   "src_len": 1.637,
+   "dur": 0.546,
+   "speed": 0.916,
+   "src_len": 0.5,
    "shot": "BKTv9c@97"
   },
   {

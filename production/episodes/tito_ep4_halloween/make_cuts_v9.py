@@ -40,7 +40,7 @@ REPL = {
 if BKT_NEW:
     # BKTv9c s97: the trunk dips into the bucket ~0.5-2.2 s -> start | candy-bowl cutaway | end (researcher QC 23.10)
     REPL[21.413] = [("BKTv9c@97", 0.05, 0.6, 1), ("BOWLv9@31", 0.05, 1.7, 3), ("BKTv9c@97", 2.3, 2.9, None)]
-    REPL[54.685] = [("BKTv9c@97", 0.05, 0.6, 1), ("BOWLv9@7", 0.05, 2.25, 4), ("BKTv9c@97", 2.35, 4.0, None)]
+    REPL[54.685] = [("BKTv9c@97", 0.05, 0.6, 1), ("BOWLv9@7", 0.05, 3.4, 6), ("BKTv9c@97", 2.35, 2.85, None)]  # tail ends at 2.85: arms open after it (glued bucket)
 
 starts = [c[0] for c in v8]
 cuts = []
