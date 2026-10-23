@@ -1,0 +1,89 @@
+[
+ {
+  "id": "m3i_h3_kf0",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 505,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Close-up INSERT shot at the height of the bucket on the Halloween village street at night, warm lantern light, soft bokeh of jack-o-lanterns behind. A small EMPTY YELLOW plastic bucket with an orange star on it in the middle of the frame, its round opening visible. From the LEFT edge: only the baby elephant's small powder-blue hand and forearm, nothing else of him, the hand open and palm up, three colorful wrapped candies resting on the palm, held low right above the middle of the bucket's opening. From the RIGHT: the tiny grey mouse's arm in the sleeve of its YELLOW star costume, its little grey paw holding the rim of the bucket; the mouse's grey face with big round pink ears partly visible at the right edge, smiling, above its yellow star costume. The same hand, candies, bucket and mouse as the reference image. The main action is in the CENTER of the frame. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "ref_m3i_h2.jpg"
+   ]
+  }
+ },
+ {
+  "id": "m3i_h3_kf1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 606,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Close-up INSERT shot at the height of the bucket on the Halloween village street at night, warm lantern light, soft bokeh of jack-o-lanterns behind. A small EMPTY YELLOW plastic bucket with an orange star on it in the middle of the frame, its round opening visible. From the LEFT edge: only the baby elephant's small powder-blue hand and forearm, nothing else of him, the hand open and palm up, three colorful wrapped candies resting on the palm, held low right above the middle of the bucket's opening. From the RIGHT: the tiny grey mouse's arm in the sleeve of its YELLOW star costume, its little grey paw holding the rim of the bucket; the mouse's grey face with big round pink ears partly visible at the right edge, smiling, above its yellow star costume. The same hand, candies, bucket and mouse as the reference image. The main action is in the CENTER of the frame. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "ref_m3i_h2.jpg"
+   ]
+  }
+ },
+ {
+  "id": "m3i_h3_kf2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "1280x720",
+  "num_inference_steps": 4,
+  "seed": 707,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Close-up INSERT shot at the height of the bucket on the Halloween village street at night, warm lantern light, soft bokeh of jack-o-lanterns behind. A small EMPTY YELLOW plastic bucket with an orange star on it in the middle of the frame, its round opening visible. From the LEFT edge: only the baby elephant's small powder-blue hand and forearm, nothing else of him, the hand open and palm up, three colorful wrapped candies resting on the palm, held low right above the middle of the bucket's opening. From the RIGHT: the tiny grey mouse's arm in the sleeve of its YELLOW star costume, its little grey paw holding the rim of the bucket; the mouse's grey face with big round pink ears partly visible at the right edge, smiling, above its yellow star costume. The same hand, candies, bucket and mouse as the reference image. The main action is in the CENTER of the frame. Wide 16:9 frame.",
+  "inputs": {
+   "image_refs": [
+    "ref_m3i_h2.jpg"
+   ]
+  }
+ },
+ {
+  "id": "vshort_VM4b_kf0",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 707,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Vertical 9:16 frame, camera at child eye level, both characters shown full body, large in the frame, Tito on the left and the mouse on the right, nothing cut at the edges. The tiny grey mouse in its little yellow star costume jumps for joy, both feet off the ground, hugging its OWN small YELLOW bucket, which now has a few colorful candies inside. The baby elephant, kneeling, claps his hands together happily in front of his chest; his own ORANGE jack-o-lantern bucket stands on the ground beside his knee. Both with a happy squint and closed-mouth smiles. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler in his Halloween costume: his powder-blue face, very big round powder-blue ears with peach-pink insides, short soft powder-blue trunk curled up at the tip, big glossy dark-brown eyes, rosy cheeks, powder-blue arms, hands and feet; he wears a round soft ORANGE PUMPKIN COSTUME like a puffy round orange pumpkin around his tummy and chest, with vertical pumpkin ridges, and a small green leafy stem cap on top of his head; short chubby powder-blue legs below the costume, small tail. The tiny grey mouse from the first reference image, exactly the same character design: grey fur, big round pink ears, a little yellow star costume. Exactly one elephant and one mouse in the picture. Setting: A cozy little village street on Halloween night, vertical 9:16 composition, camera at child eye level: three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "ref_mouse_v.jpg",
+    "tito_pumpkin_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "vshort_VM4b_kf1",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 808,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Vertical 9:16 frame, camera at child eye level, both characters shown full body, large in the frame, Tito on the left and the mouse on the right, nothing cut at the edges. The tiny grey mouse in its little yellow star costume jumps for joy, both feet off the ground, hugging its OWN small YELLOW bucket, which now has a few colorful candies inside. The baby elephant, kneeling, claps his hands together happily in front of his chest; his own ORANGE jack-o-lantern bucket stands on the ground beside his knee. Both with a happy squint and closed-mouth smiles. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler in his Halloween costume: his powder-blue face, very big round powder-blue ears with peach-pink insides, short soft powder-blue trunk curled up at the tip, big glossy dark-brown eyes, rosy cheeks, powder-blue arms, hands and feet; he wears a round soft ORANGE PUMPKIN COSTUME like a puffy round orange pumpkin around his tummy and chest, with vertical pumpkin ridges, and a small green leafy stem cap on top of his head; short chubby powder-blue legs below the costume, small tail. The tiny grey mouse from the first reference image, exactly the same character design: grey fur, big round pink ears, a little yellow star costume. Exactly one elephant and one mouse in the picture. Setting: A cozy little village street on Halloween night, vertical 9:16 composition, camera at child eye level: three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "ref_mouse_v.jpg",
+    "tito_pumpkin_master.jpg"
+   ]
+  }
+ },
+ {
+  "id": "vshort_VM4b_kf2",
+  "model_type": "flux2_klein_4b",
+  "resolution": "720x1280",
+  "num_inference_steps": 4,
+  "seed": 909,
+  "video_prompt_type": "KI",
+  "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Vertical 9:16 frame, camera at child eye level, both characters shown full body, large in the frame, Tito on the left and the mouse on the right, nothing cut at the edges. The tiny grey mouse in its little yellow star costume jumps for joy, both feet off the ground, hugging its OWN small YELLOW bucket, which now has a few colorful candies inside. The baby elephant, kneeling, claps his hands together happily in front of his chest; his own ORANGE jack-o-lantern bucket stands on the ground beside his knee. Both with a happy squint and closed-mouth smiles. The baby elephant from the second reference image, exactly the same character design: TITO, a baby elephant toddler in his Halloween costume: his powder-blue face, very big round powder-blue ears with peach-pink insides, short soft powder-blue trunk curled up at the tip, big glossy dark-brown eyes, rosy cheeks, powder-blue arms, hands and feet; he wears a round soft ORANGE PUMPKIN COSTUME like a puffy round orange pumpkin around his tummy and chest, with vertical pumpkin ridges, and a small green leafy stem cap on top of his head; short chubby powder-blue legs below the costume, small tail. The tiny grey mouse from the first reference image, exactly the same character design: grey fur, big round pink ears, a little yellow star costume. Exactly one elephant and one mouse in the picture. Setting: A cozy little village street on Halloween night, vertical 9:16 composition, camera at child eye level: three tiny round storybook houses painted orange, purple and mint green with round doors, glowing friendly jack-o-lanterns on the steps, strings of warm paper lanterns, orange and yellow fallen leaves on a curving stone path, a big friendly full moon in a deep purple-blue sky. Vertical 9:16 frame.",
+  "inputs": {
+   "image_refs": [
+    "ref_mouse_v.jpg",
+    "tito_pumpkin_master.jpg"
+   ]
+  }
+ }
+]
