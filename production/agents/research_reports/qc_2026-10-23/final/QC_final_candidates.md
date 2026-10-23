@@ -22,3 +22,10 @@
 - Auto clean (0 ping-pong, 0 static, 0 black). The butterfly flash is gone ✓, MO 124.7–126.0 still PASS.
 - **The new v1 O1 s57 tail ~127.2–128.4 — FAIL** (bro_r2_o1tail_fail.jpg): the green leaf from Tito's bib is printed on the plate (the plate merges with the bib), and at the end the trunk tip lies inside the plate again.
 - Fix: no plate close-up in this slot. Fill ~126.0–128.6 with a clip with no plate/trunk contact: a TU toucan seed not used yet (s7 and s19 are each already at 2×), or a reaction/wide shot (e.g. G1 another seed). Then send r3 for a 5 fps look.
+
+## Halloween v9 c44c2b8 (BKTv9c s97) — FAIL, trim-level
+- Auto clean (0 ping-pong/static/black, 40/40 on the beat). No smoke, the costume stays on, the bucket stays a separate shape ✓.
+- **FAIL:** the trunk goes down INTO the bucket, crosses the rim and sits in the candies (hw_bktv9c_trunk_in_bucket.jpg): ~21.9–23.5 and ~55.2–57.1. The start (trunk above) and the end (trunk lifted out) are clean.
+- Fix (no new render): keep BKT s97 only before and after the trunk dip, and put a ~1.6–1.9 s cutaway in the middle, cut on the beat (110 bpm grid): the candy bowl / D2 door neighbour, or the bat at the door. Slot 1: BKT 21.41→~21.95 | cutaway | BKT ~23.6→end. Slot 2: BKT 54.69→~55.23 | another cutaway take | BKT ~57.1→end. Each cutaway take ≤2×.
+- Shorts A/B contain the same BKT → re-cut them from the fixed master.
+- Short C (sharing scene): pour + bucket in frame ✓; at ~11–14 s the mouse is half outside the right edge (minor): shift the crop toward the mouse there if Tito still fits. Short A ends on the D2 knock cliffhanger ✓; Short B ends on the mouse with the empty bucket ✓.
