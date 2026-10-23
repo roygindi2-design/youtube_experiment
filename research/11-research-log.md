@@ -299,3 +299,7 @@ Data: research/market/halloween_titles_2026-10-22.json
 - Roy: cropped verticals look too close → native 9:16 vertical Short approved (tito_ep4_halloween_vshort, 8 shots); keyframes QC'd (5 PASS, VM4/VC2/VC3 derived from passed frames).
 - Rules added: QC §11 natural actions (hand transfers only, "would a real child do this?"); template §י native vertical Short; inserts are the fix when a character's face/trunk keeps interfering with a hand action.
 - Channel: flat (see numbers). GPU balance ~$3.60.
+
+## Run 2026-10-23 18:05 UTC
+- Halloween v10 (hand-to-bucket insert) + the native vertical Short delivered to Roy (QC PASS, ENG-14 In Review); waiting for his upload OK + the Short A/B decision. Brocoli v2 waiting for his OK too. GPU $2.67.
+- Script work: rojito_arena got its native vertical Short plan (§י): the ladder/kitten axis is naturally vertical — hook = the star-wheel kangaroo hops.

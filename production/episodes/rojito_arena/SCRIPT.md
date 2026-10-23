@@ -106,3 +106,15 @@ rueda, cuadrada, triángulo, estrella, redonda, escalera, gatito, "¡Así no va!
 - **Plot validated:** the #1 outlier of the vehicles/rescue scan is a firefighter "Gato atrapado en un árbol" rescue Short — 5.0M views, ×1698 the channel median. Car Wheel Español "¿Qué figura necesita el camión de bomberos?" 5.6M (×200), "El camión de bomberos y la rueda con la forma equivocada" 2.3M (×81). Our kitten + wrong-wheel puzzle = both winning formats in one.
 - **K1 upgrade:** the toy box bursts with colorful bouncy balls before the 4 wheels roll out (Car Wheel's winners all use pools/showers of colored balls = tactile eye-candy for toddlers).
 - **Title/thumbnail:** lead with the kitten: "¡Gatito atrapado en el árbol! 🚒 ¿Qué rueda necesita Rojito?" Thumbnail = the kitten on the branch + Rojito with the SQUARE wheel mid-bump + a big "?".
+
+## Vertical Short (9:16, native — template §י, 23.10)
+**Audio:** the episode's own song, Verse 3 + the last chorus (≈ 33 s: "¿Una estrella? ¡Brinca, brinca!" → "¡Redonda, redonda, ya!"), cuts on the master's beat grid (118 bpm). Hook in second 0: Rojito bouncing like a kangaroo on the STAR wheel (the funniest gag). Payoff: the round wheel → zoom → the ladder → the kitten saved → the wheels follow him like ducklings (outro as the loop back).
+| # | shot (9:16) | lyric | composition | action |
+|---|---|---|---|---|
+| V1 | ST-v | ¿Una estrella? ¡Brinca, brinca! | low angle, Rojito big in the lower half, the green STAR wheel close to camera | two high kangaroo hops, eyebrows up, giggle |
+| V2 | RD-v | ¡Y ahora… la redonda! ¡Zuuum! | Rojito small at the bottom, the long road going UP the frame to the Big Tree | he zooms up the road toward the tree, speed lines |
+| V3 | LA-v | ¡Sube, sube la escalera! | vertical = perfect for the ladder: Rojito at the bottom, the kitten on the branch at the top | the ladder extends section by section up the frame |
+| V4 | KT-v | ¡Gatito, a salvo! ¡Miau! | the kitten centered on the ladder rungs, Rojito's face at the bottom smiling up | the kitten climbs down two rungs, "¡Miau!" |
+| V5–V8 | K1-v…K4-v | the chorus | the toy box burst of balls (V5), Rojito spins (V6), the sparkle "?" above him (V7), happy bounce with the kitten on his roof (V8) | as in the episode, recomposed for 9:16 |
+| End | O2-v | (outro, first line) | Rojito drives AWAY up the frame at sunset, the 4 silly wheels rolling behind in a row | loop: ends on the wheels, the Short starts on a wheel |
+Rules: every frame composed for 9:16 (Rojito whole, never cut), the kitten/ladder vertical axis is the reason vertical works here; same file for YouTube Shorts + TikTok.
