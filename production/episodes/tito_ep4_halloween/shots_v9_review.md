@@ -27,3 +27,8 @@ Note: the clips are 97 frames = 4.0 s (not 5).
 | BKTv9b_s31 | PICK | 0.05–4.0 | lifts the bucket to chest height, the bucket stays a separate shape, candies inside |
 | BKTv9b_s19 | FAIL | | jumps toward the camera (scale jump); the bucket merges with the costume |
 | BKTv9b_s7 | FAIL | | the bucket held in front of his face |
+| BKTv9b_s31 | FAIL (researcher) | | smoke at the feet ~0.4 s, the costume vanishes ~2.2 s, the handle runs into the trunk |
+| BKTv9c_s97 | PICK | 0.05–4.0 | bucket in front of the tummy, separate shape, costume kept, looks in at the candies; no smoke |
+| BKTv9c_s43 | FAIL | | the bucket melts into the costume from 1.5 s |
+| BKTv9c_s57 | FAIL | | the bucket goes over his head, trunk up |
+| BKTv9c_s83 | FAIL | | the trunk dips into the bucket from 2.5 s |
