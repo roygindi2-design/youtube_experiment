@@ -32,3 +32,7 @@ Note: the clips are 97 frames = 4.0 s (not 5).
 | BKTv9c_s43 | FAIL | | the bucket melts into the costume from 1.5 s |
 | BKTv9c_s57 | FAIL | | the bucket goes over his head, trunk up |
 | BKTv9c_s83 | FAIL | | the trunk dips into the bucket from 2.5 s |
+| BOWLv9_s31 | PICK | 0.05–1.7 | candy bowl cutaway, slow push-in, clean (slot 1) |
+| BOWLv9_s7 | PICK | 0.05–2.25 | same bowl, soft sparkles (slot 2) |
+| BOWLv9_s19 | FAIL | | green flash ~0.5 s |
+| → BKT slots | trim | | BKTv9c s97 0.05–0.6 → bowl → s97 end (2.3+), so the trunk-in-bucket part (0.5–2.2) never shows |

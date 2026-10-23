@@ -9,27 +9,27 @@
   },
   {
    "stage": "installed",
-   "t": 232,
+   "t": 137,
    "torch": "2.8.0.dev20250319+cu128"
   },
   {
    "stage": "wangp_session",
-   "t": 77
+   "t": 55
   },
   {
    "stage": "wangp_done",
-   "t": 730
+   "t": 530
   },
   {
    "stage": "finished",
-   "t": 967,
-   "ok": 4,
-   "total": 4
+   "t": 670,
+   "ok": 3,
+   "total": 3
   }
  ],
  "tasks": [
   {
-   "id": "tito_ep4_halloween_clip_BKTv9c_s43",
+   "id": "tito_ep4_halloween_clip_BOWLv9_s7",
    "settings": {
     "model_type": "ti2v_2_2",
     "resolution": "960x544",
@@ -37,20 +37,20 @@
     "num_inference_steps": 30,
     "guidance_scale": 5,
     "flow_shift": 5,
-    "seed": 43,
-    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant stands still on the street in his round orange pumpkin costume, which stays on him the whole time; both his hands hold the sides of the orange jack-o-lantern bucket in front of his tummy, below his trunk. He gently lifts the bucket a little, looks down into it at the candies and smiles, then sways happily once. His legs and feet stay solid on the ground; the candies stay inside the bucket. Background life: paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "seed": 7,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Close-up of a little bowl of colorful wrapped candies on a stone doorstep at night, glowing jack-o-lanterns beside it. The candies glisten in the warm flickering lantern light, the jack-o-lanterns glow and flicker softly, a few autumn leaves drift down past the bowl, the camera slowly pushes in toward the bowl. Smooth natural motion; objects keep their shape; exactly what is described and no characters; no morphing.",
     "inputs": {
-     "image_start": "pick_BKT_v9b.jpg"
+     "image_start": "pick_BOWL_v9.jpg"
     }
    },
    "status": "ok",
    "files": [
-    "out/tito_ep4_halloween_clip_BKTv9c_s43.mp4"
+    "out/tito_ep4_halloween_clip_BOWLv9_s7.mp4"
    ],
-   "seconds": 216.2
+   "seconds": 187.1
   },
   {
-   "id": "tito_ep4_halloween_clip_BKTv9c_s57",
+   "id": "tito_ep4_halloween_clip_BOWLv9_s19",
    "settings": {
     "model_type": "ti2v_2_2",
     "resolution": "960x544",
@@ -58,20 +58,20 @@
     "num_inference_steps": 30,
     "guidance_scale": 5,
     "flow_shift": 5,
-    "seed": 57,
-    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant stands still on the street in his round orange pumpkin costume, which stays on him the whole time; both his hands hold the sides of the orange jack-o-lantern bucket in front of his tummy, below his trunk. He gently lifts the bucket a little, looks down into it at the candies and smiles, then sways happily once. His legs and feet stay solid on the ground; the candies stay inside the bucket. Background life: paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "seed": 19,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Close-up of a little bowl of colorful wrapped candies on a stone doorstep at night, glowing jack-o-lanterns beside it. The candies glisten in the warm flickering lantern light, the jack-o-lanterns glow and flicker softly, a few autumn leaves drift down past the bowl, the camera slowly pushes in toward the bowl. Smooth natural motion; objects keep their shape; exactly what is described and no characters; no morphing.",
     "inputs": {
-     "image_start": "pick_BKT_v9b.jpg"
+     "image_start": "pick_BOWL_v9.jpg"
     }
    },
    "status": "ok",
    "files": [
-    "out/tito_ep4_halloween_clip_BKTv9c_s57.mp4"
+    "out/tito_ep4_halloween_clip_BOWLv9_s19.mp4"
    ],
-   "seconds": 146.8
+   "seconds": 144.0
   },
   {
-   "id": "tito_ep4_halloween_clip_BKTv9c_s83",
+   "id": "tito_ep4_halloween_clip_BOWLv9_s31",
    "settings": {
     "model_type": "ti2v_2_2",
     "resolution": "960x544",
@@ -79,38 +79,17 @@
     "num_inference_steps": 30,
     "guidance_scale": 5,
     "flow_shift": 5,
-    "seed": 83,
-    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant stands still on the street in his round orange pumpkin costume, which stays on him the whole time; both his hands hold the sides of the orange jack-o-lantern bucket in front of his tummy, below his trunk. He gently lifts the bucket a little, looks down into it at the candies and smiles, then sways happily once. His legs and feet stay solid on the ground; the candies stay inside the bucket. Background life: paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
+    "seed": 31,
+    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  Close-up of a little bowl of colorful wrapped candies on a stone doorstep at night, glowing jack-o-lanterns beside it. The candies glisten in the warm flickering lantern light, the jack-o-lanterns glow and flicker softly, a few autumn leaves drift down past the bowl, the camera slowly pushes in toward the bowl. Smooth natural motion; objects keep their shape; exactly what is described and no characters; no morphing.",
     "inputs": {
-     "image_start": "pick_BKT_v9b.jpg"
+     "image_start": "pick_BOWL_v9.jpg"
     }
    },
    "status": "ok",
    "files": [
-    "out/tito_ep4_halloween_clip_BKTv9c_s83.mp4"
+    "out/tito_ep4_halloween_clip_BOWLv9_s31.mp4"
    ],
-   "seconds": 145.0
-  },
-  {
-   "id": "tito_ep4_halloween_clip_BKTv9c_s97",
-   "settings": {
-    "model_type": "ti2v_2_2",
-    "resolution": "960x544",
-    "video_length": 97,
-    "num_inference_steps": 30,
-    "guidance_scale": 5,
-    "flow_shift": 5,
-    "seed": 97,
-    "prompt": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render.  The baby elephant stands still on the street in his round orange pumpkin costume, which stays on him the whole time; both his hands hold the sides of the orange jack-o-lantern bucket in front of his tummy, below his trunk. He gently lifts the bucket a little, looks down into it at the candies and smiles, then sways happily once. His legs and feet stay solid on the ground; the candies stay inside the bucket. Background life: paper lanterns sway gently, a few autumn leaves drift down, jack-o-lanterns flicker softly. Both eyes stay open and calm with the same gentle expression the whole time, mouth closed. Smooth natural motion with a clear purposeful action; every character keeps the same face, body and clothes; exactly the characters described and no extra characters; objects keep their shape; no camera zoom, no morphing.",
-    "inputs": {
-     "image_start": "pick_BKT_v9b.jpg"
-    }
-   },
-   "status": "ok",
-   "files": [
-    "out/tito_ep4_halloween_clip_BKTv9c_s97.mp4"
-   ],
-   "seconds": 145.3
+   "seconds": 143.8
   }
  ]
 }

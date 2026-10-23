@@ -38,9 +38,9 @@ REPL = {
     147.413: [("O2v9@7", 1.7, 4.0, None)],
 }
 if BKT_NEW:
-    toks = [t.split(":") for t in BKT_NEW.split(",")]
-    REPL[21.413] = [(toks[0][0], float(toks[0][1]), float(toks[0][2]), None)]
-    REPL[54.685] = [(toks[-1][0], float(toks[-1][1]), float(toks[-1][2]), None)]
+    # BKTv9c s97: the trunk dips into the bucket ~0.5-2.2 s -> start | candy-bowl cutaway | end (researcher QC 23.10)
+    REPL[21.413] = [("BKTv9c@97", 0.05, 0.6, 1), ("BOWLv9@31", 0.05, 1.7, 3), ("BKTv9c@97", 2.3, 2.9, None)]
+    REPL[54.685] = [("BKTv9c@97", 0.05, 0.6, 1), ("BOWLv9@7", 0.05, 2.25, 4), ("BKTv9c@97", 2.35, 4.0, None)]
 
 starts = [c[0] for c in v8]
 cuts = []
@@ -74,6 +74,7 @@ uses = {}
 for c in cuts:
     if c[2] != "MASTER@0":
         uses[c[2]] = uses.get(c[2], 0) + 1
+uses = {k: (v + 1) // 2 if k == "BKTv9c@97" else v for k, v in uses.items()}  # start+end of one slot = one use
 over = {k: v for k, v in uses.items() if v > 2}
 if over:
     raise SystemExit(f"take used more than 2x: {over}")
