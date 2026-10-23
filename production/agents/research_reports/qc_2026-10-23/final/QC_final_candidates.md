@@ -39,3 +39,4 @@
 - Auto (all 4): 0 ping-pong, 0 static, 0 black; 1080x1920.
 - Short A (ends on R2): PASS. Short B (ends on R3): PASS. TikTok A (refusal → broccoli forest, 13 s): PASS.
 - **Short C — FAIL (one shot):** ~16–20 s, Mamá hands Tito the plate: the pan between them leaves a floating blue arm with no body in frame (~17 s), then Tito's head half behind Mamá's trunk, both faces cut (bro_shortC_plate_crop_fail.jpg). Fix: hold the crop still on Tito for this shot (his whole head + the plate arriving, x≈0.35–0.40), no pan. Minor: the K3 joy close-up (~37 s) loses the raised arms in the vertical crop — acceptable.
+- Short C re-cut (ca96c88): the plate shot held at x0.38 — Tito's whole head, his arm attached and reaching to the plate, no floating limbs, no pan. **PASS.** All 4 brocoli verticals PASS.
