@@ -110,13 +110,17 @@
   ],
   "_paused": "21.10 ~12:00 IL — Roy: production PAUSED, analysis only. No GPU, no uploads. Ready but held: tito_ep2, tito_basura, rojito_rescate. Researcher: focus on analysis (why new videos get 0 views); no need for new scripts until Roy resumes.",
   "now": {
-    "id": "tito_brocoli",
-    "why": "long-episode v2 script ready 22.10 18:30 (template + preflight OK, design bible, acting, handwashing habit beat). Keyframes first → researcher QC."
+    "id": "tito_ep4_halloween",
+    "why": "v9 — Roy 23.10 fixes (sharing mini-scene M2–M4+O2, bucket held, no floating arms). Halloween = 31.10."
   },
   "next": [
     {
+      "id": "tito_brocoli",
+      "why": "v2 — Roy 23.10 fixes (front NO-NO, K4 hand, repetition, life, toucan + monkey)"
+    },
+    {
       "id": "navidad",
-      "why": "ENG-17, script by 25.11"
+      "why": "concept waiting for Roy's OK (research/19)"
     }
   ],
   "_workflow": "See production/agents/STUDIO_WORKFLOW.md. 'now'/'next' are set by the researcher every run; the producer works on 'now' first."
