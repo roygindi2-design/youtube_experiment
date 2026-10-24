@@ -1,0 +1,6 @@
+file '/home/user/youtube_experiment/production/episodes/tito_como_hace/build/s2_patito_00.mp4'
+file '/home/user/youtube_experiment/production/episodes/tito_como_hace/build/s2_patito_01.mp4'
+file '/home/user/youtube_experiment/production/episodes/tito_como_hace/build/s2_patito_02.mp4'
+file '/home/user/youtube_experiment/production/episodes/tito_como_hace/build/s2_patito_03.mp4'
+file '/home/user/youtube_experiment/production/episodes/tito_como_hace/build/s2_patito_04.mp4'
+file '/home/user/youtube_experiment/production/episodes/tito_como_hace/build/s2_patito_05.mp4'
