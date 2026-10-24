@@ -1,0 +1,61 @@
+{
+ "patito": {
+  "master_slice": [
+   3.532,
+   21.158
+  ],
+  "duration": 17.63,
+  "cuts": [
+   {
+    "src": "H1",
+    "t": 0.0,
+    "dur": 1.068,
+    "clip_in": 0.25,
+    "speed": 1.0,
+    "cut_beat_err_ms": 0
+   },
+   {
+    "src": "H1",
+    "t": 1.068,
+    "dur": 3.205,
+    "clip_in": 1.7,
+    "speed": 1.0,
+    "cut_beat_err_ms": 15
+   },
+   {
+    "src": "P1a",
+    "t": 4.273,
+    "dur": 4.273,
+    "clip_in": 0.64,
+    "speed": 1.0,
+    "cut_beat_err_ms": 19,
+    "sync_offset_ms": 19
+   },
+   {
+    "src": "P1a",
+    "t": 8.546,
+    "dur": 2.136,
+    "clip_in": 2.9,
+    "speed": 1.0,
+    "cut_beat_err_ms": -4
+   },
+   {
+    "src": "H1",
+    "t": 10.682,
+    "dur": 2.67,
+    "clip_in": 2.0,
+    "speed": 1.0,
+    "cut_beat_err_ms": -15
+   },
+   {
+    "src": "P1b",
+    "t": 13.353,
+    "dur": 4.273,
+    "clip_in": 0.85,
+    "speed": 1.0,
+    "cut_beat_err_ms": -19,
+    "sync_offset_ms": -19
+   }
+  ]
+ }
+}

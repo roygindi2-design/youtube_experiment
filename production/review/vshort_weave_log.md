@@ -120,3 +120,5 @@
 | C34 | F2 clip (retry, Roy approved) | MiniMax H3 Max, 768P, 5 s, from F2_kf3 | 35 | como_hace_weave/F2_minimax.mp4 |
 **¿Cómo hace? total: 493.5 / 550**
 | C35 | B1 keyframe: Tito neutral, ready to bounce (mint) — filler motion for the per-animal shorts (Roy: zero stills) | Nano Banana 2.1, 9:16, edit of T1_kf2 | 3.5 | como_hace_weave/B1_kf.jpg |
+| C36 | B1 clip: Tito bounces (filler motion) | MiniMax H3 Max, 768P, 5 s, from B1_kf | 35 | como_hace_weave/B1_minimax.mp4 |
+**¿Cómo hace? total: 532 / 550**

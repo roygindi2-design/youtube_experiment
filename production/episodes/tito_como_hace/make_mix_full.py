@@ -64,7 +64,7 @@ def quiet_beat(a, b):
     return float(min(cand, key=lambda x: env[np.searchsorted(et, x)]))
 
 
-xf = int(0.015 * SR)
+xf = int(0.04 * SR)  # v3: 40 ms seams (Roy: music not smooth)
 
 
 def join(a, b):
@@ -95,7 +95,7 @@ def rms(y):
 dry = mix.copy()
 g = np.ones(len(mix))
 for e in events:
-    for t, db, dur, r in ((e["mama_sound_out_t"], -8, 0.8, 0.08), (e["baby_sound_out_t"], -6, 0.5, 0.06)):
+    for t, db, dur, r in ((e["mama_sound_out_t"], -8, 0.8, 0.12), (e["baby_sound_out_t"], -6, 0.5, 0.12)):
         a, b, r = int((t - 0.1) * SR), int((t + dur) * SR), int(r * SR)
         lv = 10 ** (db / 20)
         g[a:b] = np.minimum(g[a:b], lv)
