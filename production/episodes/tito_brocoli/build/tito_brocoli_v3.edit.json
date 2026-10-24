@@ -392,17 +392,17 @@
   {
    "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/build/v2src/K3v2_s83.mp4",
    "in": 1.0,
-   "dur": 2.182,
-   "speed": 0.917,
-   "src_len": 2.0,
+   "dur": 1.636,
+   "speed": 1.0,
+   "src_len": 1.636,
    "shot": "K3v2@83"
   },
   {
    "file": "/home/user/youtube_experiment/production/episodes/tito_brocoli/build/v2src/O2_s19.mp4",
    "in": 0.05,
-   "dur": 4.909,
-   "speed": 1.0,
-   "src_len": 4.909,
+   "dur": 5.455,
+   "speed": 0.906,
+   "src_len": 4.94,
    "shot": "O2@19"
   },
   {
