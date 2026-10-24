@@ -305,3 +305,8 @@ Data: research/market/halloween_titles_2026-10-22.json
 - Script work: rojito_arena got its native vertical Short plan (§י): the ladder/kitten axis is naturally vertical — hook = the star-wheel kangaroo hops.
 - 20:05: native vertical Short plans added to tito_frio_calor (beach jacket gag hook) and tito_paraguas (transformation hook). Still waiting for Roy (Halloween v10 + vertical Short upload OK, brocoli, next episode pick).
 - 22:05: waiting for Roy (Halloween v10b + vertical option A upload OK; O2 jump-cut decision). Research only; no production actions (Roy: approval for every step).
+
+## Run 2026-10-24 02:05 UTC
+- Delivered overnight: Halloween v10b published (Eo_PHQrLDs0); Halloween TikTok (burned-in text) + vertical with Roy; brocoli v3b (Kling forest + rocket, §12 full pass) delivered, waiting for Roy's upload OK. Weave 227.5/230 used.
+- Process changes (Roy): no Shorts — one TikTok per episode; QC §12 full-pass protocol; hashtag A/B rotation on TikTok.
+- tito_frio_calor v3: the "mixed-up door" punchline (all weathers at once → clothes tower → rainbow party with the friends); stays in the plan, not in production.
