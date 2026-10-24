@@ -312,3 +312,4 @@ Data: research/market/halloween_titles_2026-10-22.json
 - tito_frio_calor v3: the "mixed-up door" punchline (all weathers at once → clothes tower → rainbow party with the friends); stays in the plan, not in production.
 - 04:05: waiting for Roy (brocoli v3b upload OK; next-episode pick). No production actions.
 - 06:05: still waiting for Roy (brocoli upload OK, next episode). No production actions.
+- 08:05: waiting for Roy. No production actions.
