@@ -31,3 +31,11 @@ Listening pack: production/sfx/animals/animal_sounds_cc0_pack.mp3 (segment # bel
 
 Tito/Mamá elephant toot: our own ACE-Step generation (job2 'sfx_trumpet', MIT model, our output). NOT from this list.
 Rule: only CC0 rows from FSD50K metadata. CC-BY / BY-NC / Sampling+ clips are excluded.
+
+## Pack 2: Tito's friends (production/sfx/animals/creatures_cc0_pack.mp3)
+| # | animal | freesound id | title | uploader | license |
+|---|---|---|---|---|---|
+| 23 | עכבר | 143125 | ratSqueak.wav | Zabuhailo | cc/publicdomain/zero/1.0/ |
+| 24 | עכבר | 397651 | Chuột07.wav | SieuAmThanh | cc/publicdomain/zero/1.0/ |
+| 25 | קוף | 392030 | Macaco.wav | rafaelpicoli | cc/publicdomain/zero/1.0/ |
+| 26 | ינשוף (חלופה) | 164651 | Hoot_1.wav | Adam_N | cc/publicdomain/zero/1.0/ |
