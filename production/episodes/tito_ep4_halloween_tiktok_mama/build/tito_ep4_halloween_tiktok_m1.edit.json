@@ -1,0 +1,43 @@
+{
+ "out": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween_tiktok_mama/build/tito_ep4_halloween_tiktok_m1.mp4",
+ "fps": 30,
+ "size": [
+  1080,
+  1920
+ ],
+ "burn_captions": false,
+ "song": {
+  "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/assets/song.wav",
+  "start": 0.14,
+  "gain_db": 0,
+  "fade_out": 0.15
+ },
+ "shots": [
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween_tiktok_mama/build/vsrc/m1_STUCK_s0.mp4",
+   "in": 0.05,
+   "dur": 3.818,
+   "speed": 1.0,
+   "src_len": 3.818,
+   "shot": "STUCK@0"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween_tiktok_mama/build/vsrc/m1_POP_s0.mp4",
+   "in": 0.05,
+   "dur": 3.273,
+   "speed": 0.999,
+   "src_len": 3.27,
+   "shot": "POP@0"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween_tiktok_mama/build/vsrc/m1_KISS_s0.mp4",
+   "in": 1.18,
+   "dur": 3.818,
+   "speed": 1.0,
+   "src_len": 3.818,
+   "shot": "KISS@0"
+  }
+ ],
+ "sfx": [],
+ "lines": []
+}
