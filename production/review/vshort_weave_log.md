@@ -78,3 +78,5 @@
 |---|---|---|---|---|
 | E1 | bedroom morning keyframe, Tito full body arms up | Nano Banana 2.1, 9:16, refs loc_ep3_cuarto + tito_master | 3.5 | tiktok_beok/beok_kf.jpg |
 | E2 | Be OK keyframe fix: eyes open, Tito bigger/higher (researcher framing) | Nano Banana 2.1, 9:16, edit of beok_kf | 3.5 | tiktok_beok/beok_kf2.jpg |
+| E3 | Be OK dance: motion transfer, image beok_kf2_crop13 (researcher PASS), video Pexels 6940483 | Kling Motion Control V3.0 Pro, orientation video, no sound | 164 | tiktok_beok/beok_motion.mp4 |
+**Be OK dance total: 191 / 250**
