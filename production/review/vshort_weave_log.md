@@ -88,3 +88,5 @@
 | C2 | mamá ratona design ref (from ref_mouse_v, lilac apron) | Nano Banana 2.1, 9:16 | 3.5 | como_hace_weave/mama_ratona_ref.jpg |
 | C3 | H1 keyframe: Tito close-up listening (mint) | Nano Banana 2.1, 9:16, ref tito_master | 3.5 | como_hace_weave/H1_kf.jpg |
 | C4 | P1a keyframe: the duckling alone (sky blue) | Nano Banana 2.1, 9:16, ref tito_basura P2 | 3.5 | como_hace_weave/P1a_kf.jpg |
+| C5 | H1 redo: hand behind the ear, look right, trunk down | Nano Banana 2.1, 9:16, edit of H1_kf + tito_master | 3.5 | como_hace_weave/H1_kf2.jpg |
+| C6 | P1a redo: the clay-toy duckling from tito_basura | Nano Banana 2.1, 9:16, refs basura P2/P3/P7 | 3.5 | como_hace_weave/P1a_kf2.jpg |
