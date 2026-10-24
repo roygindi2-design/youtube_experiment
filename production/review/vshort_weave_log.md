@@ -72,3 +72,8 @@
 | # | job | model | credits | result |
 |---|---|---|---|---|
 | D1 | dance test from dance_first_frame (m1_s2_fl @3.30) | MiniMax H3 Max i2v, 5 s, 480P, prompt expansion off | 20 | tiktok_baila/dance_test_minimax.mp4 |
+
+## TikTok "Tito baila: Be OK" (Roy 24.10: dance cap 250 incl. the 20 MiniMax test; each run approved in the producer chat)
+| # | job | model | credits | result |
+|---|---|---|---|---|
+| E1 | bedroom morning keyframe, Tito full body arms up | Nano Banana 2.1, 9:16, refs loc_ep3_cuarto + tito_master | 3.5 | tiktok_beok/beok_kf.jpg |
