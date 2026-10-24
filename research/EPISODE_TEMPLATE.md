@@ -69,3 +69,6 @@ Rule: always expand a little — each pass adds detail that makes the video cool
 
 ## י. Native vertical Short (Roy 23.10 — required)
 Verticals are NOT cropped from the 16:9 master (too close, cut characters). Every episode gets one native 9:16 Short (~30–40 s, the strongest story beat, the episode's own audio slice with cuts on the master's beat grid): a separate `production/episodes/<id>_vshort/spec.json` with orientation "portrait", every frame composed for 9:16 (characters whole and large). The same file goes to YouTube Shorts + TikTok. Template: tito_ep4_halloween_vshort.
+
+## יא. Distribution change (Roy 24.10) — replaces §י and the "3 Shorts" rule
+From now on: NO YouTube Shorts (not 3 cut-downs, not a native vertical Short). Per episode = the long episode on YouTube + ONE TikTok video. Scripts keep a "TikTok" section (hook second 0, ~20–30 s, the strongest beat) instead of the Shorts / Vertical Short sections.

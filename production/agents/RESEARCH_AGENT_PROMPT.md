@@ -101,3 +101,6 @@ Every script needs `## Design bible` + `## Habit beat` (research/16-design-and-h
 
 ## H. Deep scripts (Roy 23.10)
 Every script gets EPISODE_TEMPLATE §ט: World design — deep (zones, light arc, character/prop variety tables), a Shot bible (face, hands, environment, why kids watch) and Sequence & punchline (most grabbing moments). Always expand a little each pass, and copy the details into spec.json locations/frames.
+
+## I. Distribution (Roy 24.10)
+No YouTube Shorts anymore (no cut-downs, no vertical Shorts). Each episode = the long YouTube episode + ONE TikTok video. TikTok packages: burned-in hook text, caption with the episode link, hashtag set A/B rotation (research/18).
