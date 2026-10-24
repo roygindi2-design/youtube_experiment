@@ -1,0 +1,7 @@
+file '/home/user/youtube_experiment/production/episodes/tito_como_hace/build/s2_elefantito_00.mp4'
+file '/home/user/youtube_experiment/production/episodes/tito_como_hace/build/s2_elefantito_01.mp4'
+file '/home/user/youtube_experiment/production/episodes/tito_como_hace/build/s2_elefantito_02.mp4'
+file '/home/user/youtube_experiment/production/episodes/tito_como_hace/build/s2_elefantito_03.mp4'
+file '/home/user/youtube_experiment/production/episodes/tito_como_hace/build/s2_elefantito_04.mp4'
+file '/home/user/youtube_experiment/production/episodes/tito_como_hace/build/s2_elefantito_05.mp4'
+file '/home/user/youtube_experiment/production/episodes/tito_como_hace/build/s2_elefantito_06.mp4'

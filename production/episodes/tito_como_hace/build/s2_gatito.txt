@@ -1,0 +1,8 @@
+file '/home/user/youtube_experiment/production/episodes/tito_como_hace/build/s2_gatito_00.mp4'
+file '/home/user/youtube_experiment/production/episodes/tito_como_hace/build/s2_gatito_01.mp4'
+file '/home/user/youtube_experiment/production/episodes/tito_como_hace/build/s2_gatito_02.mp4'
+file '/home/user/youtube_experiment/production/episodes/tito_como_hace/build/s2_gatito_03.mp4'
+file '/home/user/youtube_experiment/production/episodes/tito_como_hace/build/s2_gatito_04.mp4'
+file '/home/user/youtube_experiment/production/episodes/tito_como_hace/build/s2_gatito_05.mp4'
+file '/home/user/youtube_experiment/production/episodes/tito_como_hace/build/s2_gatito_06.mp4'
+file '/home/user/youtube_experiment/production/episodes/tito_como_hace/build/s2_gatito_07.mp4'

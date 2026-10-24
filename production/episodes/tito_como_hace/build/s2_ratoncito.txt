@@ -1,0 +1,8 @@
+file '/home/user/youtube_experiment/production/episodes/tito_como_hace/build/s2_ratoncito_00.mp4'
+file '/home/user/youtube_experiment/production/episodes/tito_como_hace/build/s2_ratoncito_01.mp4'
+file '/home/user/youtube_experiment/production/episodes/tito_como_hace/build/s2_ratoncito_02.mp4'
+file '/home/user/youtube_experiment/production/episodes/tito_como_hace/build/s2_ratoncito_03.mp4'
+file '/home/user/youtube_experiment/production/episodes/tito_como_hace/build/s2_ratoncito_04.mp4'
+file '/home/user/youtube_experiment/production/episodes/tito_como_hace/build/s2_ratoncito_05.mp4'
+file '/home/user/youtube_experiment/production/episodes/tito_como_hace/build/s2_ratoncito_06.mp4'
+file '/home/user/youtube_experiment/production/episodes/tito_como_hace/build/s2_ratoncito_07.mp4'
