@@ -94,3 +94,9 @@ Misses this week that Roy caught: the candy POUR (unnatural), an eye-roll (Tito 
 6. **The 'would a real child do this?' pass:** watch each shot as a story beat: is the action natural, does it read in 1 second, does anything look strange or fake? If I have to explain it, FAIL.
 7. **Real-speed pass:** a full contact sheet at 2 fps of the whole video PLUS the 8 fps strips — both, every time, for the episode AND every Short/TikTok cut.
 8. **Report every doubt** to Roy as a doubt, never round it up to PASS.
+
+### Lessons from Roy, 24.10 (Mamá TikTok keyframes)
+- A trunk touching or near the other character's face or mouth in a kiss or hug = FAIL ("looks like his trunk is in Mamá's mouth"). Kisses and hugs: trunks hang down and away from faces.
+- A costume gag must keep the FACE and BOTH EARS visible. A head hidden inside a costume / a missing ear = FAIL, even if the gag "reads".
+- An action that must be read from a single still frame (a dodge) needs the RESULT visible: distance plus empty air. A pose alone isn't enough.
+- "Borderline" = FAIL. Don't pass borderline frames to Roy.
