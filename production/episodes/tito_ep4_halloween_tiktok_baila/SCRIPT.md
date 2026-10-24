@@ -60,3 +60,10 @@ Frame 0 Tito already dancing → bounce/arm pumps → spin → back-wiggle, cut 
 - Text 0–3 s: "Mi peque cuando suena su canción favorita 🎃💃"
 - Caption: "When the Halloween song comes on 🎃💃 Tito the elephant can't stop dancing! #kidsoftiktok #cartoonforkids #toddler #halloween #dance" (hashtag set A, English; this continues the A/B test)
 Both: AI label ON; the YouTube link in the bio; a pinned comment "¿Le pongo la canción completa? 🎃 → YouTube: Cantilandia TV".
+
+## Roy (24.10 ~18:30): the MiniMax dance is "terrible, he doesn't dance; must be way cooler" → MOTION TRANSFER
+- i2v models invent weak, generic sway. The winners (Burrito, Macarena cat, bee) have REAL choreography on the beat.
+- Method: Kling Motion Control V3.0 Pro (~164) = Tito's solo keyframe + a real kid's dance video → Tito performs those exact moves. Fallback: Wan 2.2 Animate-Move (~48).
+- Driving video: Pexels 6940483 (free commercial use, modifications OK, no attribution): static camera, full body, a bedroom dance (arm waves, hands-on-head, bounces, knee-lift turn, spin, shoulder rolls). Backup: Pexels 7697117.
+- Working cap for the dance: 250 (Roy's mandate). 20 already used on the test.
+- QC watch-outs: the pumpkin costume hides the legs (no extra legs on the knee lifts); a blue tail; eyes; a retime to 110 bpm in the edit.
