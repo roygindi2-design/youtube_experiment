@@ -9,6 +9,7 @@ Rights: original melody + lyrics (NOT Old MacDonald / La Granja de Zenón). Anim
   - Burned-in end text "🎵 La canción completa con Tito → YouTube: Cantilandia TV", plus the link in bio.
 
 ## Look (Tito's world, not generic AI animals)
+- **Cast = Tito's existing friends** (Roy 24.10). Each friend is generated from its canon keyframe as the reference, plus a new 'mamá' version: the same design, bigger, with one mother cue matching Mamá elefante's (an apron or a flower).
 - **Style:** the soft clay-toy 3D look of production/characters/tito_master.jpg. Rounded, matte, big glossy eyes, pink cheeks.
 - **Animals:** in the same style, as if they lived in Tito's world: chunky, simple shapes, no realistic fur.
 - **Background:** one solid pastel per pair (mint / peach / lilac / sky blue / butter yellow), with a soft floor shadow only. That's SKZ's winning backdrop and also Tito's master backdrop.
@@ -35,9 +36,9 @@ Each pair = 6 bars (~13 s). The same frame repeats so toddlers learn it after on
 | time | what |
 |---|---|
 | 0.0–1.6 | **HOOK.** Frame 0: Tito CLOSE-UP on mint, already acting: trunk cupped to his ear, eyes wide. At 0.3 s a REAL chick "pío" off-screen; Tito's eyes dart right, surprised. Text 0–3 s: "¿Tu peque sabe cómo hace cada animal? 🐣🐑🐶" |
-| 1.6–14.7 | **Pair 1: pollito / gallina** (peach). Sounds "¡Pío, pío, pío!" / "¡Co, co, co!". Audio: CC0 #13 chicks, #14 hen |
-| 14.7–27.8 | **Pair 2: ovejita / oveja** (sky blue). "¡Beee!" / "¡Beee!" (deep). Audio: CC0 #3 lamb calling its mother, #4 ewe answering (a real pair) |
-| 27.8–40.9 | **Pair 3: perrito / perrita** (butter yellow). "¡Guau, guau!" (tiny) / "¡Guau, guau!" (big). Audio: CC0 #17 small dog, #16 big dog |
+| 1.6–14.7 | **Pair 1: patito / mamá pata.** The SAME yellow ducklings + mamá duck from "Tito y la basura" (live on YouTube; refs: production/episodes/tito_basura/kf). Pastel sky-blue. "¡Cuac, cuac, cuac!" (tiny) / "¡CUAC, CUAC!". Audio: CC0 #8/#9 duck; baby = the same clip pitched up |
+| 14.7–27.8 | **Pair 2: gatito / mamá gata.** The black kitten from Tito's Halloween episode (live; ref: production/review/tiktok2_weave/kitten_kf.jpg; witch hat OFF for this song). Peach. "¡Miau!" (tiny) / "¡MIAU!". Audio: CC0 #19 (small) / #18 |
+| 27.8–40.9 | **Pair 3: ratoncito / mamá ratona.** Tito's Halloween friend, the grey mouse in a yellow shirt (live; ref: production/episodes/tito_ep4_halloween_vshort/assets/ref_mouse_v.jpg). Butter yellow. "¡Iii, iii!" (Spanish mouse squeak) / bigger "¡IIII!". Audio: CC0 #23/#24 |
 | 40.9–51 | **Finale: Tito / Mamá** (lilac). Bar 1 "Y Tito chiquitito, ¿cómo haces tú?" → Tito raises his trunk: a small "tu-tu-tuuu!" (our sfx). Bar 4 "¿Y su mamá?" → Mamá walks in from the right, stops BESIDE him (no contact) → big "¡TUUU!". Bar 6 "¡Así hace mamá!" → both trumpet together, trunks up and away from each other's faces. End text 47–51 s: "🎵 La canción completa con Tito → YouTube: Cantilandia TV" |
 | loop | the last bar's chord resolves into the intro → Tito cups his ear again |
 
@@ -52,6 +53,7 @@ The same intro + 8 pairs, in this order:
 7. becerrito
 8. chivito
 
+Order update (Roy 24.10: use the creatures Tito already met; they're better than generic animals): patito (basura), gatito (Halloween), ratoncito (Halloween), búhito (the owl at the window in "Tito no quiere dormir"; CC0 #21/#26), monito (the monkey from the broccoli picnic; CC0 #25; only after broccoli is published), then new farm friends: pollito, ovejita, perrito.
 Then the Tito & Mamá finale and an outro chorus "¡Bebé y mamá, todos a cantar!".
 - Pairs without a real baby recording: the baby = the adult CC0 clip pitched up +5…+7 semitones (CC0 allows edits).
 - Roy picks the final sound per animal from the listening pack.
