@@ -67,3 +67,8 @@
 | R3 | M2 s1 re-render, first = last = m2_s1_kf5 | Kling First & Last Frame 2.5 Turbo Pro, 5 s | 35 | tiktok_mama_weave/m2_s1_fl.mp4 |
 | R4 | M2 s3 re-render, first = last = m2_s3_kf3 | Kling First & Last Frame 2.5 Turbo Pro, 5 s | 35 | tiktok_mama_weave/m2_s3_fl.mp4 |
 **M1 + M2 total: 402.5 / 410**
+
+## Halloween TikTok "¡No me cabe… y BAILA!" (Roy 24.10: a cheap test first, ~20)
+| # | job | model | credits | result |
+|---|---|---|---|---|
+| D1 | dance test from dance_first_frame (m1_s2_fl @3.30) | MiniMax H3 Max i2v, 5 s, 480P, prompt expansion off | 20 | tiktok_baila/dance_test_minimax.mp4 |
