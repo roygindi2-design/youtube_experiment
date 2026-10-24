@@ -10,3 +10,9 @@
 | 7 | opening keyframe fix (remove the orange cap) | Nano Banana 2.1 | 3.5 | done: vshort_weave/open_walk_kf2.jpg (green stem only) |
 | 8 | opening walk clip (tracking backward) | Kling Video 2.5 Turbo Pro, 9:16, 5 s, first_frame open_walk_kf2 | 35 | done: vshort_weave/open_kling.mp4. A real tracking shot: the houses + lanterns pass, Tito walks toward the camera swinging his bucket |
 **Total spent: 154 / 230**
+
+## Brocoli fixes (Roy 24.10, from the 76 left of the same 230 cap)
+| # | job | model | credits | result |
+|---|---|---|---|---|
+| B1 | G1 wide keyframe (whole head in frame) | Nano Banana 2.1, 16:9, from kf_v1/pick_G1 | 3.5 | done: production/review/brocoli_weave/G1_wide_kf.jpg |
+**Total spent: 157.5 / 230**
