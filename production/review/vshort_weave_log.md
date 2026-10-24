@@ -116,4 +116,6 @@
 | C30 | F2 eye fix (Tito eyes open) | Nano Banana 2.1, 9:16, edit of F2_kf2 | 3.5 | como_hace_weave/F2_kf3.jpg |
 | C31 | H1 clip: eyes dart right | MiniMax H3 Max, 768P, 5 s, from H1_kf2 | 35 | como_hace_weave/H1_minimax.mp4 |
 | C32 | F1 clip: Tito toots | MiniMax H3 Max, 768P, 5 s, from F1_kf2 | 35 | como_hace_weave/F1_minimax.mp4 |
-| C33 | F2 clip, attempt 1 (started before F2_kf3 was pushed: source URL 404) | MiniMax H3 Max, 768P, 5 s | 35 | check result |
+| C33 | F2 clip attempt 1: FAILED (F2_kf3 URL not yet on GitHub); refunded (balance unchanged at the retry) | MiniMax H3 Max | 0 | - |
+| C34 | F2 clip (retry, Roy approved) | MiniMax H3 Max, 768P, 5 s, from F2_kf3 | 35 | como_hace_weave/F2_minimax.mp4 |
+**¿Cómo hace? total: 493.5 / 550**
