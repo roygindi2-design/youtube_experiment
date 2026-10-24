@@ -86,3 +86,5 @@
 |---|---|---|---|---|
 | C1 | mamá gata design ref (from the Halloween kitten, no hat, yellow flower) | Nano Banana 2.1, 9:16 | 3.5 | como_hace_weave/mama_gata_ref.jpg |
 | C2 | mamá ratona design ref (from ref_mouse_v, lilac apron) | Nano Banana 2.1, 9:16 | 3.5 | como_hace_weave/mama_ratona_ref.jpg |
+| C3 | H1 keyframe: Tito close-up listening (mint) | Nano Banana 2.1, 9:16, ref tito_master | 3.5 | como_hace_weave/H1_kf.jpg |
+| C4 | P1a keyframe: the duckling alone (sky blue) | Nano Banana 2.1, 9:16, ref tito_basura P2 | 3.5 | como_hace_weave/P1a_kf.jpg |
