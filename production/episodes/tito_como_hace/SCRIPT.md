@@ -102,3 +102,14 @@ ACE-Step prompt: "cheerful Latin-American kids pop, 110 bpm, marimba, ukulele, c
 - F2: Mamá walks in from the right, big trumpet, both bounce.
 - Extra keyframes: mamá gata + mamá ratona design refs (from the canon kitten/mouse, bigger, with an apron or flower cue).
 Estimate: 14 × 3.5 + 12 × 35 ≈ 469; with MiniMax clips ≈ 289. Retries come out of the 550 cap.
+
+## Design bible
+**Environment:** pastel studio stages of Tito's world: seamless solid-color backdrops with a soft floor curve and a round floor shadow, nothing else in frame. One color per animal family.
+**Palette:** mint (Tito's imitations, the hook), sky blue (ducks), peach (cats), butter yellow (mice), lilac (the Tito & Mamá finale). Soft warm key light, the same in every shot.
+**Costume:** Tito = canon sunny-yellow overalls with the red button. Mamá = lilac polka-dot dress, white apron, yellow flower. Mamá pata = a white apron bow. Mamá gata = a yellow flower behind her ear. Mamá ratona = a lilac apron. The baby mouse keeps its yellow T-shirt. The kitten has NO hat.
+**Supporting:** duckling + mamá pata (from "Tito y la basura"), kitten + mamá gata, mouse + mamá ratona (from the Halloween episode).
+**Background life:** none on purpose (the SKZ look). Only the soft floor shadow and a gentle light breathing.
+**Hero props:** none. The sounds are the props.
+
+## Habit beat
+Speech and imitation: the child answers in each pause and imitates each animal sound, and learns that every baby has a mamá who answers. **Hidden value:** listening and taking turns (call and response).
