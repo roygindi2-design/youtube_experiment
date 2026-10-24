@@ -44,3 +44,12 @@ Biggest 3D/AI-animated winners this month are NOT songs — they are **parent-re
 Other winning formats: **baby animals pop in one by one + their sound, color background, loop** (@satoonskidstv 7.9M ×327; @emilialearnsenglish 1.8M ×108); **3D baby dance loop** to an upbeat track (1.6M).
 Common: frame 0 = the character already in the funny/conflict moment, close-up; text in the parent's voice ("Cuando tu peque…", "Mi hijo cuando…"); 9–20 s; loop; music instantly.
 → For Tito: "parent-POV" TikToks from scenes we already have — e.g. bath refusal ("Cuando le dices a tu peque que es hora del baño 🛁😅"), broccoli refusal ("Mi hijo cuando ve verduras 🥦😂"), bedtime ("Hora de dormir… ¿y eso qué es? 🌙"). Test vs the guessing-game format.
+
+## TikTok data 25.10 01:46 (Roy's screenshots): Halloween TikToks at ~23 h / ~10 h
+| video | length | views | avg watch | % of length | watched full | likes | saves | followers |
+|---|---|---|---|---|---|---|---|---|
+| Halloween v1 (posted 24.10 02:48) | 27.8 s | 460 | 5.7 s | 20% | 4.62% | 5 | 1 | 0 |
+| TikTok2 "¿Quién es?" (posted 24.10 15:13) | 11.46 s | 520 | 8.3 s | 72% | **20.43%** | 7 | 0 | 1 |
+- Audience (v1): 25–34 42%, 35–44 22%, 18–24 21% → parents. Locations: Mexico 20.5, Guatemala 19.3, Nicaragua 10.3, Honduras 10.2, El Salvador 8.9, Venezuela 6.3 → exactly our LatAm target.
+- **Lesson (our own data, the only signal Roy trusts): viewers leave at ~6–8 s whatever the length. An 11 s video keeps 4.4× more full-watchers than a 28 s one (20.4% vs 4.6%) and gets more views in less time.** Keep TikToks ≤12 s, front-load the payoff.
+- Applied: como_hace (80 s) → split into short per-animal TikToks (~12–16 s each) instead of one long cut; the long version → YouTube.
