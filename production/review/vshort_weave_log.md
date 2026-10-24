@@ -43,3 +43,6 @@
 | A4 | M2 shot 1 keyframe: the kiss attempt, he leans away | Nano Banana 2.1, 9:16, same refs | 3.5 | tiktok_mama_weave/m2_s1_kf.jpg |
 | A5 | M2 shot 2 keyframe: Mamá's sad pout | Nano Banana 2.1, 9:16, refs mama_master + pick_O1 | 3.5 | tiktok_mama_weave/m2_s2_kf.jpg |
 | A6 | M2 shot 3 keyframe: hug + cheek kiss | Nano Banana 2.1, 9:16, same refs as A2 | 3.5 | tiktok_mama_weave/m2_s3_kf.jpg |
+| A7 | M1 s1 redo: ONE pumpkin over his head, same hallway as s2 | Nano Banana 2.1, 9:16, from m1_s2_kf | 3.5 | tiktok_mama_weave/m1_s1_kf2.jpg |
+| A8 | M2 s1 redo: kiss attempt, gap, Tito eyes open + bucket | Nano Banana 2.1, 9:16, refs m2_s2_kf + m1_s2_kf | 3.5 | tiktok_mama_weave/m2_s1_kf2.jpg |
+| A9 | M2 s3 fix: bucket on Tito's wrist | Nano Banana 2.1, 9:16, from m2_s3_kf | 3.5 | tiktok_mama_weave/m2_s3_kf2.jpg |
