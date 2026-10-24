@@ -310,3 +310,4 @@ Data: research/market/halloween_titles_2026-10-22.json
 - Delivered overnight: Halloween v10b published (Eo_PHQrLDs0); Halloween TikTok (burned-in text) + vertical with Roy; brocoli v3b (Kling forest + rocket, §12 full pass) delivered, waiting for Roy's upload OK. Weave 227.5/230 used.
 - Process changes (Roy): no Shorts — one TikTok per episode; QC §12 full-pass protocol; hashtag A/B rotation on TikTok.
 - tito_frio_calor v3: the "mixed-up door" punchline (all weathers at once → clothes tower → rainbow party with the friends); stays in the plan, not in production.
+- 04:05: waiting for Roy (brocoli v3b upload OK; next-episode pick). No production actions.
