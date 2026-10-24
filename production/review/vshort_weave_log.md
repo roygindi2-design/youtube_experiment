@@ -26,3 +26,7 @@
 | T2 | KITTEN keyframe (purple door open) | Nano Banana 2.1, 9:16, refs pick_V1 + pick_D2_v9 + tito_pumpkin_master | 3.5 | tiktok2_weave/kitten_kf.jpg |
 | T3 | BAT keyframe (orange door open) | Nano Banana 2.1, 9:16, ref pick_V2v5 | 3.5 | tiktok2_weave/bat_kf.jpg |
 | T4 | LOOP END keyframe (green door, looks back "?") | Nano Banana 2.1, 9:16, from open_walk_kf2 + tito_pumpkin_master | 3.5 | tiktok2_weave/loop_kf.jpg |
+| T5 | KNOCK fix (no orange cap, trunk down) | Nano Banana 2.1, 9:16, from knock_kf | 3.5 | tiktok2_weave/knock_kf2.jpg |
+| T6 | LOOP fix (head to the camera, "?" face, trunk down) | Nano Banana 2.1, 9:16, from loop_kf | 3.5 | tiktok2_weave/loop_kf2.jpg |
+| T7 | KITTEN clip | Kling Video 2.5 Turbo Pro, 9:16, 5 s, first_frame kitten_kf (researcher PASS) | 35 | tiktok2_weave/kitten_kling.mp4 |
+| T8 | BAT clip | Kling Video 2.5 Turbo Pro, 9:16, 5 s, first_frame bat_kf (researcher PASS) | 35 | tiktok2_weave/bat_kling.mp4 |
