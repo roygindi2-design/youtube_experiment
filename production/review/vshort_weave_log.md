@@ -96,3 +96,7 @@
 | C10 | T1 keyframe: Tito imitates the duck (mint) | Nano Banana 2.1, 9:16, edit of H1_kf2 | 3.5 | como_hace_weave/T1_kf.jpg |
 | C11 | P2a keyframe: the kitten alone, no hat (peach) | Nano Banana 2.1, 9:16, ref kitten_kf | 3.5 | como_hace_weave/P2a_kf.jpg |
 | C12 | P2b keyframe: kitten + mamá gata (peach) | Nano Banana 2.1, 9:16, refs kitten_kf + mama_gata_ref | 3.5 | como_hace_weave/P2b_kf.jpg |
+| C13 | T1 redo: normal arms flapping, no feathers | Nano Banana 2.1, 9:16, edit of H1_kf2 + tito_master | 3.5 | como_hace_weave/T1_kf2.jpg |
+| C14 | P1b clip: mamá pata turns + quacks, bounce | MiniMax H3 Max, 768P, 5 s | 35 | como_hace_weave/P1b_minimax.mp4 |
+| C15 | P2a clip: kitten meows | MiniMax H3 Max, 768P, 5 s | 35 | como_hace_weave/P2a_minimax.mp4 |
+| C16 | P2b clip: mamá gata turns + meows, bounce | MiniMax H3 Max, 768P, 5 s | 35 | como_hace_weave/P2b_minimax.mp4 |
