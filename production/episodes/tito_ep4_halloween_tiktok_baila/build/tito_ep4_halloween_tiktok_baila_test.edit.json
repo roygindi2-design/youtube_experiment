@@ -1,0 +1,43 @@
+{
+ "out": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween_tiktok_baila/build/tito_ep4_halloween_tiktok_baila_test.mp4",
+ "fps": 30,
+ "size": [
+  1080,
+  1920
+ ],
+ "burn_captions": false,
+ "song": {
+  "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween_tiktok_baila/build/vsrc/audio.wav",
+  "start": 0.0,
+  "gain_db": 0,
+  "fade_out": 0.0
+ },
+ "shots": [
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween_tiktok_baila/build/vsrc/b_STUCK_s0.mp4",
+   "in": 0.05,
+   "dur": 3.273,
+   "speed": 0.999,
+   "src_len": 3.27,
+   "shot": "STUCK@0"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween_tiktok_baila/build/vsrc/b_POP_s0.mp4",
+   "in": 0.05,
+   "dur": 3.273,
+   "speed": 0.999,
+   "src_len": 3.27,
+   "shot": "POP@0"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween_tiktok_baila/build/vsrc/b_DANCE_s0.mp4",
+   "in": 0.05,
+   "dur": 4.909,
+   "speed": 1.0,
+   "src_len": 4.909,
+   "shot": "DANCE@0"
+  }
+ ],
+ "sfx": [],
+ "lines": []
+}

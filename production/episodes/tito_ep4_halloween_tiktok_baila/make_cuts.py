@@ -14,8 +14,9 @@ H = D.parent / "tito_ep4_halloween"
 WM = D.parents[1] / "review" / "tiktok_mama_weave"
 WB = D.parents[1] / "review" / "tiktok_baila"
 B, BEAT0 = 60 / 110, 0.14
-DANCE = WB / "dance_kling.mp4"
-DANCE_BEATS = 18  # 9.82 s of the 10 s clip; ends mid back-wiggle -> loop
+import os
+DANCE = WB / os.environ.get("DANCE", "dance_kling.mp4")
+DANCE_BEATS = int(os.environ.get("DANCE_BEATS", 18))  # 18 = 9.82 s of a 10 s clip; ends mid back-wiggle -> loop
 W = {"STUCK@0": (0.05, 3.32), "POP@0": (0.05, 3.32), "DANCE@0": (0.05, 0.05 + DANCE_BEATS * B)}
 plan = [("STUCK@0", 6), ("POP@0", 6)] + ([("DANCE@0", DANCE_BEATS)] if DANCE.exists() else [])
 cuts, t = [], 0.0
@@ -46,7 +47,7 @@ parts = (f"[0]atrim={a0:.4f}:{a1 + 0.02:.4f},asetpts=PTS-STARTPTS[a];"
          + f"aformat=channel_layouts=stereo,adelay={int(pop_at * 1000)}|{int(pop_at * 1000)}[p];"
          + "[m]aformat=sample_rates=44100:channel_layouts=stereo[m2];[m2][p]amix=inputs=2:duration=first:normalize=0[o]")
 subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", str(H / "assets" / "song.wav"), "-filter_complex", parts, "-map", "[o]", str(wav)], check=True)
-out = {"out": str(D / "build" / "tito_ep4_halloween_tiktok_baila.mp4"), "song": str(wav), "song_start": 0.0, "fade_out": 0.0 if DANCE.exists() else 0.15,
+out = {"out": str(D / "build" / os.environ.get("OUT", "tito_ep4_halloween_tiktok_baila.mp4")), "song": str(wav), "song_start": 0.0, "fade_out": 0.0 if DANCE.exists() else 0.15,
        "size": [1080, 1920], "clips": str(src / "b_"), "cuts": cuts}
 (D / "cuts.json").write_text(json.dumps(out, indent=1))
 print(len(cuts), "cuts, end", t, "(draft, no dance clip yet)" if not DANCE.exists() else "")

@@ -1,8 +1,8 @@
 {
- "out": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween_tiktok_baila/build/tito_ep4_halloween_tiktok_baila.mp4",
+ "out": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween_tiktok_baila/build/tito_ep4_halloween_tiktok_baila_test.mp4",
  "song": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween_tiktok_baila/build/vsrc/audio.wav",
  "song_start": 0.0,
- "fade_out": 0.15,
+ "fade_out": 0.0,
  "size": [
   1080,
   1920
@@ -25,6 +25,15 @@
    {
     "in": 0.05,
     "until": 3.32
+   }
+  ],
+  [
+   6.546,
+   11.455,
+   "DANCE@0",
+   {
+    "in": 0.05,
+    "until": 4.959
    }
   ]
  ]
