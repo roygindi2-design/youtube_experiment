@@ -106,3 +106,10 @@
 | C20 | T3 keyframe: Tito mouse paws (mint) | Nano Banana 2.1, 9:16, edit of T1_kf2 | 3.5 | como_hace_weave/T3_kf.jpg |
 | C21 | F1 keyframe: Tito trunk up (lilac) | Nano Banana 2.1, 9:16, ref tito_master | 3.5 | como_hace_weave/F1_kf.jpg |
 | C22 | F2 keyframe: Tito + Mamá trunks up, apart (lilac) | Nano Banana 2.1, 9:16, refs tito_master + mama_master | 3.5 | como_hace_weave/F2_kf.jpg |
+| C23 | T3 redo: whiskers with index fingers | Nano Banana 2.1, 9:16, edit of T1_kf2 | 3.5 | como_hace_weave/T3_kf2.jpg |
+| C24 | F1 redo: trunk forward/up, off the face | Nano Banana 2.1, 9:16, edit of F1_kf | 3.5 | como_hace_weave/F1_kf2.jpg |
+| C25 | F2 redo: Tito's trunk forward/up | Nano Banana 2.1, 9:16, edit of F2_kf | 3.5 | como_hace_weave/F2_kf2.jpg |
+| C26 | T1 clip: Tito duck flaps | MiniMax H3 Max, 768P, 5 s | 35 | como_hace_weave/T1_minimax.mp4 |
+| C27 | P3a clip: little mouse squeaks | MiniMax H3 Max, 768P, 5 s | 35 | como_hace_weave/P3a_minimax.mp4 |
+| C28 | P3b clip: mamá ratona turns + squeaks | MiniMax H3 Max, 768P, 5 s | 35 | como_hace_weave/P3b_minimax.mp4 |
+| C29 | T2 clip: Tito kitten paws | MiniMax H3 Max, 768P, 5 s | 35 | como_hace_weave/T2_minimax.mp4 |
