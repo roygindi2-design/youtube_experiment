@@ -77,3 +77,4 @@
 | # | job | model | credits | result |
 |---|---|---|---|---|
 | E1 | bedroom morning keyframe, Tito full body arms up | Nano Banana 2.1, 9:16, refs loc_ep3_cuarto + tito_master | 3.5 | tiktok_beok/beok_kf.jpg |
+| E2 | Be OK keyframe fix: eyes open, Tito bigger/higher (researcher framing) | Nano Banana 2.1, 9:16, edit of beok_kf | 3.5 | tiktok_beok/beok_kf2.jpg |
