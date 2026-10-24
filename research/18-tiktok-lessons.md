@@ -34,3 +34,13 @@ Query: 3D kids song / cute animal / habits, audience = LatAm parents 25-34, capt
 - The bedtime one starts DARK (night blue, small character) → the lowest avg watch (3.3 s). Rule: frame 0 must be bright, colorful, the character big and already moving, a question on screen.
 - Audience = parents 25–34 in LatAm (Central America + Mexico/Venezuela); a shorter Spanish video widened it to Mexico/Venezuela.
 - Next tests (one change at a time): hook question for parents + interactive guessing ("¡Adivina con tu peque!"), 12–15 s loop, hashtag set A vs B.
+
+## vidIQ TikTok/IG scan 24.10 (10 credits) — 3D/AI kids & parenting, LatAm parents
+Biggest 3D/AI-animated winners this month are NOT songs — they are **parent-relatable mini-skits** with a parent-voice text overlay:
+- @evacf_13 (ES) AI-animated baby wakes mom at 7 am, text "Mi hijo, cuando le daba hambre a las 7:00…" — 1.7M (×27), 34 s.
+- @fruturamaa (ES) "La bebita que ayuda a mamá a barrer" 3D skit — 624K (×7.8).
+- @littleluna_ai 3D toddler-chaos skits (hair, toenails) — 33.4M (×712); @chikkutoons AI toddler runs from the towel — 31.7M (×20); @ailemasali toddler rejects mom's kiss for dad's — 36.5M (×28).
+- @tarjeticascreativas (ES) AI baby says goodnight + blessing — 1.4M.
+Other winning formats: **baby animals pop in one by one + their sound, color background, loop** (@satoonskidstv 7.9M ×327; @emilialearnsenglish 1.8M ×108); **3D baby dance loop** to an upbeat track (1.6M).
+Common: frame 0 = the character already in the funny/conflict moment, close-up; text in the parent's voice ("Cuando tu peque…", "Mi hijo cuando…"); 9–20 s; loop; music instantly.
+→ For Tito: "parent-POV" TikToks from scenes we already have — e.g. bath refusal ("Cuando le dices a tu peque que es hora del baño 🛁😅"), broccoli refusal ("Mi hijo cuando ve verduras 🥦😂"), bedtime ("Hora de dormir… ¿y eso qué es? 🌙"). Test vs the guessing-game format.
