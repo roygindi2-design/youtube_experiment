@@ -80,3 +80,9 @@
 | E2 | Be OK keyframe fix: eyes open, Tito bigger/higher (researcher framing) | Nano Banana 2.1, 9:16, edit of beok_kf | 3.5 | tiktok_beok/beok_kf2.jpg |
 | E3 | Be OK dance: motion transfer, image beok_kf2_crop13 (researcher PASS), video Pexels 6940483 | Kling Motion Control V3.0 Pro, orientation video, no sound | 164 | tiktok_beok/beok_motion.mp4 |
 **Be OK dance total: 191 / 250**
+
+## "¿Cómo hace?" TikTok cut (Roy 24.10: Weave cap 550 + RunPod; each run approved in the producer chat)
+| # | job | model | credits | result |
+|---|---|---|---|---|
+| C1 | mamá gata design ref (from the Halloween kitten, no hat, yellow flower) | Nano Banana 2.1, 9:16 | 3.5 | como_hace_weave/mama_gata_ref.jpg |
+| C2 | mamá ratona design ref (from ref_mouse_v, lilac apron) | Nano Banana 2.1, 9:16 | 3.5 | como_hace_weave/mama_ratona_ref.jpg |
