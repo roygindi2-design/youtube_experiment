@@ -1,0 +1,164 @@
+{
+ "stages": [
+  {
+   "stage": "gpu",
+   "t": 0,
+   "gpus": [
+    "NVIDIA GeForce RTX 4090, 24564 MiB"
+   ]
+  },
+  {
+   "stage": "installed",
+   "t": 173,
+   "torch": "2.8.0.dev20250319+cu128"
+  },
+  {
+   "stage": "wangp_session",
+   "t": 64
+  },
+  {
+   "stage": "wangp_done",
+   "t": 690
+  },
+  {
+   "stage": "finished",
+   "t": 867,
+   "ok": 6,
+   "total": 6
+  }
+ ],
+ "tasks": [
+  {
+   "id": "tito_como_hace_song_b1",
+   "settings": {
+    "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+    "prompt": "[Intro]\n¿Quién será? ¡Escucha!\n[Verse 1 - patito]\nPatito chiquitito, ¿cómo haces tú?\n¡Cuac, cuac, cuac! ¡Muy bien, patito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n¡CUAC, CUAC! ¡Así hace mamá pata!\n[Verse 2 - gatito]\nGatito chiquitito, ¿cómo haces tú?\n¡Miau, miau, miau! ¡Muy bien, gatito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n¡MIAU, MIAU! ¡Así hace mamá gata!\n[Verse 3 - ratoncito]\nRatoncito chiquitito, ¿cómo haces tú?\n¡Iii, iii, iii! ¡Muy bien, ratoncito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n¡IIII, IIII! ¡Así hace mamá ratona!\n[Verse 4 - elefantito]\nElefantito chiquitito, ¿cómo haces tú?\n¡Tu, tu, tu! ¡Muy bien, Ti-to!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n¡TUUU, TUUU! ¡Así hace mamá!\n[Outro]\n¡Bebé y mamá! ¡A cantar!",
+    "alt_prompt": "cheerful Latin-American kids pop, 110 bpm, marimba, ukulele, soft hand claps, light kick drum, warm female kid-show singer, kids' chorus on the answers, clear Mexican Spanish, call-and-response, simple sing-along melody, bright, happy, very clear lyrics, every animal name sung clearly, starts singing right away",
+    "duration_seconds": 75,
+    "seed": 101,
+    "num_inference_steps": 8,
+    "custom_settings": {
+     "bpm": 110,
+     "language": "es",
+     "keyscale": "C major",
+     "timesignature": 4
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/tito_como_hace_song_b1.wav"
+   ],
+   "seconds": 191.9
+  },
+  {
+   "id": "tito_como_hace_song_b2",
+   "settings": {
+    "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+    "prompt": "[Intro]\n¿Quién será? ¡Escucha!\n[Verse 1 - patito]\nPatito chiquitito, ¿cómo haces tú?\n¡Cuac, cuac, cuac! ¡Muy bien, patito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n¡CUAC, CUAC! ¡Así hace mamá pata!\n[Verse 2 - gatito]\nGatito chiquitito, ¿cómo haces tú?\n¡Miau, miau, miau! ¡Muy bien, gatito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n¡MIAU, MIAU! ¡Así hace mamá gata!\n[Verse 3 - ratoncito]\nRatoncito chiquitito, ¿cómo haces tú?\n¡Iii, iii, iii! ¡Muy bien, ratoncito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n¡IIII, IIII! ¡Así hace mamá ratona!\n[Verse 4 - elefantito]\nElefantito chiquitito, ¿cómo haces tú?\n¡Tu, tu, tu! ¡Muy bien, Ti-to!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n¡TUUU, TUUU! ¡Así hace mamá!\n[Outro]\n¡Bebé y mamá! ¡A cantar!",
+    "alt_prompt": "cheerful Latin-American kids pop, 110 bpm, marimba, ukulele, soft hand claps, light kick drum, warm female kid-show singer, kids' chorus on the answers, clear Mexican Spanish, call-and-response, simple sing-along melody, bright, happy, very clear lyrics, every animal name sung clearly, starts singing right away",
+    "duration_seconds": 75,
+    "seed": 102,
+    "num_inference_steps": 8,
+    "custom_settings": {
+     "bpm": 110,
+     "language": "es",
+     "keyscale": "C major",
+     "timesignature": 4
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/tito_como_hace_song_b2.wav"
+   ],
+   "seconds": 87.8
+  },
+  {
+   "id": "tito_como_hace_song_b3",
+   "settings": {
+    "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+    "prompt": "[Intro]\n¿Quién será? ¡Escucha!\n[Verse 1 - patito]\nPatito chiquitito, ¿cómo haces tú?\n¡Cuac, cuac, cuac! ¡Muy bien, patito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n¡CUAC, CUAC! ¡Así hace mamá pata!\n[Verse 2 - gatito]\nGatito chiquitito, ¿cómo haces tú?\n¡Miau, miau, miau! ¡Muy bien, gatito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n¡MIAU, MIAU! ¡Así hace mamá gata!\n[Verse 3 - ratoncito]\nRatoncito chiquitito, ¿cómo haces tú?\n¡Iii, iii, iii! ¡Muy bien, ratoncito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n¡IIII, IIII! ¡Así hace mamá ratona!\n[Verse 4 - elefantito]\nElefantito chiquitito, ¿cómo haces tú?\n¡Tu, tu, tu! ¡Muy bien, Ti-to!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n¡TUUU, TUUU! ¡Así hace mamá!\n[Outro]\n¡Bebé y mamá! ¡A cantar!",
+    "alt_prompt": "cheerful Latin-American kids pop, 110 bpm, marimba, ukulele, soft hand claps, light kick drum, warm female kid-show singer, kids' chorus on the answers, clear Mexican Spanish, call-and-response, simple sing-along melody, bright, happy, very clear lyrics, every animal name sung clearly, starts singing right away",
+    "duration_seconds": 75,
+    "seed": 103,
+    "num_inference_steps": 8,
+    "custom_settings": {
+     "bpm": 110,
+     "language": "es",
+     "keyscale": "C major",
+     "timesignature": 4
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/tito_como_hace_song_b3.wav"
+   ],
+   "seconds": 86.7
+  },
+  {
+   "id": "tito_como_hace_song_b4",
+   "settings": {
+    "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+    "prompt": "[Intro]\n¿Quién será? ¡Escucha!\n[Verse 1 - patito]\nPatito chiquitito, ¿cómo haces tú?\n¡Cuac, cuac, cuac! ¡Muy bien, patito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n¡CUAC, CUAC! ¡Así hace mamá pata!\n[Verse 2 - gatito]\nGatito chiquitito, ¿cómo haces tú?\n¡Miau, miau, miau! ¡Muy bien, gatito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n¡MIAU, MIAU! ¡Así hace mamá gata!\n[Verse 3 - ratoncito]\nRatoncito chiquitito, ¿cómo haces tú?\n¡Iii, iii, iii! ¡Muy bien, ratoncito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n¡IIII, IIII! ¡Así hace mamá ratona!\n[Verse 4 - elefantito]\nElefantito chiquitito, ¿cómo haces tú?\n¡Tu, tu, tu! ¡Muy bien, Ti-to!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n¡TUUU, TUUU! ¡Así hace mamá!\n[Outro]\n¡Bebé y mamá! ¡A cantar!",
+    "alt_prompt": "cheerful Latin-American kids pop, 110 bpm, marimba, ukulele, soft hand claps, light kick drum, warm female kid-show singer, kids' chorus on the answers, clear Mexican Spanish, call-and-response, simple sing-along melody, bright, happy, very clear lyrics, every animal name sung clearly, starts singing right away",
+    "duration_seconds": 75,
+    "seed": 104,
+    "num_inference_steps": 8,
+    "custom_settings": {
+     "bpm": 110,
+     "language": "es",
+     "keyscale": "C major",
+     "timesignature": 4
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/tito_como_hace_song_b4.wav"
+   ],
+   "seconds": 86.0
+  },
+  {
+   "id": "tito_como_hace_song_b5",
+   "settings": {
+    "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+    "prompt": "[Intro]\n¿Quién será? ¡Escucha!\n[Verse 1 - patito]\nPatito chiquitito, ¿cómo haces tú?\n¡Cuac, cuac, cuac! ¡Muy bien, patito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n¡CUAC, CUAC! ¡Así hace mamá pata!\n[Verse 2 - gatito]\nGatito chiquitito, ¿cómo haces tú?\n¡Miau, miau, miau! ¡Muy bien, gatito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n¡MIAU, MIAU! ¡Así hace mamá gata!\n[Verse 3 - ratoncito]\nRatoncito chiquitito, ¿cómo haces tú?\n¡Iii, iii, iii! ¡Muy bien, ratoncito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n¡IIII, IIII! ¡Así hace mamá ratona!\n[Verse 4 - elefantito]\nElefantito chiquitito, ¿cómo haces tú?\n¡Tu, tu, tu! ¡Muy bien, Ti-to!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n¡TUUU, TUUU! ¡Así hace mamá!\n[Outro]\n¡Bebé y mamá! ¡A cantar!",
+    "alt_prompt": "cheerful Latin-American kids pop, 110 bpm, marimba, ukulele, soft hand claps, light kick drum, warm female kid-show singer, kids' chorus on the answers, clear Mexican Spanish, call-and-response, simple sing-along melody, bright, happy, very clear lyrics, every animal name sung clearly, starts singing right away",
+    "duration_seconds": 75,
+    "seed": 105,
+    "num_inference_steps": 8,
+    "custom_settings": {
+     "bpm": 110,
+     "language": "es",
+     "keyscale": "C major",
+     "timesignature": 4
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/tito_como_hace_song_b5.wav"
+   ],
+   "seconds": 87.6
+  },
+  {
+   "id": "tito_como_hace_song_b6",
+   "settings": {
+    "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+    "prompt": "[Intro]\n¿Quién será? ¡Escucha!\n[Verse 1 - patito]\nPatito chiquitito, ¿cómo haces tú?\n¡Cuac, cuac, cuac! ¡Muy bien, patito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n¡CUAC, CUAC! ¡Así hace mamá pata!\n[Verse 2 - gatito]\nGatito chiquitito, ¿cómo haces tú?\n¡Miau, miau, miau! ¡Muy bien, gatito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n¡MIAU, MIAU! ¡Así hace mamá gata!\n[Verse 3 - ratoncito]\nRatoncito chiquitito, ¿cómo haces tú?\n¡Iii, iii, iii! ¡Muy bien, ratoncito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n¡IIII, IIII! ¡Así hace mamá ratona!\n[Verse 4 - elefantito]\nElefantito chiquitito, ¿cómo haces tú?\n¡Tu, tu, tu! ¡Muy bien, Ti-to!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n¡TUUU, TUUU! ¡Así hace mamá!\n[Outro]\n¡Bebé y mamá! ¡A cantar!",
+    "alt_prompt": "cheerful Latin-American kids pop, 110 bpm, marimba, ukulele, soft hand claps, light kick drum, warm female kid-show singer, kids' chorus on the answers, clear Mexican Spanish, call-and-response, simple sing-along melody, bright, happy, very clear lyrics, every animal name sung clearly, starts singing right away",
+    "duration_seconds": 75,
+    "seed": 106,
+    "num_inference_steps": 8,
+    "custom_settings": {
+     "bpm": 110,
+     "language": "es",
+     "keyscale": "C major",
+     "timesignature": 4
+    }
+   },
+   "status": "ok",
+   "files": [
+    "out/tito_como_hace_song_b6.wav"
+   ],
+   "seconds": 86.5
+  }
+ ]
+}
