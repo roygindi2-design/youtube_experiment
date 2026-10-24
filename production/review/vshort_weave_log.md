@@ -51,3 +51,5 @@
 | A11 | M1 s2 v2: Mamá pulls it down, arms pop out | Nano Banana 2.1, 9:16, edit of m1_s2_kf | 3.5 | tiktok_mama_weave/m1_s2_kf2.jpg |
 | A12 | M2 s1 v3: Mamá kisses the air, Tito runs to the street looking back | Nano Banana 2.1, 9:16, refs m2_s2_kf + m1_s2_kf | 3.5 | tiktok_mama_weave/m2_s1_kf3.jpg |
 | A13 | M2 s3 v3: plain hug, chin on shoulder, trunks down, bucket on the step | Nano Banana 2.1, 9:16, refs m2_s2_kf + m1_s2_kf | 3.5 | tiktok_mama_weave/m2_s3_kf3.jpg |
+| — | Roy (round 3): all OK incl. the hug m2_s3_kf3 (overrides the researcher's FAIL); only the dodge must be a cute playful "mom, stop!" wriggle, not running away | — | 0 | |
+| A14 | M2 s1 v4: playful dodge right next to Mamá, hands up, eyes open | Nano Banana 2.1, 9:16, refs m2_s2_kf + m1_s2_kf2 | 3.5 | tiktok_mama_weave/m2_s1_kf4.jpg |
