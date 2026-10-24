@@ -100,3 +100,8 @@ Misses this week that Roy caught: the candy POUR (unnatural), an eye-roll (Tito 
 - A costume gag must keep the FACE and BOTH EARS visible. A head hidden inside a costume / a missing ear = FAIL, even if the gag "reads".
 - An action that must be read from a single still frame (a dodge) needs the RESULT visible: distance plus empty air. A pose alone isn't enough.
 - "Borderline" = FAIL. Don't pass borderline frames to Roy.
+
+### Lessons 24.10 (como_hace)
+- i2v prompts that compare to an animal ("flap like wings", "paws like a cat") make the model ADD the animal part (feathers, paw pads) = a body change → FAIL. Describe the human gesture only ("elbows bent, hands flapping at his sides").
+- Mouth-sync animal shots: MiniMax H3 > Kling 2.5 Turbo (clean openings, fewer eye closures).
+- Pair shots: start with the mamá already in place beside the baby (turn + sound) instead of a walk-in.
