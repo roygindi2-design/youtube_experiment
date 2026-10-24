@@ -1,7 +1,15 @@
 {
  "_doc": "TikTok packages the researcher sends Roy (2 per day, ~15:00 and ~21:00 Israel). Only videos that passed the researcher's review (glitch_scan + frame sheet). Roy uploads manually.",
  "uploaded_by_roy": [
-  "tito_basura"
+  "tito_basura",
+  {
+   "id": "tito_ep4_halloween_tiktok",
+   "file": "production/deliver/tito_ep4_halloween_tiktok.mp4",
+   "posted": "2026-10-24 (Roy)",
+   "text": "¿Qué hará Tito?",
+   "hashtags": "set A (broad English)",
+   "measure_after_24h": "views, avg watch, completion, likes/saves/shares, followers, audience"
+  }
  ],
  "sent": [
   {
