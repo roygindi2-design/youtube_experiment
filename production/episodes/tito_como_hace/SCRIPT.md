@@ -1,6 +1,7 @@
 # "¿Cómo hace? — Bebé y Mamá, con Tito" (24.10, Roy) — TikTok breakout test + YouTube full song
 Why (research/22): SKZ went from 2K → 653K → 1.5M once it found "baby animal → small REAL sound → mamá → big REAL sound": a job for the parent (the kid learns and imitates), a predictable call→response rhythm, pastel solid backgrounds, a cute character big at frame 0, sound ≤1 s, a clean loop.
 Roy's twist: it's a SONG that ASKS the child, the real sounds are part of the song, and **Tito is the host**, so TikTok viewers meet Tito and follow him to YouTube.
+Sounds: Roy approved both CC0 packs (24.10, "the sound file sounds great").
 Rights: original melody + lyrics (NOT Old MacDonald / La Granja de Zenón). Animal audio = CC0 only (production/sfx/animals/LICENSES.md). Elephant toots = our own ACE-Step sfx.
 
 ## Funnel
