@@ -60,5 +60,15 @@
    "age_25_34": 43,
    "top_geo": "Mexico 16, Venezuela 13, Nicaragua 11, El Salvador 9, Guatemala 8, Israel 8"
   }
+ ],
+ "ready": [
+  {
+   "id": "tito_ep4_halloween_tiktok2",
+   "file": "production/deliver/tito_ep4_halloween_tiktok2.mp4",
+   "len_s": 11.45,
+   "hook": "bright knock + '¿Quién es? 👀' at 0 s",
+   "test": "hashtag set B (Spanish niche) vs the first Halloween TikTok on set A",
+   "qc": "§12 PASS 24.10"
+  }
  ]
 }
