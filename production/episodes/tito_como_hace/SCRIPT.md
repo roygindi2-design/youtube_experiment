@@ -73,3 +73,32 @@ Then the Tito & Mamá finale and an outro chorus "¡Bebé y mamá, todos a canta
   - Fallback: duck the music −8 dB under the real sound for 1.2 s.
   - Real sounds mixed so they're clearly the star: −3 dB under the vocal peak, loudness-matched (pack already normalized).
 - **QC:** the §12 full pass at 8 fps per character. The sound must hit when the mouth/beak opens (±80 ms).
+
+## ✅ Roy approved the budget (24.10 ~18:20): Weave cap **550** for the TikTok cut; song on RunPod (ACE-Step)
+Order: (1) song first → (2) MiniMax H3 test (1 clip, ~20) vs Kling 2.5 Turbo (35) on the SAME keyframe; the cheaper one only if it passes §12 → (3) keyframes → (4) clips. Every keyframe and clip goes to the researcher for QC before the next step.
+
+### Final lyrics: TikTok cut, 110 bpm, 4/4, 26 bars ≈ 56.7 s (1 bar = 2.18 s)
+| bars | lyric (sung) | audio insert | picture |
+|---|---|---|---|
+| 1 | "¿Quién será? ¡Escucha!" | REAL tiny "cuac" at 0.3 s (CC0 #8, pitched up +6) | HOOK: Tito close-up on mint, trunk cupped to his ear, eyes wide; at the sound, his eyes dart right |
+| 2 | "Patito chiquitito, ¿cómo haces tú?" | — | the duckling (canon, "Tito y la basura"), big, centered, on pastel sky-blue |
+| 3 | *[instrumental]* | REAL baby "cuac" on beat 3 | the duckling opens its beak |
+| 4 | "¡Cuac, cuac, cuac! ¡Muy bien, patito!" (kids' chorus) | — | Tito imitates: his trunk up like a beak, giggling, eyes open |
+| 5 | "¿Y su mamá? ¿Cómo hace? ¡A ver!" | — | the duckling looks right; mamá pata (canon big duck) walks in from the RIGHT and stops |
+| 6 | *[instrumental]* | REAL adult "CUAC" on beat 3 (CC0 #8/#9) | mamá quacks; the duckling looks up at her |
+| 7 | "¡Cuac, cuac! ¡Así hace mamá!" | — | both side by side, a small bounce |
+| 8–13 | the same 6 bars: "Gatito chiquitito…" / "¡Miau, miau, miau! ¡Muy bien, gatito!" / "¡Miau, miau! ¡Así hace mamá!" | CC0 #19 (small), #18 | the kitten from the Halloween episode (NO witch hat) + a new mamá gata, on peach |
+| 14–19 | "Ratoncito chiquitito…" / "¡Iii, iii, iii! ¡Muy bien, ratoncito!" / "¡Iii, iii! ¡Así hace mamá!" | CC0 #23/#24 | the grey mouse in the yellow shirt (Halloween) + a new mamá ratona, on butter yellow |
+| 20–25 | "Elefantito chiquitito, ¿cómo haces tú?" / "¡Tu, tu, tu! ¡Muy bien, Tito!" / "¿Y su mamá? ¿Cómo hace? ¡A ver!" / "¡Tuuu! ¡Así hace mamá!" | OUR ACE-Step toots: small (Tito) / big (Mamá) | Tito on lilac, toots with his trunk up; Mamá walks in from the right, stops beside him (no contact), BIG trumpet; both trunks up and away from faces |
+| 26 | "¡Bebé y mamá! ¡A cantar!" | — | Tito and Mamá bounce together → loop to the hook. End text 52–56 s: "🎵 La canción completa con Tito → YouTube: Cantilandia TV" |
+ACE-Step prompt: "cheerful Latin-American kids pop, 110 bpm, marimba, ukulele, claps, warm female kid-show singer, kids' chorus on the answers, clear Mexican Spanish, call-and-response with [instrumental] one-bar breaks". Generate 6 takes. Pick the take whose bars 3/6/9… (the breaks) are quietest (an energy-gap check). Fallback: −8 dB duck under each real sound for 1.2 s.
+
+### Shot list: 12 clips (5 s) + 14 keyframes
+- H1: Tito hook (mint).
+- P1a / P2a / P3a: baby alone, sound.
+- T1 / T2 / T3: Tito imitating (duck beak / cat paws / mouse whiskers), mint.
+- P1b / P2b / P3b: mamá walks in from the RIGHT, stops beside the baby, sound + bounce.
+- F1: Tito toot (lilac).
+- F2: Mamá walks in from the right, big trumpet, both bounce.
+- Extra keyframes: mamá gata + mamá ratona design refs (from the canon kitten/mouse, bigger, with an apron or flower cue).
+Estimate: 14 × 3.5 + 12 × 35 ≈ 469; with MiniMax clips ≈ 289. Retries come out of the 550 cap.
