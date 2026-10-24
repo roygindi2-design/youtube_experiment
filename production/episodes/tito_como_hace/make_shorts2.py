@@ -33,17 +33,17 @@ S = {
     "gatito": dict(start=out_t(20.9), end=None, text="¿Cómo hace el gatito? 🐱",
         plan=[["H1", 0.25, 1.40], ["H1", 1.70, 5.00],
               ("P2a", 0.05, 2.95, 2.82, ev["gatito"]["baby_sound_out_t"], 1.0),
-              ["P2a", 3.95, 5.18], ["H1", 2.00, 5.00], ["P2a", 0.05, 2.50],
+              ["P2a", 3.95, 5.18], ["B1", 0.30, 5.00], ["H1", 2.00, 5.00], ["P2a", 0.05, 2.50],
               ("P2b", 0.00, 3.30, 0.20, ev["gatito"]["mama_sound_out_t"], 1.0)]),
     "ratoncito": dict(start=out_t(38.7), end=None, text="¿Cómo hace el ratoncito? 🐭",
         plan=[["H1", 0.25, 1.40], ["H1", 1.70, 5.00],
               ("P3a", 1.30, 2.45, 1.35, ev["ratoncito"]["baby_sound_out_t"], 1.0),
-              ["P3a", 2.65, 5.18], ["H1", 2.00, 5.00], ["P3a", 0.05, 1.15],
+              ["P3a", 2.65, 5.18], ["B1", 0.30, 5.00], ["H1", 2.00, 5.00], ["P3a", 0.05, 1.15],
               ("P3b", 0.30, 3.50, 0.55, ev["ratoncito"]["mama_sound_out_t"], 1.0)]),
     "elefantito": dict(start=out_t(55.8), end=None, text="¿Cómo hace Tito? 🐘",
         plan=[["H1", 0.25, 1.40], ["H1", 1.70, 5.00],
               ("F1", 0.75, 5.18, 1.10, ev["elefantito"]["baby_sound_out_t"], 1.0),
-              ["H1", 2.00, 5.00], ["F1", 0.75, 3.00],
+              ["H1", 2.00, 5.00], ["B1", 0.30, 5.00], ["F1", 0.75, 3.00],
               ("F2", 1.25, 2.40, 1.50, ev["elefantito"]["mama_sound_out_t"] + 0.0, 0.8)]),
 }
 
@@ -126,4 +126,7 @@ for k in which:
         rows.append(row)
     report[k] = {"master_slice": [round(t0, 3), round(end, 3)], "duration": round(dur, 2), "cuts": rows}
     print(k, round(dur, 2), "s,", len(cuts), "cuts")
-json.dump(report, open(D / "shorts2_map.json", "w"), indent=1)
+mp = D / "shorts2_map.json"
+old = json.load(open(mp)) if mp.exists() else {}
+old.update(report)
+json.dump(old, open(mp, "w"), indent=1)
