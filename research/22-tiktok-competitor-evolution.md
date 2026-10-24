@@ -39,3 +39,14 @@ Failures, also data:
 - Format: 30–60 s, solid pastel backgrounds, 1 pair / ~6–7 s, no text overlay needed (maybe the animal's name in Spanish), a clean loop.
 - Production cost is low with our RunPod pipeline (Klein stills + Wan i2v; single centered character = the easiest possible shot, no hands/props), so Weave isn't needed. Real animal audio must come from a licensed/CC0 source.
 - Test 3 videos, compare against the Halloween TikToks. If one beats our median by 5×, double down the SKZ way.
+
+## F. @minimonstruosadorables ("Hugo el burrito"), 815K followers / 5.9M likes, Spanish (Roy 24.10 21:03)
+| video | dur | views | likes | shares | saves |
+|---|---|---|---|---|---|
+| Shoes struggle compilation (5 micro-fails → cookie success) | 64 s | 11.2M | 132.8K | 12.3K | 32.3K |
+| Ball pit / day compilation (7 micro-skits) | 86 s | 8.6M | 112.4K | 9.3K | 27.7K |
+| **Dance in the nursery** (calm → warm-up → drop at 21 s → wild squat → back/diaper shake, cut mid-shake) | 25 s | 4.3M | 139.6K | **88.1K** | 20.5K |
+| 16 recent 15 s single gags ("intenta X… ¡pero Y!") | 13–30 s | 67K–370K (median ~200K) | | | |
+- No on-screen text anywhere; long Spanish captions; foley + baby giggles; the character never cries ("mess = happiness").
+- vidIQ "character dance loop" outliers (Apr–Oct 2026): bee 3.6M (84×), chicks 3.5M, Macarena cat 3.1M, piggle 1.7M (32×), La Chuchu fruits 1.2M. Dance loops are the most repeated kids-animation outlier format.
+- Applied: production/episodes/tito_ep4_halloween_tiktok_baila/SCRIPT.md (stuck → pop → DANCE, reusing the 2 passed Mamá clips + 1 new dance clip, our own song).
