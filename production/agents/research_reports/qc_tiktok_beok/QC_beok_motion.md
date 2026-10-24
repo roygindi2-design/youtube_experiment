@@ -7,3 +7,6 @@
 - Energy: arm sways, peekaboo, side-step turn, arm waves: a sweet kid dance, NOT the wild Burrito squat/hip-shake.
 **Trim:** 0.0–8.4 s as one shot (a loop from the arm-wave pose at 8.4 back to frame 0, both arms out, facing front); drop 8.5–end. ~8.4 s fits the 7–15 s rule.
 **If Roy wants wilder:** the next motion-transfer driver should be a high-energy kid hip-hop/jump dance (big squats, jumps, a spin, a hip shake). Pick from the Pexels "kids hip hop dance" results; 164 credits.
+
+## Final: tito_baila_beok_tiktok.mp4 (8.43 s, silent, md5 7c605cff, 7c53144): PASS
+3 text lines at the top (y 0.13, below the TikTok top tabs), readable, fades OK; a single shot; it loops from the end pose to the arm-wave frame 0; no audio track (Roy adds "Be OK" in the app). Minor: the last ~0.8 s has a neutral face, not a big smile. Acceptable.
