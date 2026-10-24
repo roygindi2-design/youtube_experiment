@@ -21,3 +21,5 @@ Redo set: M1 s1, M2 s1, M2 s3 (3 × 3.5 = 10.5 credits → 31.5/270). M1 s3 is k
 | M2 s3 kf2 | PASS (borderline) | The handle runs up to Tito's forearm, so he reads as the owner. Kling prompt: "bucket hangs from Tito's forearm, swings slightly; Mamá's hands stay on his back, never touching the bucket". The clip will be re-checked for a hand-off. |
 
 Round 2 redo: M1 s2 + M2 s1 = 7 → ~38.5/270.
+
+## Roy's override (24.10, 17:05): m1_s1_kf2, m2_s3_kf2 and M2 s1 rejected. My borderline PASS on m2_s3 was wrong. See the checklist lessons.
