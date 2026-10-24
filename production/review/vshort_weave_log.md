@@ -33,3 +33,13 @@
 | T9 | KNOCK clip | Kling Video 2.5 Turbo Pro, 9:16, 5 s, first_frame knock_kf2 (researcher PASS) | 35 | tiktok2_weave/knock_kling.mp4 |
 | T10 | LOOP END clip | Kling Video 2.5 Turbo Pro, 9:16, 5 s, first_frame loop_kf2 (researcher PASS) | 35 | tiktok2_weave/loop_kling.mp4 |
 **TikTok2 total: 161 / 180**
+
+## Halloween TikToks M1 + M2 "Tito & Mamá before Halloween" (Roy 24.10 in the producer chat: approved up to 270, HARD cap 270, retries included)
+| # | job | model | credits | result |
+|---|---|---|---|---|
+| A1 | M1 shot 1 keyframe: the costume stuck (only the trunk + ear out) | Nano Banana 2.1, 9:16, refs pick_O1 + open_walk_kf2 | 3.5 | tiktok_mama_weave/m1_s1_kf.jpg |
+| A2 | M1 shot 2 keyframe: Mamá pulls it down, POP | Nano Banana 2.1, 9:16, refs pick_O1 + mama_master + open_walk_kf2 | 3.5 | tiktok_mama_weave/m1_s2_kf.jpg |
+| A3 | M1 shot 3 keyframe: forehead kiss, bucket up | Nano Banana 2.1, 9:16, same refs | 3.5 | tiktok_mama_weave/m1_s3_kf.jpg |
+| A4 | M2 shot 1 keyframe: the kiss attempt, he leans away | Nano Banana 2.1, 9:16, same refs | 3.5 | tiktok_mama_weave/m2_s1_kf.jpg |
+| A5 | M2 shot 2 keyframe: Mamá's sad pout | Nano Banana 2.1, 9:16, refs mama_master + pick_O1 | 3.5 | tiktok_mama_weave/m2_s2_kf.jpg |
+| A6 | M2 shot 3 keyframe: hug + cheek kiss | Nano Banana 2.1, 9:16, same refs as A2 | 3.5 | tiktok_mama_weave/m2_s3_kf.jpg |
