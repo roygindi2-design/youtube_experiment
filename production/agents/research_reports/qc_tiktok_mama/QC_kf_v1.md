@@ -44,3 +44,9 @@ Redo: m2_s3 only → 3.5 → 49/270.
 - Clean window in s3: deliver 9.30–10.88 (src ~3.40–5.0). Both sets of eyes open, bucket up, Mamá smiling.
 - **Recommended fix (A, cleanest):** end after the POP, 0–7.09 s (~7.1 s, inside the 7–15 s rule). The payoff is the "hooray" pop. No kiss, no set jump, no bucket jump; it loops back to the stuck wiggle.
 - **(B):** append s3 src 3.40–5.0 (1.6 s). The set/bucket jump remains as a known doubt for Roy.
+
+## Final look: tiktok_m1 option A (7.03 s, md5 829098ec, 9e1bd12): PASS
+- STUCK 0–3.82 as passed before.
+- POP 3.82–7.03: Tito's eyes down/closed 4.47–4.67 (~0.2–0.27 s); Mamá's blinks 4.53–4.73 and 6.08–6.28 (≤0.27 s). All under the 0.3 s limit.
+- No contact; Mamá's trunk is up and away. Audio present (AAC, mean −17 dB, peak −0.5 dB). Text 0–3 s. It loops.
+- Note: it's also the base (first 7 s) of the "…y BAILA" version, if Roy approves the dance clip.
