@@ -30,3 +30,6 @@
 | T6 | LOOP fix (head to the camera, "?" face, trunk down) | Nano Banana 2.1, 9:16, from loop_kf | 3.5 | tiktok2_weave/loop_kf2.jpg |
 | T7 | KITTEN clip | Kling Video 2.5 Turbo Pro, 9:16, 5 s, first_frame kitten_kf (researcher PASS) | 35 | tiktok2_weave/kitten_kling.mp4 |
 | T8 | BAT clip | Kling Video 2.5 Turbo Pro, 9:16, 5 s, first_frame bat_kf (researcher PASS) | 35 | tiktok2_weave/bat_kling.mp4 |
+| T9 | KNOCK clip | Kling Video 2.5 Turbo Pro, 9:16, 5 s, first_frame knock_kf2 (researcher PASS) | 35 | tiktok2_weave/knock_kling.mp4 |
+| T10 | LOOP END clip | Kling Video 2.5 Turbo Pro, 9:16, 5 s, first_frame loop_kf2 (researcher PASS) | 35 | tiktok2_weave/loop_kling.mp4 |
+**TikTok2 total: 161 / 180**

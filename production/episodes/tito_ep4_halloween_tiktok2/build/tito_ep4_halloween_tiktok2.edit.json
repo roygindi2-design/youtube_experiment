@@ -1,0 +1,51 @@
+{
+ "out": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween_tiktok2/build/tito_ep4_halloween_tiktok2.mp4",
+ "fps": 30,
+ "size": [
+  1080,
+  1920
+ ],
+ "burn_captions": false,
+ "song": {
+  "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween/assets/song.wav",
+  "start": 11.049,
+  "gain_db": 0,
+  "fade_out": 0.15
+ },
+ "shots": [
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween_tiktok2/build/vsrc/t_KNOCK_s0.mp4",
+   "in": 0.05,
+   "dur": 3.818,
+   "speed": 0.904,
+   "src_len": 3.45,
+   "shot": "KNOCK@0"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween_tiktok2/build/vsrc/t_KITTEN_s0.mp4",
+   "in": 0.05,
+   "dur": 4.909,
+   "speed": 1.0,
+   "src_len": 4.909,
+   "shot": "KITTEN@0"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween_tiktok2/build/vsrc/t_BAT_s0.mp4",
+   "in": 0.05,
+   "dur": 4.364,
+   "speed": 1.0,
+   "src_len": 4.364,
+   "shot": "BAT@0"
+  },
+  {
+   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween_tiktok2/build/vsrc/t_LOOP_s0.mp4",
+   "in": 4.0,
+   "dur": 1.091,
+   "speed": 0.917,
+   "src_len": 1.0,
+   "shot": "LOOP@0"
+  }
+ ],
+ "sfx": [],
+ "lines": []
+}
