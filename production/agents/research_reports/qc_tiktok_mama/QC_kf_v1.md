@@ -23,3 +23,13 @@ Redo set: M1 s1, M2 s1, M2 s3 (3 × 3.5 = 10.5 credits → 31.5/270). M1 s3 is k
 Round 2 redo: M1 s2 + M2 s1 = 7 → ~38.5/270.
 
 ## Roy's override (24.10, 17:05): m1_s1_kf2, m2_s3_kf2 and M2 s1 rejected. My borderline PASS on m2_s3 was wrong. See the checklist lessons.
+
+## Round 3 (ee02268) — no "borderline" allowed
+| shot | verdict | notes |
+|---|---|---|
+| m1_s1_kf3 | PASS | Face fully visible, both ears, stem, eyes open, costume stuck at the chin, arms inside. The "stuck" only reads in motion. Kling: he wiggles and hops trying to push his arms out, cheeks puffed, eyes open the whole time. No camera spin. |
+| m1_s2_kf2 | PASS | Arms pop out through the TOP opening (the empty side hole is visible at the left). It reads as a natural "hooray", so not a defect. Mamá's hand grips the rim (real contact). Her trunk is above his head, not near his face/mouth. Kling: Mamá pulls the rim down once; her trunk stays above him and never touches his face. |
+| m2_s1_kf3 | PASS as an i2v START frame | The dodge doesn't need to read in the still; the motion delivers it. Mamá is big, acting, her trunk hanging beside her mouth, not in it. Tito: eyes open, bucket in his own hand. Kling: Tito hops down the step and runs out of frame to the LEFT only (one direction, toward the street), glancing back over his shoulder once with a giggle, eyes open. Mamá keeps her pucker on the empty air for ~1 s, then opens her eyes, surprised → leads into the s2 pout. |
+| m2_s3_kf3 | FAIL | The two trunks almost touch in the middle of the hug (Tito's trunk tip at Mamá's trunk/chest), exactly the type Roy flagged. Also not chin-on-shoulder. Redo: Tito's face turned to the camera, cheek pressed to Mamá's upper arm/chest, his trunk curled down against his OWN chest. Mamá's trunk wraps gently around HIS BACK (a natural elephant hug), far from his face. Both eyes closed in the melt is allowed. Bucket stays on the step. |
+
+Redo: m2_s3 only → 3.5 → 49/270.
