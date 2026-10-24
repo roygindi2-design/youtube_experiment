@@ -1,0 +1,92 @@
+[
+ {
+  "id": "tito_como_hace_song_s1",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¿Quién será? ¡Escucha!\n[Verse 1]\nPatito chiquitito, ¿cómo haces tú?\n[instrumental]\n¡Cuac, cuac, cuac! ¡Muy bien, patito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n[instrumental]\n¡Cuac, cuac! ¡Así hace mamá!\n[Verse 2]\nGatito chiquitito, ¿cómo haces tú?\n[instrumental]\n¡Miau, miau, miau! ¡Muy bien, gatito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n[instrumental]\n¡Miau, miau! ¡Así hace mamá!\n[Verse 3]\nRatoncito chiquitito, ¿cómo haces tú?\n[instrumental]\n¡Iii, iii, iii! ¡Muy bien, ratoncito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n[instrumental]\n¡Iii, iii! ¡Así hace mamá!\n[Verse 4]\nElefantito chiquitito, ¿cómo haces tú?\n[instrumental]\n¡Tu, tu, tu! ¡Muy bien, Tito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n[instrumental]\n¡Tuuu! ¡Así hace mamá!\n[Outro]\n¡Bebé y mamá! ¡A cantar!",
+  "alt_prompt": "cheerful Latin-American kids pop, 110 bpm, marimba, ukulele, soft hand claps, light kick drum, warm female kid-show singer, kids' chorus on the answers, clear Mexican Spanish, call-and-response with one-bar instrumental breaks, simple sing-along melody, bright, happy, very clear lyrics, starts singing right away",
+  "duration_seconds": 60,
+  "seed": 1,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 110,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_como_hace_song_s2",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¿Quién será? ¡Escucha!\n[Verse 1]\nPatito chiquitito, ¿cómo haces tú?\n[instrumental]\n¡Cuac, cuac, cuac! ¡Muy bien, patito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n[instrumental]\n¡Cuac, cuac! ¡Así hace mamá!\n[Verse 2]\nGatito chiquitito, ¿cómo haces tú?\n[instrumental]\n¡Miau, miau, miau! ¡Muy bien, gatito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n[instrumental]\n¡Miau, miau! ¡Así hace mamá!\n[Verse 3]\nRatoncito chiquitito, ¿cómo haces tú?\n[instrumental]\n¡Iii, iii, iii! ¡Muy bien, ratoncito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n[instrumental]\n¡Iii, iii! ¡Así hace mamá!\n[Verse 4]\nElefantito chiquitito, ¿cómo haces tú?\n[instrumental]\n¡Tu, tu, tu! ¡Muy bien, Tito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n[instrumental]\n¡Tuuu! ¡Así hace mamá!\n[Outro]\n¡Bebé y mamá! ¡A cantar!",
+  "alt_prompt": "cheerful Latin-American kids pop, 110 bpm, marimba, ukulele, soft hand claps, light kick drum, warm female kid-show singer, kids' chorus on the answers, clear Mexican Spanish, call-and-response with one-bar instrumental breaks, simple sing-along melody, bright, happy, very clear lyrics, starts singing right away",
+  "duration_seconds": 60,
+  "seed": 2,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 110,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_como_hace_song_s3",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¿Quién será? ¡Escucha!\n[Verse 1]\nPatito chiquitito, ¿cómo haces tú?\n[instrumental]\n¡Cuac, cuac, cuac! ¡Muy bien, patito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n[instrumental]\n¡Cuac, cuac! ¡Así hace mamá!\n[Verse 2]\nGatito chiquitito, ¿cómo haces tú?\n[instrumental]\n¡Miau, miau, miau! ¡Muy bien, gatito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n[instrumental]\n¡Miau, miau! ¡Así hace mamá!\n[Verse 3]\nRatoncito chiquitito, ¿cómo haces tú?\n[instrumental]\n¡Iii, iii, iii! ¡Muy bien, ratoncito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n[instrumental]\n¡Iii, iii! ¡Así hace mamá!\n[Verse 4]\nElefantito chiquitito, ¿cómo haces tú?\n[instrumental]\n¡Tu, tu, tu! ¡Muy bien, Tito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n[instrumental]\n¡Tuuu! ¡Así hace mamá!\n[Outro]\n¡Bebé y mamá! ¡A cantar!",
+  "alt_prompt": "cheerful Latin-American kids pop, 110 bpm, marimba, ukulele, soft hand claps, light kick drum, warm female kid-show singer, kids' chorus on the answers, clear Mexican Spanish, call-and-response with one-bar instrumental breaks, simple sing-along melody, bright, happy, very clear lyrics, starts singing right away",
+  "duration_seconds": 60,
+  "seed": 3,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 110,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_como_hace_song_s4",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¿Quién será? ¡Escucha!\n[Verse 1]\nPatito chiquitito, ¿cómo haces tú?\n[instrumental]\n¡Cuac, cuac, cuac! ¡Muy bien, patito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n[instrumental]\n¡Cuac, cuac! ¡Así hace mamá!\n[Verse 2]\nGatito chiquitito, ¿cómo haces tú?\n[instrumental]\n¡Miau, miau, miau! ¡Muy bien, gatito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n[instrumental]\n¡Miau, miau! ¡Así hace mamá!\n[Verse 3]\nRatoncito chiquitito, ¿cómo haces tú?\n[instrumental]\n¡Iii, iii, iii! ¡Muy bien, ratoncito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n[instrumental]\n¡Iii, iii! ¡Así hace mamá!\n[Verse 4]\nElefantito chiquitito, ¿cómo haces tú?\n[instrumental]\n¡Tu, tu, tu! ¡Muy bien, Tito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n[instrumental]\n¡Tuuu! ¡Así hace mamá!\n[Outro]\n¡Bebé y mamá! ¡A cantar!",
+  "alt_prompt": "cheerful Latin-American kids pop, 110 bpm, marimba, ukulele, soft hand claps, light kick drum, warm female kid-show singer, kids' chorus on the answers, clear Mexican Spanish, call-and-response with one-bar instrumental breaks, simple sing-along melody, bright, happy, very clear lyrics, starts singing right away",
+  "duration_seconds": 60,
+  "seed": 4,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 110,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_como_hace_song_s5",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¿Quién será? ¡Escucha!\n[Verse 1]\nPatito chiquitito, ¿cómo haces tú?\n[instrumental]\n¡Cuac, cuac, cuac! ¡Muy bien, patito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n[instrumental]\n¡Cuac, cuac! ¡Así hace mamá!\n[Verse 2]\nGatito chiquitito, ¿cómo haces tú?\n[instrumental]\n¡Miau, miau, miau! ¡Muy bien, gatito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n[instrumental]\n¡Miau, miau! ¡Así hace mamá!\n[Verse 3]\nRatoncito chiquitito, ¿cómo haces tú?\n[instrumental]\n¡Iii, iii, iii! ¡Muy bien, ratoncito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n[instrumental]\n¡Iii, iii! ¡Así hace mamá!\n[Verse 4]\nElefantito chiquitito, ¿cómo haces tú?\n[instrumental]\n¡Tu, tu, tu! ¡Muy bien, Tito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n[instrumental]\n¡Tuuu! ¡Así hace mamá!\n[Outro]\n¡Bebé y mamá! ¡A cantar!",
+  "alt_prompt": "cheerful Latin-American kids pop, 110 bpm, marimba, ukulele, soft hand claps, light kick drum, warm female kid-show singer, kids' chorus on the answers, clear Mexican Spanish, call-and-response with one-bar instrumental breaks, simple sing-along melody, bright, happy, very clear lyrics, starts singing right away",
+  "duration_seconds": 60,
+  "seed": 5,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 110,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ },
+ {
+  "id": "tito_como_hace_song_s6",
+  "model_type": "ace_step_v1_5_turbo_lm_1_7b",
+  "prompt": "[Intro]\n¿Quién será? ¡Escucha!\n[Verse 1]\nPatito chiquitito, ¿cómo haces tú?\n[instrumental]\n¡Cuac, cuac, cuac! ¡Muy bien, patito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n[instrumental]\n¡Cuac, cuac! ¡Así hace mamá!\n[Verse 2]\nGatito chiquitito, ¿cómo haces tú?\n[instrumental]\n¡Miau, miau, miau! ¡Muy bien, gatito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n[instrumental]\n¡Miau, miau! ¡Así hace mamá!\n[Verse 3]\nRatoncito chiquitito, ¿cómo haces tú?\n[instrumental]\n¡Iii, iii, iii! ¡Muy bien, ratoncito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n[instrumental]\n¡Iii, iii! ¡Así hace mamá!\n[Verse 4]\nElefantito chiquitito, ¿cómo haces tú?\n[instrumental]\n¡Tu, tu, tu! ¡Muy bien, Tito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n[instrumental]\n¡Tuuu! ¡Así hace mamá!\n[Outro]\n¡Bebé y mamá! ¡A cantar!",
+  "alt_prompt": "cheerful Latin-American kids pop, 110 bpm, marimba, ukulele, soft hand claps, light kick drum, warm female kid-show singer, kids' chorus on the answers, clear Mexican Spanish, call-and-response with one-bar instrumental breaks, simple sing-along melody, bright, happy, very clear lyrics, starts singing right away",
+  "duration_seconds": 60,
+  "seed": 6,
+  "num_inference_steps": 8,
+  "custom_settings": {
+   "bpm": 110,
+   "language": "es",
+   "keyscale": "C major",
+   "timesignature": 4
+  }
+ }
+]
