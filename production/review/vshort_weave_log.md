@@ -46,3 +46,8 @@
 | A7 | M1 s1 redo: ONE pumpkin over his head, same hallway as s2 | Nano Banana 2.1, 9:16, from m1_s2_kf | 3.5 | tiktok_mama_weave/m1_s1_kf2.jpg |
 | A8 | M2 s1 redo: kiss attempt, gap, Tito eyes open + bucket | Nano Banana 2.1, 9:16, refs m2_s2_kf + m1_s2_kf | 3.5 | tiktok_mama_weave/m2_s1_kf2.jpg |
 | A9 | M2 s3 fix: bucket on Tito's wrist | Nano Banana 2.1, 9:16, from m2_s3_kf | 3.5 | tiktok_mama_weave/m2_s3_kf2.jpg |
+| — | (Roy rejected m1_s1_kf2 "head inside a pumpkin, an ear missing", m2_s3_kf2 "trunk looks in Mamá's mouth", and the dodge in m2_s1 "doesn't read") | — | 0 | the 7-credit round 2 was NOT run |
+| A10 | M1 s1 v3: costume stuck at the shoulders, face + both ears free, arms inside | Nano Banana 2.1, 9:16, from m1_s2_kf | 3.5 | tiktok_mama_weave/m1_s1_kf3.jpg |
+| A11 | M1 s2 v2: Mamá pulls it down, arms pop out | Nano Banana 2.1, 9:16, edit of m1_s2_kf | 3.5 | tiktok_mama_weave/m1_s2_kf2.jpg |
+| A12 | M2 s1 v3: Mamá kisses the air, Tito runs to the street looking back | Nano Banana 2.1, 9:16, refs m2_s2_kf + m1_s2_kf | 3.5 | tiktok_mama_weave/m2_s1_kf3.jpg |
+| A13 | M2 s3 v3: plain hug, chin on shoulder, trunks down, bucket on the step | Nano Banana 2.1, 9:16, refs m2_s2_kf + m1_s2_kf | 3.5 | tiktok_mama_weave/m2_s3_kf3.jpg |
