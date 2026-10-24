@@ -22,7 +22,7 @@
 ## Halloween TikTok 2 "¿Quién es? 👀" (Roy 24.10 in the producer chat: approved up to 180, HARD cap 180, separate from the 230 above)
 | # | job | model | credits | result |
 |---|---|---|---|---|
-| T1 | KNOCK keyframe (purple door) | Nano Banana 2.1, 9:16, from open_walk_kf2 + pick_D2_v9 | 3.5 | tiktok2_weave/knock_kf.png |
-| T2 | KITTEN keyframe (purple door open) | Nano Banana 2.1, 9:16, refs pick_V1 + pick_D2_v9 + tito_pumpkin_master | 3.5 | tiktok2_weave/kitten_kf.png |
-| T3 | BAT keyframe (orange door open) | Nano Banana 2.1, 9:16, ref pick_V2v5 | 3.5 | tiktok2_weave/bat_kf.png |
-| T4 | LOOP END keyframe (green door, looks back "?") | Nano Banana 2.1, 9:16, from open_walk_kf2 + tito_pumpkin_master | 3.5 | tiktok2_weave/loop_kf.png |
+| T1 | KNOCK keyframe (purple door) | Nano Banana 2.1, 9:16, from open_walk_kf2 + pick_D2_v9 | 3.5 | tiktok2_weave/knock_kf.jpg |
+| T2 | KITTEN keyframe (purple door open) | Nano Banana 2.1, 9:16, refs pick_V1 + pick_D2_v9 + tito_pumpkin_master | 3.5 | tiktok2_weave/kitten_kf.jpg |
+| T3 | BAT keyframe (orange door open) | Nano Banana 2.1, 9:16, ref pick_V2v5 | 3.5 | tiktok2_weave/bat_kf.jpg |
+| T4 | LOOP END keyframe (green door, looks back "?") | Nano Banana 2.1, 9:16, from open_walk_kf2 + tito_pumpkin_master | 3.5 | tiktok2_weave/loop_kf.jpg |
