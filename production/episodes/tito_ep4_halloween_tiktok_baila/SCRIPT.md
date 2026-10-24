@@ -47,3 +47,16 @@ Roy (24.10, 21:03): stop the kiss/hug path. Take what was generated AND passed, 
 ## Next (after Halloween, evergreen)
 - **"Tito baila en su cuarto":** the pure Burrito clone. Calm Tito in overalls in his bedroom → our original dance track (ACE-Step, server) → drop → wild dance → back-wiggle. 1–2 clips.
 - **"Un día de Tito" struggle compilation (60–80 s):** 5 micro-fails that end in laughter → success. Shoes, yogurt, bath bubbles, juice box, cookie, all in Tito's world. It can reuse passed clips from published episodes.
+
+## ✅ Roy's mandate (24.10 ~18:25): "use credits so it's perfect; split into 2 if better". Working cap 150 (1 × MiniMax 768P 10 s = 70 + 1 retry)
+Decision: ONE 10 s dance clip → TWO TikToks, posted one day apart (A first: it carries the story; B is the pure dance loop, the most-shared format).
+
+### TikTok A: "¡No me cabe… y BAILA!" (~11.5 s)
+STUCK 6 beats → POP 6 beats (CC0 foley: rubber squeaks, pop, giggle) → a hard cut on the drop (master beat 44) → the 9 best dance beats, ending mid back-wiggle → loop.
+- Text 0–3 s: "Cuando por fin le queda el disfraz 🎃"
+- Caption: "Tito no podía ponerse el disfraz… ¡y cuando por fin pudo, se puso a BAILAR! 🎃💃 ¿Tu peque también baila así? 👇 #halloween #cancionesinfantiles #disfraz #mamás #bebés" (hashtag set B, Spanish)
+### TikTok B: "Tito baila Halloween" (~10–11 s, dance only)
+Frame 0 Tito already dancing → bounce/arm pumps → spin → back-wiggle, cut mid-wiggle → loop. Audio = our chorus from beat 44.
+- Text 0–3 s: "Mi peque cuando suena su canción favorita 🎃💃"
+- Caption: "When the Halloween song comes on 🎃💃 Tito the elephant can't stop dancing! #kidsoftiktok #cartoonforkids #toddler #halloween #dance" (hashtag set A, English; this continues the A/B test)
+Both: AI label ON; the YouTube link in the bio; a pinned comment "¿Le pongo la canción completa? 🎃 → YouTube: Cantilandia TV".
