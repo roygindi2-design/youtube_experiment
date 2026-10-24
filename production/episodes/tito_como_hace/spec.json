@@ -1,0 +1,171 @@
+{
+ "id": "tito_como_hace",
+ "series": "tito",
+ "title": "¿Cómo hace? 🐣 Sonidos de animales: bebé y mamá con Tito",
+ "format": "tiktok_9x16",
+ "orientation": "vertical",
+ "world": "pastel studio stages of Tito's world: seamless solid-color backdrops (mint, sky blue, peach, butter yellow, lilac), one color per animal family, soft floor shadows",
+ "hook": "mystery_sound_offscreen_ear_cup",
+ "opening": "mystery_sound_offscreen_ear_cup",
+ "bpm": 110,
+ "song_seconds": 57,
+ "song_takes": 6,
+ "reuse_mama": true,
+ "director": true,
+ "pattern": "guess_interactive",
+ "story": [
+  "A mystery sound off-screen: Tito cups his ear: who is it? (the question)",
+  "The duckling appears and the song asks the child how it sounds; a pause for the child to answer, then the REAL quack (try)",
+  "Tito imitates it, and the song asks about its mamá; Mamá pata walks in with a bigger REAL quack (answer + reward)",
+  "The same game with the kitten and Mamá gata (repeat = learning)",
+  "The same game with the little mouse and Mamá ratona",
+  "Twist: the last baby is Tito himself: his tiny toot, then Mamá's huge trumpet",
+  "Reward: every baby with its mamá, everyone sings '¡Bebé y mamá!'"
+ ],
+ "lyrics": "[Intro]\n¿Quién será? ¡Escucha!\n[Verse 1]\nPatito chiquitito, ¿cómo haces tú?\n[instrumental]\n¡Cuac, cuac, cuac! ¡Muy bien, patito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n[instrumental]\n¡Cuac, cuac! ¡Así hace mamá!\n[Verse 2]\nGatito chiquitito, ¿cómo haces tú?\n[instrumental]\n¡Miau, miau, miau! ¡Muy bien, gatito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n[instrumental]\n¡Miau, miau! ¡Así hace mamá!\n[Verse 3]\nRatoncito chiquitito, ¿cómo haces tú?\n[instrumental]\n¡Iii, iii, iii! ¡Muy bien, ratoncito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n[instrumental]\n¡Iii, iii! ¡Así hace mamá!\n[Verse 4]\nElefantito chiquitito, ¿cómo haces tú?\n[instrumental]\n¡Tu, tu, tu! ¡Muy bien, Tito!\n¿Y su mamá? ¿Cómo hace? ¡A ver!\n[instrumental]\n¡Tuuu! ¡Así hace mamá!\n[Outro]\n¡Bebé y mamá! ¡A cantar!",
+ "twist": "After three animal friends, the song asks the viewer about the LAST baby: it's Tito himself; he toots a tiny 'tu-tu', and Mamá answers with a giant trumpet",
+ "moral": "Cada bebé tiene una mamá que le responde (call and response = speech practice)",
+ "experiment": "first interactive animal-sounds song with REAL CC0 recordings + pauses for the child to answer (SKZ animal sounds 653K ×350 its median, 1M, 1.5M; baby-vs-adult format); cast = Tito's existing friends; trending in search 'sonidos de animales para niños'",
+ "continuity": "one solid pastel backdrop per family (ducks sky blue, cats peach, mice butter yellow, Tito imitations mint, finale lilac); mamás ALWAYS enter from the RIGHT and stop beside the baby, no touching; Tito canon yellow overalls in every Tito shot; no props; real animal sounds land when the beak/mouth opens (±80 ms)",
+ "locations": {
+  "menta": "A clean pastel mint green studio backdrop in Tito's world, vertical 9:16 composition, camera at child eye level: a seamless smooth mint green wall curving into a slightly lighter mint green floor, soft round floor shadow under the characters, soft warm key light, nothing else in frame.",
+  "cielo": "A clean pastel sky blue studio backdrop in Tito's world, vertical 9:16 composition, camera at child eye level: a seamless smooth sky blue wall curving into a slightly lighter sky blue floor, soft round floor shadow under the characters, soft warm key light, nothing else in frame.",
+  "durazno": "A clean pastel peach studio backdrop in Tito's world, vertical 9:16 composition, camera at child eye level: a seamless smooth peach wall curving into a slightly lighter peach floor, soft round floor shadow under the characters, soft warm key light, nothing else in frame.",
+  "mantequilla": "A clean pastel butter yellow studio backdrop in Tito's world, vertical 9:16 composition, camera at child eye level: a seamless smooth butter yellow wall curving into a slightly lighter butter yellow floor, soft round floor shadow under the characters, soft warm key light, nothing else in frame.",
+  "lila": "A clean pastel lilac studio backdrop in Tito's world, vertical 9:16 composition, camera at child eye level: a seamless smooth lilac wall curving into a slightly lighter lilac floor, soft round floor shadow under the characters, soft warm key light, nothing else in frame."
+ },
+ "shots": [
+  [
+   "H1",
+   "Close-up of Tito on the mint backdrop: the baby elephant cups his trunk to his ear and listens, eyes wide open with curiosity, then his eyes dart to the right toward an off-screen sound.",
+   "He cups his ear, listens, and his eyes dart to the right.",
+   "menta",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "P1a",
+   "Medium shot, centered, full body on the sky-blue backdrop: a fluffy round yellow duckling (the same duckling design as in 'Tito y la basura': soft yellow down, small orange beak, big glossy eyes) stands and looks at the camera, then opens its beak to quack.",
+   "The duckling looks at the camera, then opens its beak and quacks.",
+   "cielo",
+   [
+    "duckling"
+   ],
+   5
+  ],
+  [
+   "T1",
+   "Close-up of Tito on the mint backdrop: he points his trunk forward like a little beak and giggles, eyes open, imitating the duckling.",
+   "He imitates a duck with his trunk and giggles.",
+   "menta",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "P1b",
+   "Wide shot on the sky-blue backdrop: the duckling stands on the left; MAMÁ PATA, the duckling's mother: the same yellow duck design but grown-up, about twice the duckling's size, a soft white apron bow at her neck waddles in from the RIGHT edge, stops beside it (no touching) and quacks; the duckling looks up at her and both bounce.",
+   "Mamá pata waddles in from the right, stops, quacks; both bounce happily.",
+   "cielo",
+   [
+    "duckling",
+    "mama_pata"
+   ],
+   5
+  ],
+  [
+   "P2a",
+   "Medium shot, centered, full body on the peach backdrop: a small fluffy black kitten with big round yellow-green eyes and a pink nose (the kitten from Tito's Halloween episode, WITHOUT any hat) sits and looks at the camera, then meows with a tiny open mouth.",
+   "The kitten looks at the camera and meows.",
+   "durazno",
+   [
+    "kitten"
+   ],
+   5
+  ],
+  [
+   "T2",
+   "Close-up of Tito on the mint backdrop: he curls his hands like little paws by his cheeks and giggles, eyes open, imitating the kitten.",
+   "He makes little paws and giggles.",
+   "menta",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "P2b",
+   "Wide shot on the peach backdrop: the kitten sits on the left; MAMÁ GATA, the kitten's mother: the same black cat design grown-up, about twice the kitten's size, a small yellow flower behind one ear walks in from the RIGHT edge, stops beside it (no touching) and meows; both bounce.",
+   "Mamá gata walks in from the right, stops, meows; both bounce.",
+   "durazno",
+   [
+    "kitten",
+    "mama_gata"
+   ],
+   5
+  ],
+  [
+   "P3a",
+   "Medium shot, centered, full body on the butter-yellow backdrop: a small grey mouse with big round pink ears and a tiny yellow T-shirt (the mouse friend from Tito's Halloween episode) stands, looks at the camera and squeaks with its whiskers twitching.",
+   "The mouse looks at the camera and squeaks.",
+   "mantequilla",
+   [
+    "mouse"
+   ],
+   5
+  ],
+  [
+   "T3",
+   "Close-up of Tito on the mint backdrop: he wiggles his nose and twitches imaginary whiskers with his fingers, giggling, eyes open.",
+   "He wiggles his nose like a mouse and giggles.",
+   "menta",
+   [
+    "tito"
+   ],
+   3
+  ],
+  [
+   "P3b",
+   "Wide shot on the butter-yellow backdrop: the mouse stands on the left; MAMÁ RATONA, the mouse's mother: the same grey mouse design grown-up, about twice the size, a small lilac apron scurries in from the RIGHT edge, stops beside it (no touching) and squeaks; both bounce.",
+   "Mamá ratona scurries in from the right, stops, squeaks; both bounce.",
+   "mantequilla",
+   [
+    "mouse",
+    "mama_ratona"
+   ],
+   5
+  ],
+  [
+   "F1",
+   "Medium shot, full body on the lilac backdrop: Tito stands centered, lifts his trunk high and toots a tiny trumpet, eyes open, proud smile.",
+   "He lifts his trunk and toots a tiny trumpet.",
+   "lila",
+   [
+    "tito"
+   ],
+   5
+  ],
+  [
+   "F2",
+   "Wide shot on the lilac backdrop: Tito stands on the left; Mamá walks in from the RIGHT edge, stops beside him (no touching), and both lift their trunks up high, away from each other's faces, trumpeting together, then bounce happily.",
+   "Mamá walks in from the right, stops, both trumpet with trunks up and bounce.",
+   "lila",
+   [
+    "tito",
+    "mama"
+   ],
+   5
+  ]
+ ],
+ "audio": {
+  "real_sounds": "production/sfx/animals (CC0, LICENSES.md)",
+  "toots": "own ACE-Step sfx_trumpet (small = Tito, big = Mamá)",
+  "breaks": "[instrumental] bars; fallback duck −8 dB for 1.2 s"
+ },
+ "style": "High-end 3D animated preschool cartoon style, soft rounded toy-like shapes, smooth matte clay-like materials, soft studio lighting with a warm key light, pastel but saturated colors, big expressive glossy eyes, cute and friendly, clean composition, high quality render. ",
+ "lock": "TITO, a baby elephant toddler. Powder-blue body, very big round ears with peach-pink insides, short soft trunk curled up at the tip, big glossy dark-brown eyes with white sparkle highlights, rosy cheeks, a tiny tuft of three hairs on top of the head, wearing small sunny-yellow overalls with one round red button, short chubby arms and legs, small tail.",
+ "mama_lock": "MAMÁ ELEFANTA, the mother of the baby elephant: a gentle grown-up adult elephant with motherly adult proportions, clearly taller and slimmer than a toddler, longer legs and a longer graceful trunk, soft lavender-grey body, big round ears with peach-pink insides, warm brown eyes with long eyelashes, a kind smile, wearing a soft lilac dress with tiny white polka dots, a white apron, and a small yellow flower behind one ear."
+}
