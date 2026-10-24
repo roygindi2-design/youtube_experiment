@@ -33,3 +33,14 @@ Round 2 redo: M1 s2 + M2 s1 = 7 → ~38.5/270.
 | m2_s3_kf3 | FAIL | The two trunks almost touch in the middle of the hug (Tito's trunk tip at Mamá's trunk/chest), exactly the type Roy flagged. Also not chin-on-shoulder. Redo: Tito's face turned to the camera, cheek pressed to Mamá's upper arm/chest, his trunk curled down against his OWN chest. Mamá's trunk wraps gently around HIS BACK (a natural elephant hug), far from his face. Both eyes closed in the melt is allowed. Bucket stays on the step. |
 
 Redo: m2_s3 only → 3.5 → 49/270.
+
+## §12 full pass: tiktok_m1 deliver (10.88 s, dc20e4e): FAIL as built, edit-only fix available
+- 0–3.82 STUCK: PASS. Arms inside, eyes open, blinks ≤0.2 s (~0.6, ~3.0).
+- 3.82–7.09 POP: PASS. Arms up, eyes open, Mamá's trunk above and away; Mamá blink ~6.1 is 1 frame.
+- 7.09–10.88 KISS: FAIL.
+  1. Mamá's trunk RESTS on Tito's forehead 7.08–~7.80 (~0.75 s, not 0.2–0.4 s), with both pairs of eyes closed. This is the "trunk on the face" type Roy flagged.
+  2. Tito's eyes are closed 8.83–9.17 (~0.33 s, his head turning away), overlapping Mamá's closed eyes 9.10–9.30.
+  3. Continuity jump at 7.09: the set changes (closed door + wreath → open door + window) and the bucket appears in his hand from nowhere.
+- Clean window in s3: deliver 9.30–10.88 (src ~3.40–5.0). Both sets of eyes open, bucket up, Mamá smiling.
+- **Recommended fix (A, cleanest):** end after the POP, 0–7.09 s (~7.1 s, inside the 7–15 s rule). The payoff is the "hooray" pop. No kiss, no set jump, no bucket jump; it loops back to the stuck wiggle.
+- **(B):** append s3 src 3.40–5.0 (1.6 s). The set/bucket jump remains as a known doubt for Roy.
