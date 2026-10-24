@@ -30,5 +30,35 @@
   }
  ],
  "queue": [],
- "_rule": "Roy 21.10: only NEW videos made after the review process (keyframes + final reviewed, fixes applied). No old videos. Strict: any visible inaccuracy = FAIL, not 'minor note'."
+ "_rule": "Roy 21.10: only NEW videos made after the review process (keyframes + final reviewed, fixes applied). No old videos. Strict: any visible inaccuracy = FAIL, not 'minor note'.",
+ "analytics_2026-10-24": [
+  {
+   "video": "pond/ducks (tito_basura) 32 s",
+   "posted": "2026-10-21",
+   "views": 556,
+   "likes": 5,
+   "comments": 0,
+   "shares": 0,
+   "saves": 2,
+   "followers": 3,
+   "avg_watch_s": 4.4,
+   "full_pct": 1.96,
+   "age_25_34": 49,
+   "top_geo": "Honduras 30, Nicaragua 29, El Salvador 23, Israel 8"
+  },
+  {
+   "video": "night/bedtime (ep3) 12.35 s",
+   "posted": "2026-10-23",
+   "views": 480,
+   "likes": 10,
+   "comments": 0,
+   "shares": 0,
+   "saves": 1,
+   "followers": 0,
+   "avg_watch_s": 3.3,
+   "full_pct": 6.91,
+   "age_25_34": 43,
+   "top_geo": "Mexico 16, Venezuela 13, Nicaragua 11, El Salvador 9, Guatemala 8, Israel 8"
+  }
+ ]
 }

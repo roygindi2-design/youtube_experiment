@@ -23,3 +23,14 @@ Query: 3D kids song / cute animal / habits, audience = LatAm parents 25-34, capt
 ## Roy's reference 23.10 — Recreio Mágico "Colorful Caterpillar Cartoon for Kids" (1.2M likes, 65.7K comments, 258.8K saves)
 - Short English caption + broad English hashtags (#kidsoftiktok #cartoonforkids #cartoonforbabies #toddler #kidsvideo #kidscartoon #animation …), numbered "Post 21" (series habit), a TikTok PLAYLIST ("Little Joys Collection"), "Creator labeled as AI-generated" did not hurt.
 - Our test: alternate hashtag set A (broad English) vs set B (Spanish niche) per post; track views/likes after 24 h in research/analytics; keep the winner. Always: AI label on, YouTube link in bio, a "Tito 🐘" playlist, burned-in hook text (Roy: no editing in the app).
+
+## TikTok data 24.10 (Roy's screenshots) — the only real learning signal
+| video | length | views | avg watch | watched full | likes | saves | followers |
+|---|---|---|---|---|---|---|---|
+| pond/ducks | 32 s | 556 | 4.4 s | 1.96% | 5 | 2 | 3 |
+| bedtime (dark night) | 12.4 s | 480 | 3.3 s | 6.91% | 10 | 1 | 0 |
+- Exposure is steady (~500 per post, no followers) — TikTok tests every post with a small batch. To get the next, bigger batch we need **avg watch ≥ 6–8 s and completion ≥ 20–30%**. Both posts are far below → the **first 1–2 seconds** are the problem, not the length.
+- Shorter = 3.5× more completion and 2× likes (12 s vs 32 s) → keep TikToks 10–15 s, built to LOOP.
+- The bedtime one starts DARK (night blue, small character) → the lowest avg watch (3.3 s). Rule: frame 0 must be bright, colorful, the character big and already moving, a question on screen.
+- Audience = parents 25–34 in LatAm (Central America + Mexico/Venezuela); a shorter Spanish video widened it to Mexico/Venezuela.
+- Next tests (one change at a time): hook question for parents + interactive guessing ("¡Adivina con tu peque!"), 12–15 s loop, hashtag set A vs B.
