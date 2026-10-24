@@ -92,3 +92,7 @@
 | C6 | P1a redo: the clay-toy duckling from tito_basura | Nano Banana 2.1, 9:16, refs basura P2/P3/P7 | 3.5 | como_hace_weave/P1a_kf2.jpg |
 | C7 | A/B: P1a duckling quack, MiniMax | MiniMax H3 Max i2v, 768P, 5 s, from P1a_kf2 | 35 | como_hace_weave/P1a_minimax.mp4 |
 | C8 | A/B: P1a duckling quack, Kling | Kling Video 2.5 Turbo Pro, 9:16, 5 s, from P1a_kf2 | 35 | como_hace_weave/P1a_kling.mp4 |
+| C9 | P1b keyframe: duckling + mamá pata (sky blue) | Nano Banana 2.1, 9:16, ref P1a_kf2 | 3.5 | como_hace_weave/P1b_kf.jpg |
+| C10 | T1 keyframe: Tito imitates the duck (mint) | Nano Banana 2.1, 9:16, edit of H1_kf2 | 3.5 | como_hace_weave/T1_kf.jpg |
+| C11 | P2a keyframe: the kitten alone, no hat (peach) | Nano Banana 2.1, 9:16, ref kitten_kf | 3.5 | como_hace_weave/P2a_kf.jpg |
+| C12 | P2b keyframe: kitten + mamá gata (peach) | Nano Banana 2.1, 9:16, refs kitten_kf + mama_gata_ref | 3.5 | como_hace_weave/P2b_kf.jpg |
