@@ -15,4 +15,6 @@
 | # | job | model | credits | result |
 |---|---|---|---|---|
 | B1 | G1 wide keyframe (whole head in frame) | Nano Banana 2.1, 16:9, from kf_v1/pick_G1 | 3.5 | done: production/review/brocoli_weave/G1_wide_kf.jpg |
-**Total spent: 157.5 / 230**
+| B2 | G1 forest walk (tracking) | Kling Video 2.5 Turbo Pro, 16:9, 5 s, first_frame G1_wide_kf | 35 | running |
+| B3 | carrot rocket flight | Kling Video 2.5 Turbo Pro, 16:9, 5 s, first_frame kf_v1/pick_C1 (carrot face kept, per the researcher) | 35 | running |
+**Total spent: 227.5 / 230 (cap reached, no retries left)**
