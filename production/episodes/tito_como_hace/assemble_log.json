@@ -1,0 +1,336 @@
+{
+ "segments": [
+  {
+   "kind": "clip",
+   "src": "H1",
+   "out": [
+    0.0,
+    1.15
+   ],
+   "frames": 34
+  },
+  {
+   "kind": "clip",
+   "src": "H1",
+   "out": [
+    1.15,
+    4.0
+   ],
+   "frames": 86
+  },
+  {
+   "kind": "still",
+   "src": "P1a_kf2",
+   "out": [
+    4.0,
+    7.465
+   ],
+   "frames": 104
+  },
+  {
+   "kind": "clip",
+   "src": "P1a",
+   "out": [
+    7.465,
+    8.715
+   ],
+   "frames": 37
+  },
+  {
+   "kind": "still",
+   "src": "P1a_kf2",
+   "out": [
+    8.715,
+    12.773
+   ],
+   "frames": 122
+  },
+  {
+   "kind": "still",
+   "src": "T1_kf2",
+   "out": [
+    12.773,
+    16.373
+   ],
+   "frames": 108
+  },
+  {
+   "kind": "still",
+   "src": "P1b_kf",
+   "out": [
+    16.373,
+    17.935
+   ],
+   "frames": 47
+  },
+  {
+   "kind": "clip",
+   "src": "P1b",
+   "out": [
+    17.935,
+    19.035
+   ],
+   "frames": 33
+  },
+  {
+   "kind": "still",
+   "src": "P1b_kf",
+   "out": [
+    19.035,
+    23.036
+   ],
+   "frames": 120
+  },
+  {
+   "kind": "still",
+   "src": "P2a_kf",
+   "out": [
+    23.036,
+    27.412
+   ],
+   "frames": 131
+  },
+  {
+   "kind": "clip",
+   "src": "P2a",
+   "out": [
+    27.412,
+    27.762
+   ],
+   "frames": 11
+  },
+  {
+   "kind": "still",
+   "src": "P2a_kf",
+   "out": [
+    27.762,
+    31.709
+   ],
+   "frames": 118
+  },
+  {
+   "kind": "still",
+   "src": "T2_kf",
+   "out": [
+    31.709,
+    35.809
+   ],
+   "frames": 123
+  },
+  {
+   "kind": "still",
+   "src": "P2b_kf",
+   "out": [
+    35.809,
+    37.091
+   ],
+   "frames": 39
+  },
+  {
+   "kind": "clip",
+   "src": "P2b",
+   "out": [
+    37.091,
+    38.591
+   ],
+   "frames": 45
+  },
+  {
+   "kind": "still",
+   "src": "P2b_kf",
+   "out": [
+    38.591,
+    42.973
+   ],
+   "frames": 131
+  },
+  {
+   "kind": "still",
+   "src": "P3a_kf",
+   "out": [
+    42.973,
+    46.343
+   ],
+   "frames": 101
+  },
+  {
+   "kind": "clip",
+   "src": "P3a",
+   "out": [
+    46.343,
+    46.743
+   ],
+   "frames": 12
+  },
+  {
+   "kind": "still",
+   "src": "P3a_kf",
+   "out": [
+    46.743,
+    51.146
+   ],
+   "frames": 132
+  },
+  {
+   "kind": "still",
+   "src": "T3_kf2",
+   "out": [
+    51.146,
+    54.946
+   ],
+   "frames": 114
+  },
+  {
+   "kind": "still",
+   "src": "P3b_kf",
+   "out": [
+    54.946,
+    56.314
+   ],
+   "frames": 41
+  },
+  {
+   "kind": "clip",
+   "src": "P3b",
+   "out": [
+    56.314,
+    57.514
+   ],
+   "frames": 36
+  },
+  {
+   "kind": "still",
+   "src": "P3b_kf",
+   "out": [
+    57.514,
+    62.209
+   ],
+   "frames": 141
+  },
+  {
+   "kind": "still",
+   "src": "F1_kf2",
+   "out": [
+    62.209,
+    64.782
+   ],
+   "frames": 77
+  },
+  {
+   "kind": "clip",
+   "src": "F1",
+   "out": [
+    64.782,
+    66.782
+   ],
+   "frames": 60
+  },
+  {
+   "kind": "still",
+   "src": "F1_kf2",
+   "out": [
+    66.782,
+    69.182
+   ],
+   "frames": 72
+  },
+  {
+   "kind": "still",
+   "src": "F1_kf2",
+   "out": [
+    69.182,
+    74.282
+   ],
+   "frames": 153
+  },
+  {
+   "kind": "still",
+   "src": "F2_kf3",
+   "out": [
+    74.282,
+    75.586
+   ],
+   "frames": 40
+  },
+  {
+   "kind": "clip",
+   "src": "F2",
+   "out": [
+    75.586,
+    77.023
+   ],
+   "frames": 43
+  },
+  {
+   "kind": "clip",
+   "src": "P1b",
+   "out": [
+    77.023,
+    78.042
+   ],
+   "frames": 30
+  },
+  {
+   "kind": "clip",
+   "src": "P2b",
+   "out": [
+    78.042,
+    79.061
+   ],
+   "frames": 31
+  },
+  {
+   "kind": "clip",
+   "src": "P3b",
+   "out": [
+    79.061,
+    80.08
+   ],
+   "frames": 30
+  }
+ ],
+ "sync": [
+  {
+   "event": "patito/P1a",
+   "sound_t": 7.825,
+   "mouth_open_picture_t": 7.827,
+   "offset_ms": 2
+  },
+  {
+   "event": "patito/P1b",
+   "sound_t": 17.995,
+   "mouth_open_picture_t": 17.993,
+   "offset_ms": -2
+  },
+  {
+   "event": "gatito/P2a",
+   "sound_t": 27.632,
+   "mouth_open_picture_t": 27.62,
+   "offset_ms": -12
+  },
+  {
+   "event": "gatito/P2b",
+   "sound_t": 37.291,
+   "mouth_open_picture_t": 37.3,
+   "offset_ms": 9
+  },
+  {
+   "event": "ratoncito/P3a",
+   "sound_t": 46.393,
+   "mouth_open_picture_t": 46.383,
+   "offset_ms": -10
+  },
+  {
+   "event": "ratoncito/P3b",
+   "sound_t": 56.564,
+   "mouth_open_picture_t": 56.55,
+   "offset_ms": -14
+  },
+  {
+   "event": "elefantito/F1",
+   "sound_t": 65.132,
+   "mouth_open_picture_t": 65.117,
+   "offset_ms": -15
+  }
+ ]
+}
