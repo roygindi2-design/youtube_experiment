@@ -86,19 +86,42 @@ pieces.append(song[int(last * SR):])
 mix = pieces[0]
 for p in pieces[1:]:
     mix = join(mix, p)
+# v2 (researcher): every real sound >= +4 dB over the bed -> duck the bed under the mamá sounds (-8 dB, 0.9 s) AND the
+# baby sounds (-6 dB, 0.6 s), then set each sound's 0.4 s RMS to +6 dB over the bed RMS of the 0.5 s before its onset
+def rms(y):
+    return float(np.sqrt(np.mean(y ** 2)) + 1e-12)
+
+
+dry = mix.copy()
 g = np.ones(len(mix))
 for e in events:
-    a, b = int((e["mama_sound_out_t"] - 0.1) * SR), int((e["mama_sound_out_t"] + 0.8) * SR)
-    r = int(0.08 * SR)
-    g[a:b] = np.minimum(g[a:b], 10 ** (-8 / 20))
-    g[a - r:a] = np.minimum(g[a - r:a], np.linspace(1, 10 ** (-8 / 20), r))
-    g[b:b + r] = np.minimum(g[b:b + r], np.linspace(10 ** (-8 / 20), 1, r))
+    for t, db, dur, r in ((e["mama_sound_out_t"], -8, 0.8, 0.08), (e["baby_sound_out_t"], -6, 0.5, 0.06)):
+        a, b, r = int((t - 0.1) * SR), int((t + dur) * SR), int(r * SR)
+        lv = 10 ** (db / 20)
+        g[a:b] = np.minimum(g[a:b], lv)
+        g[a - r:a] = np.minimum(g[a - r:a], np.linspace(1, lv, r))
+        g[b:b + r] = np.minimum(g[b:b + r], np.linspace(lv, 1, r))
 mix *= g
+levels = []
 for e in events:
     for k, t in (("baby", "baby_sound_out_t"), ("mama", "mama_sound_out_t")):
-        s = int(e[t] * SR)
-        mix[s:s + len(e[k])] += e[k][: len(mix) - s]
-mix /= max(1.0, np.abs(mix).max() / 0.98)
+        s0 = int(e[t] * SR)
+        bed = rms(dry[s0 - int(0.5 * SR):s0])
+        snd = e[k][: len(mix) - s0]
+        snd = snd * (bed * 10 ** (6 / 20) / rms(snd[: int(0.4 * SR)]))
+        mix[s0:s0 + len(snd)] += snd
+        levels.append((e["pair"], k, round(20 * np.log10(rms(mix[s0:s0 + int(0.4 * SR)])) - 20 * np.log10(bed), 1)))
+# trim the silent tail: end 0.3 s after the last sound above -32 dBFS, 0.2 s fade
+fr = librosa.feature.rms(y=mix, frame_length=2048, hop_length=512)[0]
+loud = np.where(20 * np.log10(fr + 1e-12) > -32)[0]
+end = min(len(mix), int(librosa.frames_to_time(loud[-1], sr=SR, hop_length=512) * SR + 0.3 * SR))
+mix = mix[:end]
+f = int(0.2 * SR)
+mix[-f:] *= np.linspace(1, 0, f)
+# soft limiter -> peak <= -1 dBFS
+lim = 10 ** (-1 / 20)
+mix = lim * np.tanh(mix / lim)  # never above -1 dBFS
+print("levels over bed (dB):", levels)
 sf.write(out_wav, mix, SR)
 for e in events:
     e.pop("baby"), e.pop("mama")
