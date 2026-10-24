@@ -100,3 +100,9 @@
 | C14 | P1b clip: mamá pata turns + quacks, bounce | MiniMax H3 Max, 768P, 5 s | 35 | como_hace_weave/P1b_minimax.mp4 |
 | C15 | P2a clip: kitten meows | MiniMax H3 Max, 768P, 5 s | 35 | como_hace_weave/P2a_minimax.mp4 |
 | C16 | P2b clip: mamá gata turns + meows, bounce | MiniMax H3 Max, 768P, 5 s | 35 | como_hace_weave/P2b_minimax.mp4 |
+| C17 | P3a keyframe: little mouse alone, yellow T-shirt (butter yellow) | Nano Banana 2.1, 9:16, ref ref_mouse_v | 3.5 | como_hace_weave/P3a_kf.jpg |
+| C18 | P3b keyframe: mouse + mamá ratona (already in place) | Nano Banana 2.1, 9:16, refs ref_mouse_v + mama_ratona_ref | 3.5 | como_hace_weave/P3b_kf.jpg |
+| C19 | T2 keyframe: Tito kitten paws (mint) | Nano Banana 2.1, 9:16, edit of T1_kf2 | 3.5 | como_hace_weave/T2_kf.jpg |
+| C20 | T3 keyframe: Tito mouse paws (mint) | Nano Banana 2.1, 9:16, edit of T1_kf2 | 3.5 | como_hace_weave/T3_kf.jpg |
+| C21 | F1 keyframe: Tito trunk up (lilac) | Nano Banana 2.1, 9:16, ref tito_master | 3.5 | como_hace_weave/F1_kf.jpg |
+| C22 | F2 keyframe: Tito + Mamá trunks up, apart (lilac) | Nano Banana 2.1, 9:16, refs tito_master + mama_master | 3.5 | como_hace_weave/F2_kf.jpg |
