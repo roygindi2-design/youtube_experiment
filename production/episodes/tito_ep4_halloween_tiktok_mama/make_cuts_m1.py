@@ -11,7 +11,9 @@ H = D.parent / "tito_ep4_halloween"
 WV = D.parents[1] / "review" / "tiktok_mama_weave"
 B = 60 / 110
 W = {"STUCK@0": (0.05, 3.87), "POP@0": (0.05, 3.32), "KISS@0": (1.18, 5.0)}
-plan = [("STUCK@0", 7), ("POP@0", 6), ("KISS@0", 7)]
+# v2 (researcher §12): the KISS shot fails (Mamá's trunk rests on his forehead ~0.75 s, eyes closed, set/bucket jump)
+# -> end on the POP "hooray" (13 beats, 7.09 s), loop back to the wiggle
+plan = [("STUCK@0", 7), ("POP@0", 6)]
 cuts, t = [], 0.0
 for tok, beats in plan:
     e = round(t + beats * B, 3)

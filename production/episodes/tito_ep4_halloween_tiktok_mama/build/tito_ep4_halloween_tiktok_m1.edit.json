@@ -28,14 +28,6 @@
    "speed": 0.999,
    "src_len": 3.27,
    "shot": "POP@0"
-  },
-  {
-   "file": "/home/user/youtube_experiment/production/episodes/tito_ep4_halloween_tiktok_mama/build/vsrc/m1_KISS_s0.mp4",
-   "in": 1.18,
-   "dur": 3.818,
-   "speed": 1.0,
-   "src_len": 3.818,
-   "shot": "KISS@0"
   }
  ],
  "sfx": [],
