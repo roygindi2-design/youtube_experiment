@@ -48,6 +48,6 @@ with tempfile.TemporaryDirectory() as td:
     f = (f"[1:v]format=rgba,{fin}fade=t=out:st={a.until - 0.3}:d=0.3:alpha=1[t];"
          f"[0:v][t]overlay=0:0:enable='between(t,{a.start},{a.until})',format=yuv420p[v]")
     subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", a.inp, "-loop", "1", "-t", str(a.until + 0.1), "-i", str(png),
-                    "-filter_complex", f, "-map", "[v]", "-map", "0:a", "-c:v", "libx264", "-preset", "slow", "-crf", "17",
+                    "-filter_complex", f, "-map", "[v]", "-map", "0:a?", "-c:v", "libx264", "-preset", "slow", "-crf", "17",
                     "-c:a", "copy", "-shortest", "-movflags", "+faststart", a.out], check=True)
 print("done", a.out)
