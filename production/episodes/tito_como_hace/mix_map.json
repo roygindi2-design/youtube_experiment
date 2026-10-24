@@ -1,0 +1,39 @@
+{
+ "bpm": 112.35,
+ "beat": 0.5341,
+ "duration": 83.43,
+ "pairs": [
+  {
+   "pair": "patito",
+   "insert_song_t": 7.291,
+   "insert_out_t": 7.291,
+   "baby_sound_out_t": 7.825,
+   "mama_sound_song_t": 15.859,
+   "mama_sound_out_t": 17.995
+  },
+  {
+   "pair": "gatito",
+   "insert_song_t": 24.961,
+   "insert_out_t": 27.098,
+   "baby_sound_out_t": 27.632,
+   "mama_sound_song_t": 33.019,
+   "mama_sound_out_t": 37.291
+  },
+  {
+   "pair": "ratoncito",
+   "insert_song_t": 41.587,
+   "insert_out_t": 45.859,
+   "baby_sound_out_t": 46.393,
+   "mama_sound_song_t": 50.155,
+   "mama_sound_out_t": 56.564
+  },
+  {
+   "pair": "elefantito",
+   "insert_song_t": 58.189,
+   "insert_out_t": 64.598,
+   "baby_sound_out_t": 65.132,
+   "mama_sound_song_t": 67.291,
+   "mama_sound_out_t": 75.836
+  }
+ ]
+}
