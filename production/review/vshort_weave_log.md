@@ -15,6 +15,6 @@
 | # | job | model | credits | result |
 |---|---|---|---|---|
 | B1 | G1 wide keyframe (whole head in frame) | Nano Banana 2.1, 16:9, from kf_v1/pick_G1 | 3.5 | done: production/review/brocoli_weave/G1_wide_kf.jpg |
-| B2 | G1 forest walk (tracking) | Kling Video 2.5 Turbo Pro, 16:9, 5 s, first_frame G1_wide_kf | 35 | running |
-| B3 | carrot rocket flight | Kling Video 2.5 Turbo Pro, 16:9, 5 s, first_frame kf_v1/pick_C1 (carrot face kept, per the researcher) | 35 | running |
+| B2 | G1 forest walk (tracking) | Kling Video 2.5 Turbo Pro, 16:9, 5 s, first_frame G1_wide_kf | 35 | done: brocoli_weave/G1_kling.mp4. Walks forward, trees pass, head in frame; blinks ~1.5/2.5, eyes closed ~3.5-3.75; small 'o' mouth at 0.75 and 3.0 |
+| B3 | carrot rocket flight | Kling Video 2.5 Turbo Pro, 16:9, 5 s, first_frame kf_v1/pick_C1 (carrot face kept, per the researcher) | 35 | done: brocoli_weave/rocket_kling.mp4. Flies + clouds rush; BUT a wide-open-mouth laugh 1.4-3.2 -> only 0.05-1.15 + 3.3-4.94 used |
 **Total spent: 227.5 / 230 (cap reached, no retries left)**
