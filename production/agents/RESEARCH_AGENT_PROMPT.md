@@ -104,3 +104,6 @@ Every script gets EPISODE_TEMPLATE §ט: World design — deep (zones, light arc
 
 ## I. Distribution (Roy 24.10)
 No YouTube Shorts anymore (no cut-downs, no vertical Shorts). Each episode = the long YouTube episode + ONE TikTok video. TikTok packages: burned-in hook text, caption with the episode link, hashtag set A/B rotation (research/18).
+
+## J. Learning signal (Roy 24.10)
+YouTube numbers are NOT a learning signal (no exposure — 0–16 views per video). Learn ONLY from TikTok (real exposure). For every TikTok post log: views, avg watch, completion %, likes/saves/shares, followers, audience — at +24 h — in research/tiktok/log.json, and compare hooks/texts/hashtag sets. Ask Roy for the TikTok analytics screenshot of each post.
