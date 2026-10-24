@@ -54,3 +54,10 @@
 | — | Roy (round 3): all OK incl. the hug m2_s3_kf3 (overrides the researcher's FAIL); only the dodge must be a cute playful "mom, stop!" wriggle, not running away | — | 0 | |
 | A14 | M2 s1 v4: playful dodge right next to Mamá, hands up, eyes open | Nano Banana 2.1, 9:16, refs m2_s2_kf + m1_s2_kf2 | 3.5 | tiktok_mama_weave/m2_s1_kf4.jpg |
 | A15 | M2 s1 v4 mouth fix (Roy: "Mamá's mouth with the trunk looks unnatural") | Nano Banana 2.1, 9:16, edit of m2_s1_kf4 | 3.5 | tiktok_mama_weave/m2_s1_kf5.jpg |
+| K1 | M1 shot 1 clip (stuck, wiggle + hops) | Kling Video 2.5 Turbo Pro, 9:16, 5 s, first_frame m1_s1_kf3 | 35 | tiktok_mama_weave/m1_s1_kling.mp4 |
+| K2 | M1 shot 2 clip (tug down, cheer) | Kling Video 2.5 Turbo Pro, 9:16, 5 s, first_frame m1_s2_kf2 | 35 | tiktok_mama_weave/m1_s2_kling.mp4 |
+| K3 | M1 shot 3 clip (forehead kiss, bucket up) | Kling Video 2.5 Turbo Pro, 9:16, 5 s, first_frame m1_s3_kf | 35 | tiktok_mama_weave/m1_s3_kling.mp4 |
+| K4 | M2 shot 1 clip (playful dodge x2) | Kling Video 2.5 Turbo Pro, 9:16, 5 s, first_frame m2_s1_kf5 | 35 | tiktok_mama_weave/m2_s1_kling.mp4 |
+| K5 | M2 shot 2 clip (Mamá's pout) | Kling Video 2.5 Turbo Pro, 9:16, 5 s, first_frame m2_s2_kf | 35 | tiktok_mama_weave/m2_s2_kling.mp4 |
+| K6 | M2 shot 3 clip (the hug) | Kling Video 2.5 Turbo Pro, 9:16, 5 s, first_frame m2_s3_kf3 | 35 | tiktok_mama_weave/m2_s3_kling.mp4 |
+**M1 + M2 total: 262.5 / 270** (7.5 left: no clip retries possible)
