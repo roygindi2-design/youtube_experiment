@@ -53,3 +53,4 @@
 | A13 | M2 s3 v3: plain hug, chin on shoulder, trunks down, bucket on the step | Nano Banana 2.1, 9:16, refs m2_s2_kf + m1_s2_kf | 3.5 | tiktok_mama_weave/m2_s3_kf3.jpg |
 | — | Roy (round 3): all OK incl. the hug m2_s3_kf3 (overrides the researcher's FAIL); only the dodge must be a cute playful "mom, stop!" wriggle, not running away | — | 0 | |
 | A14 | M2 s1 v4: playful dodge right next to Mamá, hands up, eyes open | Nano Banana 2.1, 9:16, refs m2_s2_kf + m1_s2_kf2 | 3.5 | tiktok_mama_weave/m2_s1_kf4.jpg |
+| A15 | M2 s1 v4 mouth fix (Roy: "Mamá's mouth with the trunk looks unnatural") | Nano Banana 2.1, 9:16, edit of m2_s1_kf4 | 3.5 | tiktok_mama_weave/m2_s1_kf5.jpg |
