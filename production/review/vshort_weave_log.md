@@ -61,3 +61,9 @@
 | K5 | M2 shot 2 clip (Mamá's pout) | Kling Video 2.5 Turbo Pro, 9:16, 5 s, first_frame m2_s2_kf | 35 | tiktok_mama_weave/m2_s2_kling.mp4 |
 | K6 | M2 shot 3 clip (the hug) | Kling Video 2.5 Turbo Pro, 9:16, 5 s, first_frame m2_s3_kf3 | 35 | tiktok_mama_weave/m2_s3_kling.mp4 |
 **M1 + M2 total: 262.5 / 270** (7.5 left: no clip retries possible)
+| QC | K1/K2/K4 fail (arms free at 0.6, open-mouth laughs, eyes closed, Mamá's trunk on his head), K6 trunk near face; K3 OK; K5 salvageable | — | 0 | Roy 24.10: approved an EXTRA ~140 for 4 re-renders (new cap 410) |
+| R1 | M1 s1 re-render, first = last = m1_s1_kf3 | Kling First & Last Frame 2.5 Turbo Pro, 5 s | 35 | tiktok_mama_weave/m1_s1_fl.mp4 |
+| R2 | M1 s2 re-render, first = last = m1_s2_kf2 | Kling First & Last Frame 2.5 Turbo Pro, 5 s | 35 | tiktok_mama_weave/m1_s2_fl.mp4 |
+| R3 | M2 s1 re-render, first = last = m2_s1_kf5 | Kling First & Last Frame 2.5 Turbo Pro, 5 s | 35 | tiktok_mama_weave/m2_s1_fl.mp4 |
+| R4 | M2 s3 re-render, first = last = m2_s3_kf3 | Kling First & Last Frame 2.5 Turbo Pro, 5 s | 35 | tiktok_mama_weave/m2_s3_fl.mp4 |
+**M1 + M2 total: 402.5 / 410**
