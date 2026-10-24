@@ -1,7 +1,7 @@
 # SCRIPT — tito_frio_calor v2 (23.10): ¡Las Puertas Mágicas de Tito! 🚪❄️☀️🌧️
 **Format:** long episode 16:9, song 2:30 (28 lines, 112 bpm), 3 Shorts (one per door) + TikTok. Template + preflight OK. The old Short version is kept in SCRIPT_short_v1.md / spec_short_v1.json.
 **Concept + evidence:** research/20-hooks-and-new-concepts.md (Concept A). Doctora Sophia "La Puerta Misteriosa de Colores" = 5.39M views/day (23.10); mystery doors = our Halloween structure.
-**Moral / punchline:** dress for the weather; and the best world of all is home: the small RED door opens onto Mamá's hug.
+**Moral / punchline (v3, Roy 24.10):** dress for the weather — and the last small RED door lets ALL the weathers in at once: Tito tries to wear EVERYTHING (a silly tower of clothes), then sun + rain make a RAINBOW and all the friends from the worlds come through the doors to celebrate.
 
 ## Design bible
 **Environment — living room (hub):** cream wall with three tall round doors (BLUE with frost patterns, YELLOW with a golden sun glow, GREEN with leaves and drops) + a small RED door at the side; a cat-shaped rug, a toy shelf, a sunny window with curtains; magic sparkles float around the doors.
@@ -111,9 +111,6 @@ Every shot is START → ACTION → END in spec.json. Chorus signature dance (in 
 | 28 | Outro | ¡Un abrazo de mamá! ¡Lo mejor! | H2 | Tito runs in and hugs her on the beat, she hugs him and sways once |
 Cutaways: S2 (dressing for snow) splits line 7 with S1; B2 (hat + water) splits line 16 with B3.
 
-## Shorts ("resolve one, open the next")
-A: I1 → blue door → snow → sled → chorus → ends on the YELLOW door knock. B: yellow door → beach gag (jacket in the sun) → surf → chorus → ends on the GREEN door knock. C: green door → rain → frog → chorus → the RED door → Mamá's hug.
-TikTok: 12–15 s "beach in a winter jacket" gag (B1) → text "Cuando tu peque elige la ropa solito 😂".
 
 ## Spanish check (Mexico)
 chamarra (MX), impermeable, botas, gorro, bufanda, trineo, ranita: common Mexican toddler words; sound words: toc toc, brrr, zuuum, uf, plic plic, splash.
@@ -122,13 +119,10 @@ chamarra (MX), impermeable, botas, gorro, bufanda, trineo, ranita: common Mexica
 - **The door concept is one of the biggest kids' Shorts formats right now:** Doctora Sophia "La Puerta Misteriosa de Colores" — 238.7M views (×180 the channel median). RoboSquad "Desafío de la puerta mágica" 88K (new).
 - **Title/thumbnail:** lead with the doors + a question: "¿Qué hay detrás de la puerta mágica? 🚪❄️☀️🌧️ | Canciones Infantiles". Thumbnail = the 3 glowing doors + Tito peeking, the blue door half-open with snow blowing out.
 
-## Vertical Short (9:16, native — template §י, 23.10)
-**Audio:** the episode's verse 2 (the beach door) + chorus (~33 s, 112 bpm, cuts on the master's grid). **Hook (second 0):** the YELLOW door bursts open and Tito walks onto the hot beach still in his WINTER jacket, hat and scarf, sweating — the funniest gag of the episode.
-| # | shot (9:16) | composition | action |
-|---|---|---|---|
-| V1 | the yellow door opens | the tall door fills the frame, Tito small in front | sunlight and seashells pour out as it opens |
-| V2 | jacket on the beach | Tito full body, low angle, palm trees and the big sun above | he sweats and fans himself, the crab laughs at his feet |
-| V3 | off with the jacket | Tito full body | he takes off the hat, scarf and jacket and drops them on a beach chair (by hand, one by one) |
-| V4 | splash | the waves at the bottom, Tito jumping in the middle | he jumps into a small wave, sparkling drops |
-| V5–V8 | chorus | doors behind him in a vertical row | the door dance, recomposed for 9:16 |
-| End | the red door | the small red door glowing, Tito peeking in | cliffhanger to the full episode ("¿y la puerta roja?") |
+
+## v3 (Roy 24.10) — new punchline "the mixed-up door" + distribution
+- **Outro (lines 27–28):** "¿Y la puerta roja? ¡Todo junto! ¡Me pongo todo!" / "¡Un arcoíris! ¡Amigos, a celebrar!"
+- **H1 — the silly mix:** the small red door bursts open, snowflakes + sunbeams + raindrops swirl into the living room together; the clothes fly onto Tito one after another — red hat, striped scarf, the straw sun hat on top, sunglasses, the yellow raincoat, red boots, the umbrella — he wobbles under the tower of clothes, laughing (closed mouth), peeks out with a happy squint. Kids shout what he should wear.
+- **H2 — the rainbow party:** the sunbeams meet the raindrops → a big rainbow arcs across the room from the blue door to the green door; the friends come through the doors: the snowman, the robin (flies a loop), the dolphin splashing in a big round puddle, the frog on a leaf; everyone jumps for joy together under the rainbow.
+- **Why it's stronger:** a big laugh (the clothes tower) + a visual WOW (a rainbow inside the room) + the friends payoff; the chorus line "¡Frío, calor o lluvia, ya!" comes true all at once. The kitchen/Mamá ending is removed.
+- **Distribution (Roy 24.10):** no Shorts. ONE TikTok (~20 s): second 0 = Tito walks onto the hot beach in his winter jacket, sweating (burned-in text "¿Qué hará Tito?") → off with the jacket → jump cut to the red door bursting → the clothes tower → the rainbow with the friends.
