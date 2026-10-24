@@ -90,3 +90,5 @@
 | C4 | P1a keyframe: the duckling alone (sky blue) | Nano Banana 2.1, 9:16, ref tito_basura P2 | 3.5 | como_hace_weave/P1a_kf.jpg |
 | C5 | H1 redo: hand behind the ear, look right, trunk down | Nano Banana 2.1, 9:16, edit of H1_kf + tito_master | 3.5 | como_hace_weave/H1_kf2.jpg |
 | C6 | P1a redo: the clay-toy duckling from tito_basura | Nano Banana 2.1, 9:16, refs basura P2/P3/P7 | 3.5 | como_hace_weave/P1a_kf2.jpg |
+| C7 | A/B: P1a duckling quack, MiniMax | MiniMax H3 Max i2v, 768P, 5 s, from P1a_kf2 | 35 | como_hace_weave/P1a_minimax.mp4 |
+| C8 | A/B: P1a duckling quack, Kling | Kling Video 2.5 Turbo Pro, 9:16, 5 s, from P1a_kf2 | 35 | como_hace_weave/P1a_kling.mp4 |
