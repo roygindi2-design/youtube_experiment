@@ -18,3 +18,11 @@
 | B2 | G1 forest walk (tracking) | Kling Video 2.5 Turbo Pro, 16:9, 5 s, first_frame G1_wide_kf | 35 | done: brocoli_weave/G1_kling.mp4. Walks forward, trees pass, head in frame; blinks ~1.5/2.5, eyes closed ~3.5-3.75; small 'o' mouth at 0.75 and 3.0 |
 | B3 | carrot rocket flight | Kling Video 2.5 Turbo Pro, 16:9, 5 s, first_frame kf_v1/pick_C1 (carrot face kept, per the researcher) | 35 | done: brocoli_weave/rocket_kling.mp4. Flies + clouds rush; BUT a wide-open-mouth laugh 1.4-3.2 -> only 0.05-1.15 + 3.3-4.94 used |
 **Total spent: 227.5 / 230 (cap reached, no retries left)**
+
+## Halloween TikTok 2 "¿Quién es? 👀" (Roy 24.10 in the producer chat: approved up to 180, HARD cap 180, separate from the 230 above)
+| # | job | model | credits | result |
+|---|---|---|---|---|
+| T1 | KNOCK keyframe (purple door) | Nano Banana 2.1, 9:16, from open_walk_kf2 + pick_D2_v9 | 3.5 | tiktok2_weave/knock_kf.png |
+| T2 | KITTEN keyframe (purple door open) | Nano Banana 2.1, 9:16, refs pick_V1 + pick_D2_v9 + tito_pumpkin_master | 3.5 | tiktok2_weave/kitten_kf.png |
+| T3 | BAT keyframe (orange door open) | Nano Banana 2.1, 9:16, ref pick_V2v5 | 3.5 | tiktok2_weave/bat_kf.png |
+| T4 | LOOP END keyframe (green door, looks back "?") | Nano Banana 2.1, 9:16, from open_walk_kf2 + tito_pumpkin_master | 3.5 | tiktok2_weave/loop_kf.png |
