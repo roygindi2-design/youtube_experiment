@@ -313,3 +313,4 @@ Data: research/market/halloween_titles_2026-10-22.json
 - 04:05: waiting for Roy (brocoli v3b upload OK; next-episode pick). No production actions.
 - 06:05: still waiting for Roy (brocoli upload OK, next episode). No production actions.
 - 08:05: waiting for Roy. No production actions.
+- 24.10 ~08:30: Roy: brocoli v3b approved as is (no changes), upload ON HOLD until he says. Status report sent (analyst meetings stopped after 22.10 20:47).
