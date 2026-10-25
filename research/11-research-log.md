@@ -348,3 +348,4 @@ Data: research/market/halloween_titles_2026-10-22.json
 - 14:05 (25.10): Short _6ztnDmAFyg 9 views at +4 h; episode Eo_PHQrLDs0 6 (+1). Still waiting for Roy (TikTok analytics, Gangnam Style yes/no).
 - 16:05 (25.10): Short 9 views at +6 h (flat since 14:05), episode 6. No new input from Roy. Waiting.
 - 18:05 (25.10): Short 9 / episode 6 (flat). No new input from Roy.
+- 20:05 (25.10): Short 9 / episode 6 (flat for 6 h; the Shorts feed is not pushing it yet). No new input from Roy.
