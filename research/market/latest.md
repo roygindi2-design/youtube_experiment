@@ -1,48 +1,48 @@
-# סריקת שוק — Shorts לפעוטות בספרדית (2026-10-23 10:06 UTC, 14 ימים אחרונים)
+# סריקת שוק — Shorts לפעוטות בספרדית (2026-10-25 06:05 UTC, 14 ימים אחרונים)
 
-118 Shorts מסומנים Made for Kids. מדד: צפיות ליום (views/age).
+135 Shorts מסומנים Made for Kids. מדד: צפיות ליום (views/age).
 
 ## פורמטים: חציון צפיות ליום עם/בלי
 
 | פורמט | n | עם | בלי | יחס |
 |---|---|---|---|---|
-| hábito | 9 | 958,645 | 26,583 | ×36.06 |
-| comida | 6 | 155,629 | 27,105 | ×5.74 |
-| canción | 31 | 30,905 | 26,801 | ×1.15 |
-| gigante/sorpresa | 10 | 23,384 | 29,671 | ×0.79 |
-| pregunta (¿) | 20 | 23,414 | 30,532 | ×0.77 |
-| animales | 15 | 14,991 | 30,159 | ×0.5 |
-| dónde está / escondite | 11 | 12,551 | 35,427 | ×0.35 |
-| colores | 48 | 14,924 | 44,232 | ×0.34 |
-| juego / reto | 3 | 0 | 30,159 | ×0.0 |
+| comida | 4 | 211,104 | 25,165 | ×8.39 |
+| gigante/sorpresa | 6 | 52,458 | 24,984 | ×2.1 |
+| pregunta (¿) | 24 | 23,304 | 27,541 | ×0.85 |
+| canción | 35 | 13,087 | 27,372 | ×0.48 |
+| colores | 50 | 15,542 | 35,304 | ×0.44 |
+| hábito | 7 | 10,565 | 25,473 | ×0.41 |
+| animales | 20 | 12,502 | 34,234 | ×0.37 |
+| dónde está / escondite | 20 | 3,002 | 35,304 | ×0.09 |
+| juego / reto | 3 | 0 | 25,473 | ×0.0 |
 
 ## אורך
 
 | אורך | n | חציון צפיות ליום |
 |---|---|---|
-| 0-20s | 14 | 20,875 |
-| 20-30s | 57 | 23,658 |
-| 30-45s | 31 | 29,183 |
-| 45-62s | 16 | 120,448 |
+| 0-20s | 19 | 21,196 |
+| 20-30s | 56 | 40,713 |
+| 30-45s | 40 | 19,888 |
+| 45-62s | 20 | 21,474 |
 
 ## 15 המובילים עכשיו
 
 | צפיות ליום | אורך | ערוץ | כותרת |
 |---|---|---|---|
-| 6,133,764 | 40s | El Tren Ñam-Ñam | ¿Quién Dejó Estas Huellas de Colores? 🐾🎨 / ¡Pequeño Dientecito, Lávate los Pies! |
-| 5,111,101 | 47s | Doctora Sophia Español | ¡Vamos a Cepillar el Diente Gigante! / Hábitos Saludables / Canciones Infantiles #shorts |
-| 1,932,999 | 32s | VocaVoca - Kids Songs &  | Where's all this garbage going? Sorting trash for kids |
-| 1,265,670 | 26s | Doctora Sophia Español | Aprende los Colores con Helado / Cepíllate los Dientes / Canciones Infantiles #shorts |
-| 1,176,926 | 55s | El Tren Ñam-Ñam | ¡Casitas de Comida Deliciosa para los Dientecitos! 🦷🍎 / Diversión para Niños |
-| 958,645 | 53s | Lunito | Cuentos y Canci | Kael aprende a lavarse las manos 🧼✨ / Hábitos para niños |
-| 697,680 | 60s | Juguetes y Colores | ¿Dónde está Maddie? Ellie y Wendy la buscan 😱🔎 |
-| 681,048 | 60s | Rosoo en Español | Policías / ¡Atrapemos al Ladrón! / Rosoo en Español #shorts |
-| 611,713 | 15s | Bacha Bola - Kids Songs  | Traffic Light / Nursery Rhymes & Kids Songs / BachaBola #babyshorts #hindirhymes |
-| 563,199 | 36s | El Tren Ñam-Ñam | ¡Vamos a Dibujar Animales! 🐸🎨 / ¿De Qué Color Es la Rana? |
-| 516,749 | 31s | Car Wheel Español | Aprendemos los colores con las ruedas del camión de bomberos - Canciones infantiles |
-| 515,032 | 24s | Car Wheel Español | Autobús escolar - ¡Ruedas de formas extrañas! - Canciones infantiles |
-| 467,703 | 22s | Quizzlepop - Learn & Pla | Jump + Color = Costume! 🎃 🥦 Fun Game for Kids |
-| 403,960 | 20s | Cocobi Español - Cancion | ¡Cuidado! ¡El Bebé Se Va A Comer La Pintura!😱🎨 #Shorts |
-| 397,686 | 45s | Toddler Zoo - Nursery Rh | Babies Drawing Pencil Save the Animals! / Hippo🦛Lion🦁Flamingo🦩 Need Color! #shortsforkids |
+| 8,514,093 | 40s | El Tren Ñam-Ñam | ¿Quién Dejó Estas Huellas de Colores? 🐾🎨 / ¡Pequeño Dientecito, Lávate los Pies! |
+| 1,779,529 | 60s | Rosoo en Español | Policías / ¡Atrapemos al Ladrón! / Rosoo en Español #shorts |
+| 1,683,875 | 22s | Quizzlepop - Learn & Pla | Jump + Color = Costume! 🎃 🥦 Fun Game for Kids |
+| 1,458,848 | 23s | Balaland - Kids Songs | Put on your shoes ! / Kids Videos & Kids Songs #shoes #kidsshorts #usakids |
+| 1,285,122 | 55s | El Tren Ñam-Ñam | ¡Casitas de Comida Deliciosa para los Dientecitos! 🦷🍎 / Diversión para Niños |
+| 961,500 | 19s | VLATIK | Swing for baby and dad 🥰🤩🌈 |
+| 826,583 | 45s | El Tren Ñam-Ñam | ¿Grande o Pequeño? 🐘🐭 / Comparando Tamaños de Animales para Niños |
+| 768,811 | 36s | El Tren Ñam-Ñam | ¡Vamos a Dibujar Animales! 🐸🎨 / ¿De Qué Color Es la Rana? |
+| 720,869 | 15s | Bacha Bola - Kids Songs  | Traffic Light / Nursery Rhymes & Kids Songs / BachaBola #babyshorts #hindirhymes |
+| 616,952 | 31s | Car Wheel Español | Aprendemos los colores con las ruedas del camión de bomberos - Canciones infantiles |
+| 557,477 | 31s | CokiFam | What Color Will It Turn? 😲 Learn Colors with Trucks for Toddlers #shorts |
+| 523,696 | 46s | Baby Berry Mundo Infanti | ¿Es difícil compartir el chocolate? 🍫 ¡Aprende a compartir! #CancionesInfantiles #shorts |
+| 503,157 | 24s | Car Wheel Español | Autobús escolar - ¡Ruedas de formas extrañas! - Canciones infantiles |
+| 464,402 | 26s | HulaHoop | Where's a baby duck? / Superheroes & More / Kids Songs & Kids Videos #ducks #babyshorts |
+| 439,004 | 22s | ABC Smart Kids | ABC Colors for Kids (I–P) / Learn Colors with the Alphabet 🎨🌈#shorts |
 
 _הערה: מתאם, לא סיבתיות. ערוץ אחד חזק יכול להטות פורמט שלם — בודקים את רשימת המובילים לפני מסקנה._

@@ -105,3 +105,8 @@ Misses this week that Roy caught: the candy POUR (unnatural), an eye-roll (Tito 
 - i2v prompts that compare to an animal ("flap like wings", "paws like a cat") make the model ADD the animal part (feathers, paw pads) = a body change → FAIL. Describe the human gesture only ("elbows bent, hands flapping at his sides").
 - Mouth-sync animal shots: MiniMax H3 > Kling 2.5 Turbo (clean openings, fewer eye closures).
 - Pair shots: start with the mamá already in place beside the baby (turn + sound) instead of a walk-in.
+
+## Lessons from Roy 25.10 (rhythm)
+- Dance/rhythm TikToks: deliver with the music burned in and every dance hit on a beat (±1 frame). Silent + in-app sound = FAIL, because the sync is random.
+- Frame 0–0.5 s must move (motion ≥ the clip average). A frozen opening = FAIL.
+- Across a cut, the character design must match (trunk length, costume size, scale). Any change = FAIL.

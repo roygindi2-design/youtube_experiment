@@ -323,3 +323,10 @@ Data: research/market/halloween_titles_2026-10-22.json
 - 00:05 (25.10): como_hace shorts v2 on HOLD (my QC): B1 filler grew paw pads; idle clips too static (near-freezes 0.3–0.5 s, H1 reused as filler) → the same "stuck" feel Roy rejected. Root cause = low-motion source clips; Weave 532/550. Options put to Roy: (a) ~4 dynamic clips per animal (waddle/hop/pounce, ~140/animal) or (b) pause the format and push the short formats that work (≤12 s: Be OK, M1). Kept: native 24 fps, beat-locked cuts, mix v3.
 - 02:05 (25.10): waiting for Roy (como_hace: dynamic clips vs pause; posting Be OK + M1). No production actions.
 - 04:05 (25.10): still waiting for Roy. No production actions.
+- 06:05 (25.10) market scan (135 MFK Spanish toddler Shorts, 14 days):
+  - comida ×8.4 (n=4, small sample).
+  - gigante/sorpresa ×2.1.
+  - 20–30 s is the strongest length on YouTube Shorts (40.7K views/day median); TikTok rule stays ≤12 s.
+  - Rhythm QC (Roy refused both TikToks): Be OK v1 FAIL (silent, so the in-app sound can't sync; side-turn glitch). M1 FAIL (frozen hook; Tito's design changes at the cut).
+  - Be OK v2 built by me (hits beat-warped onto our "Buenos días, Tito", 6.6 s, 0 credits), waiting for Roy's review. Roy DROPPED M1.
+  - New QC rule: a dance clip must ship with its music burned in and hits on the beat (±1 frame); silent + in-app sound = FAIL.
