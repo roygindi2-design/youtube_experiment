@@ -49,3 +49,11 @@
 - Driving video: Pexels license.
 - Music: our own song.
 - No trending commercial sound burned in. Roy may add one in-app at low volume only if he wants; the burned-in sync stays primary.
+
+## QC kf1 (researcher 25.10): PASS, with a driving-video fix
+- Design matches pick_C1 (pumpkin body, stem cap, pink ears, short trunk). Arms and legs free; face and ears clear; eyes open; no props.
+- Risk: the ears span ~78% of the frame width. In the raw Pexels clip the boy runs in from the right (x 0.71 → 0.39 over 0–3 s), and with orientation "video" Tito would follow, so an ear would leave the frame.
+- Fix (0 cr): a reframed driving video that follows the boy (white-shirt tracking, 85% crop, smoothed), trimmed 0.5–10 s:
+  production/review/tiktok_halloween_baila/drive_7697117_reframed.mp4 (9.5 s, 1080×1920, 30 fps).
+  Use this file, NOT the raw Pexels URL.
+- QC focus on the output: ears in frame at 1.5–2.5 s, when the boy comes toward the camera.
