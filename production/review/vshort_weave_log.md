@@ -122,3 +122,6 @@
 | C35 | B1 keyframe: Tito neutral, ready to bounce (mint) — filler motion for the per-animal shorts (Roy: zero stills) | Nano Banana 2.1, 9:16, edit of T1_kf2 | 3.5 | como_hace_weave/B1_kf.jpg |
 | C36 | B1 clip: Tito bounces (filler motion) | MiniMax H3 Max, 768P, 5 s, from B1_kf | 35 | como_hace_weave/B1_minimax.mp4 |
 **¿Cómo hace? total: 532 / 550**
+
+## ¿Tito baila en Halloween? (TikTok, Roy cap 170, approved 25.10)
+- kf1 Nano Banana 2.1 1K 9:16, ref tito_ep4_halloween/kf/pick_C1.jpg, pred d950ddcc: 3.5 (total 3.5/170). Pending researcher QC.
