@@ -91,3 +91,4 @@
 - Text: 0–4 s "Mi peque cuando escucha 'Halloween' 🎃", 4–10 s "…y ya no lo para nadie 😅💃".
 - Deliverable: production/deliver/tito_halloween_baila_tiktok.mp4 (10.0 s, music burned in).
 - Weave total 331.5 (170 + 164 approved).
+- Roy posted it on TikTok 25.10. Analytics due at +24 h; compare with Be OK v2 and TikTok2.
