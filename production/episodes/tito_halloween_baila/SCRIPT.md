@@ -57,3 +57,19 @@
   production/review/tiktok_halloween_baila/drive_7697117_reframed.mp4 (9.5 s, 1080×1920, 30 fps).
   Use this file, NOT the raw Pexels URL.
 - QC focus on the output: ears in frame at 1.5–2.5 s, when the boy comes toward the camera.
+
+## QC MC1_raw (researcher 25.10): FAIL as a 8–10 s TikTok; only 0–~2.7 s is clean
+- Good:
+  - 0–2.7 s is strong full-body dance, eyes open, ears in frame.
+  - No turn to the back; the stem cap and costume are stable.
+- FAIL from 2.9 s:
+  - The eyes stay closed (squint-laugh) almost the whole rest of the clip, 2.9–9.5 s. A long closure fails the rule.
+- FAIL, design drift:
+  - The trunk is long at 0–1.5 s but short and stubby at ~2.0–3 s.
+  - Tito shrinks to ~60% of his size after 2.5 s (the boy walks away from the camera).
+- Root cause: orientation "video" copies the boy's FACE too. He laughs with squinted eyes, and his nose/face shape pulls Tito's trunk short. The size follows the boy's distance.
+- Salvage (0 cr): only 0–2.7 s (~7 hits). Too short for the TikTok plan (≥6 s), and a pingpong/repeat looks fake → not recommended.
+- Proposed rerun (Roy's OK needed, ~164 cr). Driver v2 (0 cr prep by me):
+  1. Scale-normalized crop: the boy keeps a constant height, so Tito keeps his size.
+  2. The boy's head blurred or masked, so no laugh or squint is transferred and Tito keeps the keyframe face (eyes open, long trunk).
+  3. Keep kf1.
