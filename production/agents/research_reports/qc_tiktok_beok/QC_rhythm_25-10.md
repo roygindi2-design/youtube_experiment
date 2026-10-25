@@ -16,3 +16,7 @@
 - **Continuity break at the cut (3.82 s):** Tito jumps from big and centered to small at the left. His trunk goes from short to long, and the costume from a big pumpkin to a small one. It reads as a different character.
 - **Music vs picture:** no move lands on the 110 bpm beat. The only event is the cut.
 - **No edit-only fix:** shot 1 has no motion to retime, and shot 2 alone is 3.3 s of weak action. Drop it, or re-render with a matching design (credits, Roy's call).
+
+## Decision (Roy 25.10)
+- M1: dropped, per the recommendation. Not posted, no re-render.
+- Be OK v2: waiting for Roy's review.
