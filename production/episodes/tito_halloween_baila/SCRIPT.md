@@ -73,3 +73,7 @@
   1. Scale-normalized crop: the boy keeps a constant height, so Tito keeps his size.
   2. The boy's head blurred or masked, so no laugh or squint is transferred and Tito keeps the keyframe face (eyes open, long trunk).
   3. Keep kf1.
+- Driver v2 ready (0 cr): production/review/tiktok_halloween_baila/drive_7697117_v2_facemask.mp4 (9.5 s, source 0.5–10 s).
+  - The boy's head is blurred (ellipse above the shirt).
+  - The crop is scale-normalized: shirt height ≈ 24% of the frame, so the boy's size is constant.
+  - Waiting for Roy's OK on ~164 cr.
