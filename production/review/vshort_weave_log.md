@@ -126,3 +126,5 @@
 ## ¿Tito baila en Halloween? (TikTok, Roy cap 170, approved 25.10)
 - kf1 Nano Banana 2.1 1K 9:16, ref tito_ep4_halloween/kf/pick_C1.jpg, pred d950ddcc: 3.5 (total 3.5/170). Researcher QC PASS.
 - MC1 Kling Motion Control V3.0 Pro, orientation video, kf1 + drive_7697117_reframed.mp4, pred f4aa9ce1: 164 (total 167.5/170).
+- MC1 QC FAIL (eyes closed from 2.9 s, trunk short, shrink). Roy approved +164 rerun 25.10.
+- MC2 Motion Control V3.0 Pro, orientation image, kf1 + drive_7697117_v2_facemask.mp4, pred 64f40f51: 164 (total 331.5).
