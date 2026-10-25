@@ -53,3 +53,9 @@ Common: frame 0 = the character already in the funny/conflict moment, close-up; 
 - Audience (v1): 25–34 42%, 35–44 22%, 18–24 21% → parents. Locations: Mexico 20.5, Guatemala 19.3, Nicaragua 10.3, Honduras 10.2, El Salvador 8.9, Venezuela 6.3 → exactly our LatAm target.
 - **Lesson (our own data, the only signal Roy trusts): viewers leave at ~6–8 s whatever the length. An 11 s video keeps 4.4× more full-watchers than a 28 s one (20.4% vs 4.6%) and gets more views in less time.** Keep TikToks ≤12 s, front-load the payoff.
 - Applied: como_hace (80 s) → split into short per-animal TikToks (~12–16 s each) instead of one long cut; the long version → YouTube.
+
+## TikTok data 25.10 07:13 (Halloween v1, 28 s, ~30 h)
+- 787 views (still climbing; hourly peak ~87–261 late in the window → the algorithm is still testing), avg 6.1 s, 5.71% full, 9 likes, 3 saves, 0 followers.
+- Retention: "most viewers stopped at 0:02". The curve drops 100% → ~45% within ~2 s. Frame 0 = Tito standing still on the street (no action, no question). **The first 2 s decide everything: frame 0 must already be ACTION + a hook text.**
+- Audience: 52% F / 46% M; 25–34 40%, 18–24 23%, 35–44 23%. Mexico 19.3, Venezuela 17.0, Guatemala 12.9, Honduras 8.7, El Salvador 7.4, Israel 4.6 (Roy's network), Nicaragua 4.3.
+- Roy 25.10: como_hace PAUSED (option 2). Post the short formats that already pass the rules (Be OK 8.4 s: frame 0 mid-dance + text; M1 7 s: frame 0 the costume-stuck wiggle + text).
