@@ -332,3 +332,4 @@ Data: research/market/halloween_titles_2026-10-22.json
   - New QC rule: a dance clip must ship with its music burned in and hits on the beat (±1 frame); silent + in-app sound = FAIL.
 - 25.10 (after 06:05): Roy posted Be OK on TikTok (v2, beat-synced). Ask for +24 h analytics. Compare with TikTok2 (8.3 s avg, 20.4% full).
 - 25.10 ~07:30: Halloween dance TikTok (10 s, beat-locked, own chorus) posted by Roy. Weave 331.5. Pending: +24 h analytics for Be OK v2 and the Halloween dance.
+- 08:05 (25.10): waiting for the +24 h TikTok analytics (Be OK v2, Halloween dance). No production actions.
