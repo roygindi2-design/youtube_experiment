@@ -343,3 +343,4 @@ Data: research/market/halloween_titles_2026-10-22.json
   - Ya Habebna 7.9K
   Candidates for Tito: Gangnam Style (the famous horse dance, kid-safe) and Goo Goo Muck (the Wednesday dance, spooky = Halloween).
   These are commercial songs: never burned in, only added in-app by Roy (YouTube's Shorts audio library). The rhythm lesson still applies: timing must be planned to the song's bpm and a known start point.
+- 10:05 (25.10) algorithm question: can made-for-kids Shorts use commercial songs from YouTube's Shorts audio library? A web search found nothing conclusive (only 2020 COPPA reports that YouTube Music disabled features on 'made for kids' songs). Practical test: Roy opens the Shorts editor on the channel and checks whether 'Add sound' offers Gangnam Style. Waiting for Roy (Gangnam Style dance script?) and for the TikTok +24 h analytics.
