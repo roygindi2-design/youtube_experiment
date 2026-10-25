@@ -333,3 +333,13 @@ Data: research/market/halloween_titles_2026-10-22.json
 - 25.10 (after 06:05): Roy posted Be OK on TikTok (v2, beat-synced). Ask for +24 h analytics. Compare with TikTok2 (8.3 s avg, 20.4% full).
 - 25.10 ~07:30: Halloween dance TikTok (10 s, beat-locked, own chorus) posted by Roy. Weave 331.5. Pending: +24 h analytics for Be OK v2 and the Halloween dance.
 - 08:05 (25.10): waiting for the +24 h TikTok analytics (Be OK v2, Halloween dance). No production actions.
+- 25.10 ~10:20: Halloween dance YouTube Short uploaded with Roy's OK: https://youtube.com/shorts/_6ztnDmAFyg (MFK, links Eo_PHQrLDs0). Check at +48 h: views, Shorts-feed share, related-video traffic to the episode.
+- Roy's screenshot of YouTube "trends for you" (Shorts sounds, 25.10):
+  - Gangnam Style (PSY) 754K Shorts
+  - Paparazzi 180K
+  - Goo Goo Muck (the Wednesday dance) 141K
+  - my sweetie (Jersey Club) 30K
+  - Dame Hombro 12K
+  - Ya Habebna 7.9K
+  Candidates for Tito: Gangnam Style (the famous horse dance, kid-safe) and Goo Goo Muck (the Wednesday dance, spooky = Halloween).
+  These are commercial songs: never burned in, only added in-app by Roy (YouTube's Shorts audio library). The rhythm lesson still applies: timing must be planned to the song's bpm and a known start point.
