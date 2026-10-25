@@ -347,3 +347,4 @@ Data: research/market/halloween_titles_2026-10-22.json
 - 12:05 (25.10): Halloween dance Short _6ztnDmAFyg at +2 h: 3 views, 1 like. The Halloween episode Eo_PHQrLDs0 has 5 views in total. Too early; re-check at +48 h. Waiting for Roy (TikTok analytics; Gangnam Style script yes/no; the Shorts-editor sound check).
 - 14:05 (25.10): Short _6ztnDmAFyg 9 views at +4 h; episode Eo_PHQrLDs0 6 (+1). Still waiting for Roy (TikTok analytics, Gangnam Style yes/no).
 - 16:05 (25.10): Short 9 views at +6 h (flat since 14:05), episode 6. No new input from Roy. Waiting.
+- 18:05 (25.10): Short 9 / episode 6 (flat). No new input from Roy.
