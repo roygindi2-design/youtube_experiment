@@ -330,3 +330,4 @@ Data: research/market/halloween_titles_2026-10-22.json
   - Rhythm QC (Roy refused both TikToks): Be OK v1 FAIL (silent, so the in-app sound can't sync; side-turn glitch). M1 FAIL (frozen hook; Tito's design changes at the cut).
   - Be OK v2 built by me (hits beat-warped onto our "Buenos días, Tito", 6.6 s, 0 credits), waiting for Roy's review. Roy DROPPED M1.
   - New QC rule: a dance clip must ship with its music burned in and hits on the beat (±1 frame); silent + in-app sound = FAIL.
+- 25.10 (after 06:05): Roy posted Be OK on TikTok (v2, beat-synced). Ask for +24 h analytics. Compare with TikTok2 (8.3 s avg, 20.4% full).

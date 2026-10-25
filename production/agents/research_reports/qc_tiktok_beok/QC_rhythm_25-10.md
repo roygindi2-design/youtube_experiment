@@ -19,4 +19,4 @@
 
 ## Decision (Roy 25.10)
 - M1: dropped, per the recommendation. Not posted, no re-render.
-- Be OK v2: waiting for Roy's review.
+- Be OK: Roy posted it on TikTok 25.10 (v2 assumed). Analytics due at +24 h (views, avg watch, % full, shares).
