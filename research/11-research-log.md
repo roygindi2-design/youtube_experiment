@@ -349,3 +349,14 @@ Data: research/market/halloween_titles_2026-10-22.json
 - 16:05 (25.10): Short 9 views at +6 h (flat since 14:05), episode 6. No new input from Roy. Waiting.
 - 18:05 (25.10): Short 9 / episode 6 (flat). No new input from Roy.
 - 20:05 (25.10): Short 9 / episode 6 (flat for 6 h; the Shorts feed is not pushing it yet). No new input from Roy.
+- 22:05 (25.10) daily summary:
+  - Posted today:
+    - TikTok: Be OK v2 (beat-warped onto our "Buenos días, Tito") and the Halloween dance (motion transfer MC2, face-masked driver, beat-locked chorus at 120 bpm).
+    - YouTube: the Halloween dance Short _6ztnDmAFyg (9 views at +12 h; stalled since +4 h); episode Eo_PHQrLDs0 at 6 views.
+  - M1 dropped.
+  - Weave: dance 331.5 (170 + 164 approved).
+  - Lessons (now in QC_CHECKLIST / SCRIPT):
+    - Ship rhythm content with the music burned in and hits on the beat. A silent file plus an in-app sound = FAIL.
+    - Motion Control orientation "video" copies the driver's face (laugh, squint, nose shape) and distance. Fix: mask the driver's head, normalize the scale, and use orientation "image".
+    - DP beat-lock: anchor dance hits to beats with speed limits of 0.7–1.0×; stretch our own song ≤10% to fit.
+  - Open: TikTok +24 h analytics (Roy); Gangnam Style dance yes/no; Shorts-editor sound check on the made-for-kids channel.
