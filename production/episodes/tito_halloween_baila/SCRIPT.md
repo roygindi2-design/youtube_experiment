@@ -77,3 +77,17 @@
   - The boy's head is blurred (ellipse above the shirt).
   - The crop is scale-normalized: shirt height ≈ 24% of the frame, so the boy's size is constant.
   - Waiting for Roy's OK on ~164 cr.
+
+## QC MC2 + final edit (researcher 25.10): PASS
+- MC2 (kf1 + driver v2 with the face masked, orientation "image"):
+  - Eyes open the whole clip (one blink at 0–0.15 s, cut).
+  - Size, framing and trunk length stable; ears in frame; no profile or back turn.
+  - Expression soft and neutral.
+- Edit (warp.py, 0 cr):
+  - Chorus 20.319 s + 20 beats, rubberband tempo ×1.0909 → 120 bpm, 10.0 s.
+  - 15 dance hits locked to beats (DP); segment speeds 0.70–0.97×.
+  - Source 0.2–8.17 s, interpolated to 120 fps (two parts, seam clean: no motion spike, no duplicate frames).
+  - Motion at 0–0.5 s = 4.47 vs the 3.72 average.
+- Text: 0–4 s "Mi peque cuando escucha 'Halloween' 🎃", 4–10 s "…y ya no lo para nadie 😅💃".
+- Deliverable: production/deliver/tito_halloween_baila_tiktok.mp4 (10.0 s, music burned in).
+- Weave total 331.5 (170 + 164 approved).
