@@ -369,3 +369,4 @@ Data: research/market/halloween_titles_2026-10-22.json
   - Rule: an interactive question + a habit/food payoff stays the strongest YouTube Shorts format. Idea for Tito: "¿Grande o pequeño?" with Tito (big) vs the mouse (small) and other friends, 20–30 s.
   - Our Short _6ztnDmAFyg: 9 views at +20 h (stalled).
 - 08:05 (26.10): waiting for Roy (TikTok analytics, Gangnam Style, ¿Grande o pequeño? idea). No production actions.
+- 10:05 (26.10): waiting for Roy. No production actions.
