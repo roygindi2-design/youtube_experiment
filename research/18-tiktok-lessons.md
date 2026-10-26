@@ -59,3 +59,16 @@ Common: frame 0 = the character already in the funny/conflict moment, close-up; 
 - Retention: "most viewers stopped at 0:02". The curve drops 100% → ~45% within ~2 s. Frame 0 = Tito standing still on the street (no action, no question). **The first 2 s decide everything: frame 0 must already be ACTION + a hook text.**
 - Audience: 52% F / 46% M; 25–34 40%, 18–24 23%, 35–44 23%. Mexico 19.3, Venezuela 17.0, Guatemala 12.9, Honduras 8.7, El Salvador 7.4, Israel 4.6 (Roy's network), Nicaragua 4.3.
 - Roy 25.10: como_hace PAUSED (option 2). Post the short formats that already pass the rules (Be OK 8.4 s: frame 0 mid-dance + text; M1 7 s: frame 0 the costume-stuck wiggle + text).
+
+## 26.10 data (Roy's screenshots, ~16:35 IL)
+| video | length | views | avg watch | % of length | full | likes | saves |
+|---|---|---|---|---|---|---|---|
+| Halloween v1 (24.10) | 27.8 s | 793 | 6.4 s | 23% | 5.69% | 8 | 3 |
+| Be OK **v1, silent** (24.10 22:35) | 8.5 s | 99 | 5.9 s | 69% | 10.16% | 1 | 0 |
+| Halloween dance (25.10) | 10.0 s | 280 | 3.5 s | 35% | 6.09% | 2 | 1 |
+| (TikTok2 ¿Quién es?, 24.10) | 11.5 s | 520 | 8.3 s | 72% | 20.43% | | |
+
+- Audience (Viewers tab): ages 25–44 = 72% (parents ✓), but the locations are Ukraine 37.9%, Belarus 17.9%, Israel 11.0%, Palestine 11.0%, US 5.7%. Almost no LatAm.
+  - TikTok serves the account by its location/device signals (the account sits in Israel). Spanish text + a Spanish song reach viewers who don't speak Spanish, which likely caps watch time and shares (0 shares on all).
+  - The biggest lever is NOT the creative: either an account whose location/language signals are LatAm/Spanish, or content that needs no language (visual gags, no text).
+- Creative: the dance hook is weak (3.5 s average, 35% of 10 s). The question/guess format (TikTok2) is still the best (72% / 20%). Note: Roy posted Be OK v1 (silent), not v2.
