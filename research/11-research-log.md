@@ -363,3 +363,8 @@ Data: research/market/halloween_titles_2026-10-22.json
 - 00:05 (26.10): night run; waiting for Roy. No production actions.
 - 02:05 (26.10): night run; waiting for Roy. No production actions.
 - 04:05 (26.10): night run; waiting for Roy. No production actions.
+- 06:05 (26.10) market scan (14 days, Spanish toddler MFK Shorts):
+  - hábito ×23.9 (n=4, driven by El Tren Ñam-Ñam's teeth/feet videos), comida ×7.7, gigante/sorpresa ×4.4, canción ×1.7, pregunta ×1.7.
+  - Top: TikiTykes "Fruit, Veggies and Color Cups… Can You Match Them?" 9.7M/day (31 s, an interactive matching game); El Tren Ñam-Ñam "¿Quién Dejó Estas Huellas de Colores?" 8.4M/day; "¿Grande o Pequeño? 🐘🐭" 1.7M/day (an elephant vs mouse size comparison = our cast!).
+  - Rule: an interactive question + a habit/food payoff stays the strongest YouTube Shorts format. Idea for Tito: "¿Grande o pequeño?" with Tito (big) vs the mouse (small) and other friends, 20–30 s.
+  - Our Short _6ztnDmAFyg: 9 views at +20 h (stalled).
