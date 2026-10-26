@@ -370,3 +370,4 @@ Data: research/market/halloween_titles_2026-10-22.json
   - Our Short _6ztnDmAFyg: 9 views at +20 h (stalled).
 - 08:05 (26.10): waiting for Roy (TikTok analytics, Gangnam Style, ¿Grande o pequeño? idea). No production actions.
 - 10:05 (26.10): waiting for Roy. No production actions.
+- 26.10 ~10:20: Roy STOPPED the project (considering moving the studio to a different project). The research task trig_01KjHveBAPy4ZEB3eJrmYfRQ is disabled; the producer is told to hold. State: Weave 331.5 on the dance; Short _6ztnDmAFyg 9 views; TikTok analytics never received.
