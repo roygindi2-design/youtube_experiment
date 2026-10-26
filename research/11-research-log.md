@@ -360,3 +360,4 @@ Data: research/market/halloween_titles_2026-10-22.json
     - Motion Control orientation "video" copies the driver's face (laugh, squint, nose shape) and distance. Fix: mask the driver's head, normalize the scale, and use orientation "image".
     - DP beat-lock: anchor dance hits to beats with speed limits of 0.7–1.0×; stretch our own song ≤10% to fit.
   - Open: TikTok +24 h analytics (Roy); Gangnam Style dance yes/no; Shorts-editor sound check on the made-for-kids channel.
+- 00:05 (26.10): night run; waiting for Roy. No production actions.
