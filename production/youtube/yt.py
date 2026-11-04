@@ -183,6 +183,7 @@ def upload(meta_file):
     }
     media = MediaFileUpload(m["file"], mimetype="video/mp4", chunksize=8 * 1024 * 1024, resumable=True)
     req = yt.videos().insert(part="snippet,status", body=body, media_body=media)
+    req.headers["Slug"] = Path(m["file"]).name  # pass the (keyword) file name to YouTube
     resp = None
     while resp is None:
         status, resp = req.next_chunk()

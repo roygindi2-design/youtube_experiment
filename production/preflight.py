@@ -136,7 +136,7 @@ def produce(specs):
 
 def upload(meta_file):
     m = json.loads(Path(meta_file).read_text())
-    vid = Path(m["file"]).stem
+    vid = m.get("id") or Path(m["file"]).stem  # "id" lets the file carry a keyword name
     dossier(vid)
     qc = ROOT / "production" / "qc" / f"{vid}.md"
     if not qc.exists() or "PASS" not in qc.read_text():
