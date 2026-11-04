@@ -372,3 +372,4 @@ Data: research/market/halloween_titles_2026-10-22.json
 - 10:05 (26.10): waiting for Roy. No production actions.
 - 26.10 ~10:20: Roy STOPPED the project (considering moving the studio to a different project). The research task trig_01KjHveBAPy4ZEB3eJrmYfRQ is disabled; the producer is told to hold. State: Weave 331.5 on the dance; Short _6ztnDmAFyg 9 views; TikTok analytics never received.
 - 02.11: Roy approved; YouTube re-consent done (the token had expired). Uploaded the broccoli episode v3b 2cFrbfJIwXg and the broccoli Short v3b 267EcZ452Mc (verse 2 + chorus, full frame on a blurred background, links to the episode).
+- 04.11: at Roy's request, deleted the broccoli episode 2cFrbfJIwXg (2 views) and re-uploaded the same file as Vc6VhVsETKM with new metadata (Mini Episodio | Caricaturas en Español Latino, category 1, audio es-419). The Short 267EcZ452Mc's description now links to the new ID. yt.py: an optional audioLanguage field.

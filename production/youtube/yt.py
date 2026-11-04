@@ -177,7 +177,7 @@ def upload(meta_file):
     body = {
         "snippet": {"title": m["title"], "description": m["description"], "tags": m.get("tags", []),
                     "categoryId": m.get("categoryId", "10"), "defaultLanguage": m.get("language", "es"),
-                    "defaultAudioLanguage": m.get("language", "es")},
+                    "defaultAudioLanguage": m.get("audioLanguage", m.get("language", "es"))},
         "status": {"privacyStatus": m.get("privacyStatus", "private"), "selfDeclaredMadeForKids": bool(m.get("madeForKids", True)),
                    "embeddable": True, "license": "youtube", "containsSyntheticMedia": bool(m.get("containsSyntheticMedia", False))},
     }
